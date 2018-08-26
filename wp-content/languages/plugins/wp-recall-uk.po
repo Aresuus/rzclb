@@ -1,0 +1,5250 @@
+# Translation of Plugins - WP-Recall - Development (trunk) in Ukrainian
+# This file is distributed under the same license as the Plugins - WP-Recall - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-19 07:05:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WP-Recall - Development (trunk)\n"
+
+#: admin/pages/tabs-manager.php:20
+msgid "On this page you can create new tabs personal account with arbitrary content and manage existing tabs in different areas of the personal account"
+msgstr "На цій сторінці ви можете створити нову особисту обліковий запис вкладки з довільним вмістом та керувати існуючими вкладками в різних областях особистого облікового запису"
+
+#: add-on/publicpost/admin/index.php:36
+msgid "On this page you can manage the creation of publications for registered record types. Create custom fields for the form of publication of various types and manage"
+msgstr "На цій сторінці ви можете керувати створенням публікацій для зареєстрованих типів записів. Створюйте спеціальні поля для форми публікації різних типів та керування ними"
+
+#: add-on/profile/admin/index.php:51
+msgid "On this page you can create custom fields of the user profile, as well as to manage already created fields"
+msgstr "На цій сторінці ви можете створювати власні поля профілю користувача, а також керувати вже створеними полями"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:123
+msgid "группы"
+msgstr "групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:123
+msgid "форума"
+msgstr "форуму"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:121
+msgid "Настройка формы топика для"
+msgstr "налаштування форми повідомлення для"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:115
+msgid "Перейти к настройкам формы"
+msgstr "Перейти до налаштування форми"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:107
+msgid "Все форумы группы"
+msgstr "Всі форуми групи"
+
+#: functions/addons-update.php:178
+msgid "Update is impossible! ZipArchive class is not defined."
+msgstr "Оновлення неможливо! Клас ZipArchive не визначений."
+
+#: classes/class-rcl-custom-fields-manager.php:350
+msgid "May not load with AJAX"
+msgstr "Може не завантажуватися з AJAX"
+
+#: classes/class-rcl-custom-fields.php:586
+msgid "for"
+msgstr "для"
+
+#: classes/class-rcl-custom-fields-manager.php:349
+msgid "Using TinyMCE"
+msgstr "Використання TinyMCE"
+
+#: admin/pages/repository.php:101 admin/pages/repository.php:102
+#: admin/pages/repository.php:104
+msgid "Search add-ons"
+msgstr "Пошук надбудов"
+
+#: admin/pages/repository.php:99
+msgid "Tag"
+msgstr "Позначка"
+
+#: admin/pages/repository.php:95
+msgid "Search category"
+msgstr "Категорія пошуку"
+
+#: admin/pages/repository.php:89
+msgid "Updates"
+msgstr "Оновлення"
+
+#: admin/pages/repository.php:88
+msgid "Reference"
+msgstr "Посилання"
+
+#: admin/pages/repository.php:87
+msgid "Popular"
+msgstr "Популярний"
+
+#: admin/pages/options.php:151
+msgid "Max weight of cover"
+msgstr "Максимальний розмір файлу обкладинки"
+
+#: admin/pages/options.php:140
+msgid "Max weight of avatars"
+msgstr "Максимальний розмір аватарів"
+
+#: admin/index.php:406
+msgid "If you liked plugin %sWP-Recall%s, please vote for it in repository %s★★★★★%s. Thank you so much!"
+msgstr "Якщо вам сподобався плагін %sWP-Recall%s, проголосуйте за це в репозиторії %s★★★★★%s. Дуже дякую! "
+
+#: admin/pages/repository.php:97
+msgid "Word"
+msgstr "Word"
+
+#: admin/classes/class-rcl-tabs-manager.php:57
+msgid "The tab will be available only by link"
+msgstr "Вкладка буде доступна лише за посиланням"
+
+#: admin/classes/class-rcl-tabs-manager.php:56
+msgid "Hidden tab"
+msgstr "Прихована вкладка"
+
+#: add-on/rcl-chat/index.php:280
+msgid "Open chat in window"
+msgstr "Відкрийте чат у вікні"
+
+#: add-on/rating-system/index.php:104
+msgid "Other"
+msgstr "Інший"
+
+#: add-on/rating-system/admin/addon-settings.php:195
+msgid "If enabled, an additional \"Other\" tab will be created in the rating history, where all changes will be displayed via unregistered rating types"
+msgstr "Якщо ввімкнено, додаткова вкладка \"Інше\" буде створена в історії рейтингів, де всі зміни відображатимуться через незареєстровані типи рейтингів"
+
+#: add-on/rating-system/admin/addon-settings.php:190
+msgid "Tab \"Other\""
+msgstr "Вкладка \"Інше\""
+
+#: add-on/rating-system/admin/addon-settings.php:75
+msgid "If enabled, the standard markup on single pages along with the rating is displayed as <a href=\"http://schema.org\" target=\"_blank\">http://schema.org</a>"
+msgstr "Якщо це ввімкнено, стандартна розмітка на окремих сторінках разом із оцінкою відображається як <a href=\"http://schema.org\" target=\"_blank\">http://schema.org</a>"
+
+#: add-on/rating-system/admin/addon-settings.php:70
+msgid "Rating markup"
+msgstr "Розмітка рейтингу"
+
+#: add-on/rating-system/admin/addon-settings.php:58
+msgid "Number of stars"
+msgstr "Кількість зірок"
+
+#: add-on/publicpost/functions-ajax.php:193
+msgid "Incorrect values of some fields, enter the correct values!"
+msgstr "Неправильні значення деяких полів, введіть правильні значення!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:191
+msgid "Предлагать вывод изображений в галерее"
+msgstr "Пропонувати виведення зображень в галереї"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:181
+msgid "Вставка изображения в форму по клику"
+msgstr "Вставка зображення в форму при натисканні"
+
+#: add-on/publicpost/admin/addon-settings.php:219
+msgid "Select types of posts where the values of arbitrary fields will be displayed. If nothing is specified, it is displayed everywhere"
+msgstr "Виберіть типи повідомлень, у яких будуть відображатися значення довільних полів. Якщо нічого не вказано, воно відображається скрізь"
+
+#: add-on/publicpost/admin/addon-settings.php:217
+msgid "Types of posts for the output of custom fields"
+msgstr "Типи повідомлень для виведення користувацьких полів"
+
+#: add-on/publicpost/admin/addon-settings.php:167
+msgid "Select the types of posts that will be sent for moderation. If nothing is specified, then the moderation is valid for all types"
+msgstr "Виберіть типи повідомлень, які будуть відправлені для модерації. Якщо нічого не вказано, то модерація діє для всіх типів"
+
+#: add-on/publicpost/admin/addon-settings.php:165
+msgid "Type post"
+msgstr "Тип публікації"
+
+#: add-on/publicpost/admin/addon-settings.php:60
+msgid "Select the types of writes where the author`s block should be displayed. If nothing is specified, it is displayed everywhere"
+msgstr "Виберіть типи записів, де повинен бути показаний блок автора. Якщо нічого не вказано, воно відображається скрізь"
+
+#: add-on/publicpost/admin/addon-settings.php:58
+msgid "Types of write for the author`s block output"
+msgstr "Типи запису для виведення авторського блоку"
+
+#: add-on/prime-forum/admin/index.php:281
+msgid "The notice sent for each new message in the topic only when the topic`s author is offline"
+msgstr "Повідомлення, яке надсилається для кожного нового повідомлення в темі, лише тоді, коли автору теми офлайн"
+
+#: add-on/prime-forum/admin/index.php:276
+msgid "Notice the author of the theme about new answers"
+msgstr "Повідомити автора теми на нові відповіді"
+
+#: add-on/prime-forum/admin/index.php:215
+msgid "If the loading of new messages via AJAX is enabled, here we set the maximum number of requests from one user, after which they are terminated, after the publication of a new message requests are resumed"
+msgstr "Якщо завантаження нових повідомлень через AJAX увімкнено, тут ми встановлюємо максимальну кількість запитів від одного користувача, після чого вони припиняються, після опублікування нового запиту на повідомлення відновлюються"
+
+#: add-on/prime-forum/admin/index.php:210
+msgid "Limit of requests to receive new messages"
+msgstr "Обмеження запитів на отримання нових повідомлень"
+
+#: add-on/prime-forum/admin/index.php:205
+msgid "In seconds. New messages in the forum topic are loaded from AJAX only for those who have already left a message in this topic. If 0 is specified, the AJAX loading is disabled"
+msgstr "Через кілька секунд. Нові повідомлення в темі форуму завантажуються з AJAX лише для тих, хто вже залишив повідомлення в цій темі. Якщо вказано 0, завантаження AJAX відключено"
+
+#: add-on/prime-forum/admin/index.php:200
+msgid "Delay on receiving a new message via AJAX"
+msgstr "Затримка отримання нового повідомлення через AJAX"
+
+#: add-on/prime-forum/admin/index.php:190
+msgid "Reason for editing a message"
+msgstr "Причина редагування повідомлення"
+
+#: add-on/prime-forum/admin/index.php:116
+msgid "Show for all"
+msgstr "Показати для всіх"
+
+#: add-on/prime-forum/admin/index.php:115
+msgid "Hiding for guests"
+msgstr "Приховати для гостей"
+
+#: add-on/prime-forum/admin/index.php:113
+msgid "The display of links in messages"
+msgstr "Відображення посилань у повідомленнях"
+
+#: add-on/groups/admin/index.php:80 admin/pages/options.php:142
+#: admin/pages/options.php:153
+msgid "If 0 is specified, download is disallowed."
+msgstr "Якщо вказано 0, завантаження заборонено."
+
+#: add-on/groups/admin/index.php:79 admin/pages/options.php:141
+#: admin/pages/options.php:152
+msgid "Set the image upload limit in kb, by default"
+msgstr "Встановіть межу завантаження зображення за замовчанням в кВ"
+
+#: add-on/groups/admin/index.php:78
+msgid "Max size of the group avatars"
+msgstr "Максимальний розмір аватарів груп"
+
+#: add-on/commerce/core.php:376
+msgid "You paid for the order on the website \"%s\""
+msgstr "Ви заплатили за замовлення на веб-сайті \"%s\""
+
+#: add-on/commerce/admin/pages/export-import.php:110
+msgid "Incorrect extension of the downloaded file. XML format expected!"
+msgstr "Невірне розширення завантаженого файлу. Потрібен XML-формат!"
+
+#: add-on/commerce/admin/pages/export-import.php:82
+msgid "Empty values of arbitrary fields in the import file remove them from the database"
+msgstr "Порожні значення довільних полів у файлі імпорту видаляють їх з бази даних"
+
+#: add-on/commerce/admin/index.php:286
+msgid "File not found!"
+msgstr "Файл не знайдено!"
+
+#: add-on/prime-forum/admin/index.php:140
+msgid "If output of forums on the homepage is turned on, you may specify IDs of the groups, whose forums should be output, space separated"
+msgstr "Якщо вихід форуму на домашній сторінці увімкнено, ви можете вказати IDs груп, форуми яких повинні бути виведені, розділені пробілами"
+
+#: add-on/prime-forum/admin/index.php:123
+msgid "Specify the necessary shortcodes to support them in forum messages, each should start from a new line. Specify without brackets, for example: custom-shortcode"
+msgstr "Вкажіть потрібні shortcodes (шорткоди), щоб підтримувати їх у повідомленнях на форумі, кожен повинен починатися з нового рядка. Вкажіть без дужок, наприклад: custom-shortcode"
+
+#: add-on/prime-forum/admin/index.php:98
+msgid "Select the needed page from the list and place the [prime-forum] shortcode on it"
+msgstr "Виберіть потрібну сторінку зі списку та введіть shortcode (шорткод) [prime-forum]"
+
+#: add-on/commerce/content/order-content.php:48
+msgid "There you can find the status of your order."
+msgstr "Тут ви можете знайти статус вашого замовлення."
+
+#: add-on/commerce/content/order-content.php:45
+msgid "You can pay for it from your personal account."
+msgstr "Ви можете заплатити за це з вашого особистого рахунку."
+
+#: add-on/commerce/content/order-content.php:43
+msgid "You can pay for it now or from your personal account."
+msgstr "Ви можете оплатити його зараз або з особистого рахунку."
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:109
+msgid "Multiselect"
+msgstr "Вибрати декілька"
+
+#: classes/class-rcl-custom-fields-manager.php:93
+msgid "Range"
+msgstr "Діапазон"
+
+#: classes/class-rcl-custom-fields-manager.php:372
+msgid "Step"
+msgstr "Крок"
+
+#: classes/class-rcl-custom-fields-manager.php:365
+msgid "Max"
+msgstr "Максимум"
+
+#: classes/class-rcl-custom-fields-manager.php:358
+msgid "Min"
+msgstr "Мінімум"
+
+#: classes/class-rcl-custom-fields-manager.php:348
+msgid "TinyMCE"
+msgstr "TinyMCE"
+
+#: add-on/rating-system/admin/addon-settings.php:160
+msgid "Extends options"
+msgstr "Рожширені параметри"
+
+#: add-on/rating-system/admin/addon-settings.php:50
+msgid "Stars"
+msgstr "Зірки"
+
+#: classes/class-rcl-custom-fields-manager.php:92
+msgid "Runner"
+msgstr "Повзунок"
+
+#: classes/class-rcl-custom-fields-manager.php:150
+msgid "To remove the data added to this field?"
+msgstr "Видалити дані, додані в це поле?"
+
+#: admin/pages/repository.php:110
+msgid "Results found"
+msgstr "Знайдено результати"
+
+#: add-on/prime-forum/functions-actions.php:1183
+msgid "Repeat the last message!"
+msgstr "Повторіть останнє повідомлення!"
+
+#: templates/add-on-card.php:68
+msgid "Operation is not guaranteed with your version of WP-Recall"
+msgstr "Робота не гарантується з вашою версією WP-Recall"
+
+#: functions/ajax.php:137
+msgid "Failed to load emoticons"
+msgstr "Не вдалося завантажити смайлики"
+
+#: functions/ajax.php:40
+msgid "Unable to obtain content of the requested tab"
+msgstr "Неможливо отримати вміст затребуваної вкладки"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-group.php:8
+msgid "Go to group"
+msgstr "Перейти до групи"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:21
+msgid "Last topic"
+msgstr "Остання тема"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-author.php:6
+msgid "The archive of the author"
+msgstr "Архів автора"
+
+#: add-on/prime-forum/functions-query.php:176
+msgid "Topics yet"
+msgstr "Теми ще немає"
+
+#: functions/ajax.php:26
+msgid "Data of the requested tab was not found."
+msgstr "Дані запитуваної вкладки не знайдені."
+
+#: add-on/user-balance/admin/index.php:74
+msgid "Balance successfully changed"
+msgstr "Баланс успішно змінений"
+
+#: add-on/user-balance/admin/index.php:68
+msgid "Balance was not changed"
+msgstr "Баланс не був змінений"
+
+#: add-on/rating-system/index.php:610
+msgid "Unable to obtain data"
+msgstr "Не вдається отримати дані"
+
+#: add-on/rating-system/admin/index.php:64
+msgid "Rating updated successfully"
+msgstr "Рейтинг оновлено успішно"
+
+#: add-on/rating-system/admin/index.php:46
+msgid "Rating was not updated"
+msgstr "Рейтинг не оновлено"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-topic.php:8
+msgid "reply(ies) in the topic"
+msgstr "відповідь (-і) в темі"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:7
+msgid "Go to topic"
+msgstr "Перейти до теми"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-post.php:24
+msgid "Link to the message"
+msgstr "Посилання на повідомлення"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:116
+msgid "Attach only the selected child terms to the post, ignoring parents"
+msgstr "Додайте до публікації лише вибрані терміни, ігноруючи батьківcькі"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:115
+msgid "Only child terms"
+msgstr "Тільки під-терміни"
+
+#: add-on/prime-forum/functions-topics.php:190
+msgid "The topic author"
+msgstr "Автор теми"
+
+#: add-on/prime-forum/functions-actions.php:1173
+msgid "Topic closed"
+msgstr "Тема закрита"
+
+#: add-on/prime-forum/functions-topics.php:189
+msgid "The name of the topic"
+msgstr "Назва теми"
+
+#: add-on/prime-forum/functions-topics.php:188
+msgid "On the forum of the site \"%s\" created a new topic!"
+msgstr "На форумі сайту \"%s\" створено нову тему!"
+
+#: add-on/prime-forum/functions-topics.php:186
+msgid "New forum topic"
+msgstr "Нова тема форуму"
+
+#: add-on/prime-forum/admin/index.php:267
+msgid "Notification to the administrator about new topics"
+msgstr "Повідомлення адміністратору про нові теми"
+
+#: add-on/prime-forum/functions-actions.php:1167
+msgid "Insufficient rights to publish"
+msgstr "Недостатньо прав на публікацію"
+
+#: add-on/prime-forum/functions-forms.php:153
+msgid "The reason for the edit"
+msgstr "Підстава для редагування"
+
+#: add-on/prime-forum/functions-post-content.php:243
+msgid "The wording of the message"
+msgstr "Формулювання повідомлення"
+
+#: add-on/prime-forum/functions-post-content.php:249
+msgid "The reason"
+msgstr "Причина"
+
+#: admin/metaboxes.php:40
+msgid "Active template"
+msgstr "Активувати шаблон"
+
+#: admin/metaboxes.php:36
+msgid "Active addons"
+msgstr "Активні доповнення"
+
+#: admin/metaboxes.php:5
+msgid "WP-Recall statistics"
+msgstr "Статистика WP-Recall"
+
+#: admin/metaboxes.php:6
+msgid "WP-Recall news"
+msgstr "Новини WP-Recall"
+
+#: admin/metaboxes.php:7
+msgid "Documentation for WP-Recall"
+msgstr "Документація для WP-Recall"
+
+#: admin/metaboxes.php:32
+msgid "Total addons"
+msgstr "Всього доповнень"
+
+#: admin/metaboxes.php:37
+msgid "Go to addons manager"
+msgstr "Перейти до менеджера доповнень"
+
+#: admin/metaboxes.php:41
+msgid "Go to templates manager"
+msgstr "Перейти до менеджера шаблонів"
+
+#: admin/metaboxes.php:58
+msgid "Unable to retrieve news"
+msgstr "Не вдається отримати новини"
+
+#: admin/pages/dashboard.php:3
+msgid "Dashboard WP-Recall"
+msgstr "Панель приладів WP-Recall"
+
+#: add-on/publicpost/admin/index.php:134
+msgid "Type"
+msgstr "Тип"
+
+#: add-on/commerce/admin/index.php:411
+msgid "Buyer"
+msgstr "Покупець"
+
+#: add-on/commerce/admin/index.php:397
+msgid "Last orders"
+msgstr "Останні замовлення"
+
+#: add-on/commerce/admin/index.php:405
+msgid "No orders yet"
+msgstr "Ще немає заявок"
+
+#: add-on/commerce/admin/index.php:426
+msgid "Go to orders manager"
+msgstr "Перейти до менеджера замовлень"
+
+#: add-on/prime-forum/admin/index.php:773
+msgid "Last forum topics"
+msgstr "Останні теми форуму"
+
+#: add-on/prime-forum/admin/index.php:781
+msgid "No topics on the forum yet"
+msgstr "Немає жодної теми на форумі"
+
+#: add-on/prime-forum/admin/index.php:786
+msgid "Topic"
+msgstr "Тема"
+
+#: add-on/prime-forum/admin/index.php:798
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:7
+msgid "Go to forum"
+msgstr "Перейти на форум"
+
+#: add-on/publicpost/admin/index.php:119
+msgid "Posts awaiting approval"
+msgstr "Повідомлення, що очікують схвалення"
+
+#: add-on/publicpost/admin/index.php:127
+msgid "No posts under moderation"
+msgstr "Немає повідомлень за модерацією"
+
+#: add-on/commerce/admin/index.php:412
+msgid "Q-ty"
+msgstr "Кількість"
+
+#: add-on/prime-forum/functions-templates.php:218
+msgid "The group is viewed by"
+msgstr "Група розглядається як"
+
+#: add-on/prime-forum/functions-templates.php:220
+msgid "The forum is viewed by"
+msgstr "Форум переглядається за"
+
+#: add-on/prime-forum/functions-templates.php:222
+msgid "The topic is viewed by"
+msgstr "Тему переглядає"
+
+#: add-on/prime-forum/functions-templates.php:224
+msgid "Currently on the forum"
+msgstr "В даний час на форумі"
+
+#: add-on/prime-forum/functions-templates.php:234
+#: add-on/prime-forum/index.php:494
+msgid "Nobody is here"
+msgstr "Тут немає нікого"
+
+#: add-on/prime-forum/index.php:65
+msgid "Started topics"
+msgstr "Розпочати тему"
+
+#: add-on/prime-forum/index.php:73
+msgid "Messages in topics created by other users"
+msgstr "Повідомлення в темах, створених іншими користувачами"
+
+#: add-on/prime-forum/index.php:108
+msgid "There are no messages in topics created by other users."
+msgstr "Немає повідомлень у темах, створених іншими користувачами."
+
+#: add-on/prime-forum/index.php:131
+msgid "Messaged in topics on the forum created by other users"
+msgstr "Повідомлення в темах на форумі, створеному іншими користувачами"
+
+#: add-on/prime-forum/index.php:163
+msgid "There are no started topics on the forum yet."
+msgstr "На форумі ще немає жодної теми."
+
+#: add-on/prime-forum/index.php:196
+msgid "Started topics on the forum"
+msgstr "Розпочато теми на форумі"
+
+#: add-on/prime-forum/index.php:339
+msgid "Multiline code"
+msgstr "Багаторядковий код"
+
+#: add-on/prime-forum/index.php:382 add-on/prime-forum/index.php:407
+msgid "Page"
+msgstr "Сторінка"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-forum.php:25
+msgid "Forum topics"
+msgstr "Теми форуму"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-group.php:6
+msgid "List of forums"
+msgstr "Список форумів"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-search.php:6
+msgid "Search results"
+msgstr "Результати пошуку"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:12
+msgid "Subforums:"
+msgstr "Підфоруми:"
+
+#: add-on/user-balance/index.php:219
+msgid "Order not found!"
+msgstr "Замовлення не знайдено!"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-forum.php:6
+msgid "Child forums"
+msgstr "Під-форуми"
+
+#: add-on/prime-forum/functions-shortcodes.php:70
+#: add-on/prime-forum/index.php:340
+msgid "Spoiler"
+msgstr "Спойлер"
+
+#: add-on/prime-forum/functions-query.php:214
+#: classes/class-rcl-custom-fields.php:586
+msgid "from"
+msgstr "від"
+
+#: add-on/prime-forum/functions-query.php:201
+msgid "not found"
+msgstr "не знайдено"
+
+#: add-on/prime-forum/functions-posts.php:312
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:18
+msgid "Topics"
+msgstr "Тема"
+
+#: add-on/prime-forum/functions-posts.php:296
+msgid "On the website since"
+msgstr "На веб-сайті з"
+
+#: add-on/prime-forum/functions-forms.php:78
+msgid "Add message"
+msgstr "Додати повідомлення"
+
+#: add-on/prime-forum/functions-post-content.php:144
+#: add-on/prime-forum/functions-post-content.php:175
+msgid "You are unable to view published links"
+msgstr "Ви не можете переглянути опубліковані посилання"
+
+#: add-on/prime-forum/functions-capabilities.php:145
+msgid "You are not allowed to view contents of the forum"
+msgstr "Ви не маєте права переглядати вміст форуму"
+
+#: add-on/prime-forum/functions-compatibility.php:19
+msgid "The answers on the forum"
+msgstr "Відповіді на форумі"
+
+#: add-on/prime-forum/functions-forms.php:18
+#: add-on/prime-forum/functions-forms.php:47
+msgid "The forum is closed. It is impossible to create new topics."
+msgstr "Форум закритий. Неможливо створити нові теми."
+
+#: add-on/prime-forum/functions-forms.php:26
+msgid "You are not authorised to publish new topics in this forum"
+msgstr "Ви не маєте права публікувати нові теми на цьому форумі"
+
+#: add-on/prime-forum/functions-forms.php:55
+msgid "The topic is closed. It is prohibited to publish new topics."
+msgstr "Тема закрита. Заборонено публікувати нові теми."
+
+#: add-on/prime-forum/functions-forms.php:63
+msgid "You are not authorised to publish messages in this topic"
+msgstr "Ви не маєте права публікувати повідомлення в цій темі"
+
+#: add-on/prime-forum/functions-shortcodes.php:82
+#: add-on/prime-forum/index.php:341
+msgid "Off-topic"
+msgstr "Не по темі"
+
+#: add-on/prime-forum/functions-templates.php:153
+msgid "Groups were not found"
+msgstr "Групи не знайдено"
+
+#: add-on/prime-forum/functions-templates.php:162
+msgid "Forums were not found"
+msgstr "Форуми не знайдені"
+
+#: add-on/prime-forum/functions-templates.php:171
+msgid "No topics were created yet"
+msgstr "Тем ще немає"
+
+#: add-on/prime-forum/functions-templates.php:180
+msgid "The topic does not contain any messages"
+msgstr "Тема не містить повідомлень"
+
+#: add-on/prime-forum/functions-actions.php:676
+msgid "Transfer message to a new topic"
+msgstr "Переміщення повідомлення на нову тему"
+
+#: add-on/prime-forum/functions-actions.php:702
+msgid "Edit messages"
+msgstr "Редагувати повідомлення"
+
+#: add-on/prime-forum/functions-actions.php:719
+msgid "Unsuccessful deletion"
+msgstr "Невдале видалення"
+
+#: add-on/prime-forum/functions-actions.php:746
+msgid "Unable to close topic"
+msgstr "Неможливо закрити тему"
+
+#: add-on/prime-forum/functions-actions.php:767
+msgid "Unable to open topic"
+msgstr "Не вдається відкрити тему"
+
+#: add-on/prime-forum/functions-actions.php:788
+msgid "Unable to delete topic"
+msgstr "Не вдається видалити тему"
+
+#: add-on/prime-forum/functions-actions.php:814
+#: add-on/prime-forum/functions-actions.php:847
+msgid "Unable to get topic"
+msgstr "Не вдається отримати тему"
+
+#: add-on/prime-forum/functions-actions.php:833
+msgid "Transfer topic to another forum"
+msgstr "Перемістити тему на інший форум"
+
+#: add-on/prime-forum/functions-actions.php:888
+msgid "Edit topic"
+msgstr "Редагувати тему"
+
+#: add-on/prime-forum/functions-actions.php:902
+msgid "Unable to pin topic"
+msgstr "Не вдається зв'язати тему"
+
+#: add-on/prime-forum/functions-actions.php:926
+msgid "Unable to unpin topic"
+msgstr "Неможливо відкріпити тему"
+
+#: add-on/prime-forum/functions-actions.php:950
+msgid "Unable to get the message quote"
+msgstr "Не вдається отримати цитату повідомлення"
+
+#: add-on/prime-forum/functions-actions.php:960
+#: add-on/prime-forum/functions-actions.php:969
+msgid "said"
+msgstr "сказав"
+
+#: add-on/prime-forum/functions-actions.php:1001
+msgid "Go to the selected forum"
+msgstr "Перейти до обраного форуму"
+
+#: add-on/prime-forum/functions-actions.php:1013
+msgid "Jump to the forum"
+msgstr "Перейти на форум"
+
+#: add-on/prime-forum/functions-actions.php:1026
+msgid "Last started topics"
+msgstr "Останні розпочаті теми"
+
+#: add-on/prime-forum/functions-actions.php:1062
+#: add-on/prime-forum/functions-templates.php:149
+#: admin/pages/repository.php:133
+msgid "Nothing found"
+msgstr "Нічого не знайдено"
+
+#: add-on/prime-forum/functions-actions.php:1071
+msgid "Updated forum topics"
+msgstr "Оновлені теми форуму"
+
+#: add-on/prime-forum/functions-actions.php:1085
+#: add-on/rcl-chat/actions_ajax.php:16
+msgid "Chat with"
+msgstr "Говорити з"
+
+#: add-on/prime-forum/functions-actions.php:1116
+msgid "Empty message!"
+msgstr "Порожнє повідомлення!"
+
+#: add-on/prime-forum/functions-actions.php:605
+msgid "Unsuccessful transfer"
+msgstr "Невдале переміщення"
+
+#: add-on/prime-forum/functions-actions.php:133
+msgid "Transfer to the existing topic"
+msgstr "Перенести на існуючу тему"
+
+#: add-on/prime-forum/functions-actions.php:138
+msgid "Transfer to the new topic"
+msgstr "Перенести на нову тему"
+
+#: add-on/prime-forum/functions-actions.php:147
+msgid "Edit message"
+msgstr "Редагувати повідомлення"
+
+#: add-on/prime-forum/functions-actions.php:155
+msgid "Quote message"
+msgstr "Цитувати повідомлення"
+
+#: add-on/prime-forum/functions-actions.php:182
+msgid "Transfer to this topic"
+msgstr "Перенести на цю тему"
+
+#: add-on/prime-forum/functions-actions.php:185
+msgid "Cancel transfer"
+msgstr "Скасувати перенесення"
+
+#: add-on/prime-forum/functions-actions.php:195
+msgid "Delete topic"
+msgstr "Видалити тему"
+
+#: add-on/prime-forum/functions-actions.php:207
+#: add-on/prime-forum/functions-actions.php:820
+msgid "Transfer topic"
+msgstr "Перемістити тему"
+
+#: add-on/prime-forum/functions-actions.php:217
+msgid "Unpin topic"
+msgstr "Відкріпити тему"
+
+#: add-on/prime-forum/functions-actions.php:222
+msgid "Pin topic"
+msgstr "Закріпити тему"
+
+#: add-on/prime-forum/functions-actions.php:233
+msgid "Open topic"
+msgstr "Відкрита тема"
+
+#: add-on/prime-forum/functions-actions.php:238
+#: add-on/prime-forum/functions-forms.php:109
+msgid "Close topic"
+msgstr "Закрити тему"
+
+#: add-on/prime-forum/functions-actions.php:248
+msgid "Change name"
+msgstr "Змінити назву"
+
+#: add-on/prime-forum/functions-actions.php:282
+#: add-on/prime-forum/functions-actions.php:1177
+msgid "Empty message! Go back and write something."
+msgstr "Порожнє повідомлення! Поверніться і напишіть щось."
+
+#: add-on/prime-forum/functions-actions.php:480
+msgid "Unable to perform action"
+msgstr "Не вдається виконати дії"
+
+#: add-on/prime-forum/functions-actions.php:516
+msgid "Go to the page of the necessary topic and press the \"Transfer to this topic\" button to end message transfer"
+msgstr "Перейдіть на сторінку потрібної теми та натисніть кнопку \"Передати на цю тему\", щоб закінчити пересилання повідомлень"
+
+#: add-on/prime-forum/functions-actions.php:517
+msgid "Data is ready to be transferred"
+msgstr "Дані готові до переміщення"
+
+#: add-on/prime-forum/functions-actions.php:535
+#: add-on/prime-forum/functions-actions.php:672
+msgid "Also transfer all subsequent messages"
+msgstr "Також переміщати всі наступні повідомлення"
+
+#: add-on/prime-forum/functions-actions.php:569
+#: add-on/prime-forum/functions-actions.php:570
+msgid "Confirm transfer"
+msgstr "Підтвердіть переміщення"
+
+#: add-on/prime-forum/functions-actions.php:579
+msgid "Transfer messages to another topic"
+msgstr "Переміщення повідомлень в іншу тему"
+
+#: add-on/prime-forum/functions-actions.php:59
+msgid "Details about the author"
+msgstr "Деталі про автора"
+
+#: add-on/prime-forum/admin/index.php:619
+msgid "New group for child forums"
+msgstr "Нова група для під-форумів"
+
+#: add-on/prime-forum/admin/index.php:646
+msgid "Delete all topic inside the forum"
+msgstr "Видалити всю тему всередині форуму"
+
+#: add-on/prime-forum/admin/index.php:661
+msgid "New forum for child topics"
+msgstr "Новий форум для під-тем"
+
+#: add-on/prime-forum/classes/class-prime-form.php:21
+#: add-on/prime-forum/functions-forms.php:35
+msgid "Create topic"
+msgstr "Створіть тему"
+
+#: add-on/prime-forum/classes/class-prime-form.php:94
+msgid "Choose forum"
+msgstr "Виберіть форум"
+
+#: add-on/prime-forum/classes/class-prime-form.php:106
+msgid "Heading of the topic"
+msgstr "Заголовок теми"
+
+#: add-on/prime-forum/classes/class-prime-form.php:126
+msgid "not published"
+msgstr "не опубліковано"
+
+#: add-on/prime-forum/classes/class-prime-query.php:102
+#: add-on/prime-forum/functions-templates.php:158
+msgid "Group not found"
+msgstr "Група не знайдена"
+
+#: add-on/prime-forum/classes/class-prime-query.php:106
+#: add-on/prime-forum/functions-templates.php:167
+msgid "Forum not found"
+msgstr "Форум не знайдено"
+
+#: add-on/prime-forum/classes/class-prime-query.php:110
+#: add-on/prime-forum/functions-templates.php:176
+msgid "Topic not found"
+msgstr "Тема не знайдена"
+
+#: add-on/prime-forum/classes/class-prime-roles.php:31
+msgid "Member"
+msgstr "Учасник"
+
+#: add-on/prime-forum/functions-actions.php:68
+msgid "Go to the private chat"
+msgstr "Перейдіть до приватного чату"
+
+#: add-on/prime-forum/functions-actions.php:88
+msgid "Get the list of updated topics"
+msgstr "Отримати список оновлених тем"
+
+#: add-on/prime-forum/functions-actions.php:95
+msgid "Get your started topics"
+msgstr "Отримайте початкові теми"
+
+#: add-on/prime-forum/functions-actions.php:101
+msgid "Jump to the needed forum"
+msgstr "Перейти на потрібний форум"
+
+#: add-on/prime-forum/functions-actions.php:121
+msgid "Delete message"
+msgstr "Видалити повідомлення"
+
+#: add-on/prime-forum/admin/index.php:426
+msgid "Current role"
+msgstr "Поточна роль"
+
+#: add-on/prime-forum/admin/index.php:231
+msgid "Title tag in the group of forums"
+msgstr "Назва тегу в групі форумів"
+
+#: add-on/prime-forum/admin/index.php:232
+#: add-on/prime-forum/admin/index.php:238 add-on/prime-forum/index.php:378
+#: add-on/prime-forum/index.php:403
+msgid "Group of forums"
+msgstr "Група форумів"
+
+#: add-on/prime-forum/admin/index.php:237
+msgid "Name of the page in the group of forums"
+msgstr "Назва сторінки в групі форумів"
+
+#: add-on/prime-forum/admin/index.php:243
+msgid "Title tag on the forum page"
+msgstr "Тег заголовка на сторінці форуму"
+
+#: add-on/prime-forum/admin/index.php:249
+msgid "Name of the page of the separate forum"
+msgstr "Назва сторінки окремого форуму"
+
+#: add-on/prime-forum/admin/index.php:255
+msgid "Title tag on the topic page"
+msgstr "Тег заголовка на сторінці теми"
+
+#: add-on/prime-forum/admin/index.php:261
+msgid "Name of the page of the separate topic"
+msgstr "Назва сторінки окремої теми"
+
+#: add-on/prime-forum/admin/index.php:298
+msgid "Settings PrimeForum"
+msgstr "Налаштування PrimeForum"
+
+#: add-on/prime-forum/admin/index.php:436
+msgid "Role of the user on the forum"
+msgstr "Роль користувача на форумі"
+
+#: add-on/prime-forum/admin/index.php:498
+#: add-on/prime-forum/admin/index.php:519
+#: add-on/prime-forum/admin/index.php:557
+#: add-on/prime-forum/admin/index.php:585
+msgid "Changes saved!"
+msgstr "Зміни збережено!"
+
+#: add-on/prime-forum/admin/index.php:604
+msgid "Delete all forums inside the group"
+msgstr "Видалити всі форуми всередині групи"
+
+#: add-on/prime-forum/admin/index.php:122
+msgid "Supported shortcodes"
+msgstr "Підтримувані короткі коди"
+
+#: add-on/prime-forum/admin/index.php:128
+msgid "Output all forums of the group on the homepage"
+msgstr "Вивести всі форуми групи на домашній сторінці"
+
+#: add-on/prime-forum/admin/index.php:129
+msgid "If selected, all forums will be displayed on the homepage"
+msgstr "Якщо вибрано, всі форуми будуть відображатися на домашній сторінці"
+
+#: add-on/prime-forum/admin/index.php:131
+msgid "Do not output"
+msgstr "Не виводити"
+
+#: add-on/prime-forum/admin/index.php:139
+msgid "Output forums only for the specified groups"
+msgstr "Вихідні форуми для вказаних груп"
+
+#: add-on/prime-forum/admin/index.php:145
+msgid "Forums on the group page"
+msgstr "Форуми на сторінці групи"
+
+#: add-on/prime-forum/admin/index.php:154
+msgid "Topics on the forum page"
+msgstr "Теми на сторінці форуму"
+
+#: add-on/prime-forum/admin/index.php:163
+msgid "Messages on the topic page"
+msgstr "Повідомлення на сторінці теми"
+
+#: add-on/prime-forum/admin/index.php:172
+msgid "Publishing of messages in the topic by guests"
+msgstr "Публікація повідомлень у темі гостями"
+
+#: add-on/prime-forum/admin/index.php:174
+#: add-on/prime-forum/admin/index.php:183
+#: add-on/prime-forum/admin/index.php:193
+msgid "Forbidden"
+msgstr "Заборонено"
+
+#: add-on/prime-forum/admin/index.php:181
+msgid "Support of OEMBED in messages"
+msgstr "Підтримка OEMBED у повідомленнях"
+
+#: add-on/prime-forum/admin/index.php:219
+msgid "Templates to form the title tag and name of the page"
+msgstr "Шаблони для створення тега заголовка та назви сторінки"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:232
+msgid "Forums were not created yet"
+msgstr "Форуми ще не створені"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:241
+msgid "Group forums"
+msgstr "Форуми груп"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:157
+msgid "Forum status"
+msgstr "Статус форуму"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:159
+msgid "Open forum"
+msgstr "Відкритий форум"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:160
+msgid "Closed forum"
+msgstr "Закритий форум"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:162
+msgid "It is impossible to publish new topics and messages in a closed forum"
+msgstr "Неможливо публікувати нові теми та повідомлення на закритому форумі"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:293
+#: add-on/prime-forum/admin/index.php:338
+msgid "Manage forums"
+msgstr "Управління форумами"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:354
+msgid "Get forums"
+msgstr "Отримати форуми"
+
+#: add-on/prime-forum/admin/index.php:23
+msgid "Structure"
+msgstr "Структура"
+
+#: add-on/prime-forum/admin/index.php:26
+msgid "Topic form"
+msgstr "Тематична форма"
+
+#: add-on/prime-forum/admin/index.php:47
+msgid "The forum is not yet created any groups of forums"
+msgstr "На форумі ще не створено жодних груп форумів"
+
+#: add-on/prime-forum/admin/index.php:48
+msgid "Create a group of forums for managing the form fields of the publication of a topic"
+msgstr "Створіть групу форумів для управління полями форми публікації теми"
+
+#: add-on/prime-forum/admin/index.php:59
+msgid "Manage topic form"
+msgstr "Керування формою теми"
+
+#: add-on/prime-forum/admin/index.php:60
+msgid "Select a forum group and manage custom fields form of publication of a topic within this group"
+msgstr "Виберіть групу форумів і керуйте формою публікації теми у цій групі"
+
+#: add-on/prime-forum/admin/index.php:82
+msgid "Pages not found"
+msgstr "Сторінки не знайдено"
+
+#: add-on/prime-forum/admin/index.php:97
+msgid "Forum page"
+msgstr "Сторінка форуму"
+
+#: add-on/prime-forum/admin/index.php:104
+msgid "Forum colours"
+msgstr "Кольори форуму"
+
+#: add-on/prime-forum/admin/index.php:107
+msgid "Primary colours of WP-Recall"
+msgstr "Основні кольори WP-Recall"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:56
+msgid "Create forum"
+msgstr "Створити обговорення"
+
+#: add-on/feed/index.php:249
+msgid "News no more"
+msgstr "Новини не більше"
+
+#: add-on/prime-forum/activate.php:149 add-on/prime-forum/admin/index.php:244
+#: add-on/prime-forum/admin/index.php:250
+#: add-on/prime-forum/admin/index.php:256
+#: add-on/prime-forum/functions-compatibility.php:10
+#: add-on/prime-forum/index.php:57 add-on/prime-forum/index.php:374
+#: add-on/prime-forum/index.php:376 add-on/prime-forum/index.php:401
+msgid "Forum"
+msgstr "Форум"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:104
+msgid "Name of the group of forums"
+msgstr "Назва групи форумів"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:115
+msgid "Description of the group"
+msgstr "Опис групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:128
+msgid "Select the group forum"
+msgstr "Виберіть форум групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:138
+msgid "Forum group"
+msgstr "Форум групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:146
+msgid "Name of the forum"
+msgstr "Назва форуму"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:167
+msgid "Description of the forum"
+msgstr "Опис форуму"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:181
+msgid "Manage groups"
+msgstr "Керування групами"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:196
+msgid "No groups are created yet"
+msgstr "Ще немає груп"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:110
+msgid "Slug of the group"
+msgstr "Слаг групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:152
+msgid "Slug of the forum"
+msgstr "Слаг форуму"
+
+#: admin/pages/options.php:22
+msgid "Advanced settings"
+msgstr "Розширені налаштування"
+
+#: add-on/publicpost/admin/addon-settings.php:191
+msgid "The time limit edit"
+msgstr "Регламент часу"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:299
+msgid "Edit this form"
+msgstr "Редагувати цю форму"
+
+#: add-on/prime-forum/index.php:339
+msgid "pre"
+msgstr "pre"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:110
+msgid "Форум"
+msgstr "Форум"
+
+#: classes/class-rcl-custom-fields-manager.php:417
+msgid "Pattern"
+msgstr "Pattern"
+
+#: add-on/commerce/admin/pages/addon-settings.php:75
+msgid "On the product page"
+msgstr "На сторінці товару"
+
+#: add-on/commerce/admin/pages/addon-settings.php:78
+msgid "On the description"
+msgstr "Над описом"
+
+#: add-on/commerce/admin/pages/addon-settings.php:79
+msgid "Under the description"
+msgstr "Під описом"
+
+#: add-on/commerce/admin/pages/addon-settings.php:85
+msgid "On the archive page"
+msgstr "На сторінці архіву"
+
+#: add-on/commerce/core.php:60
+msgid "Error creating order"
+msgstr "Помилка створення замовлення"
+
+#: add-on/commerce/admin/pages/addon-settings.php:71
+msgid "The output of the button \"Add to cart\""
+msgstr "Вивід кнопки \"Додати в кошик\""
+
+#: add-on/publicpost/init.php:25
+msgid "Exceeds the maximum file size! Max:"
+msgstr "Перевищення максимального розміру файлу! Максимально:"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:216
+msgid "By default, 10"
+msgstr "За замовчуванням 10"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:215
+msgid "Number of files"
+msgstr "Кількість файлів"
+
+#: wp-recall.php:43 wp-recall.php:47
+msgid "Are you cheating, bastard?"
+msgstr "Обманюєш? Чітер? "
+
+#: functions/shortcodes.php:166
+msgid "Such tab was not found!"
+msgstr "Дана вкладка не була знайдена!"
+
+#: functions/register.php:268
+msgid "Registration completed"
+msgstr "Реєстрація завершена!"
+
+#: functions/cron.php:20 functions/cron.php:30 functions/cron.php:40
+msgid "Launch cron events"
+msgstr "Запуск хрон-події"
+
+#: add-on/publicpost/upload-file.php:18
+msgid "Make thumbnail"
+msgstr "Вибрати головним"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:225
+msgid "Thumbnail of the publication"
+msgstr "Зображення запису"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:168
+msgid "WP-Recall media loader"
+msgstr "WP-Recall медіа-завантажувач"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:175
+msgid "Valid file extensions"
+msgstr "Дійсні розширення файлів"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:176
+msgid "Separated by comma, for example: jpg, zip, pdf. By default: png, gif, jpg"
+msgstr "Розділені комами, наприклад: jpg, zip, pdf. За замовчуванням: png, gif, jpg"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:261
+msgid "Maximum output"
+msgstr "Максимальний вихід"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:266
+msgid "New values entry field"
+msgstr "Нове значення поля введення"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:118
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:268
+#: add-on/rating-system/admin/addon-settings.php:72
+#: add-on/rating-system/admin/addon-settings.php:192
+msgid "Disable"
+msgstr "Відключити"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:119
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:269
+#: add-on/rating-system/admin/addon-settings.php:73
+#: add-on/rating-system/admin/addon-settings.php:193
+msgid "Enable"
+msgstr "Увімкнути"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:328
+msgid "Specify term_ID to be selected"
+msgstr "Вкажіть обраний _ID термін"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:90
+msgid "Form"
+msgstr "Форма"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:93
+msgid "Add form"
+msgstr "Додати форму"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:105
+msgid "Delete form"
+msgstr "Видалити форму"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:483
+msgid "Upload thumbnail"
+msgstr "Завантажте ескіз"
+
+#: add-on/publicpost/functions-ajax.php:207
+msgid "Upload or specify an image as a thumbnail"
+msgstr "Завантажте або вкажіть зображення як ескіз"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:382
+#: add-on/rating-system/classes/class-rcl-rating-box.php:403
+msgid "See history"
+msgstr "Переглянути історію"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:389
+#: add-on/rating-system/classes/class-rcl-rating-box.php:409
+msgid "Cancel vote"
+msgstr "Скасувати голосування"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:389
+#: add-on/rating-system/classes/class-rcl-rating-box.php:409
+msgid "Vote"
+msgstr "Голосувати"
+
+#: add-on/rating-system/core.php:123
+msgid "Failed to add user vote"
+msgstr "Не вдалося додати користувача голосування"
+
+#: add-on/rating-system/core.php:149
+msgid "Failed to add general rating of the object"
+msgstr "Не вдалося додати загальний рейтинг об'єкта"
+
+#: add-on/rating-system/core.php:166
+msgid "Failed to add general rating of the user"
+msgstr "Не вдалося додати загальний рейтинг користувача"
+
+#: add-on/rating-system/core.php:418
+msgid "Failed to change general rating of the object"
+msgstr "Не вдалося змінити загальний рейтинг об'єкта"
+
+#: add-on/rating-system/core.php:461
+msgid "Failed to change general rating of the user"
+msgstr "Не вдалося змінити загальний рейтинг користувача"
+
+#: add-on/rcl-chat/actions_cron.php:86
+msgid "Send notifications on unread messages"
+msgstr "Надіслати сповіщення про непрочитані повідомлення"
+
+#: add-on/rcl-chat/core.php:34
+msgid "Failed to add chat"
+msgstr "Не вдалося додати чат"
+
+#: add-on/rcl-chat/core.php:143
+msgid "Failed to add user to the chat"
+msgstr "Не вдалося додати користувача до чату"
+
+#: add-on/rcl-chat/core.php:204
+msgid "Failed to send mets data of the message"
+msgstr "Не вдалося надіслати метаданные повідомлення"
+
+#: add-on/rcl-chat/core.php:231
+msgid "Failed to refresh user status in the chat"
+msgstr "Не вдалося оновити статус користувача в чаті"
+
+#: add-on/user-balance/class-rcl-payment.php:204
+msgid "Failed to add user payment"
+msgstr "Не вдалося додати платіж користувача"
+
+#: add-on/user-balance/index.php:100
+msgid "Failed to refresh user balance"
+msgstr "Не вдалося оновити баланс користувача"
+
+#: add-on/user-balance/index.php:120
+msgid "Failed to add user balance"
+msgstr "Не вдалося додати баланс користувача"
+
+#: admin/admin-menu.php:49
+msgid "Tabs manager"
+msgstr "Менеджер вкладок"
+
+#: admin/classes/class-rcl-tabs-manager.php:18
+msgid "\"Menu\" area"
+msgstr "Область \"Меню\""
+
+#: admin/classes/class-rcl-tabs-manager.php:19
+msgid "\"Actions\" area"
+msgstr "Область \"Дії\""
+
+#: admin/classes/class-rcl-tabs-manager.php:20
+msgid "\"Counters\" area"
+msgstr "Область \"Лічильники\""
+
+#: admin/classes/class-rcl-tabs-manager.php:69
+msgid "Source"
+msgstr "Джерело"
+
+#: admin/classes/class-rcl-tabs-manager.php:75
+msgid "Tab privacy"
+msgstr "Захист вкладки"
+
+#: admin/classes/class-rcl-tabs-manager.php:77
+msgid "Private"
+msgstr "Приватно"
+
+#: admin/classes/class-rcl-tabs-manager.php:78
+msgid "Public"
+msgstr "Публічно"
+
+#: admin/classes/class-rcl-tabs-manager.php:85
+msgid "Support of the functions"
+msgstr "Підтримка функцій"
+
+#: admin/classes/class-rcl-tabs-manager.php:88
+msgid "caching"
+msgstr "кешування"
+
+#: admin/classes/class-rcl-tabs-manager.php:89
+msgid "dialog box"
+msgstr "діалогове вікно"
+
+#: admin/pages/options.php:101
+msgid "Logging mode"
+msgstr "Режим ведення журналу"
+
+#: admin/pages/options.php:106
+msgid "Write background events and errors to the log-file"
+msgstr "Запис фонових подій та помилок в лог-файл"
+
+#: admin/pages/tabs-manager.php:18
+msgid "Personal account tabs manager"
+msgstr "Менеджер вкладень особистого облікового запису"
+
+#: classes/class-rcl-custom-fields-manager.php:123
+msgid "Active fields"
+msgstr "Активні поля"
+
+#: classes/class-rcl-custom-fields-manager.php:318
+msgid "File size"
+msgstr "Розмір файлу"
+
+#: classes/class-rcl-custom-fields-manager.php:340
+msgid "Consent confirmation text"
+msgstr "Текст підтвердження згоди"
+
+#: classes/class-rcl-custom-fields-manager.php:383
+msgid "First value"
+msgstr "Перше значення"
+
+#: classes/class-rcl-custom-fields-manager.php:384
+msgid "Name of the first blank value, for example: \"Not selected\""
+msgstr "Назва першого порожнього значення, наприклад: \"Не вибрано\""
+
+#: classes/class-rcl-custom-fields-manager.php:392
+msgid "Specify options"
+msgstr "Вкажіть параметри"
+
+#: classes/class-rcl-custom-fields-manager.php:393
+msgid "specify each option in a separate field"
+msgstr "вкажіть кожен параметр у окремому полі"
+
+#: classes/class-rcl-custom-fields-manager.php:405
+msgid "Placeholder"
+msgstr "Заповнювач"
+
+#: classes/class-rcl-custom-fields-manager.php:425
+msgid "Maxlength"
+msgstr "Максимальна довжина"
+
+#: classes/class-rcl-custom-fields-manager.php:426
+msgid "maximum number of symbols per field"
+msgstr "максимальна кількість символів на полі"
+
+#: classes/class-rcl-custom-fields-manager.php:667
+msgid "Inactive fields"
+msgstr "Неактивні поля"
+
+#: classes/class-rcl-custom-fields.php:496
+msgid "I agree with the text of the agreement"
+msgstr "Я згоден з текстом угоди"
+
+#: classes/class-rcl-custom-fields.php:537
+msgid "Use the format"
+msgstr "Використовуйте формат"
+
+#: classes/class-rcl-custom-fields.php:623
+msgid "Accepted"
+msgstr "Прийнято"
+
+#: classes/class-rcl-sub-tabs.php:115
+msgid "Failed to load tab content"
+msgstr "Не вдалося завантажити вміст вкладки"
+
+#: functions/addons-update.php:38
+msgid "Sending request to the update server to get the latest versions of the installed add-ons"
+msgstr "Надсилання запиту на сервер оновлень для отримання найновіших версій встановлених надбудов"
+
+#: functions/addons-update.php:46
+msgid "Failed to open file with add-ons data to check for updates"
+msgstr "Не вдалося відкрити файл із додатковими даними, щоб перевірити наявність оновлень"
+
+#: classes/class-rcl-custom-fields-manager.php:561
+msgid "Meta-key"
+msgstr "Meta- ключ"
+
+#: add-on/profile/index.php:158
+msgid "Repeat password"
+msgstr "Повторіть пароль"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:53
+msgid "Birthday"
+msgstr "День народження"
+
+#: add-on/groups/index.php:306 add-on/publicpost/admin/index.php:132
+msgid "Header"
+msgstr "Заголовок"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:136
+msgid "To cart"
+msgstr "В Корзину"
+
+#: add-on/commerce/templates/cart.php:57 add-on/commerce/templates/order.php:50
+msgid "Total"
+msgstr "Всього"
+
+#: add-on/commerce/content/order-content.php:149
+msgid "Data specified when placing the order"
+msgstr "Данні вказані при замовленні "
+
+#: add-on/commerce/admin/products-metabox.php:51
+msgid "Product variations"
+msgstr "Варіації товару"
+
+#: add-on/commerce/content/order-content.php:145
+msgid "Created date"
+msgstr "Дата створення"
+
+#: add-on/commerce/admin/index.php:26
+msgid "Variations"
+msgstr "Варіації"
+
+#: add-on/commerce/admin/pages/order.php:15
+msgid "Buyer data"
+msgstr "Дані покупця"
+
+#: add-on/commerce/admin/pages/order.php:28
+msgid "Back to all orders"
+msgstr "Повернутися до всіх замовлень"
+
+#: add-on/commerce/admin/index.php:83
+msgid "The data stored"
+msgstr "Дані зберігаються"
+
+#: add-on/commerce/admin/pages/orders.php:14
+msgid "All statuses"
+msgstr "Усі статуси"
+
+#: add-on/commerce/admin/pages/variations.php:20
+msgid "Products variations management"
+msgstr "Управління варіаціями продуктів"
+
+#: add-on/commerce/admin/products-metabox.php:35
+msgid "Product old price"
+msgstr "Стара ціна продукту"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:138
+msgid "Not available"
+msgstr "Недоступний"
+
+#: add-on/commerce/content/order-content.php:117
+msgid "Pay for the created order by one of the proposed methods"
+msgstr "Розрахуватися за створене замовлення одним із запропонованих методів"
+
+#: add-on/commerce/core.php:357
+msgid "Order №%d has been paid"
+msgstr "Замовлення №%d було сплачено"
+
+#: add-on/commerce/core.php:398
+msgid "Product variation"
+msgstr "Варіація продукту"
+
+#: add-on/commerce/functions-ajax.php:103
+msgid "Please fill in required fields!"
+msgstr "Будь ласка, заповніть обов'язкові поля!"
+
+#: add-on/commerce/index.php:194
+msgid "All orders"
+msgstr "Всі замовлення"
+
+#: add-on/commerce/index.php:306
+msgid "Delete order"
+msgstr "Видалити замовлення"
+
+#: add-on/feed/addon-core.php:24
+msgid "Failed to add new subscription"
+msgstr "Не вдалося додати нову передплату"
+
+#: add-on/feed/addon-core.php:50
+msgid "Failed to change feed data"
+msgstr "Не вдалося змінити дані каналу"
+
+#: add-on/groups/admin/index.php:15
+msgid "Group output"
+msgstr "Вийти з групи"
+
+#: add-on/groups/admin/index.php:18
+msgid "On the archive page of post-groups entries"
+msgstr "На сторінці архіву записів post-groups"
+
+#: add-on/groups/admin/index.php:19
+msgid "On an arbitrary page of the website"
+msgstr "На довільній сторінці веб-сайту"
+
+#: add-on/groups/admin/index.php:45
+msgid "please specify the page where the [grouplist] shortcode is placed"
+msgstr "будь-ласка, вкажіть сторінку, на якій розміщений короткий код групи [grouplist]"
+
+#: add-on/publicpost/admin/index.php:34
+msgid "Manage publication forms"
+msgstr "Керування формами публікації"
+
+#: add-on/publicpost/admin/addon-settings.php:95
+msgid "Use draft"
+msgstr "Використовувати чернетку"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:89
+msgid "Group category"
+msgstr "Категорія групи"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:99
+msgid "Amount to choose"
+msgstr "Сума, яку потрібно вибрати"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:100
+msgid "only when output through select"
+msgstr "тільки коли вихід через вибір"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:105
+msgid "Output option"
+msgstr "Вихідний параметр"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:142
+msgid "Short entry"
+msgstr "Короткий вступ"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:148
+msgid "Content of the publication"
+msgstr "Зміст публікації"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:156
+msgid "Editor settings"
+msgstr "Налаштування редактора"
+
+#: add-on/user-balance/shortcodes.php:57
+msgid "Submit"
+msgstr "Відправити"
+
+#: add-on/user-balance/index.php:169 add-on/user-balance/shortcodes.php:74
+msgid "Enter the amount"
+msgstr "Введіть суму"
+
+#: functions/register.php:363
+msgid "Registration is completed! Check your email for the confirmation link."
+msgstr "Реєстрація пройшла успішно. Перевірте вашу пошту щоб підтвердити особисті дані."
+
+#: functions/register.php:347
+msgid "Your email has been successfully confirmed! Log in using your username and password"
+msgstr "Ваша адреса електронної пошти була підтверджена. Зайдіть в профіль використовуючи ім'я користувача і пароль."
+
+#: add-on/user-balance/index.php:178 add-on/user-balance/shortcodes.php:43
+msgid "Make payment"
+msgstr "Створити оплату"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:84
+msgid "Payment type"
+msgstr "Тип оплати"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:83
+msgid "Payment system"
+msgstr "Система оплати"
+
+#: add-on/prime-forum/functions-post-content.php:249 rcl-functions.php:1306
+msgid "not specified"
+msgstr "не визначено"
+
+#: add-on/publicpost/templates/posts-list.php:17
+msgid "draft"
+msgstr "Чернетка"
+
+#: functions/frontend.php:435
+msgid "Draft of a post"
+msgstr "Чернетка до публікації"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:408
+#: add-on/publicpost/init.php:21
+msgid "Save as Draft"
+msgstr "Зберегти як чернетку"
+
+#: functions/authorize.php:13
+msgid "Your account is unconfirmed! Confirm your account by clicking on the link in the email"
+msgstr "Ваш обліковий запис не підтверджений. Перейдіть за посиланням в листі"
+
+#: templates/form-remember.php:9
+msgid "Password generation"
+msgstr "Генерація паролю"
+
+#: templates/form-sign.php:41
+msgid "Lost your Password"
+msgstr "Втратили пароль"
+
+#: templates/add-on-card.php:19
+msgid "Go to page"
+msgstr "Перейти на сторінку"
+
+#: rcl-widgets.php:87
+msgid "Online users"
+msgstr "Користувачі Online"
+
+#: rcl-widgets.php:144
+msgid "Block with main profile information"
+msgstr "Блок з основною інформацією профілю"
+
+#: rcl-widgets.php:70 rcl-widgets.php:129
+msgid "All users page"
+msgstr "Всі сторінки користувачів"
+
+#: rcl-widgets.php:85
+msgid "Online users output"
+msgstr "Вивід користувачів в мережі"
+
+#: rcl-widgets.php:114
+msgid "Online"
+msgstr "Онлайн"
+
+#: admin/index.php:173
+msgid "Settings saved!"
+msgstr "Налаштування збережені!"
+
+#: add-on/prime-forum/admin/themes-manager.php:170
+#: admin/templates-manager.php:159
+msgid "connect"
+msgstr "приєднатися"
+
+#: admin/classes/class-rcl-tabs-manager.php:49
+msgid "Tab ID"
+msgstr "ID вкладки"
+
+#: admin/classes/class-rcl-tabs-manager.php:67
+msgid "Icon class of  font-awesome"
+msgstr "Клас іконки в font-awesome"
+
+#: admin/pages/repository.php:63
+msgid "Repository for WP-Recall add-ons"
+msgstr "Репозиторій доповнень WP-Recall"
+
+#: admin/pages/options.php:117
+msgid "Design"
+msgstr "Дизайн"
+
+#: admin/pages/options.php:293
+msgid "Output of recallbar panel"
+msgstr "Вийди з панелі відгуків"
+
+#: admin/pages/options.php:274
+msgid "repeat password field"
+msgstr "Повторіть пароль"
+
+#: admin/pages/options.php:228
+msgid "ID of the shortcode page [loginform]"
+msgstr "Ідентифікатор сторінок з шорткодом [loginform]"
+
+#: admin/pages/options.php:222
+msgid "Widget form"
+msgstr "Форма в віджеті"
+
+#: admin/pages/options.php:221
+msgid "Wordpress Forms"
+msgstr "Форми Wordpress"
+
+#: admin/pages/options.php:193
+msgid "Minimization of file styles"
+msgstr "Мінімізація стильових файлів"
+
+#: admin/pages/options.php:128
+msgid "The location of the section buttons"
+msgstr "Розміщення кнопок виводу вкладок"
+
+#: admin/pages/options.php:86
+msgid "Access to the console is allowed"
+msgstr "Доступ до консолі сайту дозволений"
+
+#: admin/pages/options.php:58
+msgid "Link format to personal account"
+msgstr "Формат посилання на особистий профіль"
+
+#: add-on/groups/admin/index.php:37 admin/pages/options.php:46
+msgid "Shortcode host page"
+msgstr "Сторінка розміщення шорткоду"
+
+#: admin/pages/options.php:41
+msgid "If author archive page is selected, the template author.php should contain the code if(function_exists('wp_recall')) wp_recall();"
+msgstr "Якщо вибрана сторінка архіву автора, то в середині шаблону author.php необхідно розмістити функцію if(function_exists('wp_recall')) wp_recall();"
+
+#: admin/pages/options.php:38
+msgid "On the author’s archive page"
+msgstr "На сторінці архіву автора"
+
+#: add-on/prime-forum/admin/index.php:366 admin/pages/addons-manager.php:33
+#: admin/pages/repository.php:68 admin/pages/themes-manager.php:17
+msgid "Key has been saved"
+msgstr "Ключ успішно збережений"
+
+#: add-on/prime-forum/admin/index.php:389 admin/pages/addons-manager.php:56
+#: admin/pages/themes-manager.php:40
+msgid "Install"
+msgstr "Встановити"
+
+#: admin/pages/addons-manager.php:23
+msgid "Add-on has not been loaded. Correct headers not found."
+msgstr "Додаток не був завантажений. Не знайдений відповідний хедер."
+
+#: admin/pages/addons-manager.php:16
+msgid "WP-Recall Add-ons"
+msgstr "Додатки WP-Recall"
+
+#: add-on/prime-forum/admin/themes-manager.php:217 admin/add-on-manager.php:219
+#: admin/templates-manager.php:206
+msgid "New version available"
+msgstr "Доступна нова версія"
+
+#: functions/supports/uploader-avatar.php:269
+#: functions/supports/uploader-cover.php:195
+msgid "Download error"
+msgstr "Помилка завантаження"
+
+#: functions/supports/uploader-avatar.php:23
+#: functions/supports/uploader-cover.php:23
+msgid "Image being loaded"
+msgstr "Зображення завантажене"
+
+#: admin/pages/options.php:36
+msgid "Personal Cabinet output"
+msgstr "Порядок виводу профілю користувача"
+
+#: add-on/prime-forum/admin/index.php:387 admin/pages/addons-manager.php:54
+#: admin/pages/themes-manager.php:38
+msgid "Add-on archive"
+msgstr "Архів доповнення"
+
+#: admin/pages/addons-manager.php:52
+msgid "If you have the add-on archive for WP-Recall format .zip, you can upload and install it here."
+msgstr "Якщо у вас є архів доповнення для WP-Recall в форматі .zip, то ви можете завантажити і встановити його тут"
+
+#: admin/pages/addons-manager.php:45 admin/pages/repository.php:80
+msgid "The key is required to update the add-ons here. You can get it in your personal account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+msgstr "Ключ потрібний для обновлення доповнень на цій сторінці. Ви можете отримати його в своєму профілі користувача. <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+
+#: admin/add-on-manager.php:265
+msgid "Insufficient rights to install plugins on this site."
+msgstr "У вас немає прав на встановлення плагінів в цьому місці"
+
+#: add-on/prime-forum/admin/themes-manager.php:189 admin/add-on-manager.php:191
+#: admin/templates-manager.php:178
+msgid "Add-on page"
+msgstr "Сторінка доповнень"
+
+#: add-on/prime-forum/admin/themes-manager.php:189 admin/add-on-manager.php:191
+#: admin/templates-manager.php:178
+msgid "Visit the add-on page"
+msgstr "Відвідати сторінку доповнень"
+
+#: add-on/prime-forum/admin/themes-manager.php:188 admin/add-on-manager.php:190
+#: admin/templates-manager.php:177
+msgid "Visit the author’s page"
+msgstr "Відвідати сторінку автора"
+
+#: functions/supports/uploader-cover.php:33
+msgid "Upload background"
+msgstr "Завантажити фон"
+
+#: functions/supports/uploader-avatar.php:24
+msgid "Image from camera"
+msgstr "Зображення з камери"
+
+#: functions/shortcodes.php:8 functions/shortcodes.php:159
+msgid "To use your personal account, please log in or register on this site"
+msgstr "Почніть використовувати можливості свого особистого кабінету. Зайдіть або зареєструйтесь на сайті"
+
+#: admin/pages/addons-manager.php:20
+msgid "Addition <strong>activated</strong>. New settings may be available on  WP-Recall page"
+msgstr "Доповнення <strong>активовано</strong>. Можливо на сторінці налаштувань WP-Recall з'явились нові настройки"
+
+#: functions/supports/uploader-avatar.php:22
+#: functions/supports/uploader-cover.php:22
+msgid "Exceeds the maximum image size! Max. %s Kb"
+msgstr "Перевищено максимальний розмір зображення! Максимум - %s Кб"
+
+#: classes/class-rcl-custom-fields.php:841
+msgid "File has been deleted"
+msgstr "Файл був видалений"
+
+#: functions/frontend.php:336
+msgid "Publication author"
+msgstr "Автор публікації"
+
+#: functions/frontend.php:110 functions/frontend.php:181
+#: functions/frontend.php:386 rcl-functions.php:837
+msgid "offline"
+msgstr "Офлайн"
+
+#: classes/class-rcl-custom-fields-manager.php:260
+#: classes/class-rcl-custom-fields-manager.php:844
+msgid "Field type"
+msgstr "Тип поля"
+
+#: add-on/user-balance/admin/index.php:71
+msgid "Balance changed"
+msgstr "Баланс змінений"
+
+#: functions/addons-update.php:276
+msgid "Unable to open update archive!"
+msgstr "Не вдалось відкрити отриманий архів обновлення!"
+
+#: functions/addons-update.php:235
+msgid "Update has incorrect title!"
+msgstr "Отримане оновлення не має коректного заголовка!"
+
+#: functions/addons.php:284
+msgid "Office templates not found!"
+msgstr "Шаблони профілю користувача не були знайдені!"
+
+#: classes/class-rcl-users-list.php:468
+msgid "Total number of users"
+msgstr "Всього користувачів"
+
+#: classes/class-rcl-custom-fields-manager.php:78
+msgid "Multiline text area"
+msgstr "Багаторядкове поле"
+
+#: classes/class-rcl-custom-fields-manager.php:238
+msgid "Latin letters and numbers"
+msgstr "Латиниця і числа"
+
+#: classes/class-rcl-custom-fields-manager.php:326
+msgid "allowed types of files are divided by comma, for example: pdf, zip, jpg"
+msgstr "дозволені типи файлів розділені комою, наприклад: pdf, zip, jpg"
+
+#: classes/class-rcl-custom-fields.php:674
+msgid "File size exceedes maximum!"
+msgstr "Розмір файлу перевищує максимум!"
+
+#: functions/captcha.php:82 functions/captcha.php:118
+msgid "Incorrect CAPTCHA!"
+msgstr "Не правильно введено поле CAPTCHA!"
+
+#: add-on/user-balance/class-rcl-payment.php:321
+msgid "Pay from personal account"
+msgstr "Оплатити з власного рахунку"
+
+#: add-on/user-balance/class-rcl-payment.php:284
+msgid "Pay via"
+msgstr "Оплатити через"
+
+#: add-on/user-balance/class-rcl-payment.php:265
+msgid "Error! Connection to payment aggregator not set."
+msgstr "Помилка!. Не налаштовано підключення до платіжної системи."
+
+#: add-on/user-balance/admin/index.php:115
+msgid "Total in the system"
+msgstr "Всього в системі"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "All payments"
+msgstr "Всі платіжки"
+
+#: add-on/user-balance/index.php:303
+msgid "Personal user account"
+msgstr "Профіль користувача"
+
+#: add-on/user-balance/admin/index.php:44
+msgid "Time period"
+msgstr "Період часу"
+
+#: add-on/user-balance/shortcodes.php:35
+msgid "please log in to make a payment"
+msgstr "Будь ласка увійдіть щоб здійснити платіж "
+
+#: add-on/user-balance/index.php:147
+msgid "Top up"
+msgstr "Поповнити"
+
+#: add-on/user-balance/shortcodes.php:44
+msgid "Top up personal account from"
+msgstr "Поповніть особистий рахунок з"
+
+#: add-on/user-balance/admin/addon-settings.php:100
+msgid "FAIL Page"
+msgstr "Сторінка FAIL"
+
+#: add-on/user-balance/admin/addon-settings.php:92
+msgid "SUCCESS Page"
+msgstr "Сторінка SUCCESS"
+
+#: add-on/user-balance/admin/addon-settings.php:84
+msgid "RESULT Page"
+msgstr "Сервісна сторінка платіжної системи"
+
+#: add-on/user-balance/admin/addon-settings.php:59
+msgid "Applied connection type"
+msgstr "Використовуваний тип підключення"
+
+#: add-on/user-balance/admin/addon-settings.php:56
+msgid "If the connection to the payment aggregator not used, apply \"Funds from user personal account\"!"
+msgstr "Якщо підключення до платіжного агрегатора не використовується, то використовуйте оплату з ''особового рахунку користувача''"
+
+#: add-on/user-balance/admin/addon-settings.php:44
+msgid "Offer both options"
+msgstr "Запропонувати два варіанта "
+
+#: add-on/user-balance/admin/addon-settings.php:40
+msgid "Payment from user’s personal account"
+msgstr "Оплата з особистого рахунку користувача"
+
+#: classes/class-rcl-custom-fields-manager.php:237
+msgid "not required, but you can list your own meta_key in this field"
+msgstr "не обов'язково, але якщо необхідно, можна прописати своє значення"
+
+#: classes/class-rcl-custom-fields-manager.php:334
+msgid "Agreement URL"
+msgstr "Agreement URL"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:836
+msgid "Not completed"
+msgstr "Не виконано"
+
+#: add-on/rcl-chat/index.php:207
+msgid "User contacts"
+msgstr "Контакти користувача"
+
+#: add-on/rcl-chat/index.php:272
+msgid "Total number of contacts"
+msgstr "Всього контактів"
+
+#: add-on/rcl-chat/index.php:254
+msgid "No contacts yet. Start a chat with another user on his page"
+msgstr "Наразі контактів немає. Почніть листування на сторінці іншого користувача"
+
+#: add-on/rcl-chat/index.php:157
+msgid "Sign in to send a message to the user"
+msgstr "Авторизуйтеся, щоб відправити користувача повідомлення"
+
+#: add-on/rcl-chat/class-rcl-chat.php:464
+msgid "Chat history will be displayed here"
+msgstr "Тут буде історія листування"
+
+#: add-on/rcl-chat/addon-options.php:127
+msgid "Output location"
+msgstr "Місце виходу"
+
+#: add-on/rcl-chat/addon-options.php:117
+msgid "Contacts bar"
+msgstr "Панель контактів"
+
+#: add-on/rcl-chat/addon-options.php:59
+msgid "Option is responsible for the incorporation of media content, such as from Youtube or Twitter from the link"
+msgstr "Опція відповідає за вбудування медіаконектора по ссилці, наприклад Youtube чи Twitter"
+
+#: add-on/rcl-chat/addon-options.php:15
+msgid "Delay between requests"
+msgstr "Затримка між запитами"
+
+#: add-on/rating-system/admin/index.php:15
+msgid "Disable rating for publication"
+msgstr "Відключити рейтинг для публікації"
+
+#: add-on/rating-system/core.php:384
+msgid "No changes to rating"
+msgstr "Зміна рейтингу не відбувається"
+
+#: add-on/rating-system/admin/addon-settings.php:184
+msgid "Delete your vote"
+msgstr "Видалення вашого голосу"
+
+#: add-on/rating-system/admin/addon-settings.php:165
+msgid "Influence of rationg on publication moderation"
+msgstr "Вплив рейтингу на модерацію пуплікації"
+
+#: add-on/rating-system/admin/addon-settings.php:127
+#: add-on/rating-system/core.php:339
+msgid "has voted"
+msgstr "голосував"
+
+#: add-on/rating-system/admin/addon-settings.php:126
+msgid "Template of history output in the overall ranking"
+msgstr "Шаблон відображення історії в загальному рейтингу користувача"
+
+#: add-on/rating-system/admin/addon-settings.php:100
+msgid "set how many points will be awarded for a positive or negative vote for the publication"
+msgstr "Вкажіть значення рейтинга для позитивного або негативного голоса за публікацію"
+
+#: add-on/rating-system/admin/addon-settings.php:89
+msgid "Sum of votes"
+msgstr "Сума голосів"
+
+#: add-on/rating-system/admin/addon-settings.php:28
+msgid "%USER% - name of the user who voted"
+msgstr "%USER% - ім'я голосуючого"
+
+#: add-on/rating-system/admin/addon-settings.php:27
+msgid "select a template for history output where"
+msgstr "виберіть шаблон для виводу історії, де"
+
+#: add-on/publicpost/templates/posts-list.php:18
+msgid "published"
+msgstr "опубліковано"
+
+#: add-on/publicpost/templates/posts-list.php:15
+msgid "to be approved"
+msgstr "повинні бути затверджені"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:849
+msgid "Use blank notice"
+msgstr "Використайте заготовку сповіщення"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:837
+msgid "Publication does not correspond the rules"
+msgstr "Публікація не оформлена згідно правил"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:832
+msgid "Does not correspond the topic"
+msgstr "Не відповідає тематиці"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:815
+msgid "or enter your own"
+msgstr "або введіть своє"
+
+#: add-on/publicpost/functions-ajax.php:236
+msgid "If everything is correct – publish it! If not, you can go back to editing."
+msgstr "Якщо все правильно - публікуйте! Якщо ні, то ви можете повернутися в редактор."
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:220
+msgid "Sorry, but you have no right to post on this site :("
+msgstr "Вибачте, у Вас немає прав для публікації на цьому сайті :("
+
+#: add-on/publicpost/admin/index.php:41
+msgid "Use shortcode for publication form"
+msgstr "Використовуйте скорочений код для форми публікації"
+
+#: add-on/publicpost/admin/index.php:54
+msgid "Arbitrary fields of  publication"
+msgstr "Самовільні поля форми публікації"
+
+#: add-on/rcl-chat/index.php:62
+msgid "Exceeds the maximum file size! Max. %d MB"
+msgstr "Перевищено максимальний розмір файла! Max.%d MB"
+
+#: add-on/publicpost/functions-ajax.php:29
+#: add-on/publicpost/functions-ajax.php:36
+msgid "Material successfully removed!"
+msgstr "Матеріал успішно видалено!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:82
+msgid "Click on the image to add it to the publication"
+msgstr "Натисніть на зображення для того щоб додати його в публікацію"
+
+#: add-on/publicpost/admin/addon-settings.php:212
+msgid "Above publication content"
+msgstr "Над вмістом публікації "
+
+#: add-on/publicpost/admin/addon-settings.php:211
+msgid "Output fields location"
+msgstr "Місце виводу полів"
+
+#: add-on/publicpost/admin/addon-settings.php:203
+msgid "Automatic output"
+msgstr "Автоматичний вивід"
+
+#: add-on/publicpost/admin/addon-settings.php:149
+msgid "Select the page to which the visitors will be redirected after a successful publication, if email authorization is included in the registration precess"
+msgstr "Виберіть сторінку на яку гості будуть перенаправлятися після успішної публікації, якщо на сайті включено підтвердження по email при реєструванні."
+
+#: add-on/publicpost/admin/addon-settings.php:142
+msgid "Redirect to"
+msgstr "Перенаправлення на сторінку"
+
+#: add-on/publicpost/admin/addon-settings.php:130
+msgid "Publication is allowed"
+msgstr "Публікація дозволена"
+
+#: add-on/publicpost/admin/addon-settings.php:117
+msgid "Enter the form ID according to the personal Cabinet. The default is 1"
+msgstr "Введіть ідентифікатор форми публікації видимій в особистому кабінеті. По замовчуванню -1"
+
+#: add-on/publicpost/admin/addon-settings.php:108
+msgid "Form of publication output in the personal cabinet"
+msgstr "Вивід форми публікації в особистий кабінет"
+
+#: add-on/publicpost/admin/addon-settings.php:103
+msgid "Select image size for the visual editor during publishing"
+msgstr "Виберіть розмір зображення при їх розміщенні для візуального редактора"
+
+#: add-on/publicpost/admin/addon-settings.php:101
+msgid "The image size in editor by default"
+msgstr "Розмір зображення в редакторі за замовчуванням"
+
+#: add-on/publicpost/admin/addon-settings.php:68
+msgid "List of publications tab"
+msgstr "Вкладка списку публікації "
+
+#: add-on/publicpost/admin/addon-settings.php:43
+msgid "You are required to publish a links to managing publications, you must specify the page with the shortcode [public-form]"
+msgstr "Обов'язково вкажіть посилання для редагування публікації, вкажіть сторінку з скороченим кодом [public-form], і вона буде використовуватися не тільки для публікації, ну і для редагування неї."
+
+#: add-on/publicpost/admin/addon-settings.php:36
+msgid "Publishing and editing"
+msgstr "Сторінка публікації і редагування"
+
+#: add-on/publicpost/admin/addon-settings.php:29
+msgid "Publication settings"
+msgstr "Налаштування публікації "
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:106
+msgid "Filter users by this field"
+msgstr "Сортувати користувачів за цим полем"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:99
+msgid "can be changed only by the site administration"
+msgstr "Може редагувати тільки адміністрація сайту"
+
+#: add-on/commerce/admin/pages/cart-fields.php:15
+#: add-on/commerce/admin/pages/variations.php:26
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:29
+#: add-on/profile/classes/class-rcl-profile-fields.php:79
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:19
+msgid "field description"
+msgstr "опис поля"
+
+#: add-on/profile/index.php:271
+msgid "Are you sure? It can’t be restaured!"
+msgstr "Ви впевнені? Відновити ви не зможете!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:206
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:236
+msgid "Maximum file size in megabytes. By default, 2MB"
+msgstr "Максимальний розмір зображення в мегабайтах. За замовчуванням - 2Мб"
+
+#: add-on/commerce/core.php:333
+msgid "You have formed an order"
+msgstr "Ви оформили замовлення в магазині"
+
+#: add-on/commerce/core.php:309
+msgid "Next time use your personal cabinet for placing new orders on our website"
+msgstr "Наступного разу використовуйте особистий кабінет для створення нових замовлень на нашому сайті."
+
+#: add-on/commerce/core.php:306
+msgid "Required data for authorization in your personal account"
+msgstr "Необхідні дані для авторизації в вашому особистому кабінеті"
+
+#: add-on/commerce/core.php:305
+msgid "Personal account has been created, you can monitor the status of your orders , create new orders and pay for them by available means through it"
+msgstr "Для вас був створений особистий кабінет в якому ви зможете відслідковувати статус свого замовлення, створювати нові замовлення і оплачувати їх доступними методами"
+
+#: add-on/commerce/core.php:326
+msgid "Can’t activate your account?"
+msgstr "Не виходить активувати свій акаунт? "
+
+#: add-on/commerce/core.php:302
+msgid "Your account and order information"
+msgstr "Дані акаунта і замовлення"
+
+#: add-on/commerce/core.php:286 add-on/commerce/core.php:337
+msgid "Link to managing your order"
+msgstr "Посилання на управління замовлення"
+
+#: add-on/commerce/core.php:283 add-on/commerce/core.php:335
+#: add-on/commerce/core.php:364 add-on/commerce/core.php:380
+msgid "Order №%d received status \"%s\""
+msgstr "Замовлення №%d отримало статус \"%s\""
+
+#: add-on/commerce/core.php:367
+msgid "Link for managing the order"
+msgstr "Посилання для управлінням замовлення"
+
+#: add-on/commerce/core.php:360
+msgid "User has paid for the order"
+msgstr "Користувач оплатив замовлення в магазині"
+
+#: functions/register.php:459
+msgid "A password has not been entered"
+msgstr "Пароль не введено "
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:35
+msgid "Name to be displayed"
+msgstr "Ім'я яке буде відображатися "
+
+#: add-on/profile/admin/addon-settings.php:9
+msgid "Profile and account settings"
+msgstr "Налаштування профіля і акаунта"
+
+#: add-on/profile/index.php:313
+msgid "Back to main page"
+msgstr "Повернутися до головної"
+
+#: add-on/profile/index.php:100
+msgid "Your profile has been updated"
+msgstr "Ваш обліковий запис був оновлений"
+
+#: add-on/commerce/templates/cart-mini.php:23
+msgid "Empty"
+msgstr "Пусто"
+
+#: add-on/commerce/templates/cart-mini.php:14
+msgid "Total number of goods"
+msgstr "Всього товарів "
+
+#: add-on/commerce/admin/products-metabox.php:97
+msgid "Withdraw from sale"
+msgstr "Зняти з продажі"
+
+#: add-on/commerce/admin/products-metabox.php:23
+msgid "Product price"
+msgstr "Ціна товару"
+
+#: add-on/commerce/core.php:383
+msgid "Your order has been paid and is being processied. You can monitor its status in your personal cabinet"
+msgstr "Ваше замовлення оплачено і воно знаходиться в процесі обробки. Ви можете відстежувати статус в своєму персональному кабінеті."
+
+#: add-on/profile/admin/addon-settings.php:16
+msgid "Allow users to delete their account?"
+msgstr "Дозволити видаляти користувачам свій акаунт?"
+
+#: add-on/profile/index.php:315
+msgid "Account deletion failed! Go back and try again."
+msgstr "Видалити акаунт не вдалося! Поверніться назад і попробуйте ще раз."
+
+#: add-on/commerce/index.php:242
+msgid "No orders with status \"%s\" yet"
+msgstr "Замовлень за статусом %s наразі немає"
+
+#: add-on/commerce/content/order-content.php:32
+msgid "The order is being processed."
+msgstr "Замовлення поступило на обробку"
+
+#: add-on/commerce/content/order-content.php:31
+msgid "Status granted to order - \"%s\""
+msgstr "Замовленню присвоєно статус  - \"%s\""
+
+#: add-on/commerce/functions-ajax.php:86
+#: add-on/commerce/templates/cart-mini.php:20
+msgid "Go to cart"
+msgstr "Перейти в корзину"
+
+#: add-on/commerce/content/order-content.php:66
+msgid "To monitor the order status please confirm the specified email!"
+msgstr "Для відслідковування статусу свого замовлення, зробіть підтвердження своєї Email адреси"
+
+#: add-on/commerce/content/order-content.php:62
+msgid "You can top up your personal account on the site in your back office and in the future pay for orders with it"
+msgstr "Ви можете поповнити свій особистий рахунок в своєму особистому кабінеті і в майбутньому оплачувати замовлення через нього"
+
+#: add-on/commerce/core.php:279
+msgid "This user has formed an order"
+msgstr "Користувач оформив замовлення в магазині"
+
+#: add-on/user-balance/class-rcl-payment.php:236
+msgid "Payment for order №%d"
+msgstr "Оплата замовлення №%d"
+
+#: add-on/commerce/content/order-content.php:67
+msgid "Follow the link in the letter sent to your email"
+msgstr "Перейдіть по посиланню в отриманому листі"
+
+#: add-on/commerce/admin/pages/addon-settings.php:97
+msgid "Output order"
+msgstr "Порядок виводу"
+
+#: add-on/commerce/admin/pages/addon-settings.php:93
+msgid "Similar or recommended goods"
+msgstr "Схожі або рекомендовані товари"
+
+#: add-on/commerce/admin/pages/addon-settings.php:43
+msgid "Checkout page"
+msgstr "Сторінка оформлення замовлення"
+
+#: add-on/commerce/admin/pages/addon-settings.php:104
+msgid "Block title for featured products"
+msgstr "Заголовок блока схожих товарів"
+
+#: add-on/commerce/admin/pages/addon-settings.php:28
+msgid "Currency and rates"
+msgstr "Валюта і курси"
+
+#: add-on/commerce/admin/pages/export-import.php:57
+msgid "Optional fields"
+msgstr "Довільні поля товарів"
+
+#: add-on/commerce/admin/pages/cart-fields.php:9
+msgid "Order Form Field Management"
+msgstr "Управління полями форми замовлення"
+
+#: add-on/commerce/admin/pages/addon-settings.php:32
+msgid "Basis currency"
+msgstr "Основна валюта"
+
+#: add-on/commerce/admin/pages/addon-settings.php:66
+msgid "If enabled, the user will be automatically registered on the site after successfull check-out"
+msgstr "Якщо включено - то користувач автоматично буде реєструватись на сайті після успішного оформлення замовлення"
+
+#: add-on/commerce/admin/pages/addon-settings.php:60
+msgid "Register at check-out"
+msgstr "Реєстрація при оформленні замовлення"
+
+#: add-on/commerce/admin/pages/addon-settings.php:56
+msgid "Check-out"
+msgstr "Оформлення замовлення"
+
+#: add-on/groups/groups-core.php:802
+msgid "User deleted"
+msgstr "Користувач видалений"
+
+#: add-on/groups/groups-core.php:867
+msgid "Basic settings"
+msgstr "Основні налаштування"
+
+#: add-on/groups/groups-core.php:652
+msgid "Request for group access"
+msgstr "Запит на доступ до групи"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:185
+msgid "Total number of groups"
+msgstr "Всього груп"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:46
+msgid "Show all"
+msgstr "Показати все"
+
+#: add-on/feed/shortcodes.php:53
+msgid "No news found"
+msgstr "Новини не знайдені"
+
+#: add-on/feed/index.php:193
+msgid "Subscription has been cancelled"
+msgstr "Підписка відмінена"
+
+#: add-on/feed/index.php:136
+msgid "You do not have any subscriptions"
+msgstr "Підписників поки що немає"
+
+#: add-on/feed/index.php:115
+msgid "You do not have any subscribers yet"
+msgstr "Підписників поки немає"
+
+#: add-on/feed/addon-core.php:429
+msgid "Subscription status has been changed"
+msgstr "Статус підписки змінений"
+
+#: add-on/feed/addon-core.php:371
+msgid "Ignore publications"
+msgstr "Ігнорувати публікації"
+
+#: add-on/groups/groups-core.php:871
+msgid "Widget management"
+msgstr "Управління віджетами"
+
+#: add-on/groups/groups-core.php:881
+msgid "Access request"
+msgstr "Запити на доступ"
+
+#: add-on/groups/groups-widgets.php:73
+msgid "The access request has been sent"
+msgstr "Запит на доступ відправлено"
+
+#: add-on/groups/groups-widgets.php:57
+msgid "You have been banned from the group"
+msgstr "Ви заблоковані в групі"
+
+#: add-on/groups/admin/index.php:31
+msgid "enable if publication loop within the group has been removed from the template"
+msgstr "підключити, якщо цикл публікації всередині групи був видалений із шаблона"
+
+#: add-on/commerce/admin/pages/addon-settings.php:64
+#: add-on/commerce/admin/pages/addon-settings.php:87
+#: add-on/commerce/admin/pages/addon-settings.php:99
+#: add-on/groups/admin/index.php:29 add-on/prime-forum/admin/index.php:270
+#: add-on/prime-forum/admin/index.php:279 add-on/profile/index.php:136
+#: add-on/publicpost/admin/addon-settings.php:51
+#: add-on/publicpost/admin/addon-settings.php:69
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:184
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:194
+#: add-on/rating-system/admin/addon-settings.php:140
+#: admin/pages/options.php:109 admin/pages/options.php:169
+#: admin/pages/options.php:196 admin/pages/options.php:205
+#: admin/pages/options.php:295
+msgid "Enabled"
+msgstr "Підключено"
+
+#: add-on/groups/admin/index.php:25
+msgid "Group contents widget"
+msgstr "Віджет публікації групи"
+
+#: add-on/groups/admin/index.php:69
+#: add-on/publicpost/admin/addon-settings.php:159
+msgid "If subject to moderation: To allow the user to see their publication before moderation has been completed, the user should be classifies as Author or higher"
+msgstr "Якщо використовується модерація: для перегляду контенту публікації, що знаходиться на модерації, користувач повинен мати роль не нижче Автора"
+
+#: add-on/groups/admin/index.php:66
+#: add-on/publicpost/admin/addon-settings.php:158
+msgid "Publish now"
+msgstr "Опублікувати зразу"
+
+#: add-on/groups/admin/index.php:63
+msgid "Group publication moderation"
+msgstr "Модерація публікацій групи"
+
+#: add-on/groups/admin/index.php:57
+#: add-on/publicpost/admin/addon-settings.php:134
+#: add-on/rating-system/admin/addon-settings.php:175 admin/pages/options.php:90
+msgid "Authors and higher"
+msgstr "Авторам і вищим по рангу"
+
+#: add-on/groups/admin/index.php:56
+#: add-on/publicpost/admin/addon-settings.php:133
+#: add-on/rating-system/admin/addon-settings.php:176 admin/pages/options.php:89
+msgid "Editors and higher"
+msgstr "Редакторам і вище по рангу"
+
+#: add-on/groups/admin/index.php:52
+msgid "Group creation allowed"
+msgstr "Створення групи завершено"
+
+#: add-on/groups/groups-init.php:56
+msgid "Add a new group"
+msgstr "Створити нову групу"
+
+#: add-on/groups/groups-init.php:7 add-on/groups/groups-init.php:8
+#: add-on/groups/groups-init.php:18 add-on/groups/index.php:40
+#: add-on/groups/index.php:225
+msgid "Groups records"
+msgstr "Записи групи"
+
+#: add-on/groups/groups-widgets.php:158 add-on/groups/groups-widgets.php:182
+msgid "Publication form"
+msgstr "Форма публікації"
+
+#: add-on/groups/groups-widgets.php:404 add-on/groups/groups-widgets.php:442
+msgid "You do not have any publications"
+msgstr "Публікацій поки що немає"
+
+#: add-on/groups/groups-widgets.php:464
+msgid "Summary"
+msgstr "Короткий опис"
+
+#: add-on/commerce/activate.php:221
+msgid "Your product catalog will be displayed here. Product catalog is being generated shortcode productlist <a href=\"https://codeseller.ru/api-rcl/productlist/\">(description shortcode)</a>. You can choose another page for display"
+msgstr "Тут буде показаний каталог товарів. Каталог товарів формується шорткодом productlist <a href=\"https://codeseller.ru/api-rcl/productlist/\">(опис шорткоду)</a>. Ви можете змінити сторінку виводу."
+
+#: add-on/commerce/activate.php:165 add-on/commerce/index.php:127
+msgid "Add a new tag"
+msgstr "Додати нову позначку"
+
+#: add-on/commerce/activate.php:129 add-on/commerce/activate.php:169
+#: add-on/commerce/index.php:96 add-on/commerce/index.php:131
+msgid "Select to use"
+msgstr "Вибрати для використання"
+
+#: add-on/groups/upload-avatar.php:75
+msgid "Avatar has been successfully uploaded"
+msgstr "Аватар успішно завантажений"
+
+#: add-on/groups/upload-avatar.php:42
+msgid "File size exceeds maximum size"
+msgstr "Розмір файлу перевищує допустимий"
+
+#: add-on/groups/index.php:605
+msgid "Access request to the group has been rejected."
+msgstr "Запит на доступ до групи відхилено."
+
+#: add-on/groups/index.php:600
+msgid "Request approved"
+msgstr "Запит підтверджено."
+
+#: add-on/groups/index.php:486
+msgid "New user role"
+msgstr "Роль нового користувача"
+
+#: add-on/groups/index.php:402
+msgid "Group creation failed"
+msgstr "Не вдалось створити групу"
+
+#: add-on/groups/index.php:387
+msgid "Published in group"
+msgstr "Публікації в групі"
+
+#: add-on/groups/index.php:250
+msgid "Groups created"
+msgstr "Створення групи"
+
+#: add-on/commerce/admin/pages/addon-settings.php:21
+msgid "Email for notifications"
+msgstr "Email для сповіщень"
+
+#: add-on/commerce/admin/pages/addon-settings.php:23
+msgid "If email is not specified, a notification will be sent to all users of the website with \"Administrator\" rights"
+msgstr "Якщо Email не вказаний, то сповіщення будуть надсилатись усім користувачам з рангом \"Адміністратор\""
+
+#: add-on/groups/index.php:485
+msgid "Registration allowed"
+msgstr "Реєстрація дозволена"
+
+#: add-on/groups/index.php:241
+msgid "All groups"
+msgstr "Усі групи"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:44
+msgid "Create group"
+msgstr "Створити групу"
+
+#: add-on/rcl-chat/index.php:316
+msgid "No important messages yet"
+msgstr "Більше важливих повідомлень"
+
+#: add-on/rcl-chat/index.php:60
+msgid "Write something"
+msgstr "Напишіть що-небудь"
+
+#: add-on/rcl-chat/index.php:61
+msgid "Exceeds the maximum message size"
+msgstr "перевищує максимальний розмір повідомлення"
+
+#: functions/supports/uploader-avatar.php:64
+msgid "Webcam screen"
+msgstr "Вікно веб-камери"
+
+#: functions/supports/uploader-avatar.php:40
+msgid "Avatar upload"
+msgstr "Завантажити аватар"
+
+#: add-on/rcl-chat/addon-options.php:131
+msgid "Right"
+msgstr "Вправо"
+
+#: add-on/rcl-chat/actions.php:83 add-on/rcl-chat/class-rcl-chat.php:254
+msgid "You have been blocked on this chat"
+msgstr "Ви були заблоковані в чаті"
+
+#: add-on/rcl-chat/actions_ajax.php:251
+msgid "Forbidden file extension. Allowed:"
+msgstr "Заборонене розширення файлу. Допускається:"
+
+#: add-on/rcl-chat/addon-options.php:8
+msgid "IM settings"
+msgstr "Налаштування чату"
+
+#: add-on/rcl-chat/addon-options.php:21
+msgid "In seconds. It is recommended to choose at least 10 seconds"
+msgstr "Протягом декількох секунд. Рекомендується ставити мінімум 10 секунд"
+
+#: add-on/rcl-chat/addon-options.php:25
+msgid "User Downtime"
+msgstr "Час Простою Користувачів"
+
+#: add-on/rcl-chat/addon-options.php:31
+msgid "\"In minutes. The time of user inactivity after which he ceases to receive new messages in chat"
+msgstr "Через кілька хвилин. Час бездіяльності користувача, після чого він перестає отримувати нові повідомлення в чаті"
+
+#: add-on/rcl-chat/addon-options.php:35
+msgid "The number of characters in the message"
+msgstr "Кількість символів в повідомленні"
+
+#: add-on/rcl-chat/addon-options.php:53
+msgid "Using OEMBED"
+msgstr "Використання OEMBED"
+
+#: add-on/rcl-chat/addon-options.php:63
+msgid "Attaching files"
+msgstr "Приєднання файлів"
+
+#: add-on/rcl-chat/addon-options.php:74
+#: classes/class-rcl-custom-fields-manager.php:325
+msgid "Allowed file types"
+msgstr "Дозволені типи файлів"
+
+#: add-on/rcl-chat/addon-options.php:78
+msgid "By default: jpeg, jpg, png, zip, mp3"
+msgstr "За замовчуванням:jpeg, jpg, png, zip, mp3"
+
+#: add-on/rcl-chat/addon-options.php:97
+msgid "Personal chat"
+msgstr "Особистий чат"
+
+#: add-on/rcl-chat/addon-options.php:105
+msgid "The maximum number of messages in the conversation between two users. Default: 100"
+msgstr "Максимальна кількість повідомлень у листуванні між двома користувачами. За замовчуванням: 100"
+
+#: add-on/prime-forum/classes/class-prime-roles.php:23
+#: add-on/prime-forum/functions-query.php:204
+#: add-on/prime-forum/functions-topics.php:190 add-on/prime-forum/index.php:511
+#: add-on/rcl-chat/class-rcl-chat.php:180
+msgid "Guest"
+msgstr "Гість"
+
+#: add-on/rcl-chat/class-rcl-chat.php:271
+#: add-on/rcl-chat/class-rcl-chat.php:281
+msgid "The message was not added"
+msgstr "Повідомлення не було додано"
+
+#: add-on/rcl-chat/class-rcl-chat.php:307
+msgid "Chat was not created"
+msgstr "Чат не був створений"
+
+#: add-on/rcl-chat/class-rcl-chat.php:364
+msgid "To post messages in the chat you need to login"
+msgstr "Щоб залишати повідомлення в чаті, Вам необхідно увійти"
+
+#: add-on/rcl-chat/class-rcl-chat.php:414
+msgid "In chat"
+msgstr "В чаті"
+
+#: add-on/rcl-chat/class-rcl-chat.php:462
+msgid "No important messages in this chat"
+msgstr "Важливі повідомлення у цьому чаті"
+
+#: add-on/rcl-chat/index.php:114
+msgid "Chat"
+msgstr "Чат"
+
+#: add-on/rcl-chat/index.php:279 add-on/rcl-chat/index.php:410
+msgid "Delete contact"
+msgstr "Видалити контакт"
+
+#: functions/frontend.php:514
+msgid "The user has restricted access to their page"
+msgstr "Користувач обмежив доступ до своєї сторінки"
+
+#: add-on/rcl-chat/addon-options.php:44
+msgid "Posts per page"
+msgstr "Повідомлень на сторінці"
+
+#: add-on/commerce/content/order-content.php:104
+msgid "Payment order №%s dated %s"
+msgstr "Платіжне доручення №%s від %s"
+
+#: add-on/commerce/content/order-content.php:60
+msgid "All necessary data for authorization on the site have been sent to the specified e-mail"
+msgstr "Всі необхідні дані для авторизації на сайті, було відправлено на вказану адресу електронної пошти"
+
+#: add-on/commerce/content/order-content.php:61
+msgid "In your personal account you can find out the status of your order."
+msgstr "У вашому Особистому кабінеті ви зможете дізнатися статус Вашого замовлення."
+
+#: add-on/commerce/content/order-content.php:52
+msgid "You can monitor the status of your order in your personal account."
+msgstr "Ви можете відстежувати статус Вашого замовлення у вашому Особистому кабінеті."
+
+#: add-on/user-balance/index.php:238
+msgid "Insufficient funds in your personal account!<br>Order price: %d %s"
+msgstr "Недостатньо коштів на рахунку! <br> ціна замовлення: %d %s"
+
+#: add-on/commerce/index.php:279
+msgid "Your order has been successfully paid! A notification has been sent to the administration."
+msgstr "Ваше замовлення успішно оплачено! Повідомлення було направлено в адміністрацію."
+
+#: add-on/commerce/classes/class-rcl-create-order.php:142
+#: add-on/commerce/functions-ajax.php:120
+msgid "This email is already used! If this is your email, then log in and proceed with the order."
+msgstr "Ця адреса електронної пошти вже використовується! Якщо це ваша Електронна пошта, потім увійти в систему, щоб продовжити оформлення замовлення."
+
+#: add-on/commerce/classes/class-rcl-create-order.php:159
+msgid "An error occurred while registering the buyer!"
+msgstr "Помилка під час реєстрації покупця!"
+
+#: add-on/commerce/admin/pages/order.php:9
+#: add-on/commerce/content/order-content.php:139 add-on/commerce/core.php:276
+msgid "Order data"
+msgstr "Дані для замовлення"
+
+#: add-on/commerce/core.php:280 add-on/commerce/core.php:361
+#: add-on/commerce/core.php:377
+msgid "Information about the customer"
+msgstr "Інформація про клієнта"
+
+#: templates/form-remember.php:23
+msgid "Get New Password"
+msgstr "Отримати новий пароль"
+
+#: templates/form-register.php:31
+msgid "Signup"
+msgstr "Реєстрація"
+
+#: add-on/prime-forum/admin/index.php:385 admin/pages/themes-manager.php:36
+msgid "If you have an archive template for wp-recall format .zip, here you can upload and install it"
+msgstr "якщо у вас є шаблон архіву для wp-recall у форматі .zip, тут ви можете завантажити і встановити його."
+
+#: admin/pages/themes-manager.php:29
+msgid "Required to update the templates here. Get it  in  your account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://\"codeseller.ru</a>"
+msgstr "Йому потрібно буде оновити шаблон тут. Отримати його, ви можете у профілі облікового запису на сайті <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+
+#: admin/classes/class-rcl-tabs-manager.php:98
+msgid "supported shortcodes and HTML-code"
+msgstr "підтримувані шорткоди і HTML-коди"
+
+#: admin/classes/class-rcl-tabs-manager.php:68
+msgid "Example , fa-user"
+msgstr "Наприклад, fa-user"
+
+#: admin/classes/class-rcl-tabs-manager.php:97
+msgid "Content tab"
+msgstr "Контент вкладки"
+
+#: admin/classes/class-rcl-tabs-manager.php:50
+msgid "Latin alphabet and numbers"
+msgstr "Латиниця та цифри"
+
+#: admin/pages/options.php:302
+msgid "Primary colors of WP-Recall"
+msgstr "Основні кольори WP-Recall"
+
+#: admin/pages/options.php:301
+msgid "Color"
+msgstr "Колір"
+
+#: admin/pages/options.php:294
+msgid "Recallbar – is he top panel WP-Recall plugin through which the plugin and its add-ons can output their data and the administrator can make his menu, forming it on <a href=\"/wp-admin/nav-menus.php\" target=\"_blank\">page management menu of the website</a>"
+msgstr "Recallbar - верхня панель від плагіна WP-Recall, через яку плагін і його доповнення виводять свої данні, а адміністратор може вивести своє меню, сформувавши його на <a href=\"/wp-admin/nav-menus.php\" target=\"_blank\">сторінці управління меню сайту</a>"
+
+#: admin/pages/options.php:243
+msgid "If you are using the registration confirmation, after registration, the user will need to confirm your email by clicking on the link in the sent email"
+msgstr "Якщо ви використовуєте підтвердження реєстрації, після реєстрації, користувачеві необхідно буде підтвердити свою адресу електронної пошти, натиснувши на посилання в надісланому електронною поштою листі"
+
+#: admin/pages/options.php:202
+msgid "Minimization of scripts"
+msgstr "мінімізація скриптів"
+
+#: admin/pages/options.php:166
+msgid "Use the functionality of the caching WP-Recall plugin. <a href=\"https://codeseller.ru/post-group/funkcional-keshirovaniya-plagina-wp-recall/\" target=\"_blank\">read More</a>"
+msgstr "Використовуйте функціональні можливості плагіна кешування WP-Recall. <a href=\"https://codeseller.ru/post-group/funkcional-keshirovaniya-plagina-wp-recall/\" target=\"_blank\">Детальніше</a>"
+
+#: admin/pages/options.php:70
+msgid "This value sets the maximum time a user is considered \"online\" in the absence of activity"
+msgstr "Це значення встановлює максимальний час, за яким користувач вважається \"онлайн\", за відсутності активності"
+
+#: admin/pages/options.php:40
+msgid "Attention! Changing this parameter is not required. Detailed instructions on personal account output using author.php file can be received here <a href=\"https://codeseller.ru/ustanovka-plagina-wp-recall-na-sajt/\" target=\"_blank\">here</a>"
+msgstr "Увага! Змінювати дану опцію не потрібно. Детальну інструкцію по виводу особистого кабинету через файл author.php можна отримати <a href=\"https://codeseller.ru/ustanovka-plagina-wp-recall-na-sajt/\" target=\"_blank\">here</a>"
+
+#: add-on/prime-forum/admin/index.php:24 add-on/prime-forum/admin/index.php:361
+#: add-on/prime-forum/admin/themes-manager.php:150
+#: add-on/prime-forum/admin/themes-manager.php:351 admin/admin-menu.php:47
+#: admin/pages/themes-manager.php:12 admin/templates-manager.php:139
+#: admin/templates-manager.php:328
+msgid "Templates"
+msgstr "Шаблони"
+
+#: functions/supports/uploader-cover.php:208
+msgid "Image successfully uploaded"
+msgstr "Зображення успішно завантажено"
+
+#: functions/supports/modal-user-details.php:32
+msgid "User info"
+msgstr "Інформація про користувача"
+
+#: functions/recallbar.php:32
+msgid "To admin area"
+msgstr "В адмінку"
+
+#: functions/addons-update.php:217
+msgid "The files failed to be uploaded!"
+msgstr "Файли не вдалось завантажити на сервер!"
+
+#: functions/frontend.php:182
+msgid "online"
+msgstr "На сайті"
+
+#: functions/enqueue-scripts.php:151
+msgid "Upload"
+msgstr "Завантажити"
+
+#: classes/class-rcl-custom-fields-manager.php:91
+msgid "Dynamic"
+msgstr "Динамічне"
+
+#: classes/class-rcl-custom-fields.php:615
+msgid "Upload the downloaded file"
+msgstr "Вивантажити завантажений файл"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "Average check"
+msgstr "Середній чек"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "for the amount of"
+msgstr "на суму"
+
+#: add-on/user-balance/shortcodes.php:64
+msgid "Payment via"
+msgstr "Оплата через"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:158
+msgid "Media loader"
+msgstr "Медіазавантажувач"
+
+#: add-on/profile/index.php:58
+msgid "Profile settings"
+msgstr "Налаштування профіля"
+
+#: add-on/prime-forum/admin/index.php:787
+#: add-on/prime-forum/functions-posts.php:318
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:12
+#: add-on/rcl-chat/index.php:45
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: add-on/commerce/content/order-content.php:144
+#: add-on/commerce/templates/orders-history.php:13
+msgid "Order status"
+msgstr "Статус замовлення"
+
+#: add-on/commerce/templates/orders-history.php:11
+msgid "Number of goods"
+msgstr "Кількість товарів"
+
+#: add-on/commerce/templates/orders-history.php:10
+msgid "Order date"
+msgstr "Дата замовлення"
+
+#: add-on/commerce/templates/orders-history.php:9
+msgid "Order number"
+msgstr "Номер замовлення"
+
+#: add-on/commerce/templates/cart-mini.php:17
+msgid "Total amount"
+msgstr "Загальна сума"
+
+#: add-on/commerce/admin/index.php:410
+#: add-on/commerce/content/order-content.php:143
+msgid "Order"
+msgstr "Замовлення"
+
+#: add-on/commerce/templates/cart-mini.php:11
+msgid "In your cart"
+msgstr "У Вашому кошику"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:128
+#: add-on/prime-forum/classes/class-prime-form.php:118
+msgid "Your name"
+msgstr "Ваше ім’я"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:119
+msgid "Enter your E-mail"
+msgstr "Введіть Ваш E-mail"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:88
+msgid "Checkout"
+msgstr "Оформити замолення"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:63
+msgid "To place an order fill out the form below"
+msgstr "Для оформлення замовлення заповніть форму нижче"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:35
+msgid "Your shopping cart is empty"
+msgstr "Ваш кошик порожній"
+
+#: add-on/commerce/admin/products-metabox.php:171
+msgid "Images gallery"
+msgstr "Галерея зображень"
+
+#: add-on/commerce/admin/products-metabox.php:148
+msgid "select a product tag"
+msgstr "обрати мітку товару"
+
+#: add-on/commerce/admin/products-metabox.php:136
+msgid "Select a tag"
+msgstr "обрати мітку"
+
+#: add-on/commerce/admin/products-metabox.php:129
+msgid "Select a product category"
+msgstr "Обрати категорію товару"
+
+#: add-on/commerce/admin/products-metabox.php:117
+msgid "Choose a category"
+msgstr "Обрати категорію"
+
+#: add-on/commerce/admin/products-metabox.php:112
+msgid "Similar and recommended products"
+msgstr "Схожі та рекомендовані товари"
+
+#: add-on/commerce/admin/products-metabox.php:10
+msgid "Product features"
+msgstr "Характеристика товару"
+
+#: add-on/commerce/admin/products-columns.php:95
+msgid "withdrawn from sale"
+msgstr "знято з продажу"
+
+#: add-on/commerce/admin/products-columns.php:91
+msgid "in reserve"
+msgstr "зарезервовано"
+
+#: add-on/commerce/admin/products-columns.php:81
+#: add-on/commerce/admin/products-columns.php:83
+msgid "in stock"
+msgstr "в наявності"
+
+#: add-on/commerce/admin/products-columns.php:71
+msgid "digital goods"
+msgstr "цифровий товар"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Payments (pcs.)"
+msgstr "Платежі (шт.)"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Days/Months"
+msgstr "Дні/Місяці"
+
+#: add-on/commerce/admin/index.php:366
+msgid "Period of time"
+msgstr "Період часу"
+
+#: add-on/commerce/admin/index.php:365
+msgid "Finance"
+msgstr "Доходи"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:53
+msgid "Free"
+msgstr "Безкоштовно"
+
+#: add-on/commerce/content/product-terms.php:17
+msgid "Categories"
+msgstr "Категорії"
+
+#: add-on/commerce/core.php:327
+msgid "Copy the text of the link below , paste it into the address bar of your browser and press Enter"
+msgstr "Скопіюйте текст посилання нижче, вставте її до адресного рядка браузера та натисніть Enter"
+
+#: add-on/commerce/core.php:324
+msgid "Confirm your email on the site by clicking on the link below"
+msgstr "Підтвердіть свою електронну пошту, натиснувши посилання нижче"
+
+#: add-on/commerce/core.php:304
+msgid "You have been registered"
+msgstr "Ви були зареєстровані"
+
+#: templates/recallbar.php:17
+msgid "Homepage"
+msgstr "Домашня сторінка"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Income (tsd.)"
+msgstr "Дохід (тис.)"
+
+#: add-on/commerce/content/order-content.php:36
+msgid "The order contained only free items"
+msgstr "Замовлення містило лише безкоштовні товари"
+
+#: add-on/commerce/content/order-content.php:30
+msgid "Your order has been created!"
+msgstr "Ваше замовлення створено"
+
+#: add-on/commerce/functions-ajax.php:84
+msgid "In your shopping cart: %d items"
+msgstr "У Вашому кошику: %d товарів"
+
+#: add-on/commerce/functions-ajax.php:83
+msgid "Added to cart!"
+msgstr "Додано до кошика!"
+
+#: add-on/commerce/admin/pages/export-import.php:82
+msgid "Attention"
+msgstr "Увага"
+
+#: add-on/commerce/admin/pages/export-import.php:81
+msgid "Import products from a file"
+msgstr "Імпорт товарів із файлу"
+
+#: add-on/commerce/admin/pages/export-import.php:73
+msgid "Upload products to a file"
+msgstr "Експорт товарів у файл"
+
+#: add-on/commerce/admin/pages/export-import.php:9
+msgid "the item is no longer available"
+msgstr "товар знято з продажу"
+
+#: add-on/commerce/admin/pages/export-import.php:8
+msgid "The price of the product in the main currency"
+msgstr "Вартість товару в основній валюті"
+
+#: add-on/commerce/admin/pages/export-import.php:56
+msgid "Add a short description"
+msgstr "Додати короткий опис"
+
+#: add-on/commerce/admin/pages/export-import.php:55
+msgid "Add a description"
+msgstr "Додати опис"
+
+#: add-on/commerce/admin/pages/export-import.php:54
+msgid "Add a title"
+msgstr "Додати назву"
+
+#: add-on/commerce/admin/pages/export-import.php:52
+msgid "Export/import data"
+msgstr "Експорт/Імпорт даних"
+
+#: add-on/prime-forum/admin/index.php:106
+msgid "By default"
+msgstr "За замовчуванням"
+
+#: add-on/commerce/core.php:284 add-on/commerce/core.php:334
+#: add-on/commerce/core.php:365 add-on/commerce/core.php:381
+msgid "Order details"
+msgstr "Деталі замовлення"
+
+#: add-on/commerce/core.php:282 add-on/commerce/core.php:363
+#: add-on/commerce/core.php:379
+msgid "Email"
+msgstr "Email"
+
+#: add-on/commerce/index.php:298
+msgid "See all orders"
+msgstr "Показати всі замовлення"
+
+#: add-on/commerce/admin/products-columns.php:16
+#: add-on/commerce/templates/cart.php:16 add-on/commerce/templates/order.php:17
+msgid "Price"
+msgstr "Ціна"
+
+#: add-on/commerce/admin/pages/addon-settings.php:109
+msgid "Number of featured products"
+msgstr "Кількість схожих товарів"
+
+#: add-on/commerce/admin/pages/addon-settings.php:51
+msgid "Specify the page with the shortcode [basket]"
+msgstr "Вкажіть сторінку, на якій розміщено шорткод [basket]"
+
+#: add-on/commerce/admin/index.php:28
+msgid "Store settings"
+msgstr "Налаштування магазину"
+
+#: add-on/commerce/admin/index.php:27
+msgid "Order form"
+msgstr "форма замовлення"
+
+#: add-on/commerce/admin/index.php:25
+msgid "Export/Import"
+msgstr "Експорт/Імпорт"
+
+#: add-on/commerce/activate.php:168 add-on/commerce/index.php:130
+#: add-on/groups/groups-init.php:59
+msgid "Add or delete"
+msgstr "Додати або видалити"
+
+#: add-on/commerce/activate.php:167 add-on/commerce/index.php:129
+msgid "Tags separated by commas"
+msgstr "Мітки розділяються комами"
+
+#: add-on/commerce/activate.php:166 add-on/commerce/index.php:128
+msgid "New tag"
+msgstr "Нова мітка"
+
+#: add-on/commerce/activate.php:161 add-on/commerce/activate.php:162
+#: add-on/commerce/index.php:123 add-on/commerce/index.php:124
+msgid "Parental tag"
+msgstr "Батьківські мітки"
+
+#: add-on/commerce/activate.php:160 add-on/commerce/index.php:122
+msgid "All tags"
+msgstr "Усі мітки"
+
+#: add-on/commerce/activate.php:159 add-on/commerce/index.php:121
+msgid "Popular tags"
+msgstr "Популярні мітки"
+
+#: add-on/commerce/activate.php:157 add-on/commerce/activate.php:187
+#: add-on/commerce/activate.php:195 add-on/commerce/activate.php:203
+#: add-on/commerce/index.php:119
+msgid "Product Tag"
+msgstr "Мітки товару"
+
+#: add-on/commerce/activate.php:156 add-on/commerce/activate.php:170
+#: add-on/commerce/index.php:118 add-on/commerce/index.php:132
+msgid "Product Tags"
+msgstr "Мітки товарів"
+
+#: add-on/commerce/activate.php:128 add-on/commerce/index.php:95
+msgid "Add or delete a category"
+msgstr "Додати чи видалити категорію"
+
+#: add-on/commerce/activate.php:127 add-on/commerce/index.php:94
+msgid "Categories separated by commas"
+msgstr "Категорії розділяються комами"
+
+#: add-on/commerce/activate.php:126 add-on/commerce/index.php:93
+msgid "New category"
+msgstr "Нова категорія"
+
+#: add-on/commerce/activate.php:125 add-on/commerce/index.php:92
+msgid "Add a new category"
+msgstr "Додати нову категорію"
+
+#: add-on/commerce/activate.php:124 add-on/commerce/index.php:91
+msgid "Update category"
+msgstr "Оновити категорію"
+
+#: add-on/commerce/activate.php:123 add-on/commerce/index.php:90
+msgid "Edit category"
+msgstr "Редагувати категорію"
+
+#: add-on/commerce/activate.php:121 add-on/commerce/activate.php:122
+#: add-on/commerce/index.php:88 add-on/commerce/index.php:89
+msgid "Parent category"
+msgstr "Батьківська категорія"
+
+#: add-on/commerce/activate.php:119 add-on/commerce/index.php:86
+msgid "Popular categories"
+msgstr "Популярні категорії"
+
+#: add-on/commerce/activate.php:116 add-on/commerce/activate.php:130
+#: add-on/commerce/index.php:83 add-on/commerce/index.php:97
+msgid "Product categories"
+msgstr "Товарні категорії"
+
+#: add-on/commerce/activate.php:91 add-on/commerce/index.php:52
+#: add-on/commerce/index.php:158
+msgid "Products"
+msgstr "Товари"
+
+#: add-on/commerce/activate.php:90 add-on/commerce/index.php:51
+msgid "Parental goods"
+msgstr "Батьківські товари"
+
+#: add-on/commerce/activate.php:83 add-on/commerce/index.php:44
+msgid "Add new item"
+msgstr "Додати новий товар"
+
+#: add-on/commerce/activate.php:82 add-on/commerce/index.php:43
+msgid "Add this item"
+msgstr "Додати цей товар"
+
+#: add-on/commerce/activate.php:81 add-on/commerce/index.php:42
+#: add-on/commerce/templates/cart.php:13 add-on/commerce/templates/order.php:14
+msgid "Product"
+msgstr "Товар"
+
+#: add-on/commerce/activate.php:80 add-on/commerce/activate.php:220
+#: add-on/commerce/index.php:41
+msgid "Products catalog"
+msgstr "Каталог товарів"
+
+#: templates/add-on-card.php:59
+msgid "Updated"
+msgstr "Оновлено"
+
+#: add-on/prime-forum/admin/themes-manager.php:218 admin/add-on-manager.php:220
+#: admin/templates-manager.php:207
+msgid "view information about the version"
+msgstr "отримати інформацію про версію"
+
+#: templates/add-on-card.php:66
+msgid "Compatible"
+msgstr "Сумісно"
+
+#: templates/add-on-card.php:63
+msgid "downloads"
+msgstr "завантажень"
+
+#: add-on/prime-forum/functions-query.php:215 add-on/rcl-chat/index.php:290
+#: templates/add-on-card.php:60
+msgid "ago"
+msgstr "тому"
+
+#: templates/add-on-card.php:19
+msgid "Go to"
+msgstr "Перейти"
+
+#: templates/add-on-card.php:17
+msgid "Installed"
+msgstr "Встановлено"
+
+#: templates/add-on-card.php:17
+msgid "This add-on has already been installed"
+msgstr "Доповнення вже встановлено"
+
+#: rcl-functions.php:916
+msgid "Signature verification failed"
+msgstr "Перевірка підпису не пройдена"
+
+#: admin/pages/repository.php:54
+msgid "Failed to get data"
+msgstr "Дані не отримані"
+
+#: add-on/prime-forum/admin/themes-manager.php:219 admin/add-on-manager.php:221
+#: admin/templates-manager.php:208
+msgid "update automatically"
+msgstr "оновитись автоматично"
+
+#: functions/register.php:264
+msgid "Copy the link below, paste it into the address bar of your browser and hit Enter"
+msgstr "Скопіюйте текст посилання нижче, вставте його в адресний рядок браузера і натисніть Enter"
+
+#: functions/register.php:263
+msgid "Unable to activate the account?"
+msgstr "Не вдається активувати акаунт"
+
+#: functions/register.php:261
+msgid "If it was you, then confirm your registration by clicking on the link below"
+msgstr "Якщо це були Ви, то підтвердіть реєстрацію, перейшовши за посиланням нижче"
+
+#: functions/deprecated.php:129
+msgid "Go back"
+msgstr "Назад"
+
+#: functions/deprecated.php:125
+msgid "Go to the last page"
+msgstr "Перейти до останньої сторінки"
+
+#: functions/deprecated.php:124
+msgid "Go to the next page"
+msgstr "Перейти до наступної сторінки"
+
+#: functions/deprecated.php:122
+msgid "of"
+msgstr "із"
+
+#: functions/deprecated.php:120
+msgid "Go to the previous page"
+msgstr "Перейти до попередньої сторінки"
+
+#: functions/deprecated.php:119
+msgid "Go to the first page"
+msgstr "Перейти до першої сторінки"
+
+#: functions/enqueue-scripts.php:128
+msgid "Strong"
+msgstr "Сильний"
+
+#: functions/enqueue-scripts.php:127
+msgid "Reliable"
+msgstr "Надійний"
+
+#: functions/enqueue-scripts.php:126
+msgid "Average"
+msgstr "Середній"
+
+#: functions/enqueue-scripts.php:125
+msgid "Worse than average"
+msgstr "Гірше середнього"
+
+#: functions/enqueue-scripts.php:124
+msgid "Weak"
+msgstr "Слабкий"
+
+#: functions/enqueue-scripts.php:123
+msgid "Very weak"
+msgstr "Дуже слабкий"
+
+#: functions/enqueue-scripts.php:150
+msgid "Loading"
+msgstr "Завантаження"
+
+#: functions/enqueue-scripts.php:147
+msgid "Please wait"
+msgstr "Зачекайте, будь ласка"
+
+#: functions/enqueue-scripts.php:146
+msgid "Close"
+msgstr "Закрити"
+
+#: add-on/rating-system/templates/rating-comment.php:16
+msgid "Go to comment"
+msgstr "Перейти до коментаря"
+
+#: add-on/publicpost/upload-file.php:80
+msgid "Banned file extension. Resolved:"
+msgstr "Заборонене розширення файлу. Дозволено:"
+
+#: functions/enqueue-scripts.php:166
+msgid "Fill in all required fields"
+msgstr "Заповніть всі обов’язкові поля"
+
+#: add-on/publicpost/init.php:23
+msgid "Quick edit"
+msgstr "Швидке редагування"
+
+#: add-on/publicpost/functions-ajax.php:96
+msgid "Changes to be saved not found"
+msgstr "Не знайдено змін, достатніх для збереження"
+
+#: add-on/publicpost/functions-ajax.php:100
+msgid "Publication updated"
+msgstr "Публікація оновлена"
+
+#: add-on/publicpost/functions-ajax.php:69
+msgid "Failed to get the data"
+msgstr "Дані не отримані"
+
+#: functions/supports/uploader-avatar.php:286
+msgid "Avatar successfully uploaded"
+msgstr "Аватар успішно завантажено"
+
+#: functions/supports/uploader-avatar.php:225
+#: functions/supports/uploader-cover.php:165
+msgid "The downloaded image is incorrect"
+msgstr "Завантажується не коректне зображення"
+
+#: functions/supports/uploader-avatar.php:177
+#: functions/supports/uploader-cover.php:117
+msgid "Size exceeded"
+msgstr "Розмір перевищено"
+
+#: add-on/profile/admin/index.php:100
+msgid "Custom Profile Fields"
+msgstr "Налаштовувані поля профіля"
+
+#: add-on/prime-forum/classes/class-prime-form.php:143
+#: add-on/rcl-chat/actions_cron.php:102
+msgid "Message text"
+msgstr "Текст повідомлення"
+
+#: add-on/groups/groups-core.php:1050
+msgid "To view the publication , you must be a member of the group"
+msgstr "Для перегляду публікації, Ви повинні бути членом групи"
+
+#: add-on/groups/groups-core.php:1049
+msgid "Publication unavailable!"
+msgstr "Публікація недоступна!"
+
+#. Author URI of the plugin/theme
+msgid "http://codeseller.ru/"
+msgstr "http://codeseller.ru/"
+
+#. Plugin URI of the plugin/theme
+msgid "http://codeseller.ru/?p=69"
+msgstr "http://codeseller.ru/?p=69"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:357
+msgid "Answers in comments"
+msgstr "Відповіді в коментарях"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:156
+msgid "Users page"
+msgstr "Сторінка користувача"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:164
+msgid "This page is required to filter users by value of profile fields"
+msgstr "Зверніть увагу, цю сторінку потрібно фільтрувати користувачів по полях профілю значення"
+
+#: add-on/rating-system/admin/addon-settings.php:88
+msgid "Overall rating"
+msgstr "Загальний рейтинг"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:121
+#: classes/class-rcl-custom-fields.php:189
+msgid "Allowed extensions"
+msgstr "Дозволені типи файлів"
+
+#: add-on/publicpost/functions-ajax.php:39
+msgid "Deletion failed!"
+msgstr "Видалення не вдалося!"
+
+#: add-on/prime-forum/functions-actions.php:124
+#: add-on/prime-forum/functions-actions.php:198
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:105
+#: add-on/publicpost/classes/class-rcl-public-form.php:801
+#: add-on/publicpost/classes/class-rcl-public-form.php:812
+#: add-on/publicpost/core.php:319
+msgid "Are you sure?"
+msgstr "Ви серйозно?"
+
+#: add-on/publicpost/functions-ajax.php:152
+msgid "Enter your e-mail!"
+msgstr "Вкажіть свій e-mail!"
+
+#: add-on/publicpost/functions-ajax.php:155
+msgid "Enter your name!"
+msgstr "Вкажіть своє ім'я!"
+
+#: add-on/commerce/classes/class-rcl-create-order.php:138
+#: add-on/commerce/classes/class-rcl-create-order.php:169
+#: add-on/commerce/functions-ajax.php:116
+#: add-on/publicpost/functions-ajax.php:166
+msgid "You have entered an invalid email!"
+msgstr "Ви вказали некоректний email!"
+
+#: add-on/publicpost/functions-ajax.php:169
+msgid "This email is already used!"
+msgstr "Цей email вже використовується!"
+
+#: add-on/publicpost/functions-ajax.php:170
+msgid "If this is your email, then log in and publish your post"
+msgstr "Якщо це ваш email, то авторизуйтесь і опублікуйте запис"
+
+#: add-on/publicpost/functions-ajax.php:220
+msgid "Add contents of the publication!"
+msgstr "Додайте вміст публікації!"
+
+#: add-on/groups/index.php:488
+msgid "Visitor"
+msgstr "Відвідувач"
+
+#: add-on/groups/groups-widgets.php:202 add-on/groups/groups-widgets.php:210
+#: add-on/groups/index.php:362 add-on/groups/index.php:493
+msgid "Group categories"
+msgstr "категорії групи"
+
+#: add-on/groups/index.php:493
+msgid "separate by commas"
+msgstr "розділяти комами"
+
+#: add-on/groups/index.php:592
+msgid "Welcome to the group"
+msgstr "Ласкаво просимо до групи"
+
+#: add-on/groups/index.php:593
+msgid "Congratulations , your access request to a private group on \"%s\" website has been approved"
+msgstr "Вітаємо, ваш запит на доступ до закритої групи на сайті \"%s\" був схвалений"
+
+#: add-on/groups/index.php:594
+msgid "Now you can take part in the life of the group as its full participant."
+msgstr "Тепер ви можете брати участь в житті групи - як її повноцінний учасник"
+
+#: add-on/groups/index.php:595
+msgid "You can visit the group by clicking on the link"
+msgstr "Ви можете відвідати групу по посиланню"
+
+#: add-on/groups/index.php:606
+msgid "We are sorry, but your request to access a private group \"%s\" on the site \"%s\" has been rejected by its administrator"
+msgstr "Шкодуємо, але ваш запит на доступ до закритої групи \"%s\" на сайті \"%s\" був відхилений її адміністратором"
+
+#: add-on/prime-forum/functions-actions.php:1097
+#: functions/supports/modal-user-details.php:18
+msgid "Detailed information"
+msgstr "Детальна інформація"
+
+#: add-on/publicpost/init.php:24
+msgid "You have exceeded the allowed number of downloads! Max:"
+msgstr "Перевищено дозволену кількість файлів до завантаження! Макс. %d"
+
+#: add-on/groups/index.php:484
+msgid "Membership"
+msgstr "Членство"
+
+#: add-on/groups/groups-core.php:432
+msgid "Sort by status"
+msgstr "Сортування за статусом"
+
+#: add-on/groups/groups-core.php:664
+msgid "User information"
+msgstr "Інформація про користувача"
+
+#: add-on/groups/groups-core.php:669
+msgid "You can approve or reject the request by clicking on the link"
+msgstr "Ви можете схвалити або відхилити запит перейшовши за посиланням"
+
+#: add-on/groups/index.php:477 add-on/groups/templates/single-group.php:37
+msgid "Group status"
+msgstr "Статус групи"
+
+#: add-on/groups/groups-core.php:319 add-on/groups/index.php:479
+msgid "Open group"
+msgstr "Відкрита група"
+
+#: add-on/groups/groups-core.php:660
+msgid "You have received a new request for access to group managed by you \"%s\" on the site \"%s\""
+msgstr "Ви отримали новий запит на доступ до групи що адмініструється вами \"%s\" на сайті \"%s\""
+
+#: add-on/groups/index.php:469
+msgid "Group name"
+msgstr "Назва групи"
+
+#: admin/pages/options.php:182
+msgid "Cache output"
+msgstr "виведення кеша"
+
+#: admin/pages/options.php:185
+msgid "Only guests"
+msgstr "Тільки гостям"
+
+#: admin/pages/options.php:177 admin/pages/options.php:302
+msgid "Default"
+msgstr "За замовчанням"
+
+#: admin/pages/options.php:176
+msgid "Time cache (seconds)"
+msgstr "Час життя кешу (у секундах)"
+
+#: admin/pages/options.php:122
+msgid "Primary color"
+msgstr "Основний колір"
+
+#: admin/pages/options.php:165
+msgid "Cache"
+msgstr "Кеш"
+
+#: admin/pages/options.php:160
+msgid "Caching"
+msgstr "Кешування"
+
+#: admin/add-on-manager.php:143 admin/add-on-manager.php:407
+#: admin/admin-menu.php:45
+msgid "Add-ons"
+msgstr "Додатки"
+
+#: add-on/rcl-chat/addon-options.php:110
+msgid "Mail alert"
+msgstr "Повідомлення на пошту"
+
+#: add-on/rcl-chat/addon-options.php:112
+msgid "Without the text of the message"
+msgstr "Без тексту повідомлення"
+
+#: add-on/rcl-chat/addon-options.php:113
+msgid "Full text of the message"
+msgstr "Повний текст повідомлення"
+
+#: add-on/rating-system/core.php:682
+msgid "Data not found"
+msgstr "Дані не знайдено"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:22
+msgid "payment"
+msgstr "Платіж"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:23
+msgid "payments"
+msgstr "Платежі"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:50
+msgid "No payments found."
+msgstr "Платежі не знайдені."
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:80
+msgid "Payments ID"
+msgstr "ID платежу"
+
+#: add-on/commerce/admin/index.php:413 add-on/commerce/templates/cart.php:22
+#: add-on/commerce/templates/order.php:23
+#: add-on/commerce/templates/orders-history.php:12
+#: add-on/user-balance/admin/class-rcl-payments-history.php:81
+msgid "Sum"
+msgstr "Сума"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:91
+msgid "Delete payment"
+msgstr "Видалити платіж"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:92
+msgid "All user payments"
+msgstr "Всі платежі користувача"
+
+#: add-on/user-balance/admin/index.php:112
+msgid "Payment history"
+msgstr "Історія платежів"
+
+#: classes/class-rcl-custom-fields.php:686
+msgid "Prohibited file type!"
+msgstr "Заборонений тип файлу!"
+
+#: add-on/prime-forum/admin/themes-manager.php:22 admin/add-on-manager.php:22
+#: admin/templates-manager.php:22
+msgid "add-on"
+msgstr "Доповнення"
+
+#: add-on/prime-forum/admin/themes-manager.php:23 admin/add-on-manager.php:23
+#: admin/templates-manager.php:23
+msgid "add-ons"
+msgstr "Доповнення"
+
+#: add-on/prime-forum/admin/themes-manager.php:112 admin/add-on-manager.php:104
+#: admin/templates-manager.php:101
+msgid "No addons found."
+msgstr "Доповнення не знайдені."
+
+#: add-on/commerce/admin/pages/orders.php:31
+#: add-on/user-balance/admin/index.php:123
+msgid "Filter"
+msgstr "Фільтр"
+
+#: add-on/commerce/admin/pages/orders.php:7
+msgid "Order history"
+msgstr "Історія замовлень"
+
+#. translators: 1: month name, 2: 4-digit year
+#: add-on/user-balance/admin/class-rcl-payments-history.php:137
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: add-on/commerce/admin/index.php:23 add-on/commerce/admin/index.php:65
+#: add-on/commerce/index.php:170 add-on/commerce/index.php:180
+msgid "Orders"
+msgstr "Замовлення"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:126
+msgid "Filter by date"
+msgstr "Фільтр за датою"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:128
+msgid "All dates"
+msgstr "Всі дати"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:117
+msgid "All user orders"
+msgstr "Всі замовлення користувача"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:72
+msgid "Order ID"
+msgstr "ID замовлення"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:84
+msgid "Details"
+msgstr "Деталі"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:20
+msgid "order"
+msgstr "Замовлення"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:21
+msgid "orders"
+msgstr "Замовлення"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:47
+msgid "No orders found."
+msgstr "Замовлення не знайдені."
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:74
+msgid "Number of products"
+msgstr "Кількість товарів"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:75
+msgid "Order sum"
+msgstr "Сума замовлення"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:106
+#: add-on/commerce/core.php:228
+msgid "Trash"
+msgstr "Кошик"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:102
+#: add-on/commerce/core.php:224
+msgid "Paid"
+msgstr "Сплачено"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:103
+#: add-on/commerce/core.php:225
+msgid "Sent"
+msgstr "Відправлені"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:101
+#: add-on/commerce/core.php:223
+msgid "Not paid"
+msgstr "Не сплачено"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:104
+#: add-on/commerce/core.php:226
+msgid "Received"
+msgstr "Отримано"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:105
+#: add-on/commerce/core.php:227
+msgid "Closed"
+msgstr "Закрито"
+
+#: functions/loginform.php:52 functions/loginform.php:63
+#: functions/loginform.php:86 templates/form-sign.php:40
+#: templates/recallbar.php:43 templates/recallbar.php:44
+msgid "Entry"
+msgstr "Увійти"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:173
+msgid "Search groups"
+msgstr "Пошук груп"
+
+#. Description of the plugin/theme
+msgid "Фронт-енд профиль, система личных сообщений и рейтинг пользователей на сайте вордпресс."
+msgstr "Фронтенд профіль, система приватних повідомлеть на рейтинг користувачів на сайті вордпрес"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Recall"
+msgstr "WP-Recall"
+
+#. Author of the plugin/theme
+msgid "Plechev Andrey"
+msgstr "Плечьов Андрій"
+
+#: templates/recallbar.php:50 templates/recallbar.php:51
+msgid "Register"
+msgstr "Реєстрація"
+
+#: admin/pages/options.php:31 classes/class-rcl-install.php:89
+msgid "Personal cabinet"
+msgstr "Особистий кабінет"
+
+#: admin/admin-menu.php:42
+msgid "Dashboard"
+msgstr "Інформаційна панель"
+
+#: rcl-widgets.php:12
+msgid "New users on website"
+msgstr "Нові користувачі на сайті"
+
+#: rcl-widgets.php:14 rcl-widgets.php:51
+msgid "New users"
+msgstr "Нові користувачі"
+
+#: templates/form-register.php:7
+msgid "Authorization "
+msgstr "Авторизація"
+
+#: templates/form-remember.php:16
+msgid "Username or e-mail"
+msgstr "Ім'я користувача або e-mail"
+
+#: templates/form-remember.php:4 templates/form-sign.php:7
+msgid "Authorization"
+msgstr "Авторизація"
+
+#: functions/ajax.php:32
+msgid "Perhaps this add-on does not support ajax loading"
+msgstr "Помилка! Дане доповнення не підтримує ajax-завантаження"
+
+#: rcl-functions.php:789
+msgid "This letter was created automatically, no need to answer it."
+msgstr "Це повідомлення було сформовано автоматично, не треба відповідати на нього."
+
+#: rcl-functions.php:813
+msgid "long ago"
+msgstr "Давно"
+
+#: templates/form-sign.php:35
+msgid "Remember"
+msgstr "Запам'ятати"
+
+#: rcl-widgets.php:58
+msgid "Number of displayed users"
+msgstr "Кількість відображуваних користувачів"
+
+#: add-on/groups/index.php:500 admin/index.php:43 admin/pages/options.php:315
+msgid "Save settings"
+msgstr "Зберегти налаштування"
+
+#: admin/pages/options.php:265
+msgid "Enter your URL below, if you select an arbitrary URL after login"
+msgstr "Введіть URL, якщо обраний довільний URL після авторизації"
+
+#: admin/pages/options.php:275 admin/pages/options.php:282
+msgid "Displaye"
+msgstr "Відображати"
+
+#: admin/pages/options.php:281
+msgid "Indicator of password complexity"
+msgstr "Індикатор складності пароля"
+
+#: admin/pages/options.php:288 rcl-functions.php:360
+msgid "Recallbar"
+msgstr "Рекаллбар"
+
+#: admin/pages/options.php:264
+msgid "URL"
+msgstr "Посилання"
+
+#: admin/pages/options.php:257
+msgid "Arbitrary URL"
+msgstr "Довільний URL"
+
+#: admin/pages/options.php:247
+msgid "Used"
+msgstr "Використано"
+
+#: admin/pages/options.php:256
+msgid "Current page"
+msgstr "Поточна сторінка"
+
+#: admin/pages/options.php:244
+msgid "Registration confirmation by the user"
+msgstr "Підтвердження реєстрації користувачем"
+
+#: admin/pages/options.php:255
+msgid "The user profile"
+msgstr "Профіль користувача"
+
+#: admin/pages/options.php:219
+msgid "Floating form"
+msgstr "Спливаюча форма"
+
+#: admin/pages/options.php:253
+msgid "Redirect user after login"
+msgstr "Перенаправлення після авторизації"
+
+#: add-on/rcl-chat/addon-options.php:132 admin/pages/options.php:131
+msgid "Left"
+msgstr "Вліво"
+
+#: admin/pages/options.php:130
+msgid "Top"
+msgstr "Топ"
+
+#: admin/pages/options.php:39
+msgid "Using shortcode [wp-recall]"
+msgstr "Через шорткод [wp-recall]"
+
+#: admin/pages/options.php:59
+msgid "The link is formed according to principle \"/slug_page/?get=ID\". The parameter \"get\" can be set here. By default user"
+msgstr "Посилання формується за принципом \"/ slug_page /? Get = ID\". Параметр \"get\" можна вказати тут. За замовчуванням user"
+
+#: admin/pages/options.php:220
+msgid "On a separate page"
+msgstr "Кожна завантажується окремо"
+
+#: admin/classes/class-rcl-tabs-manager.php:87
+msgid "ajax-loading"
+msgstr "Ajax-Завантаження"
+
+#: admin/pages/options.php:71
+msgid "Inactivity timeout"
+msgstr "Тайм Аут активності"
+
+#: admin/pages/options.php:72
+msgid "Specify the time in minutes after which the user will be considered offline if you did not show activity on the website. The default is 10 minutes."
+msgstr "Вкажіть час, в хвилинах, по закінченню якого користувач буде вважатися оффлайн, якщо він не виявляв активність на вашому сайті. За замовчуванням 10 хвилин."
+
+#: admin/pages/options.php:80
+msgid "Access to the console"
+msgstr "Доступ в консоль сайту"
+
+#: admin/admin-menu.php:44
+msgid "Repository"
+msgstr "Репозиторій"
+
+#: admin/admin-menu.php:43
+msgid "SETTINGS"
+msgstr "Налаштування"
+
+#: functions/frontend.php:158
+msgid "by login"
+msgstr "За логіном"
+
+#: admin/admin-menu.php:41
+msgid "WP-RECALL"
+msgstr "WP-RECALL"
+
+#: functions/register.php:272
+msgid "If it wasn’t you, then just ignore this email"
+msgstr "Якщо це не Ви, просто проігноруйте цей лист"
+
+#: functions/register.php:357
+msgid "Registration completed!"
+msgstr "Реєстрація завершена!"
+
+#: functions/register.php:387
+msgid "Your password has been sent!<br>Check your email."
+msgstr "Ваш пароль надісланий!<br> Перевірте вашу поштову скриньку"
+
+#: functions/register.php:474
+msgid "Repeat the password"
+msgstr "Повторіть пароль ще раз"
+
+#: functions/shortcodes.php:70
+msgid "Users not found"
+msgstr "Користувачі не знайдені"
+
+#: functions/frontend.php:98
+msgid "Publics"
+msgstr "Публікації"
+
+#: add-on/profile/index.php:22 functions/register.php:334
+msgid "Repeated password not correct!"
+msgstr "Повтор пароля невірний!"
+
+#: functions/frontend.php:154
+msgid "Search users"
+msgstr "Пошук користувачів"
+
+#: functions/frontend.php:157
+msgid "by name"
+msgstr "По імені"
+
+#: functions/register.php:485
+msgid "The passwords match"
+msgstr "Паролі співпадають!"
+
+#: functions/register.php:484
+msgid "The passwords do not match!"
+msgstr "Паролі не співпадають!"
+
+#: add-on/commerce/core.php:308 functions/register.php:244
+#: functions/register.php:447 functions/register.php:449
+#: templates/form-sign.php:25
+msgid "Password"
+msgstr "Пароль"
+
+#: functions/register.php:242
+msgid "You or someone else signed up on our website"
+msgstr "Ви або ще хтось увійшли на сайт"
+
+#: functions/register.php:248
+msgid "Confirm your registration!"
+msgstr "Підтвердіть свою реєстрацію!"
+
+#: functions/register.php:242
+msgid "with the following data:"
+msgstr "реєструючи такі дані:"
+
+#: classes/class-rcl-custom-fields-manager.php:90
+msgid "File"
+msgstr "Файл"
+
+#: classes/class-rcl-custom-fields-manager.php:89
+msgid "Agreement"
+msgstr "Згода"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:108
+#: classes/class-rcl-custom-fields-manager.php:81
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: classes/class-rcl-custom-fields-manager.php:84
+msgid "Phone"
+msgstr "телефон"
+
+#: classes/class-rcl-custom-fields-manager.php:88
+msgid "Url"
+msgstr "URL"
+
+#: classes/class-rcl-custom-fields-manager.php:82
+msgid "Radiobutton"
+msgstr "Радіокнопка"
+
+#: classes/class-rcl-custom-fields-manager.php:80
+msgid "MultiSelect"
+msgstr "Множинний вибір"
+
+#: classes/class-rcl-custom-fields-manager.php:144
+msgid "Add field"
+msgstr "Додати поле"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:107
+#: classes/class-rcl-custom-fields-manager.php:79
+msgid "Select"
+msgstr "Вибір"
+
+#: classes/class-rcl-custom-fields.php:755
+#: classes/class-rcl-custom-fields.php:786
+#: classes/class-rcl-custom-fields.php:814
+msgid "File does not exist on the server!"
+msgstr "Файл не існує на цьому сервері!"
+
+#: classes/class-rcl-custom-fields-manager.php:319
+msgid "maximum size of uploaded file, MB (Default - 2)"
+msgstr "максимальний розмір файлу, МБ (за замовчуванням - 2)"
+
+#: classes/class-rcl-custom-fields-manager.php:236
+msgid "MetaKey"
+msgstr "MetaKey"
+
+#: classes/class-rcl-custom-fields.php:166
+msgid "delete"
+msgstr "видаляти"
+
+#: classes/class-rcl-custom-fields.php:191
+msgid "Max size"
+msgstr "Макс. розмір"
+
+#: add-on/prime-forum/admin/themes-manager.php:338 admin/add-on-manager.php:389
+#: admin/templates-manager.php:315
+msgid "Unpacking of archive failed."
+msgstr "Розпакування доповнення не вдалася."
+
+#: add-on/prime-forum/admin/themes-manager.php:341 admin/add-on-manager.php:392
+#: admin/templates-manager.php:318
+msgid "ZIP archive not found."
+msgstr "ZIP архів не знайдений."
+
+#: admin/index.php:147 admin/pages/options.php:212
+msgid "Login and register"
+msgstr "Вхід і реєстрація"
+
+#: add-on/prime-forum/admin/themes-manager.php:187 admin/add-on-manager.php:189
+#: admin/templates-manager.php:176
+msgid "Version"
+msgstr "Версія"
+
+#: admin/add-on-manager.php:164 admin/add-on-manager.php:172
+msgid "Activate"
+msgstr "Активізувати"
+
+#: add-on/commerce/admin/pages/addon-settings.php:12
+#: add-on/prime-forum/admin/index.php:22
+msgid "Settings"
+msgstr "Параметри"
+
+#: admin/add-on-manager.php:163 admin/add-on-manager.php:173
+msgid "Deactivate"
+msgstr "Деактивуйте"
+
+#: add-on/prime-forum/admin/themes-manager.php:130 admin/add-on-manager.php:122
+#: admin/pages/addons-manager.php:65 admin/templates-manager.php:119
+msgid "Inactive"
+msgstr "Неактивний"
+
+#: add-on/prime-forum/admin/themes-manager.php:128 admin/add-on-manager.php:120
+#: admin/pages/addons-manager.php:64 admin/templates-manager.php:117
+msgid "Active"
+msgstr "Діючий"
+
+#: classes/class-rcl-users-list.php:490 functions/frontend.php:134
+#: functions/loginform.php:56 functions/loginform.php:67
+#: functions/loginform.php:90 templates/form-register.php:8
+#: templates/form-remember.php:6 templates/form-sign.php:9
+msgid "Registration"
+msgstr "Реєстрація"
+
+#: classes/class-rcl-users-list.php:494
+msgid "Rated"
+msgstr "Номінальний"
+
+#: functions/loginform.php:26
+msgid "Hi"
+msgstr "Привіт"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-post.php:8
+#: functions/loginform.php:28 functions/loginform.php:37
+#: functions/recallbar.php:23
+msgid "To personal account"
+msgstr "В особистий кабінет"
+
+#: functions/loginform.php:38 templates/recallbar.php:75
+msgid "Exit"
+msgstr "Вихід"
+
+#: functions/frontend.php:423
+msgid "Congratulations! You have been banned."
+msgstr "Вітаємо! Ви були заблоковані на цьому сайті."
+
+#: functions/frontend.php:431
+msgid "Publication pending approval!"
+msgstr "Публікація очікує затвердження!"
+
+#: add-on/prime-forum/admin/index.php:372 admin/pages/addons-manager.php:39
+#: admin/pages/repository.php:74 admin/pages/themes-manager.php:23
+msgid "RCLKEY"
+msgstr "RCLKEY"
+
+#: add-on/prime-forum/admin/index.php:374 admin/pages/addons-manager.php:41
+#: admin/pages/repository.php:76 admin/pages/themes-manager.php:25
+msgid "Enter RCLKEY"
+msgstr "Введіть RCKEY"
+
+#: add-on/prime-forum/admin/index.php:384 admin/pages/addons-manager.php:51
+#: admin/pages/themes-manager.php:35
+msgid "Install the add-on to WP-Recall format .ZIP"
+msgstr "Завантажити додаток для Wp-Recall в форматі .zip"
+
+#: add-on/prime-forum/admin/index.php:378
+msgid "Required to update the templates here. Get it  in  your account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+msgstr "Ключ знадобиться для поновлення доповнень на цій сторінці. Свій ключ ви можете отримати на сторінці профілю свого облікового запису на сайті <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+
+#: admin/pages/addons-manager.php:22
+msgid "Files and data additions have been <strong>deleted</strong>."
+msgstr "Файли і дані доповнення були <strong>вилучені</strong>"
+
+#: admin/pages/addons-manager.php:21
+msgid "Addition <strong>deactivated</strong>."
+msgstr "Доповнення <strong>деактивовано</ strong>."
+
+#: add-on/user-balance/admin/index.php:17
+msgid "Balance"
+msgstr "Баланс"
+
+#: classes/class-rcl-install.php:195
+msgid "Unconfirmed"
+msgstr "Не підтверджено"
+
+#: classes/class-rcl-users-list.php:487
+msgid "Activity"
+msgstr "Діяльність"
+
+#: add-on/user-balance/admin/index.php:43
+msgid "Income dynamics"
+msgstr "Динаміка платежів"
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Days/Months\""
+msgstr "\"Дні / Місяці\""
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Payments (PCs.)\""
+msgstr "\"Платежі (шт.)\""
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Income (thousands)\""
+msgstr "\"Дохід (тис.)\""
+
+#: add-on/user-balance/index.php:305 add-on/user-balance/index.php:333
+msgid "Personal account"
+msgstr "Особистий рахунок"
+
+#: functions/authorize.php:37 functions/register.php:178
+msgid "Fill in the required fields!"
+msgstr "Заповніть обов'язкові поля!"
+
+#: functions/register.php:375
+msgid "Your email is not confirmed!"
+msgstr "Ваш Email не підтверджений!"
+
+#: functions/captcha.php:65 functions/captcha.php:100
+msgid "Enter characters"
+msgstr "Введіть символи"
+
+#: classes/class-rcl-install.php:94
+msgid "FEED"
+msgstr "КАНАЛ"
+
+#: add-on/user-balance/admin/addon-settings.php:49
+msgid "Payment"
+msgstr "Сплата"
+
+#: add-on/user-balance/admin/index.php:90
+#: add-on/user-balance/admin/index.php:98
+msgid "Payments"
+msgstr "Платежі"
+
+#: add-on/user-balance/admin/addon-settings.php:13 admin/pages/options.php:246
+msgid "Not used"
+msgstr "Не використовується"
+
+#: add-on/user-balance/admin/addon-settings.php:17
+#: add-on/user-balance/admin/index.php:87
+msgid "Payment systems"
+msgstr "Платіжні системи"
+
+#: add-on/user-balance/admin/addon-settings.php:51
+msgid "Type of payment"
+msgstr "Тип платежу"
+
+#: add-on/user-balance/admin/addon-settings.php:58
+msgid "The connection to payment aggregator"
+msgstr "Підключення до платіжного агрегатору"
+
+#: add-on/user-balance/admin/addon-settings.php:74
+msgid "Service page of payment systems"
+msgstr "Сервісні сторінки платіжних систем"
+
+#: add-on/user-balance/admin/addon-settings.php:108
+msgid "Successful payment page"
+msgstr "Сторінка успішного платежу"
+
+#: add-on/user-balance/index.php:262
+msgid "Top up personal account"
+msgstr "Поповнення особистого рахунку"
+
+#: add-on/user-balance/admin/addon-settings.php:43
+msgid "Payment through payment systems"
+msgstr "Оплатити через платіжні системи"
+
+#: add-on/user-balance/class-rcl-payment.php:179
+msgid "No record of the payment in the database was found"
+msgstr "Платіж не знайдений в базі даних"
+
+#: add-on/prime-forum/admin/index.php:715
+msgid "Confirm the deletion"
+msgstr "Підтвердити операцію видалення"
+
+#: add-on/prime-forum/admin/index.php:396 admin/pages/addons-manager.php:63
+#: admin/pages/repository.php:86 admin/pages/themes-manager.php:47
+msgid "All"
+msgstr "Всіх"
+
+#: add-on/rating-system/index.php:368
+msgid "rating"
+msgstr "\tрейтинг"
+
+#: add-on/rating-system/index.php:501
+msgid "exceeded the limit of votes for the period - %d seconds"
+msgstr "перевищення обмеження голосів протягом - %d секунд"
+
+#: add-on/rating-system/core.php:369
+msgid "comment"
+msgstr "Коментар"
+
+#: add-on/rating-system/admin/addon-settings.php:135
+#: add-on/rating-system/admin/index.php:24 add-on/rating-system/index.php:58
+msgid "Rating"
+msgstr "Оцінка"
+
+#: add-on/rating-system/core.php:251
+msgid "Correction"
+msgstr "Коригування"
+
+#: add-on/commerce/admin/products-columns.php:63
+#: add-on/rating-system/admin/index.php:32
+msgid "OK"
+msgstr "OK"
+
+#: add-on/rating-system/admin/addon-settings.php:99
+msgid "Points for ranking"
+msgstr "Бали рейтингу"
+
+#: add-on/rating-system/admin/addon-settings.php:119
+msgid "The influence of rating %s on the overall rating"
+msgstr "Вплив рейтингу %s на загальний рейтинг користувача"
+
+#: add-on/rating-system/admin/addon-settings.php:153
+msgid "Rating settings"
+msgstr "Налаштування рейтингу"
+
+#: add-on/rating-system/admin/addon-settings.php:166
+msgid "specify the rating level at which the user will get the ability to post without moderation"
+msgstr "користувачі з вказаним рівнем рейтингу, або перевищує його, зможуть публікувати без модерації"
+
+#: add-on/rating-system/admin/addon-settings.php:171
+msgid "View results"
+msgstr "Перегляд результатів"
+
+#: add-on/rating-system/admin/addon-settings.php:179
+msgid "specify the user group which is allowed to view votes"
+msgstr "вкажіть групу користувачів які мають доступ до перегляду голосів"
+
+#: classes/class-rcl-custom-fields-manager.php:87
+msgid "Time"
+msgstr "Час"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:713
+msgid "Enter your tags"
+msgstr "Введіть свої теги"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:714
+msgid "Add your tags"
+msgstr "Добавте свої теги"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:714
+msgid "Each tag is separated with Enter"
+msgstr "Кожен тег розділяється натисканням на кнопку Enter"
+
+#: add-on/rating-system/admin/addon-settings.php:29
+msgid "%VALUE% - rated value"
+msgstr "% VALUE% - значення голосу"
+
+#: add-on/rating-system/admin/addon-settings.php:30
+msgid "%DATE% - date of changing the rating"
+msgstr "% DATE% - дата голосу"
+
+#: add-on/rating-system/admin/addon-settings.php:33
+msgid "%COMMENT% - link to comment"
+msgstr "% COMMENT% - посилання на коментар"
+
+#: add-on/rating-system/admin/addon-settings.php:36
+msgid "%POST% - link to publication"
+msgstr "% POST% - посилання на публікацію"
+
+#: add-on/rating-system/admin/addon-settings.php:46
+msgid "Type of rating for"
+msgstr "Тип рейтингу для"
+
+#: add-on/rating-system/admin/addon-settings.php:48
+msgid "Plus/minus"
+msgstr "Плюс/Мінус"
+
+#: add-on/rating-system/admin/addon-settings.php:49
+msgid "I like"
+msgstr "Мені подобається"
+
+#: add-on/rating-system/admin/addon-settings.php:89
+msgid "Number of positive and negative votes"
+msgstr "Кількість позитивних і негативних голосів"
+
+#: classes/class-rcl-custom-fields-manager.php:85
+msgid "Number"
+msgstr "Кількість"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:133
+msgid "Your Name"
+msgstr "Ваше ім'я"
+
+#: add-on/prime-forum/classes/class-prime-form.php:125
+#: add-on/publicpost/classes/class-rcl-public-form.php:139
+msgid "Your E-mail"
+msgstr "Ваша e-mail адреса"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:803
+#: add-on/publicpost/classes/class-rcl-public-form.php:810
+#: add-on/publicpost/classes/class-rcl-public-form.php:818
+msgid "Delete post"
+msgstr "Видалити публікацію"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:817
+msgid "Without notice"
+msgstr "Без повідомлення"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:833
+msgid "The publication does not correspond to the site topic"
+msgstr "Публікація не відповідає тематиці сайту"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:840
+msgid "Advertising/Spam"
+msgstr "Реклама/Спам"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:841
+msgid "Publication labeled as advertising or spam"
+msgstr "Публікація позначена як реклама або спам"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:224
+msgid "You can not edit this publication :("
+msgstr "Ви не можете редагувати цю публікацію :("
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:218
+msgid "Sorry, but you have no rights to publish in this group :("
+msgstr "Вибачте, але ви не можете публікувати в цій групі :("
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:216
+msgid "You must be logged in to post. Login or register"
+msgstr "Ви повинні бути авторизовані для публікації. Увійдіть або зареєструйтеся."
+
+#: add-on/publicpost/classes/class-rcl-post-list.php:88
+msgid "Published"
+msgstr "Опублікований"
+
+#: add-on/prime-forum/classes/class-prime-form.php:240
+#: add-on/prime-forum/classes/class-prime-form.php:241
+#: add-on/prime-forum/functions-actions.php:1151
+#: add-on/publicpost/classes/class-rcl-public-form.php:411
+#: add-on/publicpost/init.php:19 functions/enqueue-scripts.php:148
+msgid "Preview"
+msgstr "Прев'ю"
+
+#: add-on/publicpost/init.php:6
+msgid "The publication has been successfully removed!"
+msgstr "Публікація була успішно видалена!"
+
+#: add-on/publicpost/classes/class-rcl-edit-post.php:44
+#: add-on/publicpost/classes/class-rcl-edit-post.php:243
+msgid "Error publishing!"
+msgstr "Помилка публікації!"
+
+#: add-on/publicpost/classes/class-rcl-post-list.php:78
+msgid "has not yet been published"
+msgstr "поки відсутні"
+
+#: add-on/publicpost/init.php:88
+msgid "Publication"
+msgstr "Публікація"
+
+#: add-on/publicpost/templates/posts-list.php:16
+msgid "deleted"
+msgstr "видалений"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:413
+#: add-on/publicpost/init.php:20
+msgid "Publish"
+msgstr "Оприлюднити"
+
+#: add-on/groups/templates/group-list.php:12 add-on/publicpost/init.php:64
+#: add-on/publicpost/init.php:74 add-on/rating-system/index.php:26
+msgid "Posts"
+msgstr "Дописи"
+
+#: add-on/publicpost/admin/addon-settings.php:22
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:47
+#: add-on/publicpost/init.php:54
+msgid "Records"
+msgstr "Записи"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:132
+msgid "Add"
+msgstr "Добавити"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:100
+msgid "Display all attached images in the gallery."
+msgstr "Відображати прикріплені зображення в галереї"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:117
+msgid "Add files to the download queue"
+msgstr "Додати файли в чергу завантаження"
+
+#: add-on/groups/index.php:473 add-on/prime-forum/admin/themes-manager.php:152
+#: add-on/publicpost/functions-ajax.php:64 admin/add-on-manager.php:145
+#: admin/templates-manager.php:141
+msgid "Description"
+msgstr "Надпис"
+
+#: add-on/publicpost/admin/addon-settings.php:198
+msgid "Custom fields"
+msgstr "Власні поля"
+
+#: add-on/publicpost/admin/addon-settings.php:205
+msgid "Settings only for fields created using the form of the publication wp-recall"
+msgstr "Налаштування тільки для полів, створених для форми публікації Wp-Recall"
+
+#: add-on/publicpost/admin/addon-settings.php:212
+msgid "On content recording"
+msgstr "Над контентом публікації"
+
+#: add-on/publicpost/admin/addon-settings.php:185
+msgid "Authors"
+msgstr "Автори"
+
+#: add-on/commerce/content/product-terms.php:18 templates/add-on-card.php:32
+msgid "Tags"
+msgstr "Теги"
+
+#: add-on/prime-forum/admin/index.php:132
+#: add-on/publicpost/admin/addon-settings.php:109
+msgid "Output"
+msgstr "Вихід"
+
+#: add-on/publicpost/admin/addon-settings.php:116
+msgid "The form ID"
+msgstr "Ідентифікатор форми"
+
+#: add-on/publicpost/admin/addon-settings.php:125
+msgid "Publication of records"
+msgstr "Публікація записів"
+
+#: add-on/publicpost/admin/addon-settings.php:157
+msgid "Moderation of publications"
+msgstr "Модерація публікацій"
+
+#: add-on/publicpost/admin/addon-settings.php:176
+msgid "Editing"
+msgstr "Редагування"
+
+#: add-on/publicpost/admin/addon-settings.php:181
+msgid "Frontend editing"
+msgstr "Редагування фронтендів"
+
+#: add-on/publicpost/admin/addon-settings.php:183
+msgid "Administrators"
+msgstr "Адміністратори"
+
+#: add-on/publicpost/admin/addon-settings.php:184
+msgid "Editors"
+msgstr "Редактори"
+
+#: add-on/publicpost/admin/addon-settings.php:192
+msgid "Limit editing time of publication in hours, by default: unlimited"
+msgstr "Обмеження часу публікації в годинах, по-замовчуванню: без обмежень"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:160
+msgid "Visual editor"
+msgstr "Візуальний редактор"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:159
+msgid "HTML editor"
+msgstr "HTML-Редактор"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:205
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:235
+msgid "The maximum file size, Mb"
+msgstr "Максимальний розмір зображень, Мб"
+
+#: add-on/publicpost/admin/addon-settings.php:84
+#: add-on/publicpost/admin/index.php:12
+msgid "Form of publication"
+msgstr "Форма публікації"
+
+#: classes/class-rcl-custom-fields-manager.php:77
+msgid "Text"
+msgstr "текстове поле"
+
+#: add-on/commerce/activate.php:117
+#: add-on/commerce/admin/products-columns.php:23 add-on/commerce/index.php:84
+#: templates/add-on-card.php:32
+msgid "Category"
+msgstr "Категорія"
+
+#: add-on/commerce/admin/pages/addon-settings.php:63
+#: add-on/commerce/admin/pages/addon-settings.php:87
+#: add-on/commerce/admin/pages/addon-settings.php:99
+#: add-on/groups/admin/index.php:28 add-on/prime-forum/admin/index.php:269
+#: add-on/prime-forum/admin/index.php:278 add-on/profile/index.php:135
+#: add-on/publicpost/admin/addon-settings.php:50
+#: add-on/publicpost/admin/addon-settings.php:69
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:183
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:193
+#: add-on/rating-system/admin/addon-settings.php:140
+#: admin/pages/options.php:108 admin/pages/options.php:168
+#: admin/pages/options.php:195 admin/pages/options.php:204
+#: admin/pages/options.php:275 admin/pages/options.php:282
+#: admin/pages/options.php:295
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: add-on/publicpost/admin/addon-settings.php:48
+msgid "Display information about the author"
+msgstr "Відображати інформацію про автора"
+
+#: add-on/publicpost/admin/addon-settings.php:89
+msgid "Use preview"
+msgstr "Використовувати предпросмотр"
+
+#: add-on/publicpost/admin/addon-settings.php:75
+msgid "List of publications of the user"
+msgstr "Список публікацій користувача"
+
+#: add-on/publicpost/admin/addon-settings.php:76
+msgid "Only owner of the account"
+msgstr "Тільки господареві особистого кабінету"
+
+#: add-on/publicpost/admin/addon-settings.php:76
+msgid "Show everyone including guests"
+msgstr "Показувати всім, включаючи гостей"
+
+#: add-on/commerce/admin/pages/addon-settings.php:15
+#: add-on/commerce/admin/pages/addon-settings.php:17
+#: add-on/prime-forum/admin/index.php:306
+#: add-on/publicpost/admin/addon-settings.php:31
+#: add-on/rcl-chat/addon-options.php:11 admin/pages/options.php:26
+msgid "General settings"
+msgstr "Загальні параметри"
+
+#: add-on/commerce/admin/pages/addon-settings.php:48
+#: add-on/groups/admin/index.php:42
+#: add-on/profile/classes/class-rcl-profile-fields.php:161
+#: add-on/publicpost/admin/addon-settings.php:40
+#: add-on/publicpost/admin/addon-settings.php:146
+#: add-on/publicpost/classes/class-rcl-list-terms.php:58
+#: add-on/publicpost/classes/class-rcl-list-terms.php:88
+#: add-on/user-balance/admin/addon-settings.php:88
+#: add-on/user-balance/admin/addon-settings.php:96
+#: add-on/user-balance/admin/addon-settings.php:104
+#: add-on/user-balance/admin/addon-settings.php:112 admin/pages/options.php:50
+#: admin/pages/options.php:232 rcl-widgets.php:65 rcl-widgets.php:124
+msgid "Not selected"
+msgstr "Не вибрано"
+
+#: add-on/publicpost/admin/addon-settings.php:135
+msgid "Guests and users"
+msgstr "Гостям та користувачам"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:41
+msgid "Website"
+msgstr "Вебсайт"
+
+#: add-on/profile/index.php:265
+msgid "Update profile"
+msgstr "Оновити профіль"
+
+#: add-on/profile/index.php:273
+msgid "Delete your profile"
+msgstr "Видалення вашого профілю"
+
+#: add-on/profile/admin/index.php:49
+msgid "Manage profile fields"
+msgstr "Управління полями профілю"
+
+#: add-on/commerce/admin/pages/cart-fields.php:20
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:35
+#: add-on/profile/classes/class-rcl-profile-fields.php:85
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:25
+msgid "required field"
+msgstr "обов'язкове поле"
+
+#: add-on/profile/admin/index.php:27
+msgid "display in registration form"
+msgstr "відображати в формі реєстрації"
+
+#: add-on/commerce/admin/index.php:387
+msgid "display at checkout for guests"
+msgstr "відображати при оформленні замовлення для гостей"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:92
+msgid "show the content to other users"
+msgstr "відображати для інших користувачів"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:76
+#: add-on/commerce/admin/index.php:414
+#: add-on/prime-forum/admin/themes-manager.php:151
+#: add-on/profile/classes/class-rcl-profile-fields.php:47
+#: add-on/publicpost/templates/posts-list.php:8 admin/add-on-manager.php:144
+#: admin/templates-manager.php:140
+msgid "Status"
+msgstr "Статус"
+
+#: add-on/profile/index.php:150
+msgid "New password"
+msgstr "Новий пароль"
+
+#: add-on/profile/index.php:153
+msgid "If you want to change your password - enter a new one"
+msgstr "Якщо ви хочете змінити пароль - введіть новий"
+
+#: add-on/profile/index.php:161
+msgid "Repeat the new password"
+msgstr "Повтор нового пароля"
+
+#: functions/register.php:457
+msgid "Password strength indicator"
+msgstr "Індикатор складності пароля"
+
+#: add-on/commerce/admin/pages/order.php:20 add-on/profile/index.php:143
+#: classes/class-rcl-custom-fields-manager.php:83
+#: templates/form-register.php:23
+msgid "E-mail"
+msgstr "Ел. пошта"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:23
+msgid "Firstname"
+msgstr "Імя"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:29
+msgid "Surname"
+msgstr "Прізвище"
+
+#: add-on/profile/index.php:175
+msgid "User profile"
+msgstr "Профіль користувача"
+
+#: add-on/profile/index.php:132
+msgid "Admin toolbar"
+msgstr "Панель Адміністратора"
+
+#: add-on/commerce/core.php:307 functions/register.php:243
+#: templates/form-register.php:18 templates/form-sign.php:20
+msgid "Login"
+msgstr "Логін"
+
+#: add-on/groups/groups-core.php:667 add-on/profile/index.php:32
+msgid "Profile"
+msgstr "Обліковий запис"
+
+#: functions/supports/modal-user-details.php:83
+msgid "Zoom avatar"
+msgstr "Збільшити аватар"
+
+#: functions/supports/uploader-avatar.php:50
+msgid "Delete avatar"
+msgstr "Видалити аватар"
+
+#: functions/supports/uploader-avatar.php:100
+msgid "Your avatar has been deleted"
+msgstr "Ваш аватар був видалений!"
+
+#: add-on/commerce/admin/index.php:388
+#: add-on/commerce/admin/pages/cart-fields.php:23
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:38
+#: add-on/profile/admin/addon-settings.php:17 add-on/profile/admin/index.php:30
+#: add-on/profile/classes/class-rcl-profile-fields.php:86
+#: add-on/profile/classes/class-rcl-profile-fields.php:93
+#: add-on/profile/classes/class-rcl-profile-fields.php:100
+#: add-on/profile/classes/class-rcl-profile-fields.php:107
+#: add-on/publicpost/admin/addon-settings.php:90
+#: add-on/publicpost/admin/addon-settings.php:96
+#: add-on/publicpost/admin/addon-settings.php:204
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:28
+#: add-on/rating-system/admin/addon-settings.php:120
+#: add-on/rating-system/admin/addon-settings.php:185
+#: add-on/rating-system/admin/index.php:17 add-on/rcl-chat/addon-options.php:58
+#: add-on/rcl-chat/addon-options.php:68 add-on/rcl-chat/addon-options.php:122
+#: admin/classes/class-rcl-tabs-manager.php:60 admin/index.php:99
+msgid "Yes"
+msgstr "Так"
+
+#: add-on/rcl-chat/actions_cron.php:97
+msgid "You were sent a private message"
+msgstr "Вам було відправлено повідомлення"
+
+#: add-on/rcl-chat/actions_cron.php:99
+msgid "from the user"
+msgstr "від користувача"
+
+#: add-on/rcl-chat/actions_cron.php:105
+msgid "You can read the message by clicking on the link:"
+msgstr "Ви можете прочитати повідомлення перейшовши за посиланням:"
+
+#: add-on/rcl-chat/actions_cron.php:109
+msgid "new messages"
+msgstr "нових повідомлень"
+
+#: add-on/profile/admin/index.php:7
+msgid "Profile fields"
+msgstr "поля профілю"
+
+#: add-on/profile/admin/addon-settings.php:11
+msgid "Profile and account"
+msgstr "Профіль і аккаунт"
+
+#: add-on/rcl-chat/actions_cron.php:109
+msgid "For you"
+msgstr "Для Вас"
+
+#: add-on/profile/index.php:312
+msgid "We are very sorry but your account has been deleted!"
+msgstr "Ми шкодуємо, але Ваш аккаунт був видалений!"
+
+#: add-on/commerce/admin/index.php:388
+#: add-on/commerce/admin/pages/cart-fields.php:22
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:37
+#: add-on/profile/admin/addon-settings.php:17 add-on/profile/admin/index.php:29
+#: add-on/profile/classes/class-rcl-profile-fields.php:86
+#: add-on/profile/classes/class-rcl-profile-fields.php:93
+#: add-on/profile/classes/class-rcl-profile-fields.php:100
+#: add-on/profile/classes/class-rcl-profile-fields.php:107
+#: add-on/publicpost/admin/addon-settings.php:90
+#: add-on/publicpost/admin/addon-settings.php:96
+#: add-on/publicpost/admin/addon-settings.php:204
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:27
+#: add-on/rating-system/admin/addon-settings.php:120
+#: add-on/rating-system/admin/addon-settings.php:185
+#: add-on/rating-system/admin/index.php:16 add-on/rcl-chat/addon-options.php:57
+#: add-on/rcl-chat/addon-options.php:67 add-on/rcl-chat/addon-options.php:121
+#: admin/classes/class-rcl-tabs-manager.php:59 admin/index.php:98
+msgid "No"
+msgstr "Ні"
+
+#: functions/ajax.php:112 functions/frontend.php:493
+msgid "Blacklist"
+msgstr "Чорний список"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:22
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:15
+msgid "Last message"
+msgstr "Останнє повідомлення"
+
+#: add-on/rcl-chat/addon-options.php:101
+msgid "Number of messages in the conversation"
+msgstr "Кількість повідомлень в листуванні"
+
+#: add-on/rcl-chat/addon-options.php:86
+msgid "Maximum file size, MB"
+msgstr "Максимальний розмір файлів, МБ"
+
+#: functions/ajax.php:112 functions/frontend.php:493
+msgid "Unblock"
+msgstr "Розблокувати"
+
+#: add-on/rcl-chat/class-rcl-chat.php:404
+msgid "Send"
+msgstr "Відправити"
+
+#: add-on/prime-forum/admin/index.php:175
+#: add-on/prime-forum/admin/index.php:184
+#: add-on/prime-forum/admin/index.php:194
+msgid "Allowed"
+msgstr "Дозволено"
+
+#: add-on/commerce/activate.php:211
+#: add-on/commerce/admin/pages/addon-settings.php:39
+#: add-on/commerce/functions-frontend.php:12
+msgid "Cart"
+msgstr "Кошик"
+
+#: add-on/groups/index.php:585
+msgid "Request access to the group approved!"
+msgstr "Запит на доступ до групи схвалений!"
+
+#: add-on/groups/index.php:604
+msgid "Request rejected"
+msgstr "Запит відхилений"
+
+#: add-on/groups/shortcodes.php:52
+msgid "Groups not found"
+msgstr "Групи не знайдені"
+
+#: add-on/groups/upload-avatar.php:48
+#: functions/supports/uploader-avatar.php:187
+#: functions/supports/uploader-cover.php:127
+msgid "The file is not an image"
+msgstr "Файл не є зображенням"
+
+#: add-on/groups/index.php:551
+msgid "User status"
+msgstr "Статус користувача"
+
+#: add-on/groups/index.php:556 add-on/prime-forum/admin/index.php:311
+#: add-on/prime-forum/admin/index.php:375 admin/pages/addons-manager.php:42
+#: admin/pages/repository.php:77 admin/pages/themes-manager.php:26
+#: classes/class-rcl-custom-fields-manager.php:146
+#: functions/enqueue-scripts.php:145
+msgid "Save"
+msgstr "Зберегти"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:107
+#: add-on/commerce/admin/class-rcl-history-orders.php:124
+#: add-on/groups/index.php:547
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:350
+#: add-on/prime-forum/admin/themes-manager.php:169
+#: add-on/user-balance/admin/class-rcl-payments-history.php:99
+#: admin/add-on-manager.php:160 admin/add-on-manager.php:171
+#: admin/templates-manager.php:158
+#: classes/class-rcl-custom-fields-manager.php:520
+msgid "Delete"
+msgstr "Видалити"
+
+#: add-on/groups/index.php:287
+msgid "Enter the name of the new group"
+msgstr "Введіть ім'я нової групи"
+
+#: add-on/groups/index.php:288
+msgid "Create"
+msgstr "Створити"
+
+#: add-on/groups/index.php:514
+msgid "Requests for access to the group"
+msgstr "Запити на доступ до групи"
+
+#: add-on/groups/index.php:517
+msgid "No queries"
+msgstr "Немає запитів"
+
+#: add-on/groups/index.php:531
+msgid "Approve request"
+msgstr "Схвалити запит"
+
+#: add-on/groups/index.php:532
+msgid "Reject request"
+msgstr "Відхилити запит"
+
+#: add-on/groups/index.php:320
+msgid "Main"
+msgstr "Головна"
+
+#: add-on/groups/index.php:327
+msgid "Footer"
+msgstr "Підвал"
+
+#: add-on/groups/index.php:313
+msgid "Sidebar"
+msgstr "Бокова панель"
+
+#: add-on/commerce/admin/products-columns.php:12
+#: add-on/groups/groups-widgets.php:469
+msgid "Thumbnail"
+msgstr "Мініатюри"
+
+#: add-on/groups/groups-widgets.php:246 add-on/groups/groups-widgets.php:292
+msgid "Management"
+msgstr "Управління"
+
+#: add-on/groups/groups-widgets.php:467 add-on/groups/groups-widgets.php:472
+msgid "Display"
+msgstr "Показувати"
+
+#: add-on/groups/groups-widgets.php:322 add-on/groups/groups-widgets.php:334
+#: add-on/groups/groups-widgets.php:455
+msgid "Group posts"
+msgstr "публікації групи"
+
+#: add-on/groups/groups-widgets.php:466 add-on/groups/groups-widgets.php:471
+#: add-on/publicpost/admin/addon-settings.php:109
+msgid "Do not display"
+msgstr "не виводити"
+
+#: add-on/groups/groups-widgets.php:124
+#: add-on/rating-system/admin/addon-settings.php:173 admin/pages/options.php:92
+#: admin/pages/options.php:184 rcl-widgets.php:38 rcl-widgets.php:102
+msgid "All users"
+msgstr "Всі користувачі"
+
+#: add-on/commerce/templates/cart.php:19 add-on/commerce/templates/order.php:20
+#: add-on/groups/groups-widgets.php:136
+msgid "Amount"
+msgstr "Кількість"
+
+#: add-on/groups/groups-widgets.php:138 add-on/groups/groups-widgets.php:297
+#: admin/add-on-manager.php:116 admin/add-on-manager.php:165
+msgid "Template"
+msgstr "Шаблон"
+
+#: add-on/groups/groups-widgets.php:44
+msgid "Leave group"
+msgstr "Покинути групу"
+
+#: add-on/groups/groups-widgets.php:61
+msgid "Join group"
+msgstr "Вступити в групу"
+
+#: add-on/groups/groups-widgets.php:78
+msgid "Apply for membership"
+msgstr "Заявка на доступ"
+
+#: add-on/groups/groups-init.php:58
+msgid "Separate with commas"
+msgstr "розділяти комою"
+
+#: add-on/groups/groups-init.php:60
+msgid "Click to use"
+msgstr "Натиснути для використання"
+
+#: add-on/groups/admin/index.php:9 add-on/groups/index.php:466
+msgid "Group settings"
+msgstr "налаштування групи"
+
+#: add-on/groups/admin/index.php:55
+#: add-on/publicpost/admin/addon-settings.php:132
+#: add-on/rating-system/admin/addon-settings.php:177 admin/pages/options.php:88
+msgid "only Administrators"
+msgstr "тільки адміністраторам"
+
+#: add-on/groups/admin/index.php:58
+#: add-on/rating-system/admin/addon-settings.php:174 admin/pages/options.php:91
+msgid "Participants and higher"
+msgstr "Учасникам і старше"
+
+#: add-on/groups/admin/index.php:67
+#: add-on/publicpost/admin/addon-settings.php:158
+msgid "Send for moderation"
+msgstr "Відправляти на модерацію"
+
+#: add-on/groups/groups-widgets.php:15 add-on/groups/groups-widgets.php:22
+#: rcl-widgets.php:146 rcl-widgets.php:167
+msgid "Control panel"
+msgstr "Панель управління"
+
+#: add-on/groups/groups-widgets.php:25 add-on/groups/groups-widgets.php:134
+#: add-on/groups/groups-widgets.php:185 add-on/groups/groups-widgets.php:213
+#: add-on/groups/groups-widgets.php:295 add-on/groups/groups-widgets.php:462
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:76
+#: add-on/publicpost/templates/posts-list.php:7
+#: add-on/user-balance/index.php:336
+#: classes/class-rcl-custom-fields-manager.php:247 rcl-widgets.php:54
+#: rcl-widgets.php:117 rcl-widgets.php:170
+msgid "Title"
+msgstr "Заголовок"
+
+#: add-on/commerce/activate.php:164 add-on/commerce/index.php:126
+#: add-on/groups/groups-init.php:55
+msgid "Update"
+msgstr "оновити"
+
+#: add-on/groups/groups-init.php:52 add-on/groups/groups-init.php:53
+msgid "Parent group"
+msgstr "Батьківська група"
+
+#: add-on/groups/activate.php:65 add-on/groups/admin/index.php:11
+#: add-on/groups/groups-init.php:47 add-on/groups/groups-init.php:48
+#: add-on/groups/groups-init.php:61 add-on/groups/index.php:234
+msgid "Groups"
+msgstr "Групи"
+
+#: add-on/commerce/activate.php:120 add-on/commerce/index.php:87
+#: add-on/groups/groups-init.php:51
+msgid "All categories"
+msgstr "Всі категорії"
+
+#: add-on/commerce/activate.php:89 add-on/commerce/index.php:50
+#: add-on/groups/groups-init.php:16
+msgid "Cart is empty"
+msgstr "Кошик порожній"
+
+#: add-on/groups/groups-init.php:50
+msgid "Popular Groups"
+msgstr "Популярні групи"
+
+#: add-on/groups/groups-init.php:17
+msgid "Parent record"
+msgstr "Батьківський допис"
+
+#: add-on/commerce/activate.php:88 add-on/commerce/index.php:49
+#: add-on/groups/groups-init.php:15
+#: add-on/prime-forum/functions-shortcodes.php:105
+#: add-on/publicpost/classes/class-rcl-public-form.php:724
+msgid "Not found"
+msgstr "Не знайдено"
+
+#: add-on/commerce/activate.php:87 add-on/commerce/activate.php:118
+#: add-on/commerce/activate.php:158 add-on/commerce/admin/pages/orders.php:36
+#: add-on/commerce/index.php:48 add-on/commerce/index.php:85
+#: add-on/commerce/index.php:120
+#: add-on/groups/classes/class-rcl-groups-list.php:175
+#: add-on/groups/groups-init.php:14 add-on/groups/groups-init.php:49
+#: add-on/user-balance/admin/index.php:128 functions/frontend.php:160
+msgid "Search"
+msgstr "Шукати"
+
+#: add-on/commerce/activate.php:85 add-on/commerce/index.php:46
+#: add-on/groups/groups-init.php:12 add-on/groups/groups-init.php:57
+msgid "New"
+msgstr "Новий"
+
+#: add-on/commerce/activate.php:86 add-on/commerce/index.php:47
+#: add-on/groups/groups-init.php:13
+msgid "View"
+msgstr "Вигляд"
+
+#: add-on/commerce/activate.php:84 add-on/commerce/activate.php:163
+#: add-on/commerce/index.php:45 add-on/commerce/index.php:125
+#: add-on/groups/groups-init.php:11 add-on/groups/groups-init.php:54
+#: add-on/groups/groups-public.php:53
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:351
+#: add-on/publicpost/core.php:77 add-on/publicpost/index.php:295
+#: add-on/publicpost/init.php:22
+#: classes/class-rcl-custom-fields-manager.php:522
+#: classes/class-rcl-custom-fields-manager.php:610
+msgid "Edit"
+msgstr "Редагування"
+
+#: add-on/groups/groups-core.php:893
+msgid "Administration"
+msgstr "адміністрування"
+
+#: add-on/groups/groups-core.php:1057
+msgid "(Comment hidden by privacy settings)"
+msgstr "(Коментар приховано налаштуваннями приватності)"
+
+#: add-on/groups/groups-init.php:9 add-on/groups/groups-init.php:10
+msgid "Add entry"
+msgstr "Додати"
+
+#: add-on/groups/groups-core.php:233
+#: add-on/prime-forum/classes/class-prime-roles.php:60
+msgid "Administrator"
+msgstr "Адміністратор"
+
+#: add-on/groups/groups-core.php:854
+msgid "Show"
+msgstr "Показати"
+
+#: add-on/groups/groups-core.php:320 add-on/groups/index.php:480
+msgid "Closed group"
+msgstr "Закрита група"
+
+#: add-on/groups/groups-core.php:443
+#: add-on/groups/templates/single-group.php:40
+msgid "Group members"
+msgstr "Учасники групи"
+
+#: add-on/groups/groups-core.php:819
+msgid "User Status updated"
+msgstr "Статус користувача оновлений"
+
+#: add-on/groups/groups-core.php:852
+msgid "Display all records"
+msgstr "Показати всі публікації"
+
+#: add-on/groups/groups-core.php:229
+#: add-on/prime-forum/classes/class-prime-roles.php:44
+msgid "Moderator"
+msgstr "Модератор"
+
+#: add-on/groups/groups-core.php:225 add-on/groups/index.php:489
+#: add-on/prime-forum/admin/index.php:788
+#: add-on/prime-forum/admin/themes-manager.php:188
+#: add-on/publicpost/admin/index.php:133 admin/add-on-manager.php:190
+#: admin/pages/repository.php:98 admin/templates-manager.php:177
+#: templates/add-on-card.php:25
+msgid "Author"
+msgstr "Автор"
+
+#: add-on/groups/groups-core.php:221
+msgid "Reader"
+msgstr "Читач"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:210
+#: classes/class-rcl-users-list.php:498
+msgid "Filter by"
+msgstr "Фільтрувати за"
+
+#: add-on/groups/groups-core.php:217
+#: add-on/prime-forum/classes/class-prime-roles.php:18
+#: classes/class-rcl-install.php:203
+msgid "Ban"
+msgstr "Заборона"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:73
+#: add-on/groups/classes/class-rcl-groups-list.php:205
+#: add-on/groups/groups-widgets.php:108 add-on/groups/groups-widgets.php:131
+#: add-on/groups/templates/group-list.php:11
+#: add-on/user-balance/admin/class-rcl-payments-history.php:79
+#: classes/class-rcl-install.php:99
+msgid "Users"
+msgstr "Користувачі"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:204
+#: classes/class-rcl-users-list.php:488
+msgid "Publications"
+msgstr "Публікації"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:77
+#: add-on/groups/classes/class-rcl-groups-list.php:203
+#: add-on/publicpost/templates/posts-list.php:6
+#: add-on/user-balance/admin/class-rcl-payments-history.php:82
+#: classes/class-rcl-custom-fields-manager.php:86
+msgid "Date"
+msgstr "Дата:"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:120
+#: add-on/groups/classes/class-rcl-group-widget.php:270
+msgid "Unused"
+msgstr "Невикористані"
+
+#: add-on/commerce/admin/pages/order.php:19 add-on/commerce/core.php:281
+#: add-on/commerce/core.php:362 add-on/commerce/core.php:378
+#: add-on/groups/classes/class-rcl-groups-list.php:202
+#: add-on/publicpost/functions-ajax.php:62
+#: classes/class-rcl-custom-fields-manager.php:608
+msgid "Name"
+msgstr "Ім'я"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:172
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:367
+#: add-on/prime-forum/functions-actions.php:661
+#: add-on/prime-forum/functions-actions.php:694
+#: add-on/prime-forum/functions-actions.php:852
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: add-on/feed/shortcodes.php:22
+msgid "Login or register to view the latest publications and comments from users for which you have subscribed."
+msgstr "Увійдіть або зареєструйтесь, щоб залишати та побачити останні публікації і коментарі від користувачів на яких оформлено підписку"
+
+#: add-on/feed/index.php:78
+msgid "Subscriptions"
+msgstr "Підписки"
+
+#: add-on/commerce/admin/index.php:87 add-on/feed/index.php:183
+#: add-on/feed/index.php:196 add-on/feed/index.php:204
+#: add-on/groups/groups-core.php:805 add-on/groups/groups-core.php:821
+#: add-on/groups/upload-avatar.php:71
+#: add-on/prime-forum/functions-actions.php:1194 add-on/publicpost/core.php:231
+#: add-on/user-balance/index.php:196 admin/index.php:135
+#: admin/pages/repository.php:48 admin/pages/repository.php:58
+#: functions/addons-update.php:150 functions/addons-update.php:205
+#: functions/ajax.php:95 functions/enqueue-scripts.php:149
+msgid "Error"
+msgstr "Помилка"
+
+#: add-on/feed/index.php:49
+msgid "Followers"
+msgstr "Підписники"
+
+#: add-on/feed/index.php:98
+msgid "List of subscribers"
+msgstr "Список підписників"
+
+#: add-on/feed/index.php:122
+msgid "List of subscriptions"
+msgstr "Список підписок"
+
+#: add-on/feed/index.php:180 add-on/feed/index.php:201
+msgid "Signed up for a subscription"
+msgstr "Підписку оформлено"
+
+#: add-on/feed/addon-core.php:430 add-on/feed/index.php:26
+#: add-on/feed/index.php:181 add-on/feed/index.php:202
+msgid "Unsubscribe"
+msgstr "Скасувати підписку"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:356
+#: add-on/rating-system/index.php:37 classes/class-rcl-users-list.php:489
+#: functions/frontend.php:89
+msgid "Comments"
+msgstr "Коментарі"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:355
+msgid "News"
+msgstr "Новини"
+
+#: add-on/feed/addon-core.php:430 add-on/feed/index.php:28
+#: add-on/feed/index.php:194
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: add-on/feed/addon-core.php:257
+msgid "In response to"
+msgstr "У відповідь на"
+
+#: add-on/feed/addon-core.php:257
+msgid "your comment"
+msgstr "Ваш коментар"
+
+#: add-on/feed/addon-core.php:326
+#: add-on/prime-forum/classes/class-prime-last-posts.php:162
+msgid "Read more"
+msgstr "Читати повністю"
+
+#: add-on/feed/addon-core.php:255
+msgid "For publication"
+msgstr "Для публікації"

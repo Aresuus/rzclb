@@ -1,0 +1,5295 @@
+# Translation of Plugins - WP-Recall - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - WP-Recall - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-25 06:07:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - WP-Recall - Development (trunk)\n"
+
+#: admin/pages/options.php:223
+msgid "Форма входа и регистрации плагина может быть выведена через виджет \"Панель управления\", шорткод [loginform], а можете использовать стандартные формы WordPress"
+msgstr "Il modulo di login e registrazione per il plug-in può essere visualizzato tramite il widget Pannello di Controllo e lo shortcode [loginform], oppure è possibile utilizzare i moduli standard di WordPress"
+
+#: admin/pages/options.php:217
+msgid "Порядок вывода формы входа и регистрации"
+msgstr "Ordine del modulo di immissione e modulo di registrazione"
+
+#: add-on/publicpost/index.php:532
+msgid "Не забудьте проверить, возможно, публикация ожидает модерации"
+msgstr "Non dimenticare di controllare: forse la pubblicazione è in attesa di moderazione"
+
+#: add-on/publicpost/index.php:531
+msgid "Автор публикации"
+msgstr "Autore della pubblicazione"
+
+#: add-on/publicpost/index.php:530
+msgid "Наименование публикации"
+msgstr "Nome della pubblicazione"
+
+#: add-on/publicpost/index.php:529
+msgid "На сайте \"%s\" пользователь добавил новую публикацию!"
+msgstr "L'utente ha aggiunto una nuova pubblicazione sul sito \"%s\"!"
+
+#: add-on/publicpost/index.php:526
+msgid "Новая публикация"
+msgstr "Nuova pubblicazione"
+
+#: admin/pages/tabs-manager.php:20
+msgid "On this page you can create new tabs personal account with arbitrary content and manage existing tabs in different areas of the personal account"
+msgstr "In questa pagina è possibile creare nuove schede di account personali con contenuto arbitrario e gestire le schede esistenti in diverse aree dell'account personale"
+
+#: add-on/publicpost/admin/index.php:36
+msgid "On this page you can manage the creation of publications for registered record types. Create custom fields for the form of publication of various types and manage"
+msgstr "In questa pagina è possibile gestire la creazione di pubblicazioni per i tipi di record registrati. Crea e gestisci campi personalizzati per il modulo di pubblicazione di varie tipologie"
+
+#: add-on/profile/admin/index.php:51
+msgid "On this page you can create custom fields of the user profile, as well as to manage already created fields"
+msgstr "In questa pagina è possibile creare campi personalizzati del profilo utente, così come gestire i campi già creati"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:123
+msgid "группы"
+msgstr "Gruppi"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:123
+msgid "форума"
+msgstr "forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:121
+msgid "Настройка формы топика для"
+msgstr "Configurazione del modulo di argomento per"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:115
+msgid "Перейти к настройкам формы"
+msgstr "Vai alle impostazioni del modulo"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:107
+msgid "Все форумы группы"
+msgstr "Tutti i forum del gruppo"
+
+#: functions/addons-update.php:178
+msgid "Update is impossible! ZipArchive class is not defined."
+msgstr "L'aggiornamento è impossibile! La classe \"Archivio Zip\" non è definita."
+
+#: classes/class-rcl-custom-fields.php:586
+msgid "for"
+msgstr "per"
+
+#: classes/class-rcl-custom-fields-manager.php:350
+msgid "May not load with AJAX"
+msgstr "Potrebbe non essere caricato con AJAX"
+
+#: classes/class-rcl-custom-fields-manager.php:349
+msgid "Using TinyMCE"
+msgstr "Usa TinyMCE"
+
+#: admin/pages/repository.php:101 admin/pages/repository.php:102
+#: admin/pages/repository.php:104
+msgid "Search add-ons"
+msgstr "Ricerca componenti aggiuntivi"
+
+#: admin/pages/repository.php:99
+msgid "Tag"
+msgstr "Etichetta"
+
+#: admin/pages/repository.php:97
+msgid "Word"
+msgstr "Parola"
+
+#: admin/pages/repository.php:95
+msgid "Search category"
+msgstr "Ricerca categoria"
+
+#: admin/pages/repository.php:89
+msgid "Updates"
+msgstr "Aggiornamenti"
+
+#: admin/pages/repository.php:88
+msgid "Reference"
+msgstr "Riferimento"
+
+#: admin/pages/repository.php:87
+msgid "Popular"
+msgstr "Popolare"
+
+#: admin/pages/options.php:151
+msgid "Max weight of cover"
+msgstr "Peso massimo della copertina"
+
+#: admin/pages/options.php:140
+msgid "Max weight of avatars"
+msgstr "Peso massimo degli avatar"
+
+#: admin/index.php:406
+msgid "If you liked plugin %sWP-Recall%s, please vote for it in repository %s★★★★★%s. Thank you so much!"
+msgstr "Se ti è piaciuto il plugin %sWP-Recall%s, votalo nell'archivio con %s★★★★★%s. Grazie mille!"
+
+#: admin/classes/class-rcl-tabs-manager.php:57
+msgid "The tab will be available only by link"
+msgstr "La scheda sarà disponibile solo tramite link"
+
+#: admin/classes/class-rcl-tabs-manager.php:56
+msgid "Hidden tab"
+msgstr "Scheda nascosta"
+
+#: add-on/rcl-chat/index.php:280
+msgid "Open chat in window"
+msgstr "Apri la chat in una finestra"
+
+#: add-on/rating-system/index.php:104
+msgid "Other"
+msgstr "Altro"
+
+#: add-on/rating-system/admin/addon-settings.php:195
+msgid "If enabled, an additional \"Other\" tab will be created in the rating history, where all changes will be displayed via unregistered rating types"
+msgstr "Se abilitata, verrà creata un'ulteriore scheda \"Altro\" nella cronologia delle valutazioni, in cui tutte le modifiche saranno visualizzate tramite tipi di classificazione non registrati"
+
+#: add-on/rating-system/admin/addon-settings.php:190
+msgid "Tab \"Other\""
+msgstr "Scheda \"Altro\""
+
+#: add-on/rating-system/admin/addon-settings.php:75
+msgid "If enabled, the standard markup on single pages along with the rating is displayed as <a href=\"http://schema.org\" target=\"_blank\">http://schema.org</a>"
+msgstr "Se abilitato, il markup standard su singole pagine assieme alla valutazione sono visualizzati come <a href=\"http://schema.org\" target=\"_blank\">http://schema.org</a>"
+
+#: add-on/rating-system/admin/addon-settings.php:70
+msgid "Rating markup"
+msgstr "Markup della valutazione"
+
+#: add-on/rating-system/admin/addon-settings.php:58
+msgid "Number of stars"
+msgstr "Numero di stelle"
+
+#: add-on/publicpost/functions-ajax.php:193
+msgid "Incorrect values of some fields, enter the correct values!"
+msgstr "Valore errato di alcuni campi, inserisci i valori corretti!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:191
+msgid "Предлагать вывод изображений в галерее"
+msgstr "Visualizza immagini nella galleria"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:181
+msgid "Вставка изображения в форму по клику"
+msgstr "Inserisci un'immagine in un modulo di click-through"
+
+#: add-on/publicpost/admin/addon-settings.php:219
+msgid "Select types of posts where the values of arbitrary fields will be displayed. If nothing is specified, it is displayed everywhere"
+msgstr "Scegli le tipologie di articoli dove saranno mostrati i valori dei campi arbitrari. Se non specificato, saranno mostrati ovunque."
+
+#: add-on/publicpost/admin/addon-settings.php:217
+msgid "Types of posts for the output of custom fields"
+msgstr "Tipologie di articoli per la visualizzazione dei campi personalizzati"
+
+#: add-on/publicpost/admin/addon-settings.php:167
+msgid "Select the types of posts that will be sent for moderation. If nothing is specified, then the moderation is valid for all types"
+msgstr "Scegli le tipologie di articoli che saranno inviati alla moderazione. Se non specificato, la moderazione sarà valida per tutte le tipologie."
+
+#: add-on/publicpost/admin/addon-settings.php:165
+msgid "Type post"
+msgstr "Tipologia di articolo"
+
+#: add-on/publicpost/admin/addon-settings.php:60
+msgid "Select the types of writes where the author`s block should be displayed. If nothing is specified, it is displayed everywhere"
+msgstr "Seleziona le tipologie di testi in cui dovrebbe essere visualizzato il blocco dell'autore. Se non specificato, viene visualizzato ovunque"
+
+#: add-on/publicpost/admin/addon-settings.php:58
+msgid "Types of write for the author`s block output"
+msgstr "Tipologie di testo per la pubblicazione del blocco dell'autore"
+
+#: add-on/prime-forum/admin/index.php:281
+msgid "The notice sent for each new message in the topic only when the topic`s author is offline"
+msgstr "L'avviso inviato per ciascun nuovo messaggio nel topic, solo quando l'autore del topic è offline"
+
+#: add-on/prime-forum/admin/index.php:276
+msgid "Notice the author of the theme about new answers"
+msgstr "Avvisa l'autore del tema sulle nuove risposte"
+
+#: add-on/prime-forum/admin/index.php:215
+msgid "If the loading of new messages via AJAX is enabled, here we set the maximum number of requests from one user, after which they are terminated, after the publication of a new message requests are resumed"
+msgstr "Se il caricamento di nuovi messaggi tramite AJAX è abilitato, qui impostiamo il numero massimo di richieste da un utente, dopo il quale vengono interrotte, dopo che è stata ripresa la pubblicazione di un nuovo messaggio."
+
+#: add-on/prime-forum/admin/index.php:210
+msgid "Limit of requests to receive new messages"
+msgstr "Limite di richieste per ricevere nuovi messaggi"
+
+#: add-on/prime-forum/admin/index.php:205
+msgid "In seconds. New messages in the forum topic are loaded from AJAX only for those who have already left a message in this topic. If 0 is specified, the AJAX loading is disabled"
+msgstr "In secondi. I nuovi messaggi nel topic del forum vengono caricati da AJAX solo per coloro che hanno già lasciato un messaggio in questo topic. Se viene specificato 0, il caricamento AJAX è disabilitato."
+
+#: add-on/prime-forum/admin/index.php:200
+msgid "Delay on receiving a new message via AJAX"
+msgstr "Ritardo nella ricezione di un nuovo messaggio tramite AJAX"
+
+#: add-on/prime-forum/admin/index.php:190
+msgid "Reason for editing a message"
+msgstr "Motivo per la modifica di un messaggio"
+
+#: add-on/prime-forum/admin/index.php:116
+msgid "Show for all"
+msgstr "Mostra a tutti"
+
+#: add-on/prime-forum/admin/index.php:115
+msgid "Hiding for guests"
+msgstr "Nascondi agli ospiti"
+
+#: add-on/prime-forum/admin/index.php:113
+msgid "The display of links in messages"
+msgstr "La visualizzazione dei link nei messaggi"
+
+#: add-on/groups/admin/index.php:80 admin/pages/options.php:142
+#: admin/pages/options.php:153
+msgid "If 0 is specified, download is disallowed."
+msgstr "Se è specificato 0, il download non è consentito."
+
+#: add-on/groups/admin/index.php:79 admin/pages/options.php:141
+#: admin/pages/options.php:152
+msgid "Set the image upload limit in kb, by default"
+msgstr "Imposta il limite predefinito in kb per il caricamento delle immagini"
+
+#: add-on/groups/admin/index.php:78
+msgid "Max size of the group avatars"
+msgstr "Dimensione massima degli avatar di gruppo"
+
+#: add-on/commerce/core.php:376
+msgid "You paid for the order on the website \"%s\""
+msgstr "Hai pagato per l'ordine nel sito web \"%s\""
+
+#: add-on/commerce/admin/pages/export-import.php:110
+msgid "Incorrect extension of the downloaded file. XML format expected!"
+msgstr "Estensione scorretta del file scaricato. Era atteso il formato XML!"
+
+#: add-on/commerce/admin/pages/export-import.php:82
+msgid "Empty values of arbitrary fields in the import file remove them from the database"
+msgstr "I valori vuoti dei campi arbitrari nel file di importazione li rimuovono dal database"
+
+#: add-on/commerce/admin/index.php:286
+msgid "File not found!"
+msgstr "File non trovato!"
+
+#: add-on/prime-forum/admin/index.php:140
+msgid "If output of forums on the homepage is turned on, you may specify IDs of the groups, whose forums should be output, space separated"
+msgstr "Se l'output dei forum sulla home page è attivato, si devono specificare gli ID dei gruppi, i cui forum dovranno essere pubblicati, separati da spazi"
+
+#: add-on/prime-forum/admin/index.php:123
+msgid "Specify the necessary shortcodes to support them in forum messages, each should start from a new line. Specify without brackets, for example: custom-shortcode"
+msgstr "Specificare gli shortcode necessari per supportarli nei messaggi del forum, ognuno dovrebbe iniziare da una nuova riga. Specificare senza parentesi, ad esempio: shortcode-personalizzato"
+
+#: add-on/prime-forum/admin/index.php:98
+msgid "Select the needed page from the list and place the [prime-forum] shortcode on it"
+msgstr "Seleziona la pagina richiesta dall'elenco e posiziona in essa lo shortcode [prime-forum]"
+
+#: add-on/commerce/content/order-content.php:48
+msgid "There you can find the status of your order."
+msgstr "Qui puoi trovare lo stato del tuo ordine."
+
+#: add-on/commerce/content/order-content.php:45
+msgid "You can pay for it from your personal account."
+msgstr "Puoi pagare dal tuo account personale."
+
+#: add-on/commerce/content/order-content.php:43
+msgid "You can pay for it now or from your personal account."
+msgstr "Puoi pagare ora o dal tuo account personale."
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:109
+msgid "Multiselect"
+msgstr "Selezione multipla"
+
+#: classes/class-rcl-custom-fields-manager.php:93
+msgid "Range"
+msgstr "Gamma"
+
+#: classes/class-rcl-custom-fields-manager.php:92
+msgid "Runner"
+msgstr "Corridore"
+
+#: classes/class-rcl-custom-fields-manager.php:372
+msgid "Step"
+msgstr "Intervallo"
+
+#: classes/class-rcl-custom-fields-manager.php:365
+msgid "Max"
+msgstr "Massimo"
+
+#: classes/class-rcl-custom-fields-manager.php:358
+msgid "Min"
+msgstr "Minimo"
+
+#: classes/class-rcl-custom-fields-manager.php:348
+msgid "TinyMCE"
+msgstr "TinyMCE"
+
+#: add-on/rating-system/admin/addon-settings.php:160
+msgid "Extends options"
+msgstr "Estende le opzioni"
+
+#: add-on/rating-system/admin/addon-settings.php:50
+msgid "Stars"
+msgstr "Stelle"
+
+#: classes/class-rcl-custom-fields-manager.php:150
+msgid "To remove the data added to this field?"
+msgstr "Rimuovere i dati contenuti nel campo?"
+
+#: admin/pages/repository.php:110
+msgid "Results found"
+msgstr "Risultati torvati"
+
+#: add-on/prime-forum/functions-actions.php:1183
+msgid "Repeat the last message!"
+msgstr "Ripeti l'ultimo messaggio!"
+
+#: templates/add-on-card.php:68
+msgid "Operation is not guaranteed with your version of WP-Recall"
+msgstr "L'operazione non è garantita con la tua versione di WP-Recall"
+
+#: functions/ajax.php:137
+msgid "Failed to load emoticons"
+msgstr "Non riesco a caricare le emoticon"
+
+#: functions/ajax.php:40
+msgid "Unable to obtain content of the requested tab"
+msgstr "Non riesco ad ottenere i dati della scheda richiesta"
+
+#: functions/ajax.php:26
+msgid "Data of the requested tab was not found."
+msgstr "I dati della scheda richiesta non sono stati trovati."
+
+#: add-on/user-balance/admin/index.php:74
+msgid "Balance successfully changed"
+msgstr "Il saldo è stato variato correttamente"
+
+#: add-on/user-balance/admin/index.php:68
+msgid "Balance was not changed"
+msgstr "Il saldo non è cambiato"
+
+#: add-on/rating-system/index.php:610
+msgid "Unable to obtain data"
+msgstr "Non riesco a ricevere dati"
+
+#: add-on/rating-system/admin/index.php:64
+msgid "Rating updated successfully"
+msgstr "La valutazione è stata correttamente aggiornata"
+
+#: add-on/rating-system/admin/index.php:46
+msgid "Rating was not updated"
+msgstr "La valutazione non è stata aggiornata"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:116
+msgid "Attach only the selected child terms to the post, ignoring parents"
+msgstr "Allega solo i termini figli selezionati al post, ignorando i genitori"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:115
+msgid "Only child terms"
+msgstr "Solo termini figli"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-topic.php:8
+msgid "reply(ies) in the topic"
+msgstr "risposta/e nell'argomento"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:7
+msgid "Go to topic"
+msgstr "Vai all'argomento"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-post.php:24
+msgid "Link to the message"
+msgstr "Link al messaggio"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-group.php:8
+msgid "Go to group"
+msgstr "Vai al gruppo"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:21
+msgid "Last topic"
+msgstr "Ultimo argomento"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-author.php:6
+msgid "The archive of the author"
+msgstr "L'archivio dell'autore"
+
+#: add-on/prime-forum/functions-query.php:176
+msgid "Topics yet"
+msgstr "Ancora argomenti"
+
+#: add-on/prime-forum/functions-topics.php:190
+msgid "The topic author"
+msgstr "L'autore dell'argomento"
+
+#: add-on/prime-forum/functions-topics.php:189
+msgid "The name of the topic"
+msgstr "Il nome dell'argomento"
+
+#: add-on/prime-forum/functions-topics.php:188
+msgid "On the forum of the site \"%s\" created a new topic!"
+msgstr "Nel forum del sito \"%s\" ha creato un nuovo argomento!"
+
+#: add-on/prime-forum/functions-topics.php:186
+msgid "New forum topic"
+msgstr "Nuovo argomento del forum"
+
+#: add-on/prime-forum/functions-post-content.php:249
+msgid "The reason"
+msgstr "Il motivo"
+
+#: add-on/prime-forum/functions-post-content.php:243
+msgid "The wording of the message"
+msgstr "La formulazione del messaggio"
+
+#: add-on/prime-forum/functions-forms.php:153
+msgid "The reason for the edit"
+msgstr "La ragione della modifica"
+
+#: add-on/prime-forum/functions-actions.php:1173
+msgid "Topic closed"
+msgstr "Argomento chiuso"
+
+#: add-on/prime-forum/functions-actions.php:1167
+msgid "Insufficient rights to publish"
+msgstr "Diritti insufficienti per pubblicare"
+
+#: add-on/prime-forum/admin/index.php:267
+msgid "Notification to the administrator about new topics"
+msgstr "Notifica all'amministratore i nuovi argomenti"
+
+#: admin/pages/dashboard.php:3
+msgid "Dashboard WP-Recall"
+msgstr "Dashboard di WP-Recall"
+
+#: admin/metaboxes.php:58
+msgid "Unable to retrieve news"
+msgstr "Non ho potuto scaricare le news"
+
+#: admin/metaboxes.php:41
+msgid "Go to templates manager"
+msgstr "Vai al manager dei modelli"
+
+#: admin/metaboxes.php:40
+msgid "Active template"
+msgstr "Modello attivo"
+
+#: admin/metaboxes.php:37
+msgid "Go to addons manager"
+msgstr "Vai al manager dei Componenti aggiuntivi"
+
+#: admin/metaboxes.php:36
+msgid "Active addons"
+msgstr "Componenti aggiuntivi attivi"
+
+#: admin/metaboxes.php:32
+msgid "Total addons"
+msgstr "Componenti aggiuntivi totali"
+
+#: admin/metaboxes.php:7
+msgid "Documentation for WP-Recall"
+msgstr "Documentazione di WP-Recall"
+
+#: admin/metaboxes.php:6
+msgid "WP-Recall news"
+msgstr "News di WP-Recall"
+
+#: admin/metaboxes.php:5
+msgid "WP-Recall statistics"
+msgstr "Stastistiche di WP-Recall"
+
+#: add-on/publicpost/admin/index.php:134
+msgid "Type"
+msgstr "Scrivi"
+
+#: add-on/publicpost/admin/index.php:127
+msgid "No posts under moderation"
+msgstr "Nessun post in moderazione"
+
+#: add-on/publicpost/admin/index.php:119
+msgid "Posts awaiting approval"
+msgstr "Post in attesa di approvazione"
+
+#: add-on/prime-forum/admin/index.php:798
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:7
+msgid "Go to forum"
+msgstr "Vai al forum"
+
+#: add-on/prime-forum/admin/index.php:786
+msgid "Topic"
+msgstr "Argomento"
+
+#: add-on/prime-forum/admin/index.php:781
+msgid "No topics on the forum yet"
+msgstr "Ancora nessun argomento sul forum"
+
+#: add-on/prime-forum/admin/index.php:773
+msgid "Last forum topics"
+msgstr "Ultimi argomenti del forum"
+
+#: add-on/commerce/admin/index.php:426
+msgid "Go to orders manager"
+msgstr "Vai al gestore degli ordini"
+
+#: add-on/commerce/admin/index.php:412
+msgid "Q-ty"
+msgstr "Quantità"
+
+#: add-on/commerce/admin/index.php:411
+msgid "Buyer"
+msgstr "Acquirente"
+
+#: add-on/commerce/admin/index.php:405
+msgid "No orders yet"
+msgstr "Non ci sono ancora ordini"
+
+#: add-on/commerce/admin/index.php:397
+msgid "Last orders"
+msgstr "Ultimi ordini"
+
+#: add-on/user-balance/index.php:219
+msgid "Order not found!"
+msgstr "Ordine non trovato!"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:12
+msgid "Subforums:"
+msgstr "Subforum:"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-search.php:6
+msgid "Search results"
+msgstr "Risultato della ricerca"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-group.php:6
+msgid "List of forums"
+msgstr "Elenco dei Forum"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-forum.php:25
+msgid "Forum topics"
+msgstr "Argomenti Forum"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-forum.php:6
+msgid "Child forums"
+msgstr "Forum figli"
+
+#: add-on/prime-forum/index.php:382 add-on/prime-forum/index.php:407
+msgid "Page"
+msgstr "Pagina"
+
+#: add-on/prime-forum/index.php:339
+msgid "Multiline code"
+msgstr "Codice multiriga"
+
+#: add-on/prime-forum/index.php:196
+msgid "Started topics on the forum"
+msgstr "Argomenti iniziati nel forum"
+
+#: add-on/prime-forum/index.php:163
+msgid "There are no started topics on the forum yet."
+msgstr "Non ci sono ancora argomenti iniziati nel forum"
+
+#: add-on/prime-forum/index.php:131
+msgid "Messaged in topics on the forum created by other users"
+msgstr "Messaggi negli argomenti sul forum creati da altri utenti"
+
+#: add-on/prime-forum/index.php:108
+msgid "There are no messages in topics created by other users."
+msgstr "Non ci sono messaggi negli argomenti creati da altri utenti."
+
+#: add-on/prime-forum/index.php:73
+msgid "Messages in topics created by other users"
+msgstr "Messaggi negli argomenti creati da altri utenti"
+
+#: add-on/prime-forum/index.php:65
+msgid "Started topics"
+msgstr "Argomenti iniziati"
+
+#: add-on/prime-forum/functions-templates.php:234
+#: add-on/prime-forum/index.php:494
+msgid "Nobody is here"
+msgstr "Non c'è nessuno!"
+
+#: add-on/prime-forum/functions-templates.php:224
+msgid "Currently on the forum"
+msgstr "Attualmente nel forum"
+
+#: add-on/prime-forum/functions-templates.php:222
+msgid "The topic is viewed by"
+msgstr "L'argomento è visto da"
+
+#: add-on/prime-forum/functions-templates.php:220
+msgid "The forum is viewed by"
+msgstr "Il forum è visto da"
+
+#: add-on/prime-forum/functions-templates.php:218
+msgid "The group is viewed by"
+msgstr "Il gruppo è visto da"
+
+#: add-on/prime-forum/functions-templates.php:180
+msgid "The topic does not contain any messages"
+msgstr "L'argomento non contiene alcun messaggio"
+
+#: add-on/prime-forum/functions-templates.php:171
+msgid "No topics were created yet"
+msgstr "Non sono stati ancora creati argomenti"
+
+#: add-on/prime-forum/functions-templates.php:162
+msgid "Forums were not found"
+msgstr "Non trovo i forum"
+
+#: add-on/prime-forum/functions-templates.php:153
+msgid "Groups were not found"
+msgstr "Non trovo i gruppi"
+
+#: add-on/prime-forum/functions-shortcodes.php:82
+#: add-on/prime-forum/index.php:341
+msgid "Off-topic"
+msgstr "Fuori tema"
+
+#: add-on/prime-forum/functions-shortcodes.php:70
+#: add-on/prime-forum/index.php:340
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: add-on/prime-forum/functions-query.php:214
+#: classes/class-rcl-custom-fields.php:586
+msgid "from"
+msgstr "da"
+
+#: add-on/prime-forum/functions-query.php:201
+msgid "not found"
+msgstr "non trovato"
+
+#: add-on/prime-forum/functions-posts.php:312
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:18
+msgid "Topics"
+msgstr "Argomenti"
+
+#: add-on/prime-forum/functions-posts.php:296
+msgid "On the website since"
+msgstr "Nel sito da"
+
+#: add-on/prime-forum/functions-post-content.php:144
+#: add-on/prime-forum/functions-post-content.php:175
+msgid "You are unable to view published links"
+msgstr "Non sei abilitato a vedere i collegamenti pubblicati"
+
+#: add-on/prime-forum/functions-forms.php:78
+msgid "Add message"
+msgstr "Aggiungi un messaggio"
+
+#: add-on/prime-forum/functions-forms.php:63
+msgid "You are not authorised to publish messages in this topic"
+msgstr "Non sei autorizzato a pubblicare messaggi in questo argomento"
+
+#: add-on/prime-forum/functions-forms.php:55
+msgid "The topic is closed. It is prohibited to publish new topics."
+msgstr "L'argomento è chiuso. È proibito pubblicare nuovi argomenti."
+
+#: add-on/prime-forum/functions-forms.php:26
+msgid "You are not authorised to publish new topics in this forum"
+msgstr "Non sei autorizzato a pubblicare nuovi argomenti in questo forum."
+
+#: add-on/prime-forum/functions-forms.php:18
+#: add-on/prime-forum/functions-forms.php:47
+msgid "The forum is closed. It is impossible to create new topics."
+msgstr "Il forum è chiuso. È impossibile creare nuovi argomenti."
+
+#: add-on/prime-forum/functions-compatibility.php:19
+msgid "The answers on the forum"
+msgstr "Le risposte nel forum"
+
+#: add-on/prime-forum/functions-capabilities.php:145
+msgid "You are not allowed to view contents of the forum"
+msgstr "Non sei autorizzato a vedere i contenuti del forum"
+
+#: add-on/prime-forum/functions-actions.php:1116
+msgid "Empty message!"
+msgstr "Messaggio vuoto!"
+
+#: add-on/prime-forum/functions-actions.php:1085
+#: add-on/rcl-chat/actions_ajax.php:16
+msgid "Chat with"
+msgstr "Chat con"
+
+#: add-on/prime-forum/functions-actions.php:1071
+msgid "Updated forum topics"
+msgstr "Argomenti aggiornati del forum"
+
+#: add-on/prime-forum/functions-actions.php:1062
+#: add-on/prime-forum/functions-templates.php:149
+#: admin/pages/repository.php:133
+msgid "Nothing found"
+msgstr "Non ho trovato nulla"
+
+#: add-on/prime-forum/functions-actions.php:1026
+msgid "Last started topics"
+msgstr "Gli ultimi argomenti iniziati"
+
+#: add-on/prime-forum/functions-actions.php:1013
+msgid "Jump to the forum"
+msgstr "Salta al forum"
+
+#: add-on/prime-forum/functions-actions.php:1001
+msgid "Go to the selected forum"
+msgstr "Vai al forum selezionato"
+
+#: add-on/prime-forum/functions-actions.php:960
+#: add-on/prime-forum/functions-actions.php:969
+msgid "said"
+msgstr "ha detto"
+
+#: add-on/prime-forum/functions-actions.php:950
+msgid "Unable to get the message quote"
+msgstr "Non riesco a recuperare il messaggio preventivo"
+
+#: add-on/prime-forum/functions-actions.php:926
+msgid "Unable to unpin topic"
+msgstr "Non posso sbloccare l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:902
+msgid "Unable to pin topic"
+msgstr "Non posso bloccare l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:888
+msgid "Edit topic"
+msgstr "Modifica l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:833
+msgid "Transfer topic to another forum"
+msgstr "Trasferisci l'argomento ad un altro forum"
+
+#: add-on/prime-forum/functions-actions.php:814
+#: add-on/prime-forum/functions-actions.php:847
+msgid "Unable to get topic"
+msgstr "Non posso recuperare l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:788
+msgid "Unable to delete topic"
+msgstr "Non posso cancellare l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:767
+msgid "Unable to open topic"
+msgstr "Non posso aprire l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:746
+msgid "Unable to close topic"
+msgstr "Non posso chiudere l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:719
+msgid "Unsuccessful deletion"
+msgstr "Canellazione fallita"
+
+#: add-on/prime-forum/functions-actions.php:702
+msgid "Edit messages"
+msgstr "Modifica i messaggi"
+
+#: add-on/prime-forum/functions-actions.php:676
+msgid "Transfer message to a new topic"
+msgstr "Trasferisci il messaggio ad un nuovo argomento"
+
+#: add-on/prime-forum/functions-actions.php:605
+msgid "Unsuccessful transfer"
+msgstr "Trasferimento fallito"
+
+#: add-on/prime-forum/functions-actions.php:579
+msgid "Transfer messages to another topic"
+msgstr "Trasferisci i messaggi ad un altro argomento"
+
+#: add-on/prime-forum/functions-actions.php:569
+#: add-on/prime-forum/functions-actions.php:570
+msgid "Confirm transfer"
+msgstr "Conferma il trasferimento"
+
+#: add-on/prime-forum/functions-actions.php:535
+#: add-on/prime-forum/functions-actions.php:672
+msgid "Also transfer all subsequent messages"
+msgstr "Trasferisci anche tutti i messaggi successivi"
+
+#: add-on/prime-forum/functions-actions.php:517
+msgid "Data is ready to be transferred"
+msgstr "I dati sono pronti per essere trasferiti"
+
+#: add-on/prime-forum/functions-actions.php:516
+msgid "Go to the page of the necessary topic and press the \"Transfer to this topic\" button to end message transfer"
+msgstr "Vai alla pagina dell'argomento necessario e premi il pulsante \"Trasferisci a questo argomento\" per terminare il trasferimento dei messaggi"
+
+#: add-on/prime-forum/functions-actions.php:480
+msgid "Unable to perform action"
+msgstr "Non posso completare questa azione"
+
+#: add-on/prime-forum/functions-actions.php:282
+#: add-on/prime-forum/functions-actions.php:1177
+msgid "Empty message! Go back and write something."
+msgstr "Messaggio vuoto! Torna indietro e scrivi qualcosa"
+
+#: add-on/prime-forum/functions-actions.php:248
+msgid "Change name"
+msgstr "Cambia nome"
+
+#: add-on/prime-forum/functions-actions.php:238
+#: add-on/prime-forum/functions-forms.php:109
+msgid "Close topic"
+msgstr "Chiudi l'argomento"
+
+#: add-on/prime-forum/functions-actions.php:233
+msgid "Open topic"
+msgstr "Apri argomento"
+
+#: add-on/prime-forum/functions-actions.php:222
+msgid "Pin topic"
+msgstr "Blocca argomento"
+
+#: add-on/prime-forum/functions-actions.php:217
+msgid "Unpin topic"
+msgstr "Sblocca argomento"
+
+#: add-on/prime-forum/functions-actions.php:207
+#: add-on/prime-forum/functions-actions.php:820
+msgid "Transfer topic"
+msgstr "Trasferisci argomento"
+
+#: add-on/prime-forum/functions-actions.php:195
+msgid "Delete topic"
+msgstr "Cancella argomento"
+
+#: add-on/prime-forum/functions-actions.php:185
+msgid "Cancel transfer"
+msgstr "Cancella trasferimento"
+
+#: add-on/prime-forum/functions-actions.php:182
+msgid "Transfer to this topic"
+msgstr "Trasferisci a questo argomento"
+
+#: add-on/prime-forum/functions-actions.php:155
+msgid "Quote message"
+msgstr "Cita il messaggio"
+
+#: add-on/prime-forum/functions-actions.php:147
+msgid "Edit message"
+msgstr "Modifica il messaggio"
+
+#: add-on/prime-forum/functions-actions.php:138
+msgid "Transfer to the new topic"
+msgstr "Trasferisci al nuovo argomento"
+
+#: add-on/prime-forum/functions-actions.php:133
+msgid "Transfer to the existing topic"
+msgstr "Trasferisci all'argomento esistente"
+
+#: add-on/prime-forum/functions-actions.php:121
+msgid "Delete message"
+msgstr "Cancella il messaggio"
+
+#: add-on/prime-forum/functions-actions.php:101
+msgid "Jump to the needed forum"
+msgstr "Vai al forum necessario"
+
+#: add-on/prime-forum/functions-actions.php:95
+msgid "Get your started topics"
+msgstr "Recupera gli argomenti iniziati"
+
+#: add-on/prime-forum/functions-actions.php:88
+msgid "Get the list of updated topics"
+msgstr "Recupera la lista degli argomenti aggiornati"
+
+#: add-on/prime-forum/functions-actions.php:68
+msgid "Go to the private chat"
+msgstr "Vai alla chat privata"
+
+#: add-on/prime-forum/functions-actions.php:59
+msgid "Details about the author"
+msgstr "Dettagli sull'autore"
+
+#: add-on/prime-forum/classes/class-prime-roles.php:31
+msgid "Member"
+msgstr "Membro"
+
+#: add-on/prime-forum/classes/class-prime-query.php:110
+#: add-on/prime-forum/functions-templates.php:176
+msgid "Topic not found"
+msgstr "Argomento sconosciuto"
+
+#: add-on/prime-forum/classes/class-prime-query.php:106
+#: add-on/prime-forum/functions-templates.php:167
+msgid "Forum not found"
+msgstr "Non trovo il forum"
+
+#: add-on/prime-forum/classes/class-prime-query.php:102
+#: add-on/prime-forum/functions-templates.php:158
+msgid "Group not found"
+msgstr "Non trovo il gruppo"
+
+#: add-on/prime-forum/classes/class-prime-form.php:126
+msgid "not published"
+msgstr "Non pubblicato"
+
+#: add-on/prime-forum/classes/class-prime-form.php:106
+msgid "Heading of the topic"
+msgstr "Titolo dell'argomento"
+
+#: add-on/prime-forum/classes/class-prime-form.php:94
+msgid "Choose forum"
+msgstr "Scegli il forum"
+
+#: add-on/prime-forum/classes/class-prime-form.php:21
+#: add-on/prime-forum/functions-forms.php:35
+msgid "Create topic"
+msgstr "Crea un argomento"
+
+#: add-on/prime-forum/admin/index.php:661
+msgid "New forum for child topics"
+msgstr "Nuovo forum per argomenti figli"
+
+#: add-on/prime-forum/admin/index.php:646
+msgid "Delete all topic inside the forum"
+msgstr "Elimina tutti gli argomenti all'interno del forum"
+
+#: add-on/prime-forum/admin/index.php:619
+msgid "New group for child forums"
+msgstr "Nuovo gruppo per i forum figli"
+
+#: add-on/prime-forum/admin/index.php:604
+msgid "Delete all forums inside the group"
+msgstr "Cancella tutti i forum dentro il gruppo"
+
+#: add-on/prime-forum/admin/index.php:498
+#: add-on/prime-forum/admin/index.php:519
+#: add-on/prime-forum/admin/index.php:557
+#: add-on/prime-forum/admin/index.php:585
+msgid "Changes saved!"
+msgstr "Modifiche salvate!"
+
+#: add-on/prime-forum/admin/index.php:436
+msgid "Role of the user on the forum"
+msgstr "Ruolo dell'utente nel forum"
+
+#: add-on/prime-forum/admin/index.php:298
+msgid "Settings PrimeForum"
+msgstr "Coinfigurazioni di PrimeForum"
+
+#: add-on/prime-forum/admin/index.php:261
+msgid "Name of the page of the separate topic"
+msgstr "Nome della pagina dell'argomento separato"
+
+#: add-on/prime-forum/admin/index.php:255
+msgid "Title tag on the topic page"
+msgstr "Tag del titolo nell pagina dell'argomento"
+
+#: add-on/prime-forum/admin/index.php:249
+msgid "Name of the page of the separate forum"
+msgstr "Nome della pagina del forum separato"
+
+#: add-on/prime-forum/admin/index.php:243
+msgid "Title tag on the forum page"
+msgstr "Tag del titolo nella pagina del forum"
+
+#: add-on/prime-forum/admin/index.php:237
+msgid "Name of the page in the group of forums"
+msgstr "Nome della pagina nel gruppo di forum"
+
+#: add-on/prime-forum/admin/index.php:232
+#: add-on/prime-forum/admin/index.php:238 add-on/prime-forum/index.php:378
+#: add-on/prime-forum/index.php:403
+msgid "Group of forums"
+msgstr "Gruppo di forum"
+
+#: add-on/prime-forum/admin/index.php:231
+msgid "Title tag in the group of forums"
+msgstr "Tag del titolo nel gruppo di forum"
+
+#: add-on/prime-forum/admin/index.php:426
+msgid "Current role"
+msgstr "Ruolo attuale"
+
+#: add-on/prime-forum/admin/index.php:219
+msgid "Templates to form the title tag and name of the page"
+msgstr "Modelli per impostare il tag del titolo ed il nome della pagina"
+
+#: add-on/prime-forum/admin/index.php:181
+msgid "Support of OEMBED in messages"
+msgstr "Supporto di OEMBED nei messaggi"
+
+#: add-on/prime-forum/admin/index.php:174
+#: add-on/prime-forum/admin/index.php:183
+#: add-on/prime-forum/admin/index.php:193
+msgid "Forbidden"
+msgstr "Vietato"
+
+#: add-on/prime-forum/admin/index.php:172
+msgid "Publishing of messages in the topic by guests"
+msgstr "Pubblicazione di messaggi dai visitatori negli argomenti "
+
+#: add-on/prime-forum/admin/index.php:163
+msgid "Messages on the topic page"
+msgstr "Messaggi nella pagina dell'argomento"
+
+#: add-on/prime-forum/admin/index.php:154
+msgid "Topics on the forum page"
+msgstr "Argomenti nella pagina del forum"
+
+#: add-on/prime-forum/admin/index.php:145
+msgid "Forums on the group page"
+msgstr "Forum nella pagina del gruppo"
+
+#: add-on/prime-forum/admin/index.php:139
+msgid "Output forums only for the specified groups"
+msgstr "Output del forum solo per i gruppi specificati"
+
+#: add-on/prime-forum/admin/index.php:131
+msgid "Do not output"
+msgstr "Non mostrare"
+
+#: add-on/prime-forum/admin/index.php:129
+msgid "If selected, all forums will be displayed on the homepage"
+msgstr "Se selezionato, tutti i forum saranno mostrati nella homepage"
+
+#: add-on/prime-forum/admin/index.php:128
+msgid "Output all forums of the group on the homepage"
+msgstr "Mostra tutti i forum del gruppo nella homepage"
+
+#: add-on/prime-forum/admin/index.php:122
+msgid "Supported shortcodes"
+msgstr "shortcodes supportati"
+
+#: add-on/prime-forum/admin/index.php:107
+msgid "Primary colours of WP-Recall"
+msgstr "Combinazione primaria dei colori di WP-Recall"
+
+#: add-on/prime-forum/admin/index.php:104
+msgid "Forum colours"
+msgstr "Colori del forum"
+
+#: add-on/prime-forum/admin/index.php:97
+msgid "Forum page"
+msgstr "Pagina del forum"
+
+#: add-on/prime-forum/admin/index.php:82
+msgid "Pages not found"
+msgstr "Pagine non trovate"
+
+#: add-on/prime-forum/admin/index.php:60
+msgid "Select a forum group and manage custom fields form of publication of a topic within this group"
+msgstr "Seleziona un gruppo di forum e gestisci il modulo personalizzato di pubblicazione di un topic all'interno di questo gruppo"
+
+#: add-on/prime-forum/admin/index.php:59
+msgid "Manage topic form"
+msgstr "Gestisci modulo del topic"
+
+#: add-on/prime-forum/admin/index.php:48
+msgid "Create a group of forums for managing the form fields of the publication of a topic"
+msgstr "Creare un gruppo di forum per la gestione dei campi modulo della pubblicazione di un topic"
+
+#: add-on/prime-forum/admin/index.php:47
+msgid "The forum is not yet created any groups of forums"
+msgstr "Il forum non è stato ancora creato in alcun gruppo di forum"
+
+#: add-on/prime-forum/admin/index.php:26
+msgid "Topic form"
+msgstr "Modulo dell'argomento"
+
+#: add-on/prime-forum/admin/index.php:23
+msgid "Structure"
+msgstr "Struttura"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:354
+msgid "Get forums"
+msgstr "Ottieni i forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:293
+#: add-on/prime-forum/admin/index.php:338
+msgid "Manage forums"
+msgstr "Gestisci i forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:162
+msgid "It is impossible to publish new topics and messages in a closed forum"
+msgstr "È impossibile pubblicare nuovi topic e messaggi in un forum chiuso"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:160
+msgid "Closed forum"
+msgstr "Forum chiuso"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:159
+msgid "Open forum"
+msgstr "Forum aperto"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:157
+msgid "Forum status"
+msgstr "Stato del forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:241
+msgid "Group forums"
+msgstr "Forum di gruppo"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:232
+msgid "Forums were not created yet"
+msgstr "Non sono ancora stati creati forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:196
+msgid "No groups are created yet"
+msgstr "Non sono stati ancora creati dei gruppi"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:181
+msgid "Manage groups"
+msgstr "Gestisci i Gruppi"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:167
+msgid "Description of the forum"
+msgstr "Descrizione del forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:152
+msgid "Slug of the forum"
+msgstr "Slug del forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:146
+msgid "Name of the forum"
+msgstr "Nome del forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:138
+msgid "Forum group"
+msgstr "Gruppo del forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:128
+msgid "Select the group forum"
+msgstr "Seleziona il forum del gruppo"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:115
+msgid "Description of the group"
+msgstr "Descrizione del gruppo"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:110
+msgid "Slug of the group"
+msgstr "Slug del gruppo"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:104
+msgid "Name of the group of forums"
+msgstr "Nome del gruppo di forum"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:56
+msgid "Create forum"
+msgstr "Crea un forum"
+
+#: add-on/prime-forum/activate.php:149 add-on/prime-forum/admin/index.php:244
+#: add-on/prime-forum/admin/index.php:250
+#: add-on/prime-forum/admin/index.php:256
+#: add-on/prime-forum/functions-compatibility.php:10
+#: add-on/prime-forum/index.php:57 add-on/prime-forum/index.php:374
+#: add-on/prime-forum/index.php:376 add-on/prime-forum/index.php:401
+msgid "Forum"
+msgstr "Forum"
+
+#: add-on/feed/index.php:249
+msgid "News no more"
+msgstr "Nessuna notizia"
+
+#: admin/pages/options.php:22
+msgid "Advanced settings"
+msgstr "Impostazioni avanzate"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:299
+msgid "Edit this form"
+msgstr "Modifica questo modulo"
+
+#: add-on/publicpost/admin/addon-settings.php:191
+msgid "The time limit edit"
+msgstr "Modifica il limite di tempo"
+
+#: add-on/prime-forum/index.php:339
+msgid "pre"
+msgstr "pre"
+
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:110
+msgid "Форум"
+msgstr "forum"
+
+#: classes/class-rcl-custom-fields-manager.php:417
+msgid "Pattern"
+msgstr "Pattern"
+
+#: add-on/commerce/core.php:60
+msgid "Error creating order"
+msgstr "Errore nella creazione dell'ordine"
+
+#: add-on/commerce/admin/pages/addon-settings.php:85
+msgid "On the archive page"
+msgstr "Nella pagina dell'archivio"
+
+#: add-on/commerce/admin/pages/addon-settings.php:79
+msgid "Under the description"
+msgstr "Sotto la descrizione"
+
+#: add-on/commerce/admin/pages/addon-settings.php:78
+msgid "On the description"
+msgstr "Nella descrizione"
+
+#: add-on/commerce/admin/pages/addon-settings.php:75
+msgid "On the product page"
+msgstr "Nella pagina del prodotto"
+
+#: add-on/commerce/admin/pages/addon-settings.php:71
+msgid "The output of the button \"Add to cart\""
+msgstr "L'output del pulsante \"Aggiungi al carrello\""
+
+#: add-on/publicpost/init.php:25
+msgid "Exceeds the maximum file size! Max:"
+msgstr "Eccede la dimensione massima del file! Il massimo è:"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:216
+msgid "By default, 10"
+msgstr "Valore predefinto: 10"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:215
+msgid "Number of files"
+msgstr "Numero di files"
+
+#: wp-recall.php:43 wp-recall.php:47
+msgid "Are you cheating, bastard?"
+msgstr "Stai imbrogliando, bastardo?"
+
+#: functions/shortcodes.php:166
+msgid "Such tab was not found!"
+msgstr "Scheda non trovata"
+
+#: functions/register.php:268
+msgid "Registration completed"
+msgstr "Registrazione completata"
+
+#: functions/cron.php:20 functions/cron.php:30 functions/cron.php:40
+msgid "Launch cron events"
+msgstr "Avvia eventi cron"
+
+#: functions/addons-update.php:46
+msgid "Failed to open file with add-ons data to check for updates"
+msgstr "Non riesco ad aprire il file con i dati dei componenti aggiuntivi per verificare gli aggiornamenti"
+
+#: functions/addons-update.php:38
+msgid "Sending request to the update server to get the latest versions of the installed add-ons"
+msgstr "Sto spedendo la richiesta di aggiornamento al server, per scaricare l'ultima versione dei Componenti aggiuntivi installati"
+
+#: classes/class-rcl-sub-tabs.php:115
+msgid "Failed to load tab content"
+msgstr "Impossibile caricare il contenuto della scheda"
+
+#: classes/class-rcl-custom-fields.php:623
+msgid "Accepted"
+msgstr "Accettato"
+
+#: classes/class-rcl-custom-fields.php:537
+msgid "Use the format"
+msgstr "Utilizza il formato"
+
+#: classes/class-rcl-custom-fields.php:496
+msgid "I agree with the text of the agreement"
+msgstr "Sono d'accordo con quanto espresso nel testo"
+
+#: classes/class-rcl-custom-fields-manager.php:667
+msgid "Inactive fields"
+msgstr "Campo inattivo"
+
+#: classes/class-rcl-custom-fields-manager.php:561
+msgid "Meta-key"
+msgstr "Meta-Key"
+
+#: classes/class-rcl-custom-fields-manager.php:426
+msgid "maximum number of symbols per field"
+msgstr "Numero massimo di simboli per campo"
+
+#: classes/class-rcl-custom-fields-manager.php:425
+msgid "Maxlength"
+msgstr "Lunghezza massima"
+
+#: classes/class-rcl-custom-fields-manager.php:405
+msgid "Placeholder"
+msgstr "Segnaposto"
+
+#: classes/class-rcl-custom-fields-manager.php:393
+msgid "specify each option in a separate field"
+msgstr "Specifica ogni opzione in un campo separato"
+
+#: classes/class-rcl-custom-fields-manager.php:392
+msgid "Specify options"
+msgstr "Specifica le opzioni"
+
+#: classes/class-rcl-custom-fields-manager.php:384
+msgid "Name of the first blank value, for example: \"Not selected\""
+msgstr "Nome del primo valore vuoto, ad esempio: \"Non selezionato\""
+
+#: classes/class-rcl-custom-fields-manager.php:383
+msgid "First value"
+msgstr "Primo valore"
+
+#: classes/class-rcl-custom-fields-manager.php:340
+msgid "Consent confirmation text"
+msgstr "Consenti testo di conferma"
+
+#: classes/class-rcl-custom-fields-manager.php:318
+msgid "File size"
+msgstr "Dimensione del File"
+
+#: classes/class-rcl-custom-fields-manager.php:123
+msgid "Active fields"
+msgstr "Campi attivi"
+
+#: admin/pages/tabs-manager.php:18
+msgid "Personal account tabs manager"
+msgstr "Gestore di schede dell'account personale"
+
+#: admin/pages/options.php:106
+msgid "Write background events and errors to the log-file"
+msgstr "Scrivi gli eventi di background e gli errori nel file di log"
+
+#: admin/pages/options.php:101
+msgid "Logging mode"
+msgstr "Funzionalità di Log"
+
+#: admin/classes/class-rcl-tabs-manager.php:89
+msgid "dialog box"
+msgstr "Riquadro di dialogo"
+
+#: admin/classes/class-rcl-tabs-manager.php:88
+msgid "caching"
+msgstr "caching"
+
+#: admin/classes/class-rcl-tabs-manager.php:85
+msgid "Support of the functions"
+msgstr "Supporto delle funzioni"
+
+#: admin/classes/class-rcl-tabs-manager.php:78
+msgid "Public"
+msgstr "Pubblico"
+
+#: admin/classes/class-rcl-tabs-manager.php:77
+msgid "Private"
+msgstr "Privato"
+
+#: admin/classes/class-rcl-tabs-manager.php:75
+msgid "Tab privacy"
+msgstr "Scheda sulla privacy"
+
+#: admin/classes/class-rcl-tabs-manager.php:69
+msgid "Source"
+msgstr "Sorgente"
+
+#: admin/classes/class-rcl-tabs-manager.php:20
+msgid "\"Counters\" area"
+msgstr "Area \"Contatori\""
+
+#: admin/classes/class-rcl-tabs-manager.php:19
+msgid "\"Actions\" area"
+msgstr "Area \"Azioni\""
+
+#: admin/classes/class-rcl-tabs-manager.php:18
+msgid "\"Menu\" area"
+msgstr "Area \"Menu\""
+
+#: admin/admin-menu.php:49
+msgid "Tabs manager"
+msgstr "Gestore delle schede"
+
+#: add-on/user-balance/index.php:120
+msgid "Failed to add user balance"
+msgstr "Impossibile aggiungere il saldo dell'utente"
+
+#: add-on/user-balance/index.php:100
+msgid "Failed to refresh user balance"
+msgstr "Impossibile aggiornare il saldo dell'utente"
+
+#: add-on/user-balance/class-rcl-payment.php:204
+msgid "Failed to add user payment"
+msgstr "Impossibile aggiungere il pagamento dell'utente"
+
+#: add-on/rcl-chat/core.php:231
+msgid "Failed to refresh user status in the chat"
+msgstr "Impossibile aggiornare lo stato dell'utente nella chat"
+
+#: add-on/rcl-chat/core.php:204
+msgid "Failed to send mets data of the message"
+msgstr "Impossibile inviare metadati del messaggio"
+
+#: add-on/rcl-chat/core.php:143
+msgid "Failed to add user to the chat"
+msgstr "Impossibile aggiungere l'utente alla chat"
+
+#: add-on/rcl-chat/core.php:34
+msgid "Failed to add chat"
+msgstr "Impossibile aggiungere la chat"
+
+#: add-on/rcl-chat/actions_cron.php:86
+msgid "Send notifications on unread messages"
+msgstr "Manda notifiche per messaggi non letti"
+
+#: add-on/rating-system/core.php:461
+msgid "Failed to change general rating of the user"
+msgstr "Impossibile aggiungere la classificazione generale dell'utente"
+
+#: add-on/rating-system/core.php:418
+msgid "Failed to change general rating of the object"
+msgstr "Impossibile aggiungere la classificazione generale dell'oggetto"
+
+#: add-on/rating-system/core.php:166
+msgid "Failed to add general rating of the user"
+msgstr "Impossibile aggiungere la classificazione generale dell'utente"
+
+#: add-on/rating-system/core.php:149
+msgid "Failed to add general rating of the object"
+msgstr "Impossibile aggiungere la classificazione generale dell'oggetto"
+
+#: add-on/rating-system/core.php:123
+msgid "Failed to add user vote"
+msgstr "Impossibile aggiungere il voto dell'utente"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:389
+#: add-on/rating-system/classes/class-rcl-rating-box.php:409
+msgid "Vote"
+msgstr "Voto"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:389
+#: add-on/rating-system/classes/class-rcl-rating-box.php:409
+msgid "Cancel vote"
+msgstr "Cancella voto"
+
+#: add-on/rating-system/classes/class-rcl-rating-box.php:382
+#: add-on/rating-system/classes/class-rcl-rating-box.php:403
+msgid "See history"
+msgstr "Vedi la cronologia"
+
+#: add-on/publicpost/upload-file.php:18
+msgid "Make thumbnail"
+msgstr "Crea miniatura"
+
+#: add-on/publicpost/functions-ajax.php:207
+msgid "Upload or specify an image as a thumbnail"
+msgstr "Carica o specifica un'immagine come miniatura"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:483
+msgid "Upload thumbnail"
+msgstr "Carica anteprima"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:105
+msgid "Delete form"
+msgstr "Cancella il modulo"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:93
+msgid "Add form"
+msgstr "Aggiungi un modulo"
+
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:90
+msgid "Form"
+msgstr "Modulo"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:328
+msgid "Specify term_ID to be selected"
+msgstr "Specifica term_ID da selezionare"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:119
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:269
+#: add-on/rating-system/admin/addon-settings.php:73
+#: add-on/rating-system/admin/addon-settings.php:193
+msgid "Enable"
+msgstr "Abilita"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:118
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:268
+#: add-on/rating-system/admin/addon-settings.php:72
+#: add-on/rating-system/admin/addon-settings.php:192
+msgid "Disable"
+msgstr "Disabilita"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:266
+msgid "New values entry field"
+msgstr "Nuovo campo di immissione valori"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:261
+msgid "Maximum output"
+msgstr "Output massimo"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:225
+msgid "Thumbnail of the publication"
+msgstr "Anteprima della pubblicazione"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:176
+msgid "Separated by comma, for example: jpg, zip, pdf. By default: png, gif, jpg"
+msgstr "Separate da virgole, per esempio:jpg, zip, pdf. Per configurazione predefinita: png, gif, jpg"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:175
+msgid "Valid file extensions"
+msgstr "Estensioni dei file valide"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:168
+msgid "WP-Recall media loader"
+msgstr "Pannello di caricamento dei file media di WP-Recall"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:156
+msgid "Editor settings"
+msgstr "Parametri dell'editor"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:148
+msgid "Content of the publication"
+msgstr "Contenuto della pubblicazione"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:142
+msgid "Short entry"
+msgstr "Breve testo"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:105
+msgid "Output option"
+msgstr "Opzioni di output"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:100
+msgid "only when output through select"
+msgstr "solo quando l'output è selezionato"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:99
+msgid "Amount to choose"
+msgstr "Importo da scegliere"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:89
+msgid "Group category"
+msgstr "Categoria di gruppo"
+
+#: add-on/publicpost/admin/addon-settings.php:95
+msgid "Use draft"
+msgstr "Usa la bozza"
+
+#: add-on/publicpost/admin/index.php:34
+msgid "Manage publication forms"
+msgstr "Gestisci i moduli di pubblicazione"
+
+#: add-on/profile/index.php:158
+msgid "Repeat password"
+msgstr "Ripeti password"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:53
+msgid "Birthday"
+msgstr "Compleanno"
+
+#: add-on/groups/index.php:306 add-on/publicpost/admin/index.php:132
+msgid "Header"
+msgstr "Header"
+
+#: add-on/groups/admin/index.php:45
+msgid "please specify the page where the [grouplist] shortcode is placed"
+msgstr "per favore, specifica la pagina dove è stato posizionato lo shortcode [grouplist]."
+
+#: add-on/groups/admin/index.php:19
+msgid "On an arbitrary page of the website"
+msgstr "In una pagina del sito web"
+
+#: add-on/groups/admin/index.php:18
+msgid "On the archive page of post-groups entries"
+msgstr "Nella pagina di archivio delle voci dei post - gruppi"
+
+#: add-on/groups/admin/index.php:15
+msgid "Group output"
+msgstr "Output dei gruppi"
+
+#: add-on/feed/addon-core.php:50
+msgid "Failed to change feed data"
+msgstr "Impossibile cambiare i dati del feed"
+
+#: add-on/feed/addon-core.php:24
+msgid "Failed to add new subscription"
+msgstr "L'inserimento della nuova sottoscrizione è fallito"
+
+#: add-on/commerce/templates/cart.php:57 add-on/commerce/templates/order.php:50
+msgid "Total"
+msgstr "Totale"
+
+#: add-on/commerce/index.php:306
+msgid "Delete order"
+msgstr "Cancella ordine"
+
+#: add-on/commerce/index.php:194
+msgid "All orders"
+msgstr "Tutti gli ordini"
+
+#: add-on/commerce/functions-ajax.php:103
+msgid "Please fill in required fields!"
+msgstr "Compilare i campi richiesti"
+
+#: add-on/commerce/core.php:398
+msgid "Product variation"
+msgstr "Variazione del prodotto"
+
+#: add-on/commerce/core.php:357
+msgid "Order №%d has been paid"
+msgstr "L'ordine n. %d è stato pagato"
+
+#: add-on/commerce/content/order-content.php:149
+msgid "Data specified when placing the order"
+msgstr "Dati specificati al momento dell'ordine"
+
+#: add-on/commerce/content/order-content.php:145
+msgid "Created date"
+msgstr "Data di creazione"
+
+#: add-on/commerce/content/order-content.php:117
+msgid "Pay for the created order by one of the proposed methods"
+msgstr "Pagare l'ordine creato con uno dei metodi proposti"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:138
+msgid "Not available"
+msgstr "Non disponibile"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:136
+msgid "To cart"
+msgstr "Al carrello"
+
+#: add-on/commerce/admin/products-metabox.php:51
+msgid "Product variations"
+msgstr "Modifiche al prodotto"
+
+#: add-on/commerce/admin/products-metabox.php:35
+msgid "Product old price"
+msgstr "Vecchio prezzo del prodotto"
+
+#: add-on/commerce/admin/pages/variations.php:20
+msgid "Products variations management"
+msgstr "Gestore delle variazioni dei prodotti"
+
+#: add-on/commerce/admin/pages/orders.php:14
+msgid "All statuses"
+msgstr "Tutti gli stati"
+
+#: add-on/commerce/admin/index.php:83
+msgid "The data stored"
+msgstr "I dati memorizzati"
+
+#: add-on/commerce/admin/pages/order.php:28
+msgid "Back to all orders"
+msgstr "Indietro all'elenco degli ordini"
+
+#: add-on/commerce/admin/pages/order.php:15
+msgid "Buyer data"
+msgstr "Dati dell'acquirente"
+
+#: add-on/commerce/admin/index.php:26
+msgid "Variations"
+msgstr "Modifiche"
+
+#: add-on/user-balance/shortcodes.php:57
+msgid "Submit"
+msgstr "Invia"
+
+#: add-on/user-balance/index.php:169 add-on/user-balance/shortcodes.php:74
+msgid "Enter the amount"
+msgstr "Inserisci la cifra"
+
+#: functions/register.php:363
+msgid "Registration is completed! Check your email for the confirmation link."
+msgstr "La registrazione è completata! Controlla la tua email per il link di conferma."
+
+#: functions/register.php:347
+msgid "Your email has been successfully confirmed! Log in using your username and password"
+msgstr "Il tuo indirizzo email è stato confermato.! Fai accesso con il tuo nome utente e password."
+
+#: add-on/user-balance/index.php:178 add-on/user-balance/shortcodes.php:43
+msgid "Make payment"
+msgstr "Paga"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:84
+msgid "Payment type"
+msgstr "Tipo di pagamento"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:83
+msgid "Payment system"
+msgstr "Sistema di pagamento"
+
+#: add-on/prime-forum/functions-post-content.php:249 rcl-functions.php:1306
+msgid "not specified"
+msgstr "non specificato"
+
+#: functions/frontend.php:435
+msgid "Draft of a post"
+msgstr "Anteprima dell'articolo"
+
+#: add-on/publicpost/templates/posts-list.php:17
+msgid "draft"
+msgstr "bozza"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:408
+#: add-on/publicpost/init.php:21
+msgid "Save as Draft"
+msgstr "Salva come bozza"
+
+#: functions/authorize.php:13
+msgid "Your account is unconfirmed! Confirm your account by clicking on the link in the email"
+msgstr "Il tuo account non è confermato! Confermalo cliccando sul link che ti è stato spedito via email."
+
+#: templates/form-sign.php:41
+msgid "Lost your Password"
+msgstr "Hai perso la password?"
+
+#: templates/form-remember.php:9
+msgid "Password generation"
+msgstr "Generatore di password"
+
+#: templates/add-on-card.php:19
+msgid "Go to page"
+msgstr "Vai alla pagina"
+
+#: rcl-widgets.php:144
+msgid "Block with main profile information"
+msgstr "Blocca con le informazioni del profilo principale"
+
+#: rcl-widgets.php:114
+msgid "Online"
+msgstr "In Linea"
+
+#: rcl-widgets.php:87
+msgid "Online users"
+msgstr "Utenti Online"
+
+#: rcl-widgets.php:85
+msgid "Online users output"
+msgstr "Mostra utenti online"
+
+#: rcl-widgets.php:70 rcl-widgets.php:129
+msgid "All users page"
+msgstr "Pagina Elenco di Tutti gli Utenti"
+
+#: add-on/prime-forum/admin/themes-manager.php:170
+#: admin/templates-manager.php:159
+msgid "connect"
+msgstr "Connetti"
+
+#: admin/pages/repository.php:63
+msgid "Repository for WP-Recall add-ons"
+msgstr "Deposito Software per le risorse aggiuntive di WP-Recall"
+
+#: admin/classes/class-rcl-tabs-manager.php:67
+msgid "Icon class of  font-awesome"
+msgstr "Classe di icone di Font Awesome"
+
+#: admin/classes/class-rcl-tabs-manager.php:49
+msgid "Tab ID"
+msgstr "Identificativo della scheda"
+
+#: admin/index.php:173
+msgid "Settings saved!"
+msgstr "Configurazioni salvate"
+
+#: admin/pages/options.php:293
+msgid "Output of recallbar panel"
+msgstr "Pubblicazione della barra che contiene il pannello di amministrazione"
+
+#: admin/pages/options.php:274
+msgid "repeat password field"
+msgstr "Campo \"ripeti password\""
+
+#: admin/pages/options.php:228
+msgid "ID of the shortcode page [loginform]"
+msgstr "ID della pagina di shortcode [loginform]"
+
+#: admin/pages/options.php:222
+msgid "Widget form"
+msgstr "Modulo Widget"
+
+#: admin/pages/options.php:221
+msgid "Wordpress Forms"
+msgstr "Modulo di WordPress"
+
+#: admin/pages/options.php:197
+msgid "Minimization of file styles only works in correlation with WP-Recall style files and add-ons that support this feature"
+msgstr "La riduzione al minimo dei file di stile funziona solo in correlazione con i file di stile di Wp-Recall e i componenti aggiuntivi che supportano questa funzionalità"
+
+#: admin/pages/options.php:193
+msgid "Minimization of file styles"
+msgstr "Riduzione al minimo dei file di stile"
+
+#: admin/pages/options.php:128
+msgid "The location of the section buttons"
+msgstr "La posizione della sezione pulsanti"
+
+#: admin/pages/options.php:117
+msgid "Design"
+msgstr "Design"
+
+#: admin/pages/options.php:86
+msgid "Access to the console is allowed"
+msgstr "L'accesso alla console è consentito"
+
+#: admin/pages/options.php:58
+msgid "Link format to personal account"
+msgstr "Formato del link per l'account personale"
+
+#: add-on/groups/admin/index.php:37 admin/pages/options.php:46
+msgid "Shortcode host page"
+msgstr "La pagina che ospita lo shortcode WP-Recall"
+
+#: admin/pages/options.php:41
+msgid "If author archive page is selected, the template author.php should contain the code if(function_exists('wp_recall')) wp_recall();"
+msgstr "Se la pagina di archivio dell'autore è selezionata, il modello author.php dovrebbe contenere il codice if (function_exists ('wp_recall')) wp_recall ();"
+
+#: admin/pages/options.php:38
+msgid "On the author’s archive page"
+msgstr "Nella pagina dell'autore"
+
+#: admin/pages/options.php:36
+msgid "Personal Cabinet output"
+msgstr "Risultato del cruscotto personale"
+
+#: admin/pages/options.php:19
+msgid "Configure WP-Recall plugin and add-ons"
+msgstr "Configura il Plugin WP-Recall e le parti aggiuntive"
+
+#: admin/index.php:97
+msgid "Output images via WP-Recall gallery?"
+msgstr "Mostrare le immagini attraverso la galleria di WP-Recall?"
+
+#: add-on/prime-forum/admin/index.php:389 admin/pages/addons-manager.php:56
+#: admin/pages/themes-manager.php:40
+msgid "Install"
+msgstr "Installa"
+
+#: add-on/prime-forum/admin/index.php:387 admin/pages/addons-manager.php:54
+#: admin/pages/themes-manager.php:38
+msgid "Add-on archive"
+msgstr "Archivio degli Add-on"
+
+#: admin/pages/addons-manager.php:52
+msgid "If you have the add-on archive for WP-Recall format .zip, you can upload and install it here."
+msgstr "Se hai a disposizione l'archivio del componente aggiuntivo in formato ZIP per WP-Recall, puoi caricarlo e installarlo qui."
+
+#: admin/pages/addons-manager.php:45 admin/pages/repository.php:80
+msgid "The key is required to update the add-ons here. You can get it in your personal account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+msgstr "La chiave è necessaria per aggiornare i componenti aggiuntivi qui. Puoi scaricarlo nel tuo account personale online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+
+#: add-on/prime-forum/admin/index.php:366 admin/pages/addons-manager.php:33
+#: admin/pages/repository.php:68 admin/pages/themes-manager.php:17
+msgid "Key has been saved"
+msgstr "Il codice è stato salvato"
+
+#: admin/pages/addons-manager.php:23
+msgid "Add-on has not been loaded. Correct headers not found."
+msgstr "Il componente aggiuntivo non è stato caricato. Intestazioni corrette non trovate."
+
+#: admin/pages/addons-manager.php:20
+msgid "Addition <strong>activated</strong>. New settings may be available on  WP-Recall page"
+msgstr "Aggiunta <strong>attivata</strong>. Le nuove impostazioni potrebbero essere disponibili sulla pagina di WP-Recall"
+
+#: admin/pages/addons-manager.php:16
+msgid "WP-Recall Add-ons"
+msgstr "componente aggiuntivo di WP-Recall"
+
+#: admin/add-on-manager.php:265
+msgid "Insufficient rights to install plugins on this site."
+msgstr "Diritti insufficienti per installare i plugin in questo sito"
+
+#: add-on/prime-forum/admin/themes-manager.php:217 admin/add-on-manager.php:219
+#: admin/templates-manager.php:206
+msgid "New version available"
+msgstr "Nuova versione disponibile"
+
+#: add-on/prime-forum/admin/themes-manager.php:189 admin/add-on-manager.php:191
+#: admin/templates-manager.php:178
+msgid "Add-on page"
+msgstr "Pagina del Componente aggiuntivo"
+
+#: add-on/prime-forum/admin/themes-manager.php:189 admin/add-on-manager.php:191
+#: admin/templates-manager.php:178
+msgid "Visit the add-on page"
+msgstr "Visita la pagina del Componente aggiuntivo"
+
+#: add-on/prime-forum/admin/themes-manager.php:188 admin/add-on-manager.php:190
+#: admin/templates-manager.php:177
+msgid "Visit the author’s page"
+msgstr "Visita la pagina dell'autore"
+
+#: functions/supports/uploader-cover.php:33
+msgid "Upload background"
+msgstr "Carica sfondo"
+
+#: functions/supports/uploader-avatar.php:269
+#: functions/supports/uploader-cover.php:195
+msgid "Download error"
+msgstr "Errore download"
+
+#: functions/supports/uploader-avatar.php:24
+msgid "Image from camera"
+msgstr "Immagine della Videocamera"
+
+#: functions/supports/uploader-avatar.php:23
+#: functions/supports/uploader-cover.php:23
+msgid "Image being loaded"
+msgstr "L'immagine sta caricando"
+
+#: functions/supports/uploader-avatar.php:22
+#: functions/supports/uploader-cover.php:22
+msgid "Exceeds the maximum image size! Max. %s Kb"
+msgstr "Eccede la dimensione massima dell'immagine! Il massimo è %s Kb"
+
+#: functions/shortcodes.php:8 functions/shortcodes.php:159
+msgid "To use your personal account, please log in or register on this site"
+msgstr "Per utilizzare il tuo account personale, fai accesso o registrati"
+
+#: functions/addons-update.php:276
+msgid "Unable to open update archive!"
+msgstr "Non riesco ad aprire l'archivio degli aggiornamenti!"
+
+#: functions/addons-update.php:235
+msgid "Update has incorrect title!"
+msgstr "L'aggiornamento ha un titolo non corretto"
+
+#: functions/addons.php:284
+msgid "Office templates not found!"
+msgstr "Modello Office non trovato!"
+
+#: functions/frontend.php:336
+msgid "Publication author"
+msgstr "Autore della pubblicazione"
+
+#: functions/frontend.php:110 functions/frontend.php:181
+#: functions/frontend.php:386 rcl-functions.php:837
+msgid "offline"
+msgstr "Non collegato da "
+
+#: classes/class-rcl-users-list.php:468
+msgid "Total number of users"
+msgstr "Numero complessivo di utenti"
+
+#: classes/class-rcl-custom-fields-manager.php:78
+msgid "Multiline text area"
+msgstr "Area di testo multiriga"
+
+#: classes/class-rcl-custom-fields-manager.php:260
+#: classes/class-rcl-custom-fields-manager.php:844
+msgid "Field type"
+msgstr "Tipo campo"
+
+#: classes/class-rcl-custom-fields-manager.php:238
+msgid "Latin letters and numbers"
+msgstr "Lettere dell'alfabeto latino e numeri"
+
+#: classes/class-rcl-custom-fields-manager.php:237
+msgid "not required, but you can list your own meta_key in this field"
+msgstr "Non richiesto, ma puoi elencare i tuoi meta-key in questo campo"
+
+#: classes/class-rcl-custom-fields-manager.php:334
+msgid "Agreement URL"
+msgstr "URL del consenso"
+
+#: classes/class-rcl-custom-fields-manager.php:326
+msgid "allowed types of files are divided by comma, for example: pdf, zip, jpg"
+msgstr "I tipi di file consentiti sono separati da una virgola, ad esempio: pdf, zip, jpg"
+
+#: classes/class-rcl-custom-fields.php:841
+msgid "File has been deleted"
+msgstr "Il file è stato cancellato"
+
+#: classes/class-rcl-custom-fields.php:674
+msgid "File size exceedes maximum!"
+msgstr "La dimensione del file è eccessiva!"
+
+#: functions/captcha.php:82 functions/captcha.php:118
+msgid "Incorrect CAPTCHA!"
+msgstr "Codice CAPTCHA non corretto!"
+
+#: add-on/user-balance/class-rcl-payment.php:321
+msgid "Pay from personal account"
+msgstr "Paga dall'account personale"
+
+#: add-on/user-balance/class-rcl-payment.php:284
+msgid "Pay via"
+msgstr "Paga con"
+
+#: add-on/user-balance/class-rcl-payment.php:265
+msgid "Error! Connection to payment aggregator not set."
+msgstr "Errore! Connessione all'aggregatore di pagamenti non impostata."
+
+#: add-on/user-balance/admin/index.php:115
+msgid "Total in the system"
+msgstr "Totale nel sistema"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "All payments"
+msgstr "Tutti i pagamenti"
+
+#: add-on/user-balance/index.php:303
+msgid "Personal user account"
+msgstr "Account utente personale"
+
+#: add-on/user-balance/admin/index.php:44
+msgid "Time period"
+msgstr "Periodo di tempo"
+
+#: add-on/user-balance/shortcodes.php:35
+msgid "please log in to make a payment"
+msgstr "Per favore, fai accesso per pagare"
+
+#: add-on/user-balance/index.php:147
+msgid "Top up"
+msgstr "Ricarica"
+
+#: add-on/user-balance/admin/index.php:71
+msgid "Balance changed"
+msgstr "Il saldo è cambiato"
+
+#: add-on/user-balance/shortcodes.php:44
+msgid "Top up personal account from"
+msgstr "Ricarica l'account personale da"
+
+#: add-on/user-balance/admin/addon-settings.php:100
+msgid "FAIL Page"
+msgstr "Pagina di ESITO NEGATIVO"
+
+#: add-on/user-balance/admin/addon-settings.php:92
+msgid "SUCCESS Page"
+msgstr "Pagina di ESITO POSITIVO"
+
+#: add-on/user-balance/admin/addon-settings.php:84
+msgid "RESULT Page"
+msgstr "Pagina RISULTATO"
+
+#: add-on/user-balance/admin/addon-settings.php:59
+msgid "Applied connection type"
+msgstr "Tipo di connessione applicato"
+
+#: add-on/user-balance/admin/addon-settings.php:56
+msgid "If the connection to the payment aggregator not used, apply \"Funds from user personal account\"!"
+msgstr "Se la connessione all'aggregatore di pagamenti non viene utilizzata, applicare \"Fondi dall'account personale dell'utente\"!"
+
+#: add-on/user-balance/admin/addon-settings.php:44
+msgid "Offer both options"
+msgstr "Offre ambedue le opzioni"
+
+#: add-on/user-balance/admin/addon-settings.php:40
+msgid "Payment from user’s personal account"
+msgstr "Pagamento dall'account personale dell'utente"
+
+#: add-on/rcl-chat/index.php:272
+msgid "Total number of contacts"
+msgstr "Numero complessivo di contatti"
+
+#: add-on/rcl-chat/index.php:254
+msgid "No contacts yet. Start a chat with another user on his page"
+msgstr "Non ci sono utenti già contattati. Comincia una chat con un utente dalla sua pagina"
+
+#: add-on/rcl-chat/index.php:207
+msgid "User contacts"
+msgstr "Contatti degli utenti"
+
+#: add-on/rcl-chat/index.php:157
+msgid "Sign in to send a message to the user"
+msgstr "Fai accesso per spedire un messaggio all'utente"
+
+#: add-on/rcl-chat/class-rcl-chat.php:464
+msgid "Chat history will be displayed here"
+msgstr "La cronologia della chat sarà visualizzata qui"
+
+#: add-on/rcl-chat/addon-options.php:127
+msgid "Output location"
+msgstr "Posizione di uscita"
+
+#: add-on/rcl-chat/addon-options.php:117
+msgid "Contacts bar"
+msgstr "Barra dei contatti"
+
+#: add-on/rcl-chat/addon-options.php:59
+msgid "Option is responsible for the incorporation of media content, such as from Youtube or Twitter from the link"
+msgstr "L'opzione è relativa all'incorporamento di contenuti multimediali, come un link da YouTube o Twitter"
+
+#: add-on/rcl-chat/addon-options.php:15
+msgid "Delay between requests"
+msgstr "Ritardo fra le richieste"
+
+#: add-on/rating-system/admin/index.php:15
+msgid "Disable rating for publication"
+msgstr "Disabilita la valutazione per la pubblicazione"
+
+#: add-on/rating-system/core.php:384
+msgid "No changes to rating"
+msgstr "Nessun cambiamento da classificare"
+
+#: add-on/rating-system/admin/addon-settings.php:184
+msgid "Delete your vote"
+msgstr "Cancella il tuo voto"
+
+#: add-on/rating-system/admin/addon-settings.php:165
+msgid "Influence of rationg on publication moderation"
+msgstr "Influenza del rating sulla moderazione della pubblicazione"
+
+#: add-on/rating-system/admin/addon-settings.php:127
+#: add-on/rating-system/core.php:339
+msgid "has voted"
+msgstr "ha votato"
+
+#: add-on/rating-system/admin/addon-settings.php:126
+msgid "Template of history output in the overall ranking"
+msgstr "Modello di output cronologico nella classifica generale"
+
+#: add-on/rating-system/admin/addon-settings.php:100
+msgid "set how many points will be awarded for a positive or negative vote for the publication"
+msgstr "impostare quanti punti saranno assegnati per un voto positivo o negativo per la pubblicazione"
+
+#: add-on/rating-system/admin/addon-settings.php:89
+msgid "Sum of votes"
+msgstr "Somma dei voti"
+
+#: add-on/rating-system/admin/addon-settings.php:28
+msgid "%USER% - name of the user who voted"
+msgstr "%USER% - nome dell'utente che ha votato"
+
+#: add-on/rating-system/admin/addon-settings.php:27
+msgid "select a template for history output where"
+msgstr "seleziona un modello per l'output cronologico dove"
+
+#: add-on/publicpost/templates/posts-list.php:18
+msgid "published"
+msgstr "pubblicato"
+
+#: add-on/publicpost/templates/posts-list.php:15
+msgid "to be approved"
+msgstr "da approvare"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:220
+msgid "Sorry, but you have no right to post on this site :("
+msgstr "Ci dispiace, ma non hai permessi sufficienti per scrivere in questo sito :("
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:849
+msgid "Use blank notice"
+msgstr "Usa una notifica vuota"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:837
+msgid "Publication does not correspond the rules"
+msgstr "La pubblicazione non corrisponde alle regole"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:836
+msgid "Not completed"
+msgstr "Non completato"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:832
+msgid "Does not correspond the topic"
+msgstr "Non corrisponde all'argomento"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:815
+msgid "or enter your own"
+msgstr "o inserisci il tuo"
+
+#: add-on/publicpost/functions-ajax.php:236
+msgid "If everything is correct – publish it! If not, you can go back to editing."
+msgstr "Se tutto è corretto, pubblica! Sennò, vai indietro e modifica"
+
+#: add-on/publicpost/admin/index.php:41
+msgid "Use shortcode for publication form"
+msgstr "Usa uno shortcode per il modulo di pubblicazione"
+
+#: add-on/publicpost/admin/index.php:54
+msgid "Arbitrary fields of  publication"
+msgstr "Campi arbitrari di pubblicazione"
+
+#: add-on/rcl-chat/index.php:62
+msgid "Exceeds the maximum file size! Max. %d MB"
+msgstr "Supera la dimensione massima del file! Massimo %d MB"
+
+#: add-on/publicpost/functions-ajax.php:29
+#: add-on/publicpost/functions-ajax.php:36
+msgid "Material successfully removed!"
+msgstr "Rimozione completata!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:82
+msgid "Click on the image to add it to the publication"
+msgstr "Fai click sull'immagine per inserirla nella pubblicazione"
+
+#: add-on/publicpost/admin/addon-settings.php:212
+msgid "Above publication content"
+msgstr "Sopra il contenuto della pubblicazione"
+
+#: add-on/publicpost/admin/addon-settings.php:211
+msgid "Output fields location"
+msgstr "Posizione dei campi di output"
+
+#: add-on/publicpost/admin/addon-settings.php:203
+msgid "Automatic output"
+msgstr "Risultato automatico"
+
+#: add-on/publicpost/admin/addon-settings.php:149
+msgid "Select the page to which the visitors will be redirected after a successful publication, if email authorization is included in the registration precess"
+msgstr "Seleziona la pagina in cui i visitatori verranno reindirizzati dopo una pubblicazione di successo, se l'autorizzazione email è inclusa nel processo di registrazione"
+
+#: add-on/publicpost/admin/addon-settings.php:142
+msgid "Redirect to"
+msgstr "Reindirizzato su"
+
+#: add-on/publicpost/admin/addon-settings.php:130
+msgid "Publication is allowed"
+msgstr "È consentita la pubblicazione"
+
+#: add-on/publicpost/admin/addon-settings.php:117
+msgid "Enter the form ID according to the personal Cabinet. The default is 1"
+msgstr "Inserisci l'identificativo del modello, secondo quanto riportato nel cruscotto personale. Di default, il valore è 1"
+
+#: add-on/publicpost/admin/addon-settings.php:108
+msgid "Form of publication output in the personal cabinet"
+msgstr "Modello dei risultati della pubblicazione nel cruscotto personale"
+
+#: add-on/publicpost/admin/addon-settings.php:103
+msgid "Select image size for the visual editor during publishing"
+msgstr "Seleziona la dimensione dell'immagine per l'editor visuale durante la pubblicazione"
+
+#: add-on/publicpost/admin/addon-settings.php:101
+msgid "The image size in editor by default"
+msgstr "La dimensione dell'immagine nell'editor per impostazione predefinita"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:206
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:236
+msgid "Maximum file size in megabytes. By default, 2MB"
+msgstr "La dimensione massima del file in megabytes. Per valore predefinito, 2Mb"
+
+#: add-on/publicpost/admin/addon-settings.php:68
+msgid "List of publications tab"
+msgstr "Lesta delle etichette di pubblicazione"
+
+#: add-on/publicpost/admin/addon-settings.php:43
+msgid "You are required to publish a links to managing publications, you must specify the page with the shortcode [public-form]"
+msgstr "È necessario pubblicare un link per la gestione delle pubblicazioni, è necessario specificare la pagina con lo shortcode [public-form]"
+
+#: add-on/publicpost/admin/addon-settings.php:36
+msgid "Publishing and editing"
+msgstr "Pubblicazione e modifica"
+
+#: add-on/publicpost/admin/addon-settings.php:29
+msgid "Publication settings"
+msgstr "Configurazione delle pubblicazioni"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:106
+msgid "Filter users by this field"
+msgstr "Filtra gli utenti in base a questo campo"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:99
+msgid "can be changed only by the site administration"
+msgstr "può essere modificato solo dall'amministrazione del sito"
+
+#: add-on/commerce/admin/pages/cart-fields.php:15
+#: add-on/commerce/admin/pages/variations.php:26
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:29
+#: add-on/profile/classes/class-rcl-profile-fields.php:79
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:19
+msgid "field description"
+msgstr "Descrizione del campo"
+
+#: add-on/profile/index.php:271
+msgid "Are you sure? It can’t be restaured!"
+msgstr "Sei sicuro? Non può essere ripristinato!"
+
+#: functions/register.php:459
+msgid "A password has not been entered"
+msgstr "Non è stata inserita alcuna password"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:35
+msgid "Name to be displayed"
+msgstr "Nome da visualizzare"
+
+#: add-on/profile/admin/addon-settings.php:16
+msgid "Allow users to delete their account?"
+msgstr "Consenti agli utenti di rimuovere il proprio profilo?"
+
+#: add-on/profile/admin/addon-settings.php:9
+msgid "Profile and account settings"
+msgstr "Configurazione del profilo e dell'account"
+
+#: add-on/profile/index.php:315
+msgid "Account deletion failed! Go back and try again."
+msgstr "Cancellazione dell'account fallita! Torna indietro e riprova."
+
+#: add-on/profile/index.php:313
+msgid "Back to main page"
+msgstr "Indietro alla pagina principale"
+
+#: add-on/profile/index.php:100
+msgid "Your profile has been updated"
+msgstr "Il tuo profilo è stato aggiornato"
+
+#: add-on/commerce/templates/cart-mini.php:23
+msgid "Empty"
+msgstr "Vuoto"
+
+#: add-on/commerce/templates/cart-mini.php:14
+msgid "Total number of goods"
+msgstr "Numero totale di beni"
+
+#: add-on/commerce/index.php:242
+msgid "No orders with status \"%s\" yet"
+msgstr "Non ci sono ancora ordini con lo stato \"%s\""
+
+#: add-on/commerce/admin/products-metabox.php:97
+msgid "Withdraw from sale"
+msgstr "Ritirato dalla vendita"
+
+#: add-on/commerce/admin/products-metabox.php:23
+msgid "Product price"
+msgstr "Prezzo del prodotto"
+
+#: add-on/commerce/admin/products-metabox.php:5 admin/index.php:90
+#: admin/index.php:91
+msgid "WP-Recall settings"
+msgstr "Impostazioni di WP-Recall"
+
+#: add-on/commerce/core.php:383
+msgid "Your order has been paid and is being processied. You can monitor its status in your personal cabinet"
+msgstr "Il tuo ordine è stato pagato ed è in fase di processo. Puoi verificarne lo stato nel tuo cruscotto personale."
+
+#: add-on/commerce/core.php:367
+msgid "Link for managing the order"
+msgstr "Link per la gestione dell'ordine"
+
+#: add-on/commerce/core.php:360
+msgid "User has paid for the order"
+msgstr "L'utente ha pagato l'ordine"
+
+#: add-on/commerce/core.php:333
+msgid "You have formed an order"
+msgstr "Hai preparato un ordine"
+
+#: add-on/commerce/core.php:309
+msgid "Next time use your personal cabinet for placing new orders on our website"
+msgstr "La prossima volta utilizza il tuo cruscotto personale per inserire nuovi ordini nel nostro sito"
+
+#: add-on/commerce/core.php:306
+msgid "Required data for authorization in your personal account"
+msgstr "Sono richiesti alcuni dati per l'autorizzazione nel tuo account personale."
+
+#: add-on/commerce/core.php:305
+msgid "Personal account has been created, you can monitor the status of your orders , create new orders and pay for them by available means through it"
+msgstr "È stato creato un account personale, puoi monitorare lo stato dei tuoi ordini, creare nuovi ordini e pagare per loro con i mezzi disponibili attraverso lo stesso account."
+
+#: add-on/commerce/core.php:326
+msgid "Can’t activate your account?"
+msgstr "Non riesci ad attivare il tuo account?"
+
+#: add-on/commerce/core.php:302
+msgid "Your account and order information"
+msgstr "Le informazioni del tuo account e del tuo ordine"
+
+#: add-on/commerce/core.php:286 add-on/commerce/core.php:337
+msgid "Link to managing your order"
+msgstr "Link per gestire il tuo ordine"
+
+#: add-on/commerce/core.php:283 add-on/commerce/core.php:335
+#: add-on/commerce/core.php:364 add-on/commerce/core.php:380
+msgid "Order №%d received status \"%s\""
+msgstr "L'ordine n. %d ha ricevuto lo stato \"%s\""
+
+#: add-on/commerce/core.php:279
+msgid "This user has formed an order"
+msgstr "Questo utente ha preparato un ordine"
+
+#: add-on/user-balance/class-rcl-payment.php:236
+msgid "Payment for order №%d"
+msgstr "Pagamento dell'ordine n. %d"
+
+#: add-on/commerce/content/order-content.php:67
+msgid "Follow the link in the letter sent to your email"
+msgstr "Segui il link spedito via email"
+
+#: add-on/commerce/content/order-content.php:66
+msgid "To monitor the order status please confirm the specified email!"
+msgstr "Per verificare lo stato dell'ordine, conferma l'email specifica."
+
+#: add-on/commerce/content/order-content.php:62
+msgid "You can top up your personal account on the site in your back office and in the future pay for orders with it"
+msgstr "Puoi ricaricare il tuo account personale sul sito nel tuo back office e in futuro pagare per gli ordini con esso"
+
+#: add-on/commerce/content/order-content.php:32
+msgid "The order is being processed."
+msgstr "L'ordine è in fase di processo."
+
+#: add-on/commerce/content/order-content.php:31
+msgid "Status granted to order - \"%s\""
+msgstr "Stato concesso all'ordine - \"%s\""
+
+#: add-on/commerce/functions-ajax.php:86
+#: add-on/commerce/templates/cart-mini.php:20
+msgid "Go to cart"
+msgstr "Vai al carrello"
+
+#: add-on/commerce/admin/pages/export-import.php:57
+msgid "Optional fields"
+msgstr "Campi opzionali"
+
+#: add-on/commerce/admin/pages/cart-fields.php:9
+msgid "Order Form Field Management"
+msgstr "Gestione dei campi del modulo d'ordine"
+
+#: add-on/commerce/admin/pages/addon-settings.php:32
+msgid "Basis currency"
+msgstr "Valuta di base"
+
+#: add-on/commerce/admin/pages/addon-settings.php:28
+msgid "Currency and rates"
+msgstr "Valuta e tariffe"
+
+#: add-on/commerce/admin/pages/addon-settings.php:104
+msgid "Block title for featured products"
+msgstr "Blocca il titolo per i prodotti in primo piano"
+
+#: add-on/commerce/admin/pages/addon-settings.php:97
+msgid "Output order"
+msgstr "Ordine di output"
+
+#: add-on/commerce/admin/pages/addon-settings.php:93
+msgid "Similar or recommended goods"
+msgstr "Merci simili o raccomandate"
+
+#: add-on/commerce/admin/pages/addon-settings.php:43
+msgid "Checkout page"
+msgstr "Pagina d'uscita"
+
+#: add-on/commerce/admin/pages/addon-settings.php:66
+msgid "If enabled, the user will be automatically registered on the site after successfull check-out"
+msgstr "Se abilitato, l'utente verrà automaticamente registrato sul sito dopo il check-out completato"
+
+#: add-on/commerce/admin/pages/addon-settings.php:60
+msgid "Register at check-out"
+msgstr "Registrati al check-out"
+
+#: add-on/commerce/admin/pages/addon-settings.php:56
+msgid "Check-out"
+msgstr "Uscita"
+
+#: add-on/commerce/admin/pages/addon-settings.php:23
+msgid "If email is not specified, a notification will be sent to all users of the website with \"Administrator\" rights"
+msgstr "Se l'e-mail non viene specificata, verrà inviata una notifica a tutti gli utenti del sito Web con i diritti di \"Amministratore\""
+
+#: add-on/commerce/admin/pages/addon-settings.php:21
+msgid "Email for notifications"
+msgstr "Email per le notifiche"
+
+#: add-on/commerce/activate.php:221
+msgid "Your product catalog will be displayed here. Product catalog is being generated shortcode productlist <a href=\"https://codeseller.ru/api-rcl/productlist/\">(description shortcode)</a>. You can choose another page for display"
+msgstr "Il catalogo dei tuoi prodotti sarà mostrato qui. Il catalogo sarà generato con uno shortcode <a href=\"https://codeseller.ru/api-rcl/productlist/\">(descrizione shortcode)</a>. Puoi scegliere un'altra pagina per mostrarlo."
+
+#: add-on/commerce/activate.php:165 add-on/commerce/index.php:127
+msgid "Add a new tag"
+msgstr "Aggiungi un nuovo tag"
+
+#: add-on/commerce/activate.php:129 add-on/commerce/activate.php:169
+#: add-on/commerce/index.php:96 add-on/commerce/index.php:131
+msgid "Select to use"
+msgstr "Seleziona per l'uso"
+
+#: add-on/groups/upload-avatar.php:75
+msgid "Avatar has been successfully uploaded"
+msgstr "L'Avatar è stato caricato correttamente"
+
+#: add-on/groups/upload-avatar.php:42
+msgid "File size exceeds maximum size"
+msgstr "La dimensione del file supera il massimo consentito"
+
+#: add-on/groups/index.php:605
+msgid "Access request to the group has been rejected."
+msgstr "La richiesta di accesso al gruppo è stata rifiutata"
+
+#: add-on/groups/index.php:600
+msgid "Request approved"
+msgstr "Richiesta approvata"
+
+#: add-on/groups/index.php:486
+msgid "New user role"
+msgstr "Ruolo del nuovo utente"
+
+#: add-on/groups/index.php:485
+msgid "Registration allowed"
+msgstr "È consentita la registrazione"
+
+#: add-on/groups/index.php:402
+msgid "Group creation failed"
+msgstr "Creazione del gruppo fallita"
+
+#: add-on/groups/index.php:387
+msgid "Published in group"
+msgstr "Pubblicato nel gruppo"
+
+#: add-on/groups/index.php:250
+msgid "Groups created"
+msgstr "Gruppi creati"
+
+#: add-on/groups/groups-widgets.php:464
+msgid "Summary"
+msgstr "Sommario"
+
+#: add-on/groups/groups-widgets.php:404 add-on/groups/groups-widgets.php:442
+msgid "You do not have any publications"
+msgstr "Non hai ancora pubblicato qualcosa"
+
+#: add-on/groups/groups-widgets.php:158 add-on/groups/groups-widgets.php:182
+msgid "Publication form"
+msgstr "Modulodi Pubblicazione"
+
+#: add-on/groups/groups-widgets.php:73
+msgid "The access request has been sent"
+msgstr "La richiesta di accesso è stata spedita"
+
+#: add-on/groups/groups-widgets.php:57
+msgid "You have been banned from the group"
+msgstr "Sei stato bannato dal gruppo."
+
+#: add-on/groups/admin/index.php:31
+msgid "enable if publication loop within the group has been removed from the template"
+msgstr "attivo se il ciclo di pubblicazione all'interno del gruppo è stato rimosso dal modello"
+
+#: add-on/commerce/admin/pages/addon-settings.php:64
+#: add-on/commerce/admin/pages/addon-settings.php:87
+#: add-on/commerce/admin/pages/addon-settings.php:99
+#: add-on/groups/admin/index.php:29 add-on/prime-forum/admin/index.php:270
+#: add-on/prime-forum/admin/index.php:279 add-on/profile/index.php:136
+#: add-on/publicpost/admin/addon-settings.php:51
+#: add-on/publicpost/admin/addon-settings.php:69
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:184
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:194
+#: add-on/rating-system/admin/addon-settings.php:140
+#: admin/pages/options.php:109 admin/pages/options.php:169
+#: admin/pages/options.php:196 admin/pages/options.php:205
+#: admin/pages/options.php:295
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: add-on/groups/admin/index.php:25
+msgid "Group contents widget"
+msgstr "Widget dei Contenuti del Gruppo"
+
+#: add-on/groups/admin/index.php:69
+#: add-on/publicpost/admin/addon-settings.php:159
+msgid "If subject to moderation: To allow the user to see their publication before moderation has been completed, the user should be classifies as Author or higher"
+msgstr "Se sottoposto a moderazione: per consentire all'utente la visione della propria pubblicazione prima che la moderazione sia stata applicata, l'utente deve essere con il ruolo Autore o più alto."
+
+#: add-on/groups/admin/index.php:66
+#: add-on/publicpost/admin/addon-settings.php:158
+msgid "Publish now"
+msgstr "Pubblica ora"
+
+#: add-on/groups/admin/index.php:63
+msgid "Group publication moderation"
+msgstr "Moderazione delle pubblicazioni nel gruppo"
+
+#: add-on/groups/admin/index.php:57
+#: add-on/publicpost/admin/addon-settings.php:134
+#: add-on/rating-system/admin/addon-settings.php:175 admin/pages/options.php:90
+msgid "Authors and higher"
+msgstr "Autori e livelli più alti"
+
+#: add-on/groups/admin/index.php:56
+#: add-on/publicpost/admin/addon-settings.php:133
+#: add-on/rating-system/admin/addon-settings.php:176 admin/pages/options.php:89
+msgid "Editors and higher"
+msgstr "Editori e livelli più alti"
+
+#: add-on/groups/admin/index.php:52
+msgid "Group creation allowed"
+msgstr "È consentita la creazione dei gruppi"
+
+#: add-on/groups/groups-init.php:56
+msgid "Add a new group"
+msgstr "Aggiungi un nuovo gruppo"
+
+#: add-on/groups/groups-init.php:7 add-on/groups/groups-init.php:8
+#: add-on/groups/groups-init.php:18 add-on/groups/index.php:40
+#: add-on/groups/index.php:225
+msgid "Groups records"
+msgstr "Record di gruppi"
+
+#: add-on/groups/groups-core.php:881
+msgid "Access request"
+msgstr "Richiesta di accesso"
+
+#: add-on/groups/groups-core.php:871
+msgid "Widget management"
+msgstr "Gestione Widget"
+
+#: add-on/groups/groups-core.php:867
+msgid "Basic settings"
+msgstr "Impostazioni di base"
+
+#: add-on/groups/groups-core.php:802
+msgid "User deleted"
+msgstr "Utente cancellato"
+
+#: add-on/groups/groups-core.php:652
+msgid "Request for group access"
+msgstr "Richiesta per accesso ad un gruppo"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:185
+msgid "Total number of groups"
+msgstr "Numero complessivo di gruppi"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:46
+msgid "Show all"
+msgstr "Mostra tutto"
+
+#: add-on/feed/shortcodes.php:53
+msgid "No news found"
+msgstr "Nessuna novità"
+
+#: add-on/feed/index.php:193
+msgid "Subscription has been cancelled"
+msgstr "L'abbonamento è stato cancellato"
+
+#: add-on/feed/index.php:136
+msgid "You do not have any subscriptions"
+msgstr "Non hai abbonamenti"
+
+#: add-on/feed/index.php:115
+msgid "You do not have any subscribers yet"
+msgstr "Non hai ancora abbonati"
+
+#: add-on/feed/addon-core.php:429
+msgid "Subscription status has been changed"
+msgstr "Lo stato della sottoscrizione è cambiato"
+
+#: add-on/feed/addon-core.php:371
+msgid "Ignore publications"
+msgstr "Ignora le pubblicazioni"
+
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:44
+msgid "Create group"
+msgstr "Crea un gruppo"
+
+#: add-on/groups/index.php:241
+msgid "All groups"
+msgstr "Tutti i gruppi"
+
+#: add-on/rcl-chat/index.php:316
+msgid "No important messages yet"
+msgstr "Non ci sono ancora messaggi importani"
+
+#: add-on/rcl-chat/index.php:61
+msgid "Exceeds the maximum message size"
+msgstr "Supera il limite massimo del messaggio"
+
+#: add-on/rcl-chat/index.php:60
+msgid "Write something"
+msgstr "Scrivi qualcosa"
+
+#: functions/supports/uploader-avatar.php:64
+msgid "Webcam screen"
+msgstr "Schermo webcam"
+
+#: functions/supports/uploader-avatar.php:40
+msgid "Avatar upload"
+msgstr "Caricamento Avatar"
+
+#: add-on/rcl-chat/addon-options.php:131
+msgid "Right"
+msgstr "Destra"
+
+#: functions/frontend.php:514
+msgid "The user has restricted access to their page"
+msgstr "L'utente ha ristretto l'accesso alla sua pagina"
+
+#: add-on/rcl-chat/index.php:279 add-on/rcl-chat/index.php:410
+msgid "Delete contact"
+msgstr "Rimuovi il contatto"
+
+#: add-on/rcl-chat/index.php:114
+msgid "Chat"
+msgstr "Chat"
+
+#: add-on/rcl-chat/class-rcl-chat.php:462
+msgid "No important messages in this chat"
+msgstr "Non ci sono messaggi importanti nella chat"
+
+#: add-on/rcl-chat/class-rcl-chat.php:414
+msgid "In chat"
+msgstr "Ora in chat"
+
+#: add-on/rcl-chat/class-rcl-chat.php:364
+msgid "To post messages in the chat you need to login"
+msgstr "Per inserire messaggi in chat, devi effettuare l'accesso"
+
+#: add-on/rcl-chat/class-rcl-chat.php:307
+msgid "Chat was not created"
+msgstr "la chat non è stata creata."
+
+#: add-on/rcl-chat/class-rcl-chat.php:271
+#: add-on/rcl-chat/class-rcl-chat.php:281
+msgid "The message was not added"
+msgstr "Il messaggio non è stato aggiunto"
+
+#: add-on/prime-forum/classes/class-prime-roles.php:23
+#: add-on/prime-forum/functions-query.php:204
+#: add-on/prime-forum/functions-topics.php:190 add-on/prime-forum/index.php:511
+#: add-on/rcl-chat/class-rcl-chat.php:180
+msgid "Guest"
+msgstr "Ospite"
+
+#: add-on/rcl-chat/addon-options.php:105
+msgid "The maximum number of messages in the conversation between two users. Default: 100"
+msgstr "Il numero massimo di messaggi in una conversazione fra due utenti. Di default è 100. "
+
+#: add-on/rcl-chat/addon-options.php:97
+msgid "Personal chat"
+msgstr "Chat personale"
+
+#: add-on/rcl-chat/addon-options.php:78
+msgid "By default: jpeg, jpg, png, zip, mp3"
+msgstr "Predefinito: jpeg, jpg, png, zip, mp3"
+
+#: add-on/rcl-chat/addon-options.php:74
+#: classes/class-rcl-custom-fields-manager.php:325
+msgid "Allowed file types"
+msgstr "Tipi di file consentiti"
+
+#: add-on/rcl-chat/addon-options.php:63
+msgid "Attaching files"
+msgstr "Allega file"
+
+#: add-on/rcl-chat/addon-options.php:53
+msgid "Using OEMBED"
+msgstr "Utilizza OEMBED"
+
+#: add-on/rcl-chat/addon-options.php:44
+msgid "Posts per page"
+msgstr "Post per pagina"
+
+#: add-on/rcl-chat/addon-options.php:35
+msgid "The number of characters in the message"
+msgstr "Il numero di caratteri nel messaggio"
+
+#: add-on/rcl-chat/addon-options.php:31
+msgid "\"In minutes. The time of user inactivity after which he ceases to receive new messages in chat"
+msgstr "\"In minuti. Il tempo di inattività dopo il quale l'utente non riceve nuovi messaggi in chat"
+
+#: add-on/rcl-chat/addon-options.php:25
+msgid "User Downtime"
+msgstr "Tempo di inattività dell'utente"
+
+#: add-on/rcl-chat/addon-options.php:21
+msgid "In seconds. It is recommended to choose at least 10 seconds"
+msgstr "In secondi. È raccomandato indicare almeno 10 secondi."
+
+#: add-on/rcl-chat/addon-options.php:8
+msgid "IM settings"
+msgstr "Configurazione Messaggeria Istantanea"
+
+#: add-on/rcl-chat/actions_ajax.php:251
+msgid "Forbidden file extension. Allowed:"
+msgstr "Estensione proibita. Sono consentite: "
+
+#: add-on/rcl-chat/actions.php:83 add-on/rcl-chat/class-rcl-chat.php:254
+msgid "You have been blocked on this chat"
+msgstr "Sei stato bloccato in questa chat"
+
+#: templates/recallbar.php:17
+msgid "Homepage"
+msgstr "Home Page"
+
+#: templates/form-remember.php:23
+msgid "Get New Password"
+msgstr "Ottieni una Nuova Password"
+
+#: templates/form-register.php:31
+msgid "Signup"
+msgstr "INVIA LA REGISTRAZIONE"
+
+#: add-on/prime-forum/admin/index.php:385 admin/pages/themes-manager.php:36
+msgid "If you have an archive template for wp-recall format .zip, here you can upload and install it"
+msgstr "Se hai un modello di archivio per WP-Recall in formato ZIP, puoi caricarlo qui ed installarlo"
+
+#: admin/pages/themes-manager.php:29
+msgid "Required to update the templates here. Get it  in  your account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://\"codeseller.ru</a>"
+msgstr "Richiesto per l'aggiornamento dei modelli. Prendilo dal tuo account online su <a href=\"http://codeseller.ru/\" target=\"_blank\">http://\"codeseller.ru</a>"
+
+#: admin/classes/class-rcl-tabs-manager.php:98
+msgid "supported shortcodes and HTML-code"
+msgstr "shortcode e codici HTML sono supportati"
+
+#: admin/classes/class-rcl-tabs-manager.php:97
+msgid "Content tab"
+msgstr "Scheda dei contenuti"
+
+#: admin/classes/class-rcl-tabs-manager.php:68
+msgid "Example , fa-user"
+msgstr "Esempio, fa-user"
+
+#: admin/classes/class-rcl-tabs-manager.php:50
+msgid "Latin alphabet and numbers"
+msgstr "Lettere e numeri"
+
+#: admin/pages/options.php:302
+msgid "Primary colors of WP-Recall"
+msgstr "Colore primario di WP-Recall"
+
+#: admin/pages/options.php:301
+msgid "Color"
+msgstr "Colore"
+
+#: admin/pages/options.php:294
+msgid "Recallbar – is he top panel WP-Recall plugin through which the plugin and its add-ons can output their data and the administrator can make his menu, forming it on <a href=\"/wp-admin/nav-menus.php\" target=\"_blank\">page management menu of the website</a>"
+msgstr "Recallbar - è il pannello superiore de plug-in WP-Recall, attraverso il quale il plugin e i suoi componenti aggiuntivi possono generare i loro dati e l'amministratore può creare il suo menu, formandolo sul <a href=\"/wp-admin/nav-menus.php\" target=\"_blank\">menu di gestione della pagina del sito web</a>."
+
+#: admin/pages/options.php:243
+msgid "If you are using the registration confirmation, after registration, the user will need to confirm your email by clicking on the link in the sent email"
+msgstr "Se si utilizza la conferma della registrazione, dopo la registrazione, l'utente dovrà confermare la propria e-mail facendo clic sul collegamento nell'e-mail inviata"
+
+#: admin/pages/options.php:202
+msgid "Minimization of scripts"
+msgstr "Riduzione al minimo degli script"
+
+#: admin/pages/options.php:166
+msgid "Use the functionality of the caching WP-Recall plugin. <a href=\"https://codeseller.ru/post-group/funkcional-keshirovaniya-plagina-wp-recall/\" target=\"_blank\">read More</a>"
+msgstr "Usa la funzionalità del plugin WP-Recall per la memorizzazione nella cache. <a href=\"https://codeseller.ru/post-group/funkcional-keshirovaniya-plagina-wp-recall/\" target=\"_blank\"> leggi altro </a>"
+
+#: admin/pages/options.php:70
+msgid "This value sets the maximum time a user is considered \"online\" in the absence of activity"
+msgstr "Questo valore imposta il tempo massimo in cui un utente viene considerato \"online\" in assenza di attività"
+
+#: admin/pages/options.php:40
+msgid "Attention! Changing this parameter is not required. Detailed instructions on personal account output using author.php file can be received here <a href=\"https://codeseller.ru/ustanovka-plagina-wp-recall-na-sajt/\" target=\"_blank\">here</a>"
+msgstr "Attenzione! La modifica di questo parametro non è richiesta. Istruzioni dettagliate sull'output dell'account personale utilizzando il file author.php possono essere ottenute <a href=\"https://codeseller.ru/ustanovka-plagina-wp-recall-na-sajt/\" target=\"_blank\"> qui </a>"
+
+#: add-on/prime-forum/admin/index.php:24 add-on/prime-forum/admin/index.php:361
+#: add-on/prime-forum/admin/themes-manager.php:150
+#: add-on/prime-forum/admin/themes-manager.php:351 admin/admin-menu.php:47
+#: admin/pages/themes-manager.php:12 admin/templates-manager.php:139
+#: admin/templates-manager.php:328
+msgid "Templates"
+msgstr "Template"
+
+#: functions/supports/uploader-cover.php:208
+msgid "Image successfully uploaded"
+msgstr "Immagine caricata correttamente"
+
+#: functions/supports/modal-user-details.php:32
+msgid "User info"
+msgstr "Informazioni utente"
+
+#: functions/recallbar.php:32
+msgid "To admin area"
+msgstr "Area Amministrazione"
+
+#: functions/addons-update.php:217
+msgid "The files failed to be uploaded!"
+msgstr "Il caricamento del file è fallito!"
+
+#: functions/frontend.php:182
+msgid "online"
+msgstr "In linea"
+
+#: functions/enqueue-scripts.php:151
+msgid "Upload"
+msgstr "Carica"
+
+#: classes/class-rcl-custom-fields-manager.php:91
+msgid "Dynamic"
+msgstr "dinamico"
+
+#: classes/class-rcl-custom-fields.php:615
+msgid "Upload the downloaded file"
+msgstr "Carica il file scaricato"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "Average check"
+msgstr "Controllo medio"
+
+#: add-on/user-balance/admin/index.php:114
+msgid "for the amount of"
+msgstr "per un complessivo di"
+
+#: add-on/user-balance/shortcodes.php:64
+msgid "Payment via"
+msgstr "Pagamento attraverso"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:158
+msgid "Media loader"
+msgstr "Pannello di caricamento dei file media"
+
+#: add-on/profile/index.php:58
+msgid "Profile settings"
+msgstr "Configurazione del Profilo"
+
+#: add-on/prime-forum/admin/index.php:787
+#: add-on/prime-forum/functions-posts.php:318
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:12
+#: add-on/rcl-chat/index.php:45
+msgid "Messages"
+msgstr "Messaggi"
+
+#: add-on/commerce/content/order-content.php:144
+#: add-on/commerce/templates/orders-history.php:13
+msgid "Order status"
+msgstr "Stato dell'ordine"
+
+#: add-on/commerce/templates/orders-history.php:11
+msgid "Number of goods"
+msgstr "Numero di prodotti"
+
+#: add-on/commerce/templates/orders-history.php:10
+msgid "Order date"
+msgstr "Data dell'ordine"
+
+#: add-on/commerce/templates/orders-history.php:9
+msgid "Order number"
+msgstr "Ordine numero"
+
+#: add-on/commerce/templates/cart-mini.php:11
+msgid "In your cart"
+msgstr "Nel tuo carrello"
+
+#: add-on/commerce/templates/cart-mini.php:17
+msgid "Total amount"
+msgstr "Conto totale"
+
+#: add-on/commerce/admin/index.php:410
+#: add-on/commerce/content/order-content.php:143
+msgid "Order"
+msgstr "Ordine"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:128
+#: add-on/prime-forum/classes/class-prime-form.php:118
+msgid "Your name"
+msgstr "Il tuo nome"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:119
+msgid "Enter your E-mail"
+msgstr "Inserisci il tuo indirizzo di posta elettronica"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:88
+msgid "Checkout"
+msgstr "Uscita"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:63
+msgid "To place an order fill out the form below"
+msgstr "Per inserire un ordine, completa il modulo sottostante"
+
+#: add-on/commerce/classes/class-rcl-cart-constructor.php:35
+msgid "Your shopping cart is empty"
+msgstr "Il tuo carrello è vuoto"
+
+#: add-on/commerce/admin/products-metabox.php:171
+msgid "Images gallery"
+msgstr "Galleria di immagini"
+
+#: add-on/commerce/admin/products-metabox.php:148
+msgid "select a product tag"
+msgstr "Seleziona un tag del prodotto"
+
+#: add-on/commerce/admin/products-metabox.php:136
+msgid "Select a tag"
+msgstr "Seleziona un tag"
+
+#: add-on/commerce/admin/products-metabox.php:129
+msgid "Select a product category"
+msgstr "Seleziona una categoria del prodotto"
+
+#: add-on/commerce/admin/products-metabox.php:117
+msgid "Choose a category"
+msgstr "Scegli una categoria"
+
+#: add-on/commerce/admin/products-metabox.php:112
+msgid "Similar and recommended products"
+msgstr "Prodotti simili raccomandati"
+
+#: add-on/commerce/admin/products-metabox.php:10
+msgid "Product features"
+msgstr "Caratteristiche del prodotto"
+
+#: add-on/commerce/admin/products-columns.php:95
+msgid "withdrawn from sale"
+msgstr "ritirati dalla vendita"
+
+#: add-on/commerce/admin/products-columns.php:91
+msgid "in reserve"
+msgstr "in riserva"
+
+#: add-on/commerce/admin/products-columns.php:81
+#: add-on/commerce/admin/products-columns.php:83
+msgid "in stock"
+msgstr "in stock"
+
+#: add-on/commerce/admin/products-columns.php:71
+msgid "digital goods"
+msgstr "prodotti digitali"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Income (tsd.)"
+msgstr "Reddito (tsd.)"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Payments (pcs.)"
+msgstr "Pagamenti (pz.)"
+
+#: add-on/commerce/admin/index.php:368
+msgid "Days/Months"
+msgstr "Giorni / Mesi"
+
+#: add-on/commerce/admin/index.php:366
+msgid "Period of time"
+msgstr "Arco di tempo"
+
+#: add-on/commerce/admin/index.php:365
+msgid "Finance"
+msgstr "Finanza"
+
+#: add-on/commerce/classes/class-rcl-cart-button-form.php:53
+msgid "Free"
+msgstr "Gratuito"
+
+#: add-on/commerce/content/product-terms.php:17
+msgid "Categories"
+msgstr "Categorie"
+
+#: add-on/commerce/core.php:327
+msgid "Copy the text of the link below , paste it into the address bar of your browser and press Enter"
+msgstr "Copia il testo del link sottostante, incollalo nella barra degli indirizzi del tuo browser e premi INVIO"
+
+#: add-on/commerce/core.php:324
+msgid "Confirm your email on the site by clicking on the link below"
+msgstr "Conferma la tua email nel sito cliccando nel link sottostante"
+
+#: add-on/commerce/core.php:304
+msgid "You have been registered"
+msgstr "Sei stato registrato"
+
+#: add-on/commerce/core.php:280 add-on/commerce/core.php:361
+#: add-on/commerce/core.php:377
+msgid "Information about the customer"
+msgstr "Informazioni sul cliente"
+
+#: add-on/commerce/admin/pages/order.php:9
+#: add-on/commerce/content/order-content.php:139 add-on/commerce/core.php:276
+msgid "Order data"
+msgstr "Dati dell'ordine"
+
+#: add-on/commerce/classes/class-rcl-create-order.php:159
+msgid "An error occurred while registering the buyer!"
+msgstr "Si è verificato un errore durante la registrazione dell'acquirente!"
+
+#: add-on/commerce/classes/class-rcl-create-order.php:142
+#: add-on/commerce/functions-ajax.php:120
+msgid "This email is already used! If this is your email, then log in and proceed with the order."
+msgstr "Questa email è già utilizzata! Se questa è la tua email, allora fai accesso e procedi con l'ordine."
+
+#: add-on/commerce/index.php:279
+msgid "Your order has been successfully paid! A notification has been sent to the administration."
+msgstr "Il tuo ordine è stato correttamente pagato! Una notifica è stata inviata all'amministrazione."
+
+#: add-on/user-balance/index.php:238
+msgid "Insufficient funds in your personal account!<br>Order price: %d %s"
+msgstr "Fondi insufficienti nel tuo account!<br>Il prezzo dell'ordine è: %d %s"
+
+#: add-on/commerce/content/order-content.php:52
+msgid "You can monitor the status of your order in your personal account."
+msgstr "Puoi monitorare lo stato del tuo ordine nel tuo account personale."
+
+#: add-on/commerce/content/order-content.php:61
+msgid "In your personal account you can find out the status of your order."
+msgstr "Nel tuo account personale puoi scoprire lo stato del tuo ordine."
+
+#: add-on/commerce/content/order-content.php:60
+msgid "All necessary data for authorization on the site have been sent to the specified e-mail"
+msgstr "Tutti i dati necessari per l'autorizzazione sul sito sono stati inviati all'e-mail specificata"
+
+#: add-on/commerce/content/order-content.php:104
+msgid "Payment order №%s dated %s"
+msgstr "Il pagamento dell'ordine n. %s datato %s"
+
+#: add-on/commerce/content/order-content.php:36
+msgid "The order contained only free items"
+msgstr "L'ordine contiene solamente prodotti gratuiti"
+
+#: add-on/commerce/content/order-content.php:30
+msgid "Your order has been created!"
+msgstr "Il tuo ordine è stato registrato!"
+
+#: add-on/commerce/functions-ajax.php:84
+msgid "In your shopping cart: %d items"
+msgstr "Nel tuo carrello: %d articoli"
+
+#: add-on/commerce/functions-ajax.php:83
+msgid "Added to cart!"
+msgstr "Aggiunto al carrello!"
+
+#: add-on/commerce/admin/pages/export-import.php:82
+msgid "Attention"
+msgstr "Attenzione"
+
+#: add-on/commerce/admin/pages/export-import.php:81
+msgid "Import products from a file"
+msgstr "Importa prodotti da un file"
+
+#: add-on/commerce/admin/pages/export-import.php:73
+msgid "Upload products to a file"
+msgstr "Carica prodotti in un file"
+
+#: add-on/commerce/admin/pages/export-import.php:9
+msgid "the item is no longer available"
+msgstr "il prodotto non è più disponibile"
+
+#: add-on/commerce/admin/pages/export-import.php:8
+msgid "The price of the product in the main currency"
+msgstr "Il prezzo del prodotto nella valuta principale"
+
+#: add-on/commerce/admin/pages/export-import.php:56
+msgid "Add a short description"
+msgstr "Aggiungi una breve descrizione"
+
+#: add-on/commerce/admin/pages/export-import.php:55
+msgid "Add a description"
+msgstr "Aggiungi una descrizione"
+
+#: add-on/commerce/admin/pages/export-import.php:54
+msgid "Add a title"
+msgstr "Aggiungi un titolo"
+
+#: add-on/commerce/admin/pages/export-import.php:52
+msgid "Export/import data"
+msgstr "Esporta/Importa dati"
+
+#: add-on/prime-forum/admin/index.php:106
+msgid "By default"
+msgstr "Di default"
+
+#: add-on/commerce/core.php:284 add-on/commerce/core.php:334
+#: add-on/commerce/core.php:365 add-on/commerce/core.php:381
+msgid "Order details"
+msgstr "Dettagli dell'ordine"
+
+#: add-on/commerce/core.php:282 add-on/commerce/core.php:363
+#: add-on/commerce/core.php:379
+msgid "Email"
+msgstr "Email"
+
+#: add-on/commerce/index.php:298
+msgid "See all orders"
+msgstr "Vedi tutti gli ordini"
+
+#: add-on/commerce/admin/products-columns.php:16
+#: add-on/commerce/templates/cart.php:16 add-on/commerce/templates/order.php:17
+msgid "Price"
+msgstr "Prezzo"
+
+#: add-on/commerce/admin/pages/addon-settings.php:109
+msgid "Number of featured products"
+msgstr "Numero di prodotti in primo piano"
+
+#: add-on/commerce/admin/pages/addon-settings.php:51
+msgid "Specify the page with the shortcode [basket]"
+msgstr "Specifica la pagina che contiene lo shortcode [basket]"
+
+#: add-on/commerce/admin/index.php:28
+msgid "Store settings"
+msgstr "Memorizza le impostazioni"
+
+#: add-on/commerce/admin/index.php:27
+msgid "Order form"
+msgstr "Modulo d'ordine"
+
+#: add-on/commerce/admin/index.php:25
+msgid "Export/Import"
+msgstr "Esporta/Importa"
+
+#: add-on/commerce/activate.php:168 add-on/commerce/index.php:130
+#: add-on/groups/groups-init.php:59
+msgid "Add or delete"
+msgstr "Aggiungi o rimuovi"
+
+#: add-on/commerce/activate.php:167 add-on/commerce/index.php:129
+msgid "Tags separated by commas"
+msgstr "Tag separati da virgole"
+
+#: add-on/commerce/activate.php:166 add-on/commerce/index.php:128
+msgid "New tag"
+msgstr "Nuovo tag"
+
+#: add-on/commerce/activate.php:161 add-on/commerce/activate.php:162
+#: add-on/commerce/index.php:123 add-on/commerce/index.php:124
+msgid "Parental tag"
+msgstr "Etichetta genitore"
+
+#: add-on/commerce/activate.php:160 add-on/commerce/index.php:122
+msgid "All tags"
+msgstr "Tutti i tag"
+
+#: add-on/commerce/activate.php:159 add-on/commerce/index.php:121
+msgid "Popular tags"
+msgstr "Tags più popolari"
+
+#: add-on/commerce/activate.php:157 add-on/commerce/activate.php:187
+#: add-on/commerce/activate.php:195 add-on/commerce/activate.php:203
+#: add-on/commerce/index.php:119
+msgid "Product Tag"
+msgstr "Tag del prodotto"
+
+#: add-on/commerce/activate.php:156 add-on/commerce/activate.php:170
+#: add-on/commerce/index.php:118 add-on/commerce/index.php:132
+msgid "Product Tags"
+msgstr "Tags del prodotto"
+
+#: add-on/commerce/activate.php:128 add-on/commerce/index.php:95
+msgid "Add or delete a category"
+msgstr "Aggiungi o cancella una categoria"
+
+#: add-on/commerce/activate.php:127 add-on/commerce/index.php:94
+msgid "Categories separated by commas"
+msgstr "Categorie separate da virgole"
+
+#: add-on/commerce/activate.php:126 add-on/commerce/index.php:93
+msgid "New category"
+msgstr "Nuova categoria"
+
+#: add-on/commerce/activate.php:125 add-on/commerce/index.php:92
+msgid "Add a new category"
+msgstr "Aggiungi una nuova categoria"
+
+#: add-on/commerce/activate.php:124 add-on/commerce/index.php:91
+msgid "Update category"
+msgstr "Aggiorna categoria"
+
+#: add-on/commerce/activate.php:123 add-on/commerce/index.php:90
+msgid "Edit category"
+msgstr "Modifica categoria"
+
+#: add-on/commerce/activate.php:121 add-on/commerce/activate.php:122
+#: add-on/commerce/index.php:88 add-on/commerce/index.php:89
+msgid "Parent category"
+msgstr "Categoria genitore"
+
+#: add-on/commerce/activate.php:119 add-on/commerce/index.php:86
+msgid "Popular categories"
+msgstr "Categorie più richieste"
+
+#: add-on/commerce/activate.php:116 add-on/commerce/activate.php:130
+#: add-on/commerce/index.php:83 add-on/commerce/index.php:97
+msgid "Product categories"
+msgstr "Categorie del prodotto"
+
+#: add-on/commerce/activate.php:91 add-on/commerce/index.php:52
+#: add-on/commerce/index.php:158
+msgid "Products"
+msgstr "Prodotti"
+
+#: add-on/commerce/activate.php:90 add-on/commerce/index.php:51
+msgid "Parental goods"
+msgstr "Merce genitore"
+
+#: add-on/commerce/activate.php:83 add-on/commerce/index.php:44
+msgid "Add new item"
+msgstr "Aggiungi un nuovo articolo"
+
+#: add-on/commerce/activate.php:82 add-on/commerce/index.php:43
+msgid "Add this item"
+msgstr "Aggiungi questo articolo"
+
+#: add-on/commerce/activate.php:81 add-on/commerce/index.php:42
+#: add-on/commerce/templates/cart.php:13 add-on/commerce/templates/order.php:14
+msgid "Product"
+msgstr "Prodotto"
+
+#: add-on/commerce/activate.php:80 add-on/commerce/activate.php:220
+#: add-on/commerce/index.php:41
+msgid "Products catalog"
+msgstr "Elenco dei prodotti"
+
+#: templates/add-on-card.php:59
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: templates/add-on-card.php:66
+msgid "Compatible"
+msgstr "Compativile"
+
+#: templates/add-on-card.php:63
+msgid "downloads"
+msgstr "Downloads"
+
+#: add-on/prime-forum/functions-query.php:215 add-on/rcl-chat/index.php:290
+#: templates/add-on-card.php:60
+msgid "ago"
+msgstr "fa"
+
+#: templates/add-on-card.php:19
+msgid "Go to"
+msgstr "Vai a"
+
+#: templates/add-on-card.php:17
+msgid "Installed"
+msgstr "Installato"
+
+#: templates/add-on-card.php:17
+msgid "This add-on has already been installed"
+msgstr "Questo componente aggiuntivo è già installato"
+
+#: rcl-functions.php:916
+msgid "Signature verification failed"
+msgstr "Verifica della firma fallita"
+
+#: admin/pages/repository.php:54
+msgid "Failed to get data"
+msgstr "Impossibile il recupero dei dati"
+
+#: add-on/prime-forum/admin/themes-manager.php:219 admin/add-on-manager.php:221
+#: admin/templates-manager.php:208
+msgid "update automatically"
+msgstr "aggiorna automaticamente"
+
+#: add-on/prime-forum/admin/themes-manager.php:218 admin/add-on-manager.php:220
+#: admin/templates-manager.php:207
+msgid "view information about the version"
+msgstr "Vedi le informazioni sulla versione"
+
+#: functions/register.php:264
+msgid "Copy the link below, paste it into the address bar of your browser and hit Enter"
+msgstr "Copia il link sottostante, incollalo nella barra degli indirizzi e premi INVIO"
+
+#: functions/register.php:263
+msgid "Unable to activate the account?"
+msgstr "Non riesci ad attivare l'account?"
+
+#: functions/register.php:261
+msgid "If it was you, then confirm your registration by clicking on the link below"
+msgstr "Se sei stato tu, conferma la tua registrazione cliccando sul link seguente"
+
+#: functions/deprecated.php:129
+msgid "Go back"
+msgstr "Indietro"
+
+#: functions/deprecated.php:125
+msgid "Go to the last page"
+msgstr "Vai all'ultima pagina"
+
+#: functions/deprecated.php:124
+msgid "Go to the next page"
+msgstr "Vai alla pagina successiva"
+
+#: functions/deprecated.php:122
+msgid "of"
+msgstr "di"
+
+#: functions/deprecated.php:120
+msgid "Go to the previous page"
+msgstr "Vai alla pagina precedente"
+
+#: functions/deprecated.php:119
+msgid "Go to the first page"
+msgstr "Vai alla prima pagina"
+
+#: functions/enqueue-scripts.php:128
+msgid "Strong"
+msgstr "Molto complessa :) "
+
+#: functions/enqueue-scripts.php:127
+msgid "Reliable"
+msgstr "Sicura"
+
+#: functions/enqueue-scripts.php:126
+msgid "Average"
+msgstr "Media"
+
+#: functions/enqueue-scripts.php:125
+msgid "Worse than average"
+msgstr "Puoi fare di meglio"
+
+#: functions/enqueue-scripts.php:124
+msgid "Weak"
+msgstr "Debole"
+
+#: functions/enqueue-scripts.php:123
+msgid "Very weak"
+msgstr "Molto piccola"
+
+#: functions/enqueue-scripts.php:150
+msgid "Loading"
+msgstr "Sto caricando"
+
+#: functions/enqueue-scripts.php:147
+msgid "Please wait"
+msgstr "Attendere prego"
+
+#: functions/enqueue-scripts.php:146
+msgid "Close"
+msgstr "Chiudi"
+
+#: add-on/rating-system/templates/rating-comment.php:16
+msgid "Go to comment"
+msgstr "Vai al commento"
+
+#: add-on/publicpost/upload-file.php:80
+msgid "Banned file extension. Resolved:"
+msgstr "Estensione di file vietata. Risolto:"
+
+#: functions/enqueue-scripts.php:166
+msgid "Fill in all required fields"
+msgstr "Compila tutti i campi richiesti"
+
+#: add-on/publicpost/init.php:23
+msgid "Quick edit"
+msgstr "Editor rapido"
+
+#: add-on/publicpost/functions-ajax.php:96
+msgid "Changes to be saved not found"
+msgstr "Non ho trovato modifiche da salvare"
+
+#: add-on/publicpost/functions-ajax.php:100
+msgid "Publication updated"
+msgstr "Pubblicazione aggiornata"
+
+#: add-on/publicpost/functions-ajax.php:69
+msgid "Failed to get the data"
+msgstr "Recupero dei dati fallito"
+
+#: functions/supports/uploader-avatar.php:286
+msgid "Avatar successfully uploaded"
+msgstr "L'avatar è stato caricato correttamente"
+
+#: functions/supports/uploader-avatar.php:225
+#: functions/supports/uploader-cover.php:165
+msgid "The downloaded image is incorrect"
+msgstr "L'immagine scaricata non è corretta"
+
+#: functions/supports/uploader-avatar.php:177
+#: functions/supports/uploader-cover.php:117
+msgid "Size exceeded"
+msgstr "La dimensione è eccessiva"
+
+#: add-on/profile/admin/index.php:100
+msgid "Custom Profile Fields"
+msgstr "Campi del profilo personalizzato"
+
+#: add-on/prime-forum/classes/class-prime-form.php:143
+#: add-on/rcl-chat/actions_cron.php:102
+msgid "Message text"
+msgstr "Testo del messaggio"
+
+#: add-on/groups/groups-core.php:1050
+msgid "To view the publication , you must be a member of the group"
+msgstr "Per vedere la pubblicazione, devi essere un membro del gruppo"
+
+#: add-on/groups/groups-core.php:1049
+msgid "Publication unavailable!"
+msgstr "Pubblicazione non disponibile!"
+
+#. Author URI of the plugin/theme
+msgid "http://codeseller.ru/"
+msgstr "http://codeseller.ru/"
+
+#. Plugin URI of the plugin/theme
+msgid "http://codeseller.ru/?p=69"
+msgstr "http://codeseller.ru/?p=69"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:357
+msgid "Answers in comments"
+msgstr "Risposte a commenti"
+
+#: add-on/rating-system/admin/addon-settings.php:88
+msgid "Overall rating"
+msgstr "Valutazione complessiva"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:164
+msgid "This page is required to filter users by value of profile fields"
+msgstr "Questa pagina è richiesta per filtrare gli utenti in base al valore dei campi del profilo"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:156
+msgid "Users page"
+msgstr "Pagina utenti"
+
+#: add-on/publicpost/functions-ajax.php:220
+msgid "Add contents of the publication!"
+msgstr "Aggiungi i contenuti della pubblicazione!"
+
+#: add-on/publicpost/functions-ajax.php:170
+msgid "If this is your email, then log in and publish your post"
+msgstr "Se questa è la tua email, fai accesso e pubblica il tuo contributo"
+
+#: add-on/publicpost/functions-ajax.php:169
+msgid "This email is already used!"
+msgstr "Questo indirizzo email è già stato utilizzato!"
+
+#: add-on/commerce/classes/class-rcl-create-order.php:138
+#: add-on/commerce/classes/class-rcl-create-order.php:169
+#: add-on/commerce/functions-ajax.php:116
+#: add-on/publicpost/functions-ajax.php:166
+msgid "You have entered an invalid email!"
+msgstr "Hai inserito un indirizzo email non valido!"
+
+#: add-on/publicpost/functions-ajax.php:155
+msgid "Enter your name!"
+msgstr "Inserisci il tuo nome!"
+
+#: add-on/publicpost/functions-ajax.php:152
+msgid "Enter your e-mail!"
+msgstr "Inserisci il tuo indirizzo di posta elettronica!"
+
+#: add-on/prime-forum/functions-actions.php:124
+#: add-on/prime-forum/functions-actions.php:198
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:105
+#: add-on/publicpost/classes/class-rcl-public-form.php:801
+#: add-on/publicpost/classes/class-rcl-public-form.php:812
+#: add-on/publicpost/core.php:319
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#: add-on/publicpost/functions-ajax.php:39
+msgid "Deletion failed!"
+msgstr "Cancellazione fallita!"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:121
+#: classes/class-rcl-custom-fields.php:189
+msgid "Allowed extensions"
+msgstr "Estensioni consentite"
+
+#: add-on/publicpost/init.php:24
+msgid "You have exceeded the allowed number of downloads! Max:"
+msgstr "Hai superato il limite massimo di scaricamenti! Il massimo è: "
+
+#: add-on/prime-forum/functions-actions.php:1097
+#: functions/supports/modal-user-details.php:18
+msgid "Detailed information"
+msgstr "Informazioni dettagliate"
+
+#: add-on/groups/index.php:606
+msgid "We are sorry, but your request to access a private group \"%s\" on the site \"%s\" has been rejected by its administrator"
+msgstr "Ci dispiace, ma la tua richiesta di accesso al gruppo privato \"%s\" nel sito \"%s\" è stata rifiutata dagli amministratori del gruppo"
+
+#: add-on/groups/index.php:595
+msgid "You can visit the group by clicking on the link"
+msgstr "Puoi visitare il gruppo cliccando sul link"
+
+#: add-on/groups/index.php:594
+msgid "Now you can take part in the life of the group as its full participant."
+msgstr "Ora puoi prendere parte alle attività del gruppo come partecipante."
+
+#: add-on/groups/index.php:593
+msgid "Congratulations , your access request to a private group on \"%s\" website has been approved"
+msgstr "Congratulazioni. La tua richiesta di accesso al gruppo privato del sito \"%s\" è stata approvata."
+
+#: add-on/groups/index.php:592
+msgid "Welcome to the group"
+msgstr "Benvenuto al gruppo"
+
+#: add-on/groups/index.php:493
+msgid "separate by commas"
+msgstr "separate da virgola"
+
+#: add-on/groups/groups-widgets.php:202 add-on/groups/groups-widgets.php:210
+#: add-on/groups/index.php:362 add-on/groups/index.php:493
+msgid "Group categories"
+msgstr "Categorie del gruppo"
+
+#: add-on/groups/index.php:488
+msgid "Visitor"
+msgstr "Visitatore"
+
+#: add-on/groups/index.php:484
+msgid "Membership"
+msgstr "Appartenenza"
+
+#: add-on/groups/groups-core.php:319 add-on/groups/index.php:479
+msgid "Open group"
+msgstr "Gruppo aperto"
+
+#: add-on/groups/index.php:477 add-on/groups/templates/single-group.php:37
+msgid "Group status"
+msgstr "Stato del Gruppo"
+
+#: add-on/groups/index.php:469
+msgid "Group name"
+msgstr "Nome del Gruppo"
+
+#: add-on/groups/groups-core.php:669
+msgid "You can approve or reject the request by clicking on the link"
+msgstr "Puoi approvare o rifiutare la richiesta cliccando sul link"
+
+#: add-on/groups/groups-core.php:664
+msgid "User information"
+msgstr "Informazioni utente"
+
+#: add-on/groups/groups-core.php:660
+msgid "You have received a new request for access to group managed by you \"%s\" on the site \"%s\""
+msgstr "Hai ricevuto una richiesta per accedere al gruppo gestito da te \"%s\" on the site \"%s\""
+
+#: add-on/groups/groups-core.php:432
+msgid "Sort by status"
+msgstr "Ordina per stato"
+
+#: admin/pages/options.php:185
+msgid "Only guests"
+msgstr "Solo ospiti"
+
+#: admin/pages/options.php:182
+msgid "Cache output"
+msgstr "Uscita cache"
+
+#: admin/pages/options.php:177 admin/pages/options.php:302
+msgid "Default"
+msgstr "Default"
+
+#: admin/pages/options.php:176
+msgid "Time cache (seconds)"
+msgstr "Cache del tempo (in secondi)"
+
+#: admin/pages/options.php:165
+msgid "Cache"
+msgstr "Cache"
+
+#: admin/pages/options.php:160
+msgid "Caching"
+msgstr "Caching"
+
+#: admin/pages/options.php:122
+msgid "Primary color"
+msgstr "Colore primario"
+
+#: admin/add-on-manager.php:143 admin/add-on-manager.php:407
+#: admin/admin-menu.php:45
+msgid "Add-ons"
+msgstr "Componenti aggiuntivi"
+
+#: add-on/prime-forum/admin/themes-manager.php:112 admin/add-on-manager.php:104
+#: admin/templates-manager.php:101
+msgid "No addons found."
+msgstr "Componenti aggiuntivi non trovati"
+
+#: add-on/prime-forum/admin/themes-manager.php:23 admin/add-on-manager.php:23
+#: admin/templates-manager.php:23
+msgid "add-ons"
+msgstr "Componenti aggiuntivi"
+
+#: add-on/prime-forum/admin/themes-manager.php:22 admin/add-on-manager.php:22
+#: admin/templates-manager.php:22
+msgid "add-on"
+msgstr "Componente aggiuntivo"
+
+#: classes/class-rcl-custom-fields.php:686
+msgid "Prohibited file type!"
+msgstr "Tipo file non consentito!"
+
+#: add-on/user-balance/admin/index.php:112
+msgid "Payment history"
+msgstr "Cronologia dei pagamenti"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:92
+msgid "All user payments"
+msgstr "Tutti i pagamenti dell'utente"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:91
+msgid "Delete payment"
+msgstr "Cancella pagamento"
+
+#: add-on/commerce/admin/index.php:413 add-on/commerce/templates/cart.php:22
+#: add-on/commerce/templates/order.php:23
+#: add-on/commerce/templates/orders-history.php:12
+#: add-on/user-balance/admin/class-rcl-payments-history.php:81
+msgid "Sum"
+msgstr "Totale"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:80
+msgid "Payments ID"
+msgstr "Identificativi di pagamento"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:50
+msgid "No payments found."
+msgstr "Nessun pagamento trovato"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:23
+msgid "payments"
+msgstr "pagamenti"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:22
+msgid "payment"
+msgstr "pagamento"
+
+#: add-on/rating-system/core.php:682
+msgid "Data not found"
+msgstr "Dati non trovati"
+
+#: add-on/rcl-chat/addon-options.php:113
+msgid "Full text of the message"
+msgstr "Testo completo del messaggio"
+
+#: add-on/rcl-chat/addon-options.php:112
+msgid "Without the text of the message"
+msgstr "Senza il testo del messaggio"
+
+#: add-on/rcl-chat/addon-options.php:110
+msgid "Mail alert"
+msgstr "Avviso mail"
+
+#: add-on/commerce/admin/pages/orders.php:31
+#: add-on/user-balance/admin/index.php:123
+msgid "Filter"
+msgstr "Filtro"
+
+#: add-on/commerce/admin/pages/orders.php:7
+msgid "Order history"
+msgstr "Cronologia degli ordini"
+
+#: add-on/commerce/admin/index.php:23 add-on/commerce/admin/index.php:65
+#: add-on/commerce/index.php:170 add-on/commerce/index.php:180
+msgid "Orders"
+msgstr "Ordini"
+
+#. translators: 1: month name, 2: 4-digit year
+#: add-on/user-balance/admin/class-rcl-payments-history.php:137
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:128
+msgid "All dates"
+msgstr "Tutte le date"
+
+#: add-on/user-balance/admin/class-rcl-payments-history.php:126
+msgid "Filter by date"
+msgstr "Filtra per data"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:117
+msgid "All user orders"
+msgstr "Tutti gli ordini dell'utente"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:84
+msgid "Details"
+msgstr "Dettagli"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:75
+msgid "Order sum"
+msgstr "Conto dell'ordine"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:74
+msgid "Number of products"
+msgstr "Numero di prodotti"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:72
+msgid "Order ID"
+msgstr "ID dell'ordine"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:47
+msgid "No orders found."
+msgstr "Non ho trovato ordini."
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:21
+msgid "orders"
+msgstr "ordini"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:20
+msgid "order"
+msgstr "ordine"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:106
+#: add-on/commerce/core.php:228
+msgid "Trash"
+msgstr "Cestino"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:105
+#: add-on/commerce/core.php:227
+msgid "Closed"
+msgstr "Chiuso"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:104
+#: add-on/commerce/core.php:226
+msgid "Received"
+msgstr "Ricevuto"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:103
+#: add-on/commerce/core.php:225
+msgid "Sent"
+msgstr "Spedito"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:102
+#: add-on/commerce/core.php:224
+msgid "Paid"
+msgstr "Pagato"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:101
+#: add-on/commerce/core.php:223
+msgid "Not paid"
+msgstr "Non pagato"
+
+#: functions/loginform.php:52 functions/loginform.php:63
+#: functions/loginform.php:86 templates/form-sign.php:40
+#: templates/recallbar.php:43 templates/recallbar.php:44
+msgid "Entry"
+msgstr "Accesso"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:173
+msgid "Search groups"
+msgstr "Ricerca gruppi"
+
+#. Author of the plugin/theme
+msgid "Plechev Andrey"
+msgstr "Plechev Andrey"
+
+#. Description of the plugin/theme
+msgid "Фронт-енд профиль, система личных сообщений и рейтинг пользователей на сайте вордпресс."
+msgstr "Profilo di frontend, sistema di messaggi personali e valutazione dell'utente sul sito web."
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Recall"
+msgstr "WP-Recall"
+
+#: templates/recallbar.php:50 templates/recallbar.php:51
+msgid "Register"
+msgstr "Registrazione"
+
+#: admin/pages/options.php:31 classes/class-rcl-install.php:89
+msgid "Personal cabinet"
+msgstr "Cruscotto personale"
+
+#: admin/admin-menu.php:42
+msgid "Dashboard"
+msgstr "Pannello di controllo"
+
+#: templates/form-sign.php:35
+msgid "Remember"
+msgstr "Ricordami"
+
+#: templates/form-remember.php:4 templates/form-sign.php:7
+msgid "Authorization"
+msgstr "Accesso Autorizzati"
+
+#: templates/form-remember.php:16
+msgid "Username or e-mail"
+msgstr "Nome utente o indirizzo email"
+
+#: templates/form-register.php:7
+msgid "Authorization "
+msgstr "Accesso Autorizzati"
+
+#: rcl-widgets.php:58
+msgid "Number of displayed users"
+msgstr "Numero di utenti mostrati"
+
+#: rcl-widgets.php:14 rcl-widgets.php:51
+msgid "New users"
+msgstr "Nuovi utenti"
+
+#: rcl-widgets.php:12
+msgid "New users on website"
+msgstr "Nuovi utenti nel sito"
+
+#: rcl-functions.php:813
+msgid "long ago"
+msgstr "molto tempo"
+
+#: rcl-functions.php:789
+msgid "This letter was created automatically, no need to answer it."
+msgstr "Questo è stato creato automaticamente, non è necessario rispondere."
+
+#: functions/ajax.php:32
+msgid "Perhaps this add-on does not support ajax loading"
+msgstr "Probabilmente questo componente aggiuntivo non supporta il caricamento AJAX"
+
+#: add-on/groups/index.php:500 admin/index.php:43 admin/pages/options.php:315
+msgid "Save settings"
+msgstr "Salva la configurazione"
+
+#: admin/pages/options.php:288 rcl-functions.php:360
+msgid "Recallbar"
+msgstr "Pannello superiore di WP-Recall"
+
+#: admin/pages/options.php:281
+msgid "Indicator of password complexity"
+msgstr "Indicatore di complessità della password"
+
+#: admin/pages/options.php:275 admin/pages/options.php:282
+msgid "Displaye"
+msgstr "Mostrato"
+
+#: admin/pages/options.php:265
+msgid "Enter your URL below, if you select an arbitrary URL after login"
+msgstr "Inserisci il tuo URL qui sotto, se selezioni un URL arbitrario dopo il login"
+
+#: admin/pages/options.php:264
+msgid "URL"
+msgstr "URL"
+
+#: admin/pages/options.php:257
+msgid "Arbitrary URL"
+msgstr "URL arbitrario"
+
+#: admin/pages/options.php:256
+msgid "Current page"
+msgstr "Pagina corrente"
+
+#: admin/pages/options.php:255
+msgid "The user profile"
+msgstr "Il profilo utente"
+
+#: admin/pages/options.php:253
+msgid "Redirect user after login"
+msgstr "Reindirizza l'utente dopo l'accesso"
+
+#: admin/pages/options.php:247
+msgid "Used"
+msgstr "Utilizzato"
+
+#: admin/pages/options.php:244
+msgid "Registration confirmation by the user"
+msgstr "Conferma di registrazione dell'utente"
+
+#: admin/pages/options.php:219
+msgid "Floating form"
+msgstr "Modulo separato"
+
+#: add-on/rcl-chat/addon-options.php:132 admin/pages/options.php:131
+msgid "Left"
+msgstr "Sinistra"
+
+#: admin/pages/options.php:130
+msgid "Top"
+msgstr "In alto"
+
+#: admin/pages/options.php:80
+msgid "Access to the console"
+msgstr "Accesso alla Console"
+
+#: admin/pages/options.php:72
+msgid "Specify the time in minutes after which the user will be considered offline if you did not show activity on the website. The default is 10 minutes."
+msgstr "Specifica il tempo in minuti dopo il quale l'utente sarà considerato offline, se non mostri attività nel sito. Il valore di default è 10 minuti."
+
+#: admin/pages/options.php:71
+msgid "Inactivity timeout"
+msgstr "Timeout di inattività"
+
+#: admin/classes/class-rcl-tabs-manager.php:87
+msgid "ajax-loading"
+msgstr "Caricameno AJAX"
+
+#: admin/pages/options.php:220
+msgid "On a separate page"
+msgstr "In una pagina separata"
+
+#: admin/pages/options.php:59
+msgid "The link is formed according to principle \"/slug_page/?get=ID\". The parameter \"get\" can be set here. By default user"
+msgstr "Il collegamento è formato secondo il principio \"/slug_page/?get=ID\". Il parametro \"get\" può essere impostato qui. Di default utente"
+
+#: admin/pages/options.php:39
+msgid "Using shortcode [wp-recall]"
+msgstr "Utilizzando il codice [wp-recall]"
+
+#: admin/admin-menu.php:44
+msgid "Repository"
+msgstr "Deposito Software"
+
+#: admin/admin-menu.php:43
+msgid "SETTINGS"
+msgstr "IMPOSTAZIONI"
+
+#: admin/admin-menu.php:41
+msgid "WP-RECALL"
+msgstr "WP-RECALL"
+
+#: functions/frontend.php:158
+msgid "by login"
+msgstr "per login"
+
+#: functions/frontend.php:157
+msgid "by name"
+msgstr "per nome"
+
+#: functions/frontend.php:154
+msgid "Search users"
+msgstr "Ricerca utenti"
+
+#: functions/frontend.php:98
+msgid "Publics"
+msgstr "Pubblicazioni"
+
+#: functions/shortcodes.php:70
+msgid "Users not found"
+msgstr "Utenti non trovati"
+
+#: functions/register.php:485
+msgid "The passwords match"
+msgstr "Le password corrispondono"
+
+#: functions/register.php:484
+msgid "The passwords do not match!"
+msgstr "Le password non corrispondono"
+
+#: functions/register.php:474
+msgid "Repeat the password"
+msgstr "Ripeti la password"
+
+#: add-on/profile/index.php:22 functions/register.php:334
+msgid "Repeated password not correct!"
+msgstr "La password ripetuta non è corretta!"
+
+#: functions/register.php:387
+msgid "Your password has been sent!<br>Check your email."
+msgstr "La tua password è stata spedita!<br>Controlla la tua casella di posta elettronica."
+
+#: functions/register.php:357
+msgid "Registration completed!"
+msgstr "Registrazione completata!"
+
+#: functions/register.php:272
+msgid "If it wasn’t you, then just ignore this email"
+msgstr "Se non sei stato tu, puoi ignorare questa email"
+
+#: add-on/commerce/core.php:308 functions/register.php:244
+#: functions/register.php:447 functions/register.php:449
+#: templates/form-sign.php:25
+msgid "Password"
+msgstr "Password"
+
+#: functions/register.php:242
+msgid "with the following data:"
+msgstr "con i seguenti dati: "
+
+#: functions/register.php:242
+msgid "You or someone else signed up on our website"
+msgstr "Tu o qualcun altro (per te) ha richiesto l'iscrizione al nostro sito"
+
+#: functions/register.php:248
+msgid "Confirm your registration!"
+msgstr "Conferma la tua registrazione!"
+
+#: classes/class-rcl-custom-fields-manager.php:90
+msgid "File"
+msgstr "File"
+
+#: classes/class-rcl-custom-fields-manager.php:89
+msgid "Agreement"
+msgstr "Accettazione"
+
+#: classes/class-rcl-custom-fields-manager.php:88
+msgid "Url"
+msgstr "Url"
+
+#: classes/class-rcl-custom-fields-manager.php:84
+msgid "Phone"
+msgstr "Telefono"
+
+#: classes/class-rcl-custom-fields-manager.php:82
+msgid "Radiobutton"
+msgstr "Pulsante \"radio\""
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:108
+#: classes/class-rcl-custom-fields-manager.php:81
+msgid "Checkbox"
+msgstr "Casella di Controllo"
+
+#: classes/class-rcl-custom-fields-manager.php:80
+msgid "MultiSelect"
+msgstr "Selezione multipla"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:107
+#: classes/class-rcl-custom-fields-manager.php:79
+msgid "Select"
+msgstr "Selezione"
+
+#: classes/class-rcl-custom-fields-manager.php:236
+msgid "MetaKey"
+msgstr "Meta-Key"
+
+#: classes/class-rcl-custom-fields-manager.php:319
+msgid "maximum size of uploaded file, MB (Default - 2)"
+msgstr "Dimensione Massima del file caricato, in MB (Default = 2 Mb)"
+
+#: classes/class-rcl-custom-fields-manager.php:144
+msgid "Add field"
+msgstr "Aggiungi campo"
+
+#: classes/class-rcl-custom-fields.php:755
+#: classes/class-rcl-custom-fields.php:786
+#: classes/class-rcl-custom-fields.php:814
+msgid "File does not exist on the server!"
+msgstr "Il file non esiste sul server!"
+
+#: classes/class-rcl-custom-fields.php:191
+msgid "Max size"
+msgstr "Dimensione massima "
+
+#: classes/class-rcl-custom-fields.php:166
+msgid "delete"
+msgstr "rimuovi"
+
+#: admin/index.php:147 admin/pages/options.php:212
+msgid "Login and register"
+msgstr "Accesso e Registrazione"
+
+#: add-on/prime-forum/admin/themes-manager.php:341 admin/add-on-manager.php:392
+#: admin/templates-manager.php:318
+msgid "ZIP archive not found."
+msgstr "Archivio ZIP non trovato"
+
+#: add-on/prime-forum/admin/themes-manager.php:338 admin/add-on-manager.php:389
+#: admin/templates-manager.php:315
+msgid "Unpacking of archive failed."
+msgstr "Scompattamento dell'archivio fallito"
+
+#: add-on/prime-forum/admin/themes-manager.php:187 admin/add-on-manager.php:189
+#: admin/templates-manager.php:176
+msgid "Version"
+msgstr "Versione"
+
+#: admin/add-on-manager.php:164 admin/add-on-manager.php:172
+msgid "Activate"
+msgstr "Attiva"
+
+#: add-on/commerce/admin/pages/addon-settings.php:12
+#: add-on/prime-forum/admin/index.php:22
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/add-on-manager.php:163 admin/add-on-manager.php:173
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#: add-on/prime-forum/admin/themes-manager.php:130 admin/add-on-manager.php:122
+#: admin/pages/addons-manager.php:65 admin/templates-manager.php:119
+msgid "Inactive"
+msgstr "Inattivo"
+
+#: add-on/prime-forum/admin/themes-manager.php:128 admin/add-on-manager.php:120
+#: admin/pages/addons-manager.php:64 admin/templates-manager.php:117
+msgid "Active"
+msgstr "Attivo"
+
+#: add-on/prime-forum/admin/index.php:384 admin/pages/addons-manager.php:51
+#: admin/pages/themes-manager.php:35
+msgid "Install the add-on to WP-Recall format .ZIP"
+msgstr "Installa un Add-on di WP-Recall in formato .ZIP"
+
+#: add-on/prime-forum/admin/index.php:378
+msgid "Required to update the templates here. Get it  in  your account online <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+msgstr "Richiesto per l'aggiornamento dei modelli. Prendilo dal tuo account online su <a href=\"http://codeseller.ru/\" target=\"_blank\">http://codeseller.ru</a>"
+
+#: add-on/prime-forum/admin/index.php:374 admin/pages/addons-manager.php:41
+#: admin/pages/repository.php:76 admin/pages/themes-manager.php:25
+msgid "Enter RCLKEY"
+msgstr "Inserisci il codice RCLKEY"
+
+#: add-on/prime-forum/admin/index.php:372 admin/pages/addons-manager.php:39
+#: admin/pages/repository.php:74 admin/pages/themes-manager.php:23
+msgid "RCLKEY"
+msgstr "RCLKEY"
+
+#: admin/pages/addons-manager.php:22
+msgid "Files and data additions have been <strong>deleted</strong>."
+msgstr "I file e le aggiunte di dati sono stati <strong>cancellati</strong>"
+
+#: admin/pages/addons-manager.php:21
+msgid "Addition <strong>deactivated</strong>."
+msgstr "Aggiunta <strong>disattivata</strong>."
+
+#: functions/frontend.php:431
+msgid "Publication pending approval!"
+msgstr "La pubblicazione è in attesa di approvazione!"
+
+#: functions/frontend.php:423
+msgid "Congratulations! You have been banned."
+msgstr "Congratulazioni! Sei stato bannato!"
+
+#: functions/loginform.php:38 templates/recallbar.php:75
+msgid "Exit"
+msgstr "Uscita"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-post.php:8
+#: functions/loginform.php:28 functions/loginform.php:37
+#: functions/recallbar.php:23
+msgid "To personal account"
+msgstr "Account personale"
+
+#: functions/loginform.php:26
+msgid "Hi"
+msgstr "Ciao"
+
+#: classes/class-rcl-users-list.php:494
+msgid "Rated"
+msgstr "Valutazione"
+
+#: classes/class-rcl-users-list.php:490 functions/frontend.php:134
+#: functions/loginform.php:56 functions/loginform.php:67
+#: functions/loginform.php:90 templates/form-register.php:8
+#: templates/form-remember.php:6 templates/form-sign.php:9
+msgid "Registration"
+msgstr "Registrazione"
+
+#: classes/class-rcl-users-list.php:487
+msgid "Activity"
+msgstr "Attività"
+
+#: functions/captcha.php:65 functions/captcha.php:100
+msgid "Enter characters"
+msgstr "Inserisci caratteri"
+
+#: functions/register.php:375
+msgid "Your email is not confirmed!"
+msgstr "Il tuo indirizzo email non è stato confermato."
+
+#: functions/authorize.php:37 functions/register.php:178
+msgid "Fill in the required fields!"
+msgstr "Compila i campi richiesti!"
+
+#: classes/class-rcl-install.php:195
+msgid "Unconfirmed"
+msgstr "Non confermato"
+
+#: classes/class-rcl-install.php:94
+msgid "FEED"
+msgstr "FEED"
+
+#: add-on/user-balance/index.php:305 add-on/user-balance/index.php:333
+msgid "Personal account"
+msgstr "Account personale"
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Income (thousands)\""
+msgstr "\"incassi (migliaia)\""
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Payments (PCs.)\""
+msgstr "\"Pagamenti (pz).\""
+
+#: add-on/user-balance/admin/index.php:46
+msgid "\"Days/Months\""
+msgstr "\"Giorni/Mesi\""
+
+#: add-on/user-balance/admin/index.php:43
+msgid "Income dynamics"
+msgstr "Dinamica dei redditi"
+
+#: add-on/user-balance/admin/index.php:17
+msgid "Balance"
+msgstr "Saldo"
+
+#: add-on/user-balance/admin/index.php:90
+#: add-on/user-balance/admin/index.php:98
+msgid "Payments"
+msgstr "Pagamenti"
+
+#: add-on/user-balance/class-rcl-payment.php:179
+msgid "No record of the payment in the database was found"
+msgstr "Non ho trovato alcuna traccia del pagamento nel database"
+
+#: add-on/user-balance/admin/addon-settings.php:43
+msgid "Payment through payment systems"
+msgstr "Pagamento tramite sistemi di pagamento"
+
+#: add-on/prime-forum/admin/index.php:715
+msgid "Confirm the deletion"
+msgstr "Conferma la cancellazione"
+
+#: add-on/user-balance/index.php:262
+msgid "Top up personal account"
+msgstr "Ricarica l'account personale"
+
+#: add-on/user-balance/admin/addon-settings.php:108
+msgid "Successful payment page"
+msgstr "Pagina di pagamento riuscito"
+
+#: add-on/user-balance/admin/addon-settings.php:74
+msgid "Service page of payment systems"
+msgstr "Pagina di servizio dei sistemi di pagamento"
+
+#: add-on/user-balance/admin/addon-settings.php:58
+msgid "The connection to payment aggregator"
+msgstr "Connessione all'aggregatore di pagamenti"
+
+#: add-on/user-balance/admin/addon-settings.php:51
+msgid "Type of payment"
+msgstr "Tipo di pagamento"
+
+#: add-on/user-balance/admin/addon-settings.php:49
+msgid "Payment"
+msgstr "Pagamento"
+
+#: add-on/user-balance/admin/addon-settings.php:17
+#: add-on/user-balance/admin/index.php:87
+msgid "Payment systems"
+msgstr "Systemi di pagamento"
+
+#: add-on/user-balance/admin/addon-settings.php:13 admin/pages/options.php:246
+msgid "Not used"
+msgstr "Non utilizzato"
+
+#: add-on/prime-forum/admin/index.php:396 admin/pages/addons-manager.php:63
+#: admin/pages/repository.php:86 admin/pages/themes-manager.php:47
+msgid "All"
+msgstr "Tutto"
+
+#: add-on/rating-system/index.php:501
+msgid "exceeded the limit of votes for the period - %d seconds"
+msgstr "ha superato il limite di voti per il periodo - %d secondi"
+
+#: add-on/rating-system/index.php:368
+msgid "rating"
+msgstr "classificazione"
+
+#: add-on/rating-system/admin/addon-settings.php:135
+#: add-on/rating-system/admin/index.php:24 add-on/rating-system/index.php:58
+msgid "Rating"
+msgstr "Classificazione"
+
+#: add-on/rating-system/core.php:369
+msgid "comment"
+msgstr "commento"
+
+#: add-on/rating-system/core.php:251
+msgid "Correction"
+msgstr "Correzione"
+
+#: add-on/commerce/admin/products-columns.php:63
+#: add-on/rating-system/admin/index.php:32
+msgid "OK"
+msgstr "OK"
+
+#: add-on/rating-system/admin/addon-settings.php:179
+msgid "specify the user group which is allowed to view votes"
+msgstr "specifica il gruppo di utenti al qualke è consentito vedere i voti"
+
+#: add-on/rating-system/admin/addon-settings.php:171
+msgid "View results"
+msgstr "Vedi i risultati"
+
+#: add-on/rating-system/admin/addon-settings.php:166
+msgid "specify the rating level at which the user will get the ability to post without moderation"
+msgstr "specificare il livello di valutazione al quale l'utente avrà la possibilità di postare senza moderazione"
+
+#: add-on/rating-system/admin/addon-settings.php:153
+msgid "Rating settings"
+msgstr "Configurazione delle Valutazioni"
+
+#: add-on/rating-system/admin/addon-settings.php:119
+msgid "The influence of rating %s on the overall rating"
+msgstr "L'influenza della valutazione %s sulla valutazione complessiva"
+
+#: add-on/rating-system/admin/addon-settings.php:99
+msgid "Points for ranking"
+msgstr "Punti per la classifica"
+
+#: classes/class-rcl-custom-fields-manager.php:87
+msgid "Time"
+msgstr "ora"
+
+#: classes/class-rcl-custom-fields-manager.php:85
+msgid "Number"
+msgstr "Numero"
+
+#: add-on/rating-system/admin/addon-settings.php:89
+msgid "Number of positive and negative votes"
+msgstr "Numero dei voti positivi e negativi"
+
+#: add-on/rating-system/admin/addon-settings.php:49
+msgid "I like"
+msgstr "Mi piace"
+
+#: add-on/rating-system/admin/addon-settings.php:48
+msgid "Plus/minus"
+msgstr "Più/Meno"
+
+#: add-on/rating-system/admin/addon-settings.php:46
+msgid "Type of rating for"
+msgstr "Tipo di valutazione per"
+
+#: add-on/rating-system/admin/addon-settings.php:36
+msgid "%POST% - link to publication"
+msgstr "%POST% - link alla pubblicazione"
+
+#: add-on/rating-system/admin/addon-settings.php:33
+msgid "%COMMENT% - link to comment"
+msgstr "%COMMENT% - link al commento"
+
+#: add-on/rating-system/admin/addon-settings.php:30
+msgid "%DATE% - date of changing the rating"
+msgstr "%DATE% - data di modifica del rating"
+
+#: add-on/rating-system/admin/addon-settings.php:29
+msgid "%VALUE% - rated value"
+msgstr "%VALUE% - valore nominale"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:714
+msgid "Each tag is separated with Enter"
+msgstr "Ogni tag è separato con Invio"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:714
+msgid "Add your tags"
+msgstr "Aggiungi i tuoi tag"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:713
+msgid "Enter your tags"
+msgstr "Inserisci i tuoi tag"
+
+#: add-on/prime-forum/classes/class-prime-form.php:125
+#: add-on/publicpost/classes/class-rcl-public-form.php:139
+msgid "Your E-mail"
+msgstr "Il tuo indirizzo di posta elettronica"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:133
+msgid "Your Name"
+msgstr "Il tuo nome"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:216
+msgid "You must be logged in to post. Login or register"
+msgstr "Devi aver fatto accesso per inserire un post. Fai accesso o registrati."
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:218
+msgid "Sorry, but you have no rights to publish in this group :("
+msgstr "Mi spiace, ma non hai diritti di pubblicazione in questo gruppo :("
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:224
+msgid "You can not edit this publication :("
+msgstr "Non puoi modificare questa pubblicazione"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:841
+msgid "Publication labeled as advertising or spam"
+msgstr "Pubblicazione etichettata come pubblicità o spam"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:840
+msgid "Advertising/Spam"
+msgstr "Pubblicità / Spam"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:833
+msgid "The publication does not correspond to the site topic"
+msgstr "La pubblicazione non corrisponde al topic del sito"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:817
+msgid "Without notice"
+msgstr "Senza preavviso"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:803
+#: add-on/publicpost/classes/class-rcl-public-form.php:810
+#: add-on/publicpost/classes/class-rcl-public-form.php:818
+msgid "Delete post"
+msgstr "Cancella il post"
+
+#: add-on/prime-forum/classes/class-prime-form.php:240
+#: add-on/prime-forum/classes/class-prime-form.php:241
+#: add-on/prime-forum/functions-actions.php:1151
+#: add-on/publicpost/classes/class-rcl-public-form.php:411
+#: add-on/publicpost/init.php:19 functions/enqueue-scripts.php:148
+msgid "Preview"
+msgstr "Anteprima"
+
+#: add-on/publicpost/classes/class-rcl-post-list.php:96
+msgid "Published"
+msgstr "Pubblicazioni"
+
+#: add-on/publicpost/classes/class-rcl-post-list.php:86
+msgid "has not yet been published"
+msgstr "non sono stati ancora pubblicati"
+
+#: add-on/publicpost/classes/class-rcl-edit-post.php:44
+#: add-on/publicpost/classes/class-rcl-edit-post.php:243
+msgid "Error publishing!"
+msgstr "Errore nella pubblicazione!"
+
+#: add-on/publicpost/init.php:6
+msgid "The publication has been successfully removed!"
+msgstr "La pubblicazione è stata rimossa"
+
+#: add-on/publicpost/classes/class-rcl-public-form.php:413
+#: add-on/publicpost/init.php:20
+msgid "Publish"
+msgstr "Pubblica"
+
+#: add-on/publicpost/templates/posts-list.php:16
+msgid "deleted"
+msgstr "cancellato"
+
+#: add-on/publicpost/init.php:88
+msgid "Publication"
+msgstr "Pubblicazione"
+
+#: add-on/groups/templates/group-list.php:12 add-on/publicpost/init.php:64
+#: add-on/publicpost/init.php:74 add-on/rating-system/index.php:26
+msgid "Posts"
+msgstr "Post "
+
+#: add-on/publicpost/admin/addon-settings.php:22
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:47
+#: add-on/publicpost/init.php:54
+msgid "Records"
+msgstr "Articoli e Post"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:132
+msgid "Add"
+msgstr "Aggiungi"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:117
+msgid "Add files to the download queue"
+msgstr "Aggiungi i files alla coda di download"
+
+#: add-on/publicpost/classes/class-rcl-public-form-uploader.php:100
+msgid "Display all attached images in the gallery."
+msgstr "Mostra tutte le immagini allegate nella galleria."
+
+#: add-on/groups/index.php:473 add-on/prime-forum/admin/themes-manager.php:152
+#: add-on/publicpost/functions-ajax.php:64 admin/add-on-manager.php:145
+#: admin/templates-manager.php:141
+msgid "Description"
+msgstr "Descrizione"
+
+#: add-on/publicpost/admin/addon-settings.php:212
+msgid "On content recording"
+msgstr "Nella registrazione del contenuto"
+
+#: add-on/publicpost/admin/addon-settings.php:205
+msgid "Settings only for fields created using the form of the publication wp-recall"
+msgstr "Impostazioni solo per i campi creati utilizzando il modulo della pubblicazione di WP-Recall"
+
+#: add-on/publicpost/admin/addon-settings.php:198
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: add-on/commerce/content/product-terms.php:18 templates/add-on-card.php:32
+msgid "Tags"
+msgstr "Tag"
+
+#: add-on/publicpost/admin/addon-settings.php:192
+msgid "Limit editing time of publication in hours, by default: unlimited"
+msgstr "Limita il tempo di pubblicazione della pubblicazione in ore, per impostazione predefinita: illimitato"
+
+#: add-on/publicpost/admin/addon-settings.php:185
+msgid "Authors"
+msgstr "Autori"
+
+#: add-on/publicpost/admin/addon-settings.php:184
+msgid "Editors"
+msgstr "Editori"
+
+#: add-on/publicpost/admin/addon-settings.php:183
+msgid "Administrators"
+msgstr "Amministratori"
+
+#: add-on/publicpost/admin/addon-settings.php:181
+msgid "Frontend editing"
+msgstr "Modifica del frontend"
+
+#: add-on/publicpost/admin/addon-settings.php:176
+msgid "Editing"
+msgstr "Modifica"
+
+#: add-on/publicpost/admin/addon-settings.php:157
+msgid "Moderation of publications"
+msgstr "Moderazione delle pubblicazioni"
+
+#: add-on/publicpost/admin/addon-settings.php:125
+msgid "Publication of records"
+msgstr "Pubblicazione di record"
+
+#: add-on/publicpost/admin/addon-settings.php:116
+msgid "The form ID"
+msgstr "L'identificativo del modulo"
+
+#: add-on/prime-forum/admin/index.php:132
+#: add-on/publicpost/admin/addon-settings.php:109
+msgid "Output"
+msgstr "Uscita"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:205
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:235
+msgid "The maximum file size, Mb"
+msgstr "La dimesione massima del file, Mb"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:159
+msgid "HTML editor"
+msgstr "editor HTML"
+
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:160
+msgid "Visual editor"
+msgstr "Editor visuale"
+
+#: classes/class-rcl-custom-fields-manager.php:77
+msgid "Text"
+msgstr "Testo"
+
+#: add-on/publicpost/admin/addon-settings.php:84
+#: add-on/publicpost/admin/index.php:12
+msgid "Form of publication"
+msgstr "Modulo di Pubblicazione"
+
+#: add-on/commerce/activate.php:117
+#: add-on/commerce/admin/products-columns.php:23 add-on/commerce/index.php:84
+#: templates/add-on-card.php:32
+msgid "Category"
+msgstr "Categoria"
+
+#: add-on/publicpost/admin/addon-settings.php:76
+msgid "Show everyone including guests"
+msgstr "Mostra tutti, compresi i visitatori"
+
+#: add-on/publicpost/admin/addon-settings.php:76
+msgid "Only owner of the account"
+msgstr "Solo il proprietario dell'account"
+
+#: add-on/publicpost/admin/addon-settings.php:75
+msgid "List of publications of the user"
+msgstr "Lista delle pubblicazioni dell'utente"
+
+#: add-on/publicpost/admin/addon-settings.php:89
+msgid "Use preview"
+msgstr "Usa l'anteprima"
+
+#: add-on/commerce/admin/pages/addon-settings.php:63
+#: add-on/commerce/admin/pages/addon-settings.php:87
+#: add-on/commerce/admin/pages/addon-settings.php:99
+#: add-on/groups/admin/index.php:28 add-on/prime-forum/admin/index.php:269
+#: add-on/prime-forum/admin/index.php:278 add-on/profile/index.php:135
+#: add-on/publicpost/admin/addon-settings.php:50
+#: add-on/publicpost/admin/addon-settings.php:69
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:183
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:193
+#: add-on/rating-system/admin/addon-settings.php:140
+#: admin/pages/options.php:108 admin/pages/options.php:168
+#: admin/pages/options.php:195 admin/pages/options.php:204
+#: admin/pages/options.php:275 admin/pages/options.php:282
+#: admin/pages/options.php:295
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: add-on/publicpost/admin/addon-settings.php:48
+msgid "Display information about the author"
+msgstr "Mostra le informazioni sull'autore"
+
+#: add-on/commerce/admin/pages/addon-settings.php:15
+#: add-on/commerce/admin/pages/addon-settings.php:17
+#: add-on/prime-forum/admin/index.php:306
+#: add-on/publicpost/admin/addon-settings.php:31
+#: add-on/rcl-chat/addon-options.php:11 admin/pages/options.php:26
+msgid "General settings"
+msgstr "Configurazione Generale"
+
+#: add-on/publicpost/admin/addon-settings.php:135
+msgid "Guests and users"
+msgstr "Ospiti e Utenti"
+
+#: add-on/commerce/admin/pages/addon-settings.php:48
+#: add-on/groups/admin/index.php:42
+#: add-on/profile/classes/class-rcl-profile-fields.php:161
+#: add-on/publicpost/admin/addon-settings.php:40
+#: add-on/publicpost/admin/addon-settings.php:146
+#: add-on/publicpost/classes/class-rcl-list-terms.php:58
+#: add-on/publicpost/classes/class-rcl-list-terms.php:88
+#: add-on/user-balance/admin/addon-settings.php:88
+#: add-on/user-balance/admin/addon-settings.php:96
+#: add-on/user-balance/admin/addon-settings.php:104
+#: add-on/user-balance/admin/addon-settings.php:112 admin/pages/options.php:50
+#: admin/pages/options.php:232 rcl-widgets.php:65 rcl-widgets.php:124
+msgid "Not selected"
+msgstr "Non selezionato"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:41
+msgid "Website"
+msgstr "Sito web"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:92
+msgid "show the content to other users"
+msgstr "mostra il contenuto agli altri utenti"
+
+#: add-on/commerce/admin/index.php:387
+msgid "display at checkout for guests"
+msgstr "mostra al checkout per gli ospiti"
+
+#: add-on/profile/admin/index.php:27
+msgid "display in registration form"
+msgstr "mostra nel modulo di registrazione"
+
+#: add-on/commerce/admin/pages/cart-fields.php:20
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:35
+#: add-on/profile/classes/class-rcl-profile-fields.php:85
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:25
+msgid "required field"
+msgstr "Campo richiesto"
+
+#: add-on/profile/admin/index.php:49
+msgid "Manage profile fields"
+msgstr "Gestisci i campi del profilo"
+
+#: add-on/profile/index.php:273
+msgid "Delete your profile"
+msgstr "Cancella il tuo profilo"
+
+#: add-on/profile/index.php:265
+msgid "Update profile"
+msgstr "Aggiorna profilo"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:76
+#: add-on/commerce/admin/index.php:414
+#: add-on/prime-forum/admin/themes-manager.php:151
+#: add-on/profile/classes/class-rcl-profile-fields.php:47
+#: add-on/publicpost/templates/posts-list.php:8 admin/add-on-manager.php:144
+#: admin/templates-manager.php:140
+msgid "Status"
+msgstr "Stato visualizzato"
+
+#: functions/register.php:457
+msgid "Password strength indicator"
+msgstr "Indicatore di complessità della password"
+
+#: add-on/profile/index.php:161
+msgid "Repeat the new password"
+msgstr "Ripeti la nuova password"
+
+#: add-on/profile/index.php:153
+msgid "If you want to change your password - enter a new one"
+msgstr "Se vuoi cambiare la tua password, digitane una nuova qui"
+
+#: add-on/profile/index.php:150
+msgid "New password"
+msgstr "Nuova password"
+
+#: add-on/commerce/admin/pages/order.php:20 add-on/profile/index.php:143
+#: classes/class-rcl-custom-fields-manager.php:83
+#: templates/form-register.php:23
+msgid "E-mail"
+msgstr "Indirizzo email"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:29
+msgid "Surname"
+msgstr "Cognome"
+
+#: add-on/profile/classes/class-rcl-profile-fields.php:23
+msgid "Firstname"
+msgstr "Nome"
+
+#: add-on/commerce/core.php:307 functions/register.php:243
+#: templates/form-register.php:18 templates/form-sign.php:20
+msgid "Login"
+msgstr "Accesso"
+
+#: add-on/profile/index.php:132
+msgid "Admin toolbar"
+msgstr "Barra di amministrazione"
+
+#: add-on/profile/index.php:175
+msgid "User profile"
+msgstr "Profilo utente"
+
+#: add-on/groups/groups-core.php:667 add-on/profile/index.php:32
+msgid "Profile"
+msgstr "Profilo"
+
+#: functions/supports/uploader-avatar.php:100
+msgid "Your avatar has been deleted"
+msgstr "Il tuo avatar è stato cancellato"
+
+#: functions/supports/uploader-avatar.php:50
+msgid "Delete avatar"
+msgstr "Cancella l'avatar"
+
+#: functions/supports/modal-user-details.php:83
+msgid "Zoom avatar"
+msgstr "Zoom dell'avatar"
+
+#: add-on/commerce/admin/index.php:388
+#: add-on/commerce/admin/pages/cart-fields.php:23
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:38
+#: add-on/profile/admin/addon-settings.php:17 add-on/profile/admin/index.php:30
+#: add-on/profile/classes/class-rcl-profile-fields.php:86
+#: add-on/profile/classes/class-rcl-profile-fields.php:93
+#: add-on/profile/classes/class-rcl-profile-fields.php:100
+#: add-on/profile/classes/class-rcl-profile-fields.php:107
+#: add-on/publicpost/admin/addon-settings.php:90
+#: add-on/publicpost/admin/addon-settings.php:96
+#: add-on/publicpost/admin/addon-settings.php:204
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:28
+#: add-on/rating-system/admin/addon-settings.php:120
+#: add-on/rating-system/admin/addon-settings.php:185
+#: add-on/rating-system/admin/index.php:17 add-on/rcl-chat/addon-options.php:58
+#: add-on/rcl-chat/addon-options.php:68 add-on/rcl-chat/addon-options.php:122
+#: admin/classes/class-rcl-tabs-manager.php:60 admin/index.php:99
+msgid "Yes"
+msgstr "Sì"
+
+#: add-on/commerce/admin/index.php:388
+#: add-on/commerce/admin/pages/cart-fields.php:22
+#: add-on/prime-forum/admin/classes/class-prime-form-manager.php:37
+#: add-on/profile/admin/addon-settings.php:17 add-on/profile/admin/index.php:29
+#: add-on/profile/classes/class-rcl-profile-fields.php:86
+#: add-on/profile/classes/class-rcl-profile-fields.php:93
+#: add-on/profile/classes/class-rcl-profile-fields.php:100
+#: add-on/profile/classes/class-rcl-profile-fields.php:107
+#: add-on/publicpost/admin/addon-settings.php:90
+#: add-on/publicpost/admin/addon-settings.php:96
+#: add-on/publicpost/admin/addon-settings.php:204
+#: add-on/publicpost/classes/class-rcl-public-form-manager.php:27
+#: add-on/rating-system/admin/addon-settings.php:120
+#: add-on/rating-system/admin/addon-settings.php:185
+#: add-on/rating-system/admin/index.php:16 add-on/rcl-chat/addon-options.php:57
+#: add-on/rcl-chat/addon-options.php:67 add-on/rcl-chat/addon-options.php:121
+#: admin/classes/class-rcl-tabs-manager.php:59 admin/index.php:98
+msgid "No"
+msgstr "No"
+
+#: add-on/profile/admin/addon-settings.php:11
+msgid "Profile and account"
+msgstr "Profilo e account"
+
+#: add-on/profile/index.php:312
+msgid "We are very sorry but your account has been deleted!"
+msgstr "Siamo spiacenti, ma il tuo account è stato cancellato!"
+
+#: add-on/profile/admin/index.php:7
+msgid "Profile fields"
+msgstr "Campi del profilo"
+
+#: add-on/rcl-chat/actions_cron.php:109
+msgid "new messages"
+msgstr "nuovi messaggi"
+
+#: add-on/rcl-chat/actions_cron.php:109
+msgid "For you"
+msgstr "Per te"
+
+#: add-on/rcl-chat/actions_cron.php:105
+msgid "You can read the message by clicking on the link:"
+msgstr "Puoi leggere il messaggio cliccando sul collegamento: "
+
+#: add-on/rcl-chat/actions_cron.php:99
+msgid "from the user"
+msgstr "dall'utente"
+
+#: add-on/rcl-chat/actions_cron.php:97
+msgid "You were sent a private message"
+msgstr "Hai messaggi privati"
+
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-forum.php:22
+#: add-on/prime-forum/themes/prime-first/templates/pfm-single-topic.php:15
+msgid "Last message"
+msgstr "Ultimo messaggio"
+
+#: functions/ajax.php:112 functions/frontend.php:493
+msgid "Blacklist"
+msgstr "Lista nera"
+
+#: add-on/rcl-chat/class-rcl-chat.php:404
+msgid "Send"
+msgstr "Invia"
+
+#: functions/ajax.php:112 functions/frontend.php:493
+msgid "Unblock"
+msgstr "Sblocca"
+
+#: add-on/rcl-chat/addon-options.php:86
+msgid "Maximum file size, MB"
+msgstr "Dimensione massima del file, MB"
+
+#: add-on/prime-forum/admin/index.php:175
+#: add-on/prime-forum/admin/index.php:184
+#: add-on/prime-forum/admin/index.php:194
+msgid "Allowed"
+msgstr "Consentito"
+
+#: add-on/rcl-chat/addon-options.php:101
+msgid "Number of messages in the conversation"
+msgstr "Numero di messaggi nella conversazione"
+
+#: add-on/commerce/activate.php:211
+#: add-on/commerce/admin/pages/addon-settings.php:39
+#: add-on/commerce/functions-frontend.php:12
+msgid "Cart"
+msgstr "Carrello"
+
+#: add-on/groups/upload-avatar.php:48
+#: functions/supports/uploader-avatar.php:187
+#: functions/supports/uploader-cover.php:127
+msgid "The file is not an image"
+msgstr "Il file non è un'immagine"
+
+#: add-on/groups/shortcodes.php:52
+msgid "Groups not found"
+msgstr "Gruppi non trovati"
+
+#: add-on/groups/index.php:604
+msgid "Request rejected"
+msgstr "Richiesta rifiutata"
+
+#: add-on/groups/index.php:585
+msgid "Request access to the group approved!"
+msgstr "La richiesta di accesso al gruppo è stata approvata!"
+
+#: add-on/groups/index.php:556 add-on/prime-forum/admin/index.php:311
+#: add-on/prime-forum/admin/index.php:375 admin/pages/addons-manager.php:42
+#: admin/pages/repository.php:77 admin/pages/themes-manager.php:26
+#: classes/class-rcl-custom-fields-manager.php:146
+#: functions/enqueue-scripts.php:145
+msgid "Save"
+msgstr "Salva"
+
+#: add-on/groups/index.php:551
+msgid "User status"
+msgstr "Stato dell'utente"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:107
+#: add-on/commerce/admin/class-rcl-history-orders.php:124
+#: add-on/groups/index.php:547
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:350
+#: add-on/prime-forum/admin/themes-manager.php:169
+#: add-on/user-balance/admin/class-rcl-payments-history.php:99
+#: admin/add-on-manager.php:160 admin/add-on-manager.php:171
+#: admin/templates-manager.php:158
+#: classes/class-rcl-custom-fields-manager.php:520
+msgid "Delete"
+msgstr "cancella"
+
+#: add-on/groups/index.php:532
+msgid "Reject request"
+msgstr "Rifiuta richiesta"
+
+#: add-on/groups/index.php:531
+msgid "Approve request"
+msgstr "Approva la richiesta"
+
+#: add-on/groups/index.php:517
+msgid "No queries"
+msgstr "Nessuna interrogazione"
+
+#: add-on/groups/index.php:514
+msgid "Requests for access to the group"
+msgstr "Richieste di accesso al gruppo"
+
+#: add-on/groups/index.php:288
+msgid "Create"
+msgstr "Crea"
+
+#: add-on/groups/index.php:287
+msgid "Enter the name of the new group"
+msgstr "Inserisci il nome del nuovo gruppo"
+
+#: add-on/groups/index.php:327
+msgid "Footer"
+msgstr "Piede"
+
+#: add-on/groups/index.php:320
+msgid "Main"
+msgstr "Principale"
+
+#: add-on/groups/index.php:313
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: add-on/commerce/admin/products-columns.php:12
+#: add-on/groups/groups-widgets.php:469
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: add-on/groups/groups-widgets.php:467 add-on/groups/groups-widgets.php:472
+msgid "Display"
+msgstr "Mostra"
+
+#: add-on/groups/groups-widgets.php:466 add-on/groups/groups-widgets.php:471
+#: add-on/publicpost/admin/addon-settings.php:109
+msgid "Do not display"
+msgstr "Non mostrare"
+
+#: add-on/groups/groups-widgets.php:322 add-on/groups/groups-widgets.php:334
+#: add-on/groups/groups-widgets.php:455
+msgid "Group posts"
+msgstr "Post di gruppo"
+
+#: add-on/groups/groups-widgets.php:246 add-on/groups/groups-widgets.php:292
+msgid "Management"
+msgstr "Manager del Gruppo"
+
+#: add-on/groups/groups-widgets.php:138 add-on/groups/groups-widgets.php:297
+#: admin/add-on-manager.php:116 admin/add-on-manager.php:165
+msgid "Template"
+msgstr "Template"
+
+#: add-on/commerce/templates/cart.php:19 add-on/commerce/templates/order.php:20
+#: add-on/groups/groups-widgets.php:136
+msgid "Amount"
+msgstr "Ammontare"
+
+#: add-on/groups/groups-widgets.php:124
+#: add-on/rating-system/admin/addon-settings.php:173 admin/pages/options.php:92
+#: admin/pages/options.php:184 rcl-widgets.php:38 rcl-widgets.php:102
+msgid "All users"
+msgstr "Tutti gli utenti"
+
+#: add-on/groups/groups-widgets.php:78
+msgid "Apply for membership"
+msgstr "Richiedi l'iscrizione"
+
+#: add-on/groups/groups-widgets.php:61
+msgid "Join group"
+msgstr "Entra nel gruppo"
+
+#: add-on/groups/groups-widgets.php:44
+msgid "Leave group"
+msgstr "Lascia il gruppo"
+
+#: add-on/groups/groups-widgets.php:25 add-on/groups/groups-widgets.php:134
+#: add-on/groups/groups-widgets.php:185 add-on/groups/groups-widgets.php:213
+#: add-on/groups/groups-widgets.php:295 add-on/groups/groups-widgets.php:462
+#: add-on/publicpost/classes/class-rcl-public-form-fields.php:76
+#: add-on/publicpost/templates/posts-list.php:7
+#: add-on/user-balance/index.php:336
+#: classes/class-rcl-custom-fields-manager.php:247 rcl-widgets.php:54
+#: rcl-widgets.php:117 rcl-widgets.php:170
+msgid "Title"
+msgstr "Titolo"
+
+#: add-on/groups/groups-widgets.php:15 add-on/groups/groups-widgets.php:22
+#: rcl-widgets.php:146 rcl-widgets.php:167
+msgid "Control panel"
+msgstr "Pannello di controllo"
+
+#: add-on/groups/admin/index.php:67
+#: add-on/publicpost/admin/addon-settings.php:158
+msgid "Send for moderation"
+msgstr "Invia alla moderazione"
+
+#: add-on/groups/admin/index.php:58
+#: add-on/rating-system/admin/addon-settings.php:174 admin/pages/options.php:91
+msgid "Participants and higher"
+msgstr "Partecipanti e livelli più alti"
+
+#: add-on/groups/admin/index.php:55
+#: add-on/publicpost/admin/addon-settings.php:132
+#: add-on/rating-system/admin/addon-settings.php:177 admin/pages/options.php:88
+msgid "only Administrators"
+msgstr "solo Amministratori"
+
+#: add-on/groups/admin/index.php:9 add-on/groups/index.php:466
+msgid "Group settings"
+msgstr "Configurazioni del gruppo"
+
+#: add-on/groups/groups-init.php:60
+msgid "Click to use"
+msgstr "Click per utilizzare"
+
+#: add-on/groups/groups-init.php:58
+msgid "Separate with commas"
+msgstr "Separato dal carattere \",\" (virgola)"
+
+#: add-on/commerce/activate.php:164 add-on/commerce/index.php:126
+#: add-on/groups/groups-init.php:55
+msgid "Update"
+msgstr "Aggiornamento"
+
+#: add-on/groups/groups-init.php:52 add-on/groups/groups-init.php:53
+msgid "Parent group"
+msgstr "Gruppo precedente"
+
+#: add-on/commerce/activate.php:120 add-on/commerce/index.php:87
+#: add-on/groups/groups-init.php:51
+msgid "All categories"
+msgstr "Tutte le categorie"
+
+#: add-on/groups/groups-init.php:50
+msgid "Popular Groups"
+msgstr "Gruppi popolari"
+
+#: add-on/groups/activate.php:65 add-on/groups/admin/index.php:11
+#: add-on/groups/groups-init.php:47 add-on/groups/groups-init.php:48
+#: add-on/groups/groups-init.php:61 add-on/groups/index.php:234
+msgid "Groups"
+msgstr "Gruppi"
+
+#: add-on/groups/groups-init.php:17
+msgid "Parent record"
+msgstr "Record precedente"
+
+#: add-on/commerce/activate.php:89 add-on/commerce/index.php:50
+#: add-on/groups/groups-init.php:16
+msgid "Cart is empty"
+msgstr "Il carrello è vuoto"
+
+#: add-on/commerce/activate.php:88 add-on/commerce/index.php:49
+#: add-on/groups/groups-init.php:15
+#: add-on/prime-forum/functions-shortcodes.php:105
+#: add-on/publicpost/classes/class-rcl-public-form.php:724
+msgid "Not found"
+msgstr "Non trovato"
+
+#: add-on/commerce/activate.php:87 add-on/commerce/activate.php:118
+#: add-on/commerce/activate.php:158 add-on/commerce/admin/pages/orders.php:36
+#: add-on/commerce/index.php:48 add-on/commerce/index.php:85
+#: add-on/commerce/index.php:120
+#: add-on/groups/classes/class-rcl-groups-list.php:175
+#: add-on/groups/groups-init.php:14 add-on/groups/groups-init.php:49
+#: add-on/user-balance/admin/index.php:128 functions/frontend.php:160
+msgid "Search"
+msgstr "Ricerca"
+
+#: add-on/commerce/activate.php:86 add-on/commerce/index.php:47
+#: add-on/groups/groups-init.php:13
+msgid "View"
+msgstr "Vedi"
+
+#: add-on/commerce/activate.php:85 add-on/commerce/index.php:46
+#: add-on/groups/groups-init.php:12 add-on/groups/groups-init.php:57
+msgid "New"
+msgstr "Nuovo"
+
+#: add-on/commerce/activate.php:84 add-on/commerce/activate.php:163
+#: add-on/commerce/index.php:45 add-on/commerce/index.php:125
+#: add-on/groups/groups-init.php:11 add-on/groups/groups-init.php:54
+#: add-on/groups/groups-public.php:53
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:351
+#: add-on/publicpost/core.php:77 add-on/publicpost/index.php:295
+#: add-on/publicpost/init.php:22
+#: classes/class-rcl-custom-fields-manager.php:522
+#: classes/class-rcl-custom-fields-manager.php:610
+msgid "Edit"
+msgstr "Edit"
+
+#: add-on/groups/groups-init.php:9 add-on/groups/groups-init.php:10
+msgid "Add entry"
+msgstr "Aggiungi iscrizione"
+
+#: add-on/groups/groups-core.php:1057
+msgid "(Comment hidden by privacy settings)"
+msgstr "(Commenti nascosti dalle impostazioni sulla privacy)"
+
+#: add-on/groups/groups-core.php:893
+msgid "Administration"
+msgstr "Amministrazione"
+
+#: add-on/groups/groups-core.php:854
+msgid "Show"
+msgstr "Mostra"
+
+#: add-on/groups/groups-core.php:852
+msgid "Display all records"
+msgstr "Mostra tutti i record"
+
+#: add-on/groups/groups-core.php:819
+msgid "User Status updated"
+msgstr "Stato dell'utente aggiornato"
+
+#: add-on/groups/groups-core.php:443
+#: add-on/groups/templates/single-group.php:40
+msgid "Group members"
+msgstr "Membri del gruppo"
+
+#: add-on/groups/groups-core.php:320 add-on/groups/index.php:480
+msgid "Closed group"
+msgstr "Gruppo chiuso"
+
+#: add-on/groups/groups-core.php:233
+#: add-on/prime-forum/classes/class-prime-roles.php:60
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: add-on/groups/groups-core.php:229
+#: add-on/prime-forum/classes/class-prime-roles.php:44
+msgid "Moderator"
+msgstr "Moderatore"
+
+#: add-on/groups/groups-core.php:225 add-on/groups/index.php:489
+#: add-on/prime-forum/admin/index.php:788
+#: add-on/prime-forum/admin/themes-manager.php:188
+#: add-on/publicpost/admin/index.php:133 admin/add-on-manager.php:190
+#: admin/pages/repository.php:98 admin/templates-manager.php:177
+#: templates/add-on-card.php:25
+msgid "Author"
+msgstr "Autore"
+
+#: add-on/groups/groups-core.php:221
+msgid "Reader"
+msgstr "Lettore"
+
+#: add-on/groups/groups-core.php:217
+#: add-on/prime-forum/classes/class-prime-roles.php:18
+#: classes/class-rcl-install.php:203
+msgid "Ban"
+msgstr "Ban"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:210
+#: classes/class-rcl-users-list.php:498
+msgid "Filter by"
+msgstr "Ricerca per"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:73
+#: add-on/groups/classes/class-rcl-groups-list.php:205
+#: add-on/groups/groups-widgets.php:108 add-on/groups/groups-widgets.php:131
+#: add-on/groups/templates/group-list.php:11
+#: add-on/user-balance/admin/class-rcl-payments-history.php:79
+#: classes/class-rcl-install.php:99
+msgid "Users"
+msgstr "Utenti"
+
+#: add-on/groups/classes/class-rcl-groups-list.php:204
+#: classes/class-rcl-users-list.php:488
+msgid "Publications"
+msgstr "Pubblicazioni"
+
+#: add-on/commerce/admin/class-rcl-history-orders.php:77
+#: add-on/groups/classes/class-rcl-groups-list.php:203
+#: add-on/publicpost/templates/posts-list.php:6
+#: add-on/user-balance/admin/class-rcl-payments-history.php:82
+#: classes/class-rcl-custom-fields-manager.php:86
+msgid "Date"
+msgstr "Data"
+
+#: add-on/commerce/admin/pages/order.php:19 add-on/commerce/core.php:281
+#: add-on/commerce/core.php:362 add-on/commerce/core.php:378
+#: add-on/groups/classes/class-rcl-groups-list.php:202
+#: add-on/publicpost/functions-ajax.php:62
+#: classes/class-rcl-custom-fields-manager.php:608
+msgid "Name"
+msgstr "Nome"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:120
+#: add-on/groups/classes/class-rcl-group-widget.php:270
+msgid "Unused"
+msgstr "Inutilizzato"
+
+#: add-on/groups/classes/class-rcl-group-widget.php:172
+#: add-on/prime-forum/admin/classes/class-prime-manager.php:367
+#: add-on/prime-forum/functions-actions.php:661
+#: add-on/prime-forum/functions-actions.php:694
+#: add-on/prime-forum/functions-actions.php:852
+msgid "Save changes"
+msgstr "Salva i cambiamenti"
+
+#: add-on/feed/shortcodes.php:22
+msgid "Login or register to view the latest publications and comments from users for which you have subscribed."
+msgstr "Fai accesso o registrati per vedere le ultime pubblicazioni e commenti degli utenti per i quali ti sei abbonato."
+
+#: add-on/commerce/admin/index.php:87 add-on/feed/index.php:183
+#: add-on/feed/index.php:196 add-on/feed/index.php:204
+#: add-on/groups/groups-core.php:805 add-on/groups/groups-core.php:821
+#: add-on/groups/upload-avatar.php:71
+#: add-on/prime-forum/functions-actions.php:1194 add-on/publicpost/core.php:231
+#: add-on/user-balance/index.php:196 admin/index.php:135
+#: admin/pages/repository.php:48 admin/pages/repository.php:58
+#: functions/addons-update.php:150 functions/addons-update.php:205
+#: functions/ajax.php:95 functions/enqueue-scripts.php:149
+msgid "Error"
+msgstr "Errore"
+
+#: add-on/feed/index.php:180 add-on/feed/index.php:201
+msgid "Signed up for a subscription"
+msgstr "Hai richiesto di seguire un utente"
+
+#: add-on/feed/index.php:122
+msgid "List of subscriptions"
+msgstr "Lista degli abbonamenti"
+
+#: add-on/feed/index.php:78
+msgid "Subscriptions"
+msgstr "Sottoscrizioni"
+
+#: add-on/feed/index.php:98
+msgid "List of subscribers"
+msgstr "Lista degli abbonati"
+
+#: add-on/feed/index.php:49
+msgid "Followers"
+msgstr "Sottoscrittori"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:356
+#: add-on/rating-system/index.php:37 classes/class-rcl-users-list.php:489
+#: functions/frontend.php:89
+msgid "Comments"
+msgstr "Commenti"
+
+#: add-on/feed/classes/class-rcl-feed-list.php:355
+msgid "News"
+msgstr "Novità"
+
+#: add-on/feed/addon-core.php:430 add-on/feed/index.php:26
+#: add-on/feed/index.php:181 add-on/feed/index.php:202
+msgid "Unsubscribe"
+msgstr "Annulla l'iscrizione"
+
+#: add-on/feed/addon-core.php:430 add-on/feed/index.php:28
+#: add-on/feed/index.php:194
+msgid "Subscribe"
+msgstr "Abbònati"
+
+#: add-on/feed/addon-core.php:326
+#: add-on/prime-forum/classes/class-prime-last-posts.php:162
+msgid "Read more"
+msgstr "Leggi di più"
+
+#: add-on/feed/addon-core.php:257
+msgid "your comment"
+msgstr "tuo commento"
+
+#: add-on/feed/addon-core.php:257
+msgid "In response to"
+msgstr "In risposta a "
+
+#: add-on/feed/addon-core.php:255
+msgid "For publication"
+msgstr "Per la pubblicazione"

@@ -1,0 +1,878 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-28 11:27:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: includes/forum.php:938
+msgid "Logout"
+msgstr "登出"
+
+#: includes/forum-unread.php:147
+msgid "Nothing new"
+msgstr "沒有內容"
+
+#: includes/forum-profile.php:229
+msgid "My Profile"
+msgstr "我的簡介"
+
+#: includes/forum-profile.php:187
+msgid "This user does not exist."
+msgstr "這個使用者不存在。"
+
+#: includes/forum-profile.php:155
+msgid "Replies Created:"
+msgstr "回覆建立於："
+
+#: includes/forum-profile.php:147
+msgid "Topics Started:"
+msgstr "主題開始於："
+
+#: includes/forum-profile.php:139
+msgid "Member Since:"
+msgstr "成員加入於："
+
+#: includes/forum-profile.php:132
+msgid "Website:"
+msgstr "站台："
+
+#: includes/forum-profile.php:100
+msgid "First Name:"
+msgstr "名字："
+
+#: includes/forum-profile.php:113
+msgid "Moderator"
+msgstr "版主"
+
+#: includes/forum-profile.php:111
+msgid "Administrator"
+msgstr "管理員"
+
+#: includes/forum-profile.php:108
+msgid "User"
+msgstr "使用者"
+
+#: includes/forum-profile.php:107
+msgid "Forum Role:"
+msgstr "討論角色："
+
+#: includes/forum-profile.php:82
+msgid "You need to login to have access to profiles."
+msgstr "您需要登入以存取簡介"
+
+#: includes/forum-profile.php:51 includes/forum-profile.php:65
+#: includes/forum-profile.php:70
+msgid "Profile"
+msgstr "簡介"
+
+#: admin/views/options.php:138
+msgid "Show profiles to logged-in users only"
+msgstr "僅檢視簡介給登入使用者"
+
+#: admin/views/options.php:128
+msgid "Profiles"
+msgstr "簡介"
+
+#: admin/views/options.php:134
+msgid "Enable profiles"
+msgstr "啟用簡介"
+
+#: admin/views/options.php:50
+msgid "Show author posts counter"
+msgstr "顯示作者文章量"
+
+#: includes/forum-notifications.php:385
+msgid "No subscriptions yet!"
+msgstr "尚未訂閱！"
+
+#: includes/forum-notifications.php:368
+msgid "Forums"
+msgstr "討論"
+
+#: admin/views/options.php:101 includes/forum-breadcrumbs.php:82
+#: includes/forum.php:328
+msgid "Subscriptions"
+msgstr "訂閱"
+
+#: admin/views/options.php:58
+msgid "Show description in forum"
+msgstr "在討論中顯示描述"
+
+#: includes/forum.php:950
+msgid "Register"
+msgstr "註冊"
+
+#: admin/views/structure.php:72
+msgid "List of available icons."
+msgstr "可用圖示列表。"
+
+#: admin/tables/admin-structure-table.php:88 admin/views/structure.php:68
+msgid "Icon:"
+msgstr "圖示："
+
+#: includes/forum-notifications.php:211
+msgid "New topic: %s"
+msgstr "新主題： %s"
+
+#: includes/forum-notifications.php:147
+msgid "New answer: %s"
+msgstr "新回應 %s"
+
+#: includes/forum-insert.php:96
+msgid "You are not allowed to upload files with that file size."
+msgstr "您不允許上傳此大小的檔案。"
+
+#: includes/forum-insert.php:90
+msgid "You are not allowed to upload files with that file extension."
+msgstr "您不允許上傳此擴充功能檔案。"
+
+#: admin/views/options.php:125
+msgid "Sender mail:"
+msgstr "寄件者信箱："
+
+#: admin/views/options.php:121
+msgid "Sender name:"
+msgstr "寄件者名稱："
+
+#: includes/views/post-element.php:73
+msgid "Last edited on %s by %s"
+msgstr "最後編輯於 %s 由 %s 編輯"
+
+#: includes/forum-usergroups.php:434
+msgid "User groups assignments updated."
+msgstr "使用者群組已指定更新。"
+
+#: includes/forum-usergroups.php:379
+msgid "Remove from"
+msgstr "移除來源"
+
+#: includes/forum-usergroups.php:166
+msgid "When user groups are selected, only users of the selected user groups will have access to the category."
+msgstr "當使用者群組被選定，只有使被選定的使用者群組中的使用者可以存取此類別。"
+
+#: includes/forum-profile.php:124 includes/forum-usergroups.php:150
+#: includes/forum-usergroups.php:160
+msgid "User Groups:"
+msgstr "使用者群組："
+
+#: includes/forum-online.php:102
+msgid "Currently nobody is online."
+msgstr "目前未有使用者上線。"
+
+#: includes/forum-online.php:86
+msgid "Currently Online:"
+msgstr "目前上線："
+
+#: includes/forum-online.php:81
+msgid "Newest Member:"
+msgstr "最新成員："
+
+#: admin/views/usergroups.php:55 admin/views/usergroups.php:56
+#: admin/views/usergroups.php:67 admin/views/usergroups.php:68
+msgid "Add User Group"
+msgstr "增加使用者群組"
+
+#: admin/views/usergroups.php:44
+msgid "Are you sure you want to delete this user group?"
+msgstr "您確定您想要刪除該使用者群組？"
+
+#: admin/views/usergroups.php:6
+msgid "User Groups updated."
+msgstr "使用者群組已更新。"
+
+#: admin/tables/admin-usergroups-table.php:54
+msgid "Users:"
+msgstr "使用者："
+
+#: admin/tables/admin-usergroups-table.php:53 admin/views/usergroups.php:28
+msgid "Color:"
+msgstr "色彩："
+
+#: admin/tables/admin-usergroups-table.php:45
+msgid "Edit User Group"
+msgstr "編輯使用者群組"
+
+#: admin/tables/admin-usergroups-table.php:43
+msgid "Delete User Group"
+msgstr "刪除使用者群組"
+
+#: admin/admin.php:108 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:288
+msgid "User Groups"
+msgstr "使用者群組"
+
+#: includes/forum-usergroups.php:375
+msgid "Add to"
+msgstr "新增至"
+
+#: includes/forum-widgets.php:152
+msgid "Show avatars?"
+msgstr "顯示簡介相片"
+
+#: includes/forum.php:341
+msgid "Page"
+msgstr "頁面"
+
+#: admin/views/structure.php:176 admin/views/structure.php:177
+msgid "Add Forum"
+msgstr "新增討論"
+
+#: admin/views/structure.php:163
+msgid "Delete Category"
+msgstr "刪除類別"
+
+#: admin/views/structure.php:122 admin/views/structure.php:123
+#: admin/views/structure.php:182 admin/views/structure.php:183
+msgid "Add Category"
+msgstr "新增類別"
+
+#: admin/views/structure.php:97
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "刪除這個類別將會永久刪除所有其中的討論、子討論、主題與文章。您確定您要刪除這個類別嗎？"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "結構已更新。"
+
+#: admin/admin.php:107 admin/views/structure.php:5
+msgid "Structure"
+msgstr "結構"
+
+#: admin/tables/admin-structure-table.php:91
+#: admin/tables/admin-usergroups-table.php:55
+msgid "Actions:"
+msgstr "動作："
+
+#: admin/tables/admin-structure-table.php:89
+msgid "Status:"
+msgstr "狀態："
+
+#: admin/tables/admin-structure-table.php:77
+#: admin/tables/admin-structure-table.php:78
+msgid "Add Sub-Forum"
+msgstr "新增子討論"
+
+#: admin/tables/admin-structure-table.php:67
+#: admin/tables/admin-structure-table.php:68
+msgid "Delete Forum"
+msgstr "刪除討論"
+
+#: admin/tables/admin-structure-table.php:61
+msgid "Normal"
+msgstr "一般"
+
+#: admin/tables/admin-structure-table.php:59
+msgid "Closed"
+msgstr "關閉"
+
+#: admin/views/options.php:154
+msgid "Show thumbnails"
+msgstr "顯示縮圖"
+
+#: includes/forum-online.php:71
+msgid "Online"
+msgstr "上線"
+
+#: admin/views/options.php:87
+msgid "Show who is online"
+msgstr "顯示誰在線上"
+
+#: admin/views/options.php:83
+msgid "Enable breadcrumbs"
+msgstr "啟用階層連結"
+
+#: admin/views/options.php:76
+msgid "Features"
+msgstr "功能"
+
+#: admin/tables/admin-structure-table.php:45 admin/views/structure.php:145
+msgid "ID"
+msgstr "識別碼"
+
+#: admin/views/options.php:21
+msgid "Page which contains the [forum]-shortcode."
+msgstr "包含 [forum] 短代碼的頁面。"
+
+#: admin/views/options.php:170 includes/forum-uploads.php:251
+msgid "Maximum file size (in megabyte):"
+msgstr "最大檔案大小（Mb）："
+
+#: admin/views/options.php:167 admin/views/options.php:172
+msgid "(0 = No limitation)"
+msgstr "（0 = 無限制）"
+
+#: admin/views/options.php:165 includes/forum-uploads.php:247
+msgid "Maximum files per post:"
+msgstr "每篇文章最大檔案："
+
+#: admin/views/options.php:95
+msgid "Allow signatures"
+msgstr "允許簽名"
+
+#: admin/admin.php:52
+msgid "Signature"
+msgstr "簽名"
+
+#: includes/forum-statistics.php:31
+msgid "Users"
+msgstr "使用者"
+
+#: includes/forum-statistics.php:24
+msgid "Statistics"
+msgstr "統計"
+
+#: admin/views/options.php:91
+msgid "Show statistics"
+msgstr "顯示統計"
+
+#: includes/forum-notifications.php:46
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>訂閱</b>這個討論。"
+
+#: includes/forum-notifications.php:41
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>取消訂閱</b> 這個討論。"
+
+#. Description of the plugin/theme
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros 討論是 WordPress 最佳的討論解決方案。擁有美觀、輕巧設計與快速又便於使用但同時擁有數不清的功能。"
+
+#: includes/views/post-element.php:11
+msgid "Topic Author"
+msgstr "主題作者"
+
+#: includes/views/search.php:22
+msgid "No results found for:"
+msgstr "找不到結果："
+
+#: includes/forum-notifications.php:360 includes/forum-statistics.php:28
+#: includes/views/forum.php:36
+msgid "Topics"
+msgstr "主題"
+
+#: includes/views/forum.php:25 includes/views/forum.php:37
+#: includes/views/overview.php:11 includes/views/search.php:13
+msgid "Last post"
+msgstr "最後發表"
+
+#: includes/views/forum-element.php:53
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s 主題"
+
+#: includes/forum-search.php:40
+msgid "Search ..."
+msgstr "搜尋 ..."
+
+#: includes/forum.php:861
+msgid "Open"
+msgstr "開啟"
+
+#: includes/forum.php:764 includes/views/topic-element.php:19
+msgid "By"
+msgstr "由"
+
+#: includes/forum-breadcrumbs.php:78 includes/forum.php:326
+msgid "Search"
+msgstr "搜尋"
+
+#: includes/forum-breadcrumbs.php:74 includes/forum.php:324
+msgid "Move Topic"
+msgstr "移動主題"
+
+#: includes/forum-breadcrumbs.php:70 includes/forum-editor.php:116
+#: includes/forum.php:322 includes/forum.php:814
+msgid "New Topic"
+msgstr "新增主題"
+
+#: admin/views/options.php:79
+msgid "Enable search functionality"
+msgstr "啟動搜尋功能"
+
+#: includes/views/search.php:12
+msgid "Search results:"
+msgstr "搜尋結果："
+
+#: includes/forum-widgets.php:129
+msgid "The forum has not been configured correctly."
+msgstr "這個討論尚目前未設定。"
+
+#: admin/views/options.php:16
+msgid "Forum location:"
+msgstr "討論位置："
+
+#: includes/forum-widgets.php:34 includes/forum-widgets.php:195
+msgid "Recent forum topics"
+msgstr "最近討論的主題"
+
+#: includes/forum-widgets.php:187
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros 討論：最近主題"
+
+#: includes/forum-widgets.php:186
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "顯示在 Asgaros 討論最近的主題。"
+
+#: includes/forum-widgets.php:126 includes/forum.php:767
+msgid "No topics yet!"
+msgstr "尚未有主題！"
+
+#: admin/views/options.php:104
+msgid "Notify site owner about new topics"
+msgstr "有新主題時通知站臺擁有者"
+
+#: admin/views/options.php:46
+msgid "Highlight topic authors"
+msgstr "醒目提示主題作者"
+
+#: admin/admin.php:45
+msgid "Notify about new topics"
+msgstr "有新主題時通知"
+
+#: admin/views/options.php:150
+msgid "Guests can upload files"
+msgstr "訪客允許上傳的檔案"
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "在這個類別還沒有討論！"
+
+#: includes/forum.php:716
+msgid "Deleted user"
+msgstr "刪除使用者"
+
+#: includes/forum.php:722
+msgid "Guest"
+msgstr "訪客"
+
+#: includes/forum-uploads.php:162
+msgid "You need to login to have access to uploads."
+msgstr "您必須登入才有權限上傳。"
+
+#: admin/views/options.php:158
+msgid "Show uploads to logged-in users only"
+msgstr "僅顯示上傳至已登入的使用者"
+
+#: admin/views/options.php:99
+msgid "Allow guest postings"
+msgstr "允許訪客發表文章"
+
+#: admin/views/options.php:38
+msgid "Allow shortcodes in posts"
+msgstr "允許在文章中使用短代碼"
+
+#: includes/forum.php:249 includes/forum.php:256 includes/forum.php:264
+msgid "Sorry, you dont have access to this area."
+msgstr "抱歉，您沒有存取目這個區域。"
+
+#: includes/forum.php:244
+msgid "Sorry, only logged in users have access to this category."
+msgstr "抱歉，只有以登入的使用者能存取這個類別。"
+
+#: includes/forum-notifications.php:212
+msgid "Hello,<br /><br />You received this message because there is a new forum-topic:<br />%s<br /><br />Author:<br />%s<br /><br />Text:<br />%s<br /><br />Link to the new topic:<br /><a href=\"%s\">%s</a>"
+msgstr "哈囉，<br /><br />您收到此封信件是因為有一篇新討論區的主題：<br />%s<br /><br />內文：<br />%s<br /><br />新主題的連結：<br /><a href=\"%s\">%s</a>"
+
+#: includes/forum-notifications.php:148
+msgid "Hello,<br /><br />You received this message because there is a new answer in a forum-topic you have subscribed to:<br />%s<br /><br />Author:<br />%s<br /><br />Answer:<br />%s<br /><br />Link to the new answer:<br /><a href=\"%s\">%s</a><br /><br />You can unsubscribe from this topic using the unsubscribe-link at the end of the topic as a logged-in user. Please dont answer to this mail!"
+msgstr "哈囉，<br /><br />您收到此封信件是因為有一篇新回應，來自於您以訂閱的討論主題：<br />%s<br /><br />回答：<br />%s<br /><br />新回答的連結：<br /><a href=\"%s\">%s</a><br /><br />您可以再登入後，透過在主題的下方的取消訂閱連結取消此篇訂閱。請不要回應此信！"
+
+#: includes/forum-notifications.php:61
+msgid "Subscription:"
+msgstr "訂閱："
+
+#: admin/views/options.php:34
+msgid "Use minimalistic editor"
+msgstr "使用簡易編輯器"
+
+#: includes/forum-notifications.php:22 includes/forum-notifications.php:63
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>訂閱</b> 這個主題。"
+
+#: includes/forum-notifications.php:17
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>取消訂閱</b> 這個主題。"
+
+#: admin/views/options.php:108
+msgid "Allow subscriptions (for logged-in users only)"
+msgstr "允許訂閱發表（僅已登入使用者）"
+
+#: includes/forum-profile.php:115 includes/views/post-element.php:33
+msgid "Banned"
+msgstr "已禁止"
+
+#: includes/views/forum-element.php:37 includes/views/forum.php:24
+msgid "Subforums"
+msgstr "子討論"
+
+#: includes/forum-insert.php:51
+msgid "You are banned!"
+msgstr "您已被禁止！"
+
+#: admin/views/options.php:199
+msgid "Background color:"
+msgstr "背景色彩："
+
+#: admin/views/options.php:195
+msgid "Text color:"
+msgstr "文字色彩："
+
+#: admin/views/options.php:191
+msgid "Forum color:"
+msgstr "討論色彩："
+
+#: admin/views/options.php:179
+msgid "Theme"
+msgstr "主題"
+
+#: admin/views/options.php:174
+msgid "Appearance"
+msgstr "外觀"
+
+#: admin/views/options.php:140
+msgid "Uploads"
+msgstr "上傳"
+
+#: admin/views/options.php:14
+msgid "General"
+msgstr "一般"
+
+#: admin/views/structure.php:111
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "刪除這個討論將會永久刪除所有其中的討論、子討論、主題與文章。您確定您要刪除這個討論嗎？"
+
+#: admin/views/structure.php:46 admin/views/structure.php:88
+#: admin/views/structure.php:101 admin/views/structure.php:115
+#: admin/views/usergroups.php:35 admin/views/usergroups.php:48
+#: includes/forum-editor.php:167 includes/forum-editor.php:172
+msgid "Cancel"
+msgstr "取消"
+
+#: admin/views/structure.php:45 admin/views/structure.php:87
+#: admin/views/usergroups.php:34
+msgid "Save"
+msgstr "儲存"
+
+#: admin/tables/admin-structure-table.php:71
+#: admin/tables/admin-structure-table.php:72
+msgid "Edit Forum"
+msgstr "編輯討論"
+
+#: admin/tables/admin-structure-table.php:90 admin/views/structure.php:38
+#: admin/views/structure.php:81 admin/views/structure.php:156
+msgid "Order:"
+msgstr "順序："
+
+#: admin/admin.php:35
+msgid "Banned User"
+msgstr "禁止的使用者"
+
+#: admin/views/options.php:161 includes/forum-uploads.php:254
+msgid "Allowed filetypes:"
+msgstr "允許的檔案格式："
+
+#: admin/views/structure.php:77
+msgid "Closed:"
+msgstr "鎖定："
+
+#: includes/views/forum-element.php:54 includes/views/post-element.php:28
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s 則文章"
+
+#: includes/views/topic-element.php:31
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s 檢視"
+
+#: includes/forum-widgets.php:114 includes/views/topic-element.php:30
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s 回覆"
+
+#: admin/views/structure.php:33 admin/views/structure.php:153
+msgid "Moderators only"
+msgstr "僅版主"
+
+#: admin/views/structure.php:32 admin/views/structure.php:151
+msgid "Logged in users only"
+msgstr "僅已登入使用者"
+
+#: admin/views/structure.php:31 admin/views/structure.php:149
+msgid "Everyone"
+msgstr "所有人"
+
+#: admin/views/structure.php:28 admin/views/structure.php:147
+msgid "Access:"
+msgstr "存取權限："
+
+#: admin/views/options.php:42
+msgid "Highlight administrator/moderator names"
+msgstr "醒目提示管理員 / 版主名稱"
+
+#: admin/admin.php:31
+msgid "Forum Moderator"
+msgstr "討論版主"
+
+#: admin/views/options.php:54
+msgid "Show edit date"
+msgstr "顯示編輯日期"
+
+#: includes/views/post-element.php:75
+msgid "Last edited on %s"
+msgstr "最後編輯於 %s"
+
+#: includes/forum.php:234
+msgid "Sorry, only logged in users have access to the forum."
+msgstr "抱歉，僅限於已登入的使用者才有存取這個討論的權限。"
+
+#: admin/views/options.php:62
+msgid "Forum visible to logged in users only"
+msgstr "僅顯示於已登入討論的使用者"
+
+#: includes/forum.php:944
+msgid "Login"
+msgstr "登入"
+
+#: includes/forum.php:502
+msgid "You need to log in to create posts and topics."
+msgstr "您需要登入才能建立文章與主題。"
+
+#: includes/forum-widgets.php:146
+msgid "Number of topics to show:"
+msgstr "顯示主題的數量："
+
+#: includes/forum-widgets.php:141
+msgid "Title:"
+msgstr "標題："
+
+#: includes/forum-widgets.php:119 includes/forum.php:765
+msgid "%s ago"
+msgstr "%s 前"
+
+#: includes/forum-widgets.php:118
+msgid "by"
+msgstr "由"
+
+#: includes/forum-widgets.php:32 includes/forum-widgets.php:176
+msgid "Recent forum posts"
+msgstr "最近討論的文章"
+
+#: includes/forum-widgets.php:168
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros 討論：最近的文章"
+
+#: includes/forum-widgets.php:167
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "顯示最近在 Asgaros 討論的文章。"
+
+#: includes/forum.php:842 includes/forum.php:883
+msgid "Are you sure you want to remove this?"
+msgstr "您確定要移除這個？"
+
+#. Author of the plugin/theme
+msgid "Thomas Belser"
+msgstr "貝爾瑟湯瑪士"
+
+#. Plugin Name of the plugin/theme
+msgid "Asgaros Forum"
+msgstr "Asgaros 討論"
+
+#: includes/forum-unread.php:148
+msgid "Mark All Read"
+msgstr "全部標記已讀"
+
+#: includes/forum-unread.php:146
+msgid "New posts"
+msgstr "新文章"
+
+#: includes/views/forum.php:66
+msgid "There are no topics yet!"
+msgstr "還沒有主題！"
+
+#: includes/forum-statistics.php:29
+msgid "Posts"
+msgstr "文章"
+
+#: includes/forum-statistics.php:30
+msgid "Views"
+msgstr "檢視"
+
+#: includes/forum-editor.php:175
+msgid "Submit"
+msgstr "送出"
+
+#: includes/forum-uploads.php:238
+msgid "Add another file ..."
+msgstr "新增另一個檔案..."
+
+#: includes/forum-uploads.php:220
+msgid "Upload Files:"
+msgstr "上傳檔案："
+
+#: includes/forum-editor.php:139
+msgid "Subject:"
+msgstr "主旨："
+
+#: includes/forum-editor.php:118
+msgid "Post Reply:"
+msgstr "文章回覆："
+
+#: includes/forum-editor.php:98 includes/views/post-element.php:53
+msgid "Quote from"
+msgstr "引文於"
+
+#: includes/forum-insert.php:84
+msgid "You must enter a message."
+msgstr "您必須輸入訊息。"
+
+#: includes/forum-insert.php:78
+msgid "You must enter a subject."
+msgstr "您必須輸入主題。"
+
+#: includes/forum-editor.php:87 includes/forum-insert.php:45
+#: includes/forum-insert.php:57 includes/forum-insert.php:63
+#: includes/forum-insert.php:72
+msgid "You are not allowed to do this."
+msgstr "您不允許這個動作。"
+
+#: includes/forum.php:1081
+msgid "Sorry, this post does not exist."
+msgstr "抱歉，這篇發表不存在。"
+
+#: includes/forum-uploads.php:179 includes/forum-uploads.php:209
+msgid "Uploaded files:"
+msgstr "已上傳的檔案："
+
+#: admin/tables/admin-usergroups-table.php:43 admin/views/structure.php:100
+#: admin/views/structure.php:114 admin/views/usergroups.php:47
+#: includes/forum-uploads.php:201 includes/forum.php:843 includes/forum.php:884
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/forum-pagination.php:34 includes/forum-pagination.php:138
+msgid "Last"
+msgstr "最後"
+
+#: includes/forum-pagination.php:102
+msgid "First"
+msgstr "最早"
+
+#: includes/forum-pagination.php:78
+msgid "Pages:"
+msgstr "頁數："
+
+#: includes/forum.php:866
+msgid "Close"
+msgstr "鎖定"
+
+#: includes/forum.php:854
+msgid "Sticky"
+msgstr "固定"
+
+#: includes/forum.php:849
+msgid "Undo Sticky"
+msgstr "還原固定"
+
+#: includes/forum.php:831
+msgid "Reply"
+msgstr "回復"
+
+#: admin/tables/admin-usergroups-table.php:45 includes/forum.php:892
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/forum.php:901
+msgid "Quote"
+msgstr "引文"
+
+#: includes/forum-editor.php:98 includes/views/post-element.php:53
+msgid "on %s"
+msgstr "在 %s"
+
+#: includes/forum.php:541
+msgid "You are not allowed to move topics."
+msgstr "您不允許移動文章。"
+
+#: includes/forum.php:537 includes/forum.php:838
+msgid "Move"
+msgstr "移動"
+
+#: includes/forum.php:511
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "移動 \"<strong>%s</strong>\" 至新的討論："
+
+#: includes/forum.php:1082
+msgid "Sorry, this topic does not exist."
+msgstr "抱歉，這個主題不存在。"
+
+#: includes/forum.php:492
+msgid "Sorry, but there are no posts."
+msgstr "抱歉，尚未有文章。"
+
+#: includes/forum.php:1083
+msgid "Sorry, this forum does not exist."
+msgstr "抱歉，這個討論不存在。"
+
+#: includes/views/overview.php:32
+msgid "There are no categories yet!"
+msgstr "還沒有類別！"
+
+#: includes/forum-breadcrumbs.php:62 includes/forum.php:320
+msgid "Post Reply"
+msgstr "回覆文章"
+
+#: includes/forum-breadcrumbs.php:66 includes/forum-editor.php:120
+#: includes/forum.php:318
+msgid "Edit Post"
+msgstr "編輯文章"
+
+#: admin/views/structure.php:165
+msgid "Edit Category"
+msgstr "編輯類別"
+
+#: admin/views/options.php:202
+msgid "Save Options"
+msgstr "儲存設定"
+
+#: admin/views/options.php:146
+msgid "Allow file uploads"
+msgstr "允許上傳檔案"
+
+#: admin/views/options.php:29
+msgid "Topics to show per page:"
+msgstr "顯示每頁的主題則數："
+
+#: admin/views/options.php:25
+msgid "Replies to show per page:"
+msgstr "顯示每頁的回覆則數："
+
+#: admin/views/structure.php:64
+msgid "Description:"
+msgstr "描述："
+
+#: admin/tables/admin-structure-table.php:87
+#: admin/tables/admin-usergroups-table.php:52 admin/views/structure.php:24
+#: admin/views/structure.php:60 admin/views/usergroups.php:24
+msgid "Name:"
+msgstr "名稱："
+
+#: includes/forum-usergroups.php:326
+msgid "Forum:"
+msgstr "討論："
+
+#: admin/admin.php:106 admin/views/options.php:8
+msgid "Options"
+msgstr "儲存設定"
+
+#: admin/admin.php:58 admin/admin.php:105 includes/forum-breadcrumbs.php:24
+#: includes/forum-usergroups.php:35 includes/forum.php:914
+msgid "Forum"
+msgstr "討論"

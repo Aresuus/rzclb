@@ -1,0 +1,563 @@
+# Translation of Themes - Tortuga in Russian
+# This file is distributed under the same license as the Themes - Tortuga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-05 07:52:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Tortuga\n"
+
+#. Theme Name of the plugin/theme
+msgid "Tortuga"
+msgstr "Tortuga"
+
+#. Description of the plugin/theme
+msgid "Tortuga is a highly flexible and adventurous WordPress theme for your pirate magazine or any news related website. It supports three different post layouts, two sidebar schemes and a Magazine Homepage template based on widgets. Other highlights of Tortuga are the beautiful post slider and header widgets area. Arrr!"
+msgstr "Tortuga - очень гибкая тема для вашего портала, блога  или новостного сайта. Шаблон Tortuga поддерживает три различных макета разметки страницы: две схемы с боковой панелью и журнальную разметку с боковыми колонками. Кроме этого, в шаблоне есть красивый слайдер записей и виджеты для области заголовка (в шапке сайта). "
+
+#: inc/customizer/default-options.php:60
+#: inc/customizer/sections/customizer-blog.php:107
+msgid "Continue reading"
+msgstr "Читать далее"
+
+#: inc/customizer/sections/customizer-blog.php:114
+msgid "Read More Text"
+msgstr "Текст \"читать далее\""
+
+#: inc/customizer/sections/customizer-post.php:27
+msgid "Post Details"
+msgstr "Детали о записи"
+
+#: inc/customizer/sections/customizer-post.php:43
+msgid "Display date"
+msgstr "Показывать дату"
+
+#: inc/customizer/sections/customizer-post.php:59
+msgid "Display author"
+msgstr "Показывать автора"
+
+#: inc/customizer/sections/customizer-post.php:75
+msgid "Display categories"
+msgstr "Показывать рубрики"
+
+#: inc/customizer/sections/customizer-post.php:91
+msgid "Display comments"
+msgstr "Показывать комментарии"
+
+#: inc/customizer/sections/customizer-post.php:117
+msgid "Display tags"
+msgstr "Показывать метки"
+
+#: inc/customizer/sections/customizer-post.php:133
+msgid "Display previous/next post navigation"
+msgstr "Показывать навигацию по записям (следующая/предыдущая)"
+
+#: inc/customizer/sections/customizer-post.php:159
+msgid "Display images on blog and archives"
+msgstr "Показывать изображения в блоге и архивах"
+
+#: inc/customizer/sections/customizer-post.php:175
+msgid "Display image on single posts"
+msgstr "Показывать изображение в записи"
+
+#: inc/customizer/sections/customizer-blog.php:19
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: inc/customizer/sections/customizer-blog.php:77
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+#: inc/customizer/sections/customizer-blog.php:124
+msgid "Magazine Widgets"
+msgstr "Виджеты журнала"
+
+#: inc/customizer/sections/customizer-blog.php:140
+msgid "Display Magazine widgets on blog index"
+msgstr "Показывать виджеты журнала в индексе блога"
+
+#: inc/customizer/sections/customizer-post.php:143
+msgid "Featured Images"
+msgstr "Изображения записи"
+
+#: inc/widgets/widget-magazine-posts-columns.php:41
+msgid "Left Category"
+msgstr "Левая рубрика"
+
+#: inc/widgets/widget-magazine-posts-columns.php:42
+msgid "Right Category"
+msgstr "Правая рубрика"
+
+#: inc/widgets/widget-magazine-posts-grid.php:27
+msgid "Displays your posts from a selected category in a grid layout."
+msgstr "Показывать ваши записи из выбранной рубрики в макете сеткой."
+
+#: inc/widgets/widget-magazine-posts-columns.php:27
+msgid "Displays your posts from two selected categories."
+msgstr "Показывает ваши записи из двух рубрик."
+
+#: inc/customizer/functions/magazine-widget-area-control.php:33
+#: inc/customizer/sections/customizer-magazine.php:51
+msgid "Add Magazine Widget"
+msgstr "Добавить виджет журнала"
+
+#: inc/widgets/widget-magazine-posts-grid.php:24
+#: inc/widgets/widget-magazine-posts-grid.php:39
+msgid "Magazine (Grid)"
+msgstr "Журнал (сетка)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:24
+msgid "Magazine (Columns)"
+msgstr "Журнал (столбцы)"
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:24
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:39
+msgid "Magazine (Horizontal Box)"
+msgstr "Журнал (горизонтальная коробка)"
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:24
+#: inc/widgets/widget-magazine-posts-vertical-box.php:39
+msgid "Magazine (Vertical Box)"
+msgstr "Журнал (вертикальная коробка)"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Layout"
+msgstr "На полную ширину"
+
+#. Template Name of the plugin/theme
+msgid "Centered Layout"
+msgstr "По центру"
+
+#: inc/customizer/functions/custom-controls.php:123 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/customizer/functions/custom-controls.php:115 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/customizer/functions/custom-controls.php:99 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "Pro версия надстроек"
+
+#: inc/customizer/customizer.php:192 inc/theme-info.php:50
+#: inc/theme-info.php:153
+msgid "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+
+#: inc/theme-info.php:153
+msgid "Review Tortuga"
+msgstr "Отзыв для Tortuga"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:27
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/template-tags.php:405
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Следующий"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/template-tags.php:404
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Предыдущий"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют условия поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: inc/template-tags.php:350
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "Предыдущая запись;"
+
+#: inc/template-tags.php:351
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "Следующая запись:"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: inc/customizer/customizer.php:82
+msgid "Display Tagline"
+msgstr "Показывать слоган"
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "Ошибка 404 - страница не найдена"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Возможно, информация перенесена в другой раздел. Возможно, стоит попробовать поискать в Поиске или пройтись по ссылкам?"
+
+#: comments.php:29 inc/template-tags.php:282
+msgid "% comments"
+msgstr "% комментариев"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Оставьте ответ"
+
+#: functions.php:43
+msgid "Main Navigation"
+msgstr "Главная навигация"
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr "Боковой блок"
+
+#: functions.php:108
+msgid "Appears on posts and pages except the full width template."
+msgstr "Появляется на записях и страницах, но если не установлена \"Страница во всю ширину\""
+
+#: comments.php:29 inc/template-tags.php:282
+msgid "One comment"
+msgstr "Один комментарий"
+
+#: functions.php:116
+msgid "Header"
+msgstr "Заголовок"
+
+#: functions.php:118
+msgid "Appears on header area. You can use a search or ad widget here."
+msgstr "Появляется в Верхнем колонтитуле. Можете применить Поиск или поставить Виджет тут."
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:126
+msgid "Magazine Homepage"
+msgstr "Домашняя страница"
+
+#: inc/customizer/customizer.php:34 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "Настройки Темы"
+
+#: inc/customizer/customizer.php:65
+msgid "Display Site Title"
+msgstr "Показывать название сайта"
+
+#: inc/customizer/customizer.php:99
+msgid "Header Image Link"
+msgstr "Ссылка на изображение Верхнего колонтитула"
+
+#: inc/customizer/customizer.php:116
+msgid "Hide header image on front page"
+msgstr "Спрятать изображение верхнего колонтитула на главной странице"
+
+#: inc/customizer/customizer.php:171 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Ссылки"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#: inc/customizer/customizer.php:193 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "Проголосуйте за Тему"
+
+#: inc/customizer/functions/custom-controls.php:65
+#: inc/widgets/widget-magazine-posts-columns.php:257
+#: inc/widgets/widget-magazine-posts-columns.php:278
+#: inc/widgets/widget-magazine-posts-grid.php:208
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:208
+#: inc/widgets/widget-magazine-posts-vertical-box.php:208
+msgid "All Categories"
+msgstr "Все категории"
+
+#: inc/template-tags.php:251
+msgid "View all posts by %s"
+msgstr "Просмотреть все записи по %s"
+
+#: inc/customizer/customizer.php:40
+msgid "Background"
+msgstr "Фон страницы"
+
+#: inc/customizer/customizer.php:175 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Страница шаблона"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:174 inc/theme-info.php:47
+msgid "https://themezee.com/themes/tortuga/"
+msgstr "https://themezee.com/themes/tortuga/"
+
+#: inc/customizer/customizer.php:186 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/tortuga-documentation/"
+msgstr "https://themezee.com/docs/tortuga-documentation/"
+
+#: inc/customizer/functions/custom-controls.php:102 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Приобретите версию Pro %s, получите больше возможностей и более гибкую настройку шаблона."
+
+#: inc/customizer/customizer.php:187 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "Инструкция по настройке шаблона"
+
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer/functions/custom-controls.php:107 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "Узнайте больше информации о версии %s Pro"
+
+#: inc/customizer/functions/custom-controls.php:106 inc/theme-info.php:116
+msgid "https://themezee.com/addons/tortuga-pro/"
+msgstr "https://themezee.com/addons/tortuga-pro/"
+
+#: inc/customizer/functions/custom-controls.php:118 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Добавьте больше функциональности вашему сайту с помощью плагинов."
+
+#: inc/customizer/sections/customizer-general.php:33
+msgid "Theme Layout"
+msgstr "Разметка шаблона"
+
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Right Sidebar"
+msgstr "Боковая колонка справа"
+
+#: inc/customizer/sections/customizer-general.php:39
+msgid "Left Sidebar"
+msgstr "Боковая колонка слева"
+
+#: inc/customizer/sections/customizer-blog.php:33
+msgid "Blog Title"
+msgstr "Название блога"
+
+#: inc/customizer/sections/customizer-blog.php:55
+msgid "Blog Description"
+msgstr "Описание блога"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer/sections/customizer-blog.php:83
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: inc/customizer/sections/customizer-blog.php:84
+msgid "Two Columns"
+msgstr "Две колонки"
+
+#: inc/customizer/sections/customizer-blog.php:85
+msgid "Three Columns without Sidebar"
+msgstr "Три колонки без боковой колонки (сайдбара)"
+
+#: inc/customizer/sections/customizer-blog.php:98
+msgid "Excerpt Length"
+msgstr "Длина анонса статьи"
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "Анимация слайдера"
+
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "Эффект перелистывания"
+
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "Эффект затухания"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "Слайдер записей"
+
+#: inc/template-tags.php:282
+msgid "Leave a comment"
+msgstr "Ответить на комментарий"
+
+#: inc/widgets/widget-magazine-posts-grid.php:222
+msgid "Two Columns Grid"
+msgstr "Двухколоночная сетка"
+
+#: inc/widgets/widget-magazine-posts-grid.php:223
+msgid "Three Columns Grid"
+msgstr "Трехколоночная сетка"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Результат поиска по фразе %s"
+
+#: inc/widgets/widget-magazine-posts-grid.php:220
+msgid "Grid Layout:"
+msgstr "Разметка сетки:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:199
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:199
+#: inc/widgets/widget-magazine-posts-vertical-box.php:199
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:205
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:205
+#: inc/widgets/widget-magazine-posts-vertical-box.php:205
+msgid "Category:"
+msgstr "Категория:"
+
+#: inc/theme-info.php:152
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/theme-info.php:153
+msgid "rate it"
+msgstr "проголосуйте"
+
+#: inc/customizer/sections/customizer-upgrade.php:19
+msgid "More Features"
+msgstr "Больше возможностей"
+
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr "Скорость слайдов (в миллисекундах)"
+
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "Рубрика для слайдера"
+
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr "Включить слайдер записей"
+
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr "Показать слайдер на главной странице портала (для газетной разметки страницы)"
+
+#: inc/customizer/sections/customizer-post.php:101
+msgid "Single Posts"
+msgstr "Отдельные записи"
+
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "Показать слайдер на странице записи"
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Начните работу с %s"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "Вам нужна помощь для установки шаблона и его настройки? На нашем сайте есть хорошая документация по работе с шаблоном."
+
+#: inc/magazine.php:68
+msgid "View all posts from category %s"
+msgstr "Показать все записи из категории %s"
+
+#: inc/widgets/widget-magazine-posts-columns.php:254
+msgid "Left Category:"
+msgstr "Категория для левой части:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:269
+msgid "Right Category Title:"
+msgstr "Заголовок для категории правой части:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:275
+msgid "Right Category:"
+msgstr "Категория для правой части:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:290
+#: inc/widgets/widget-magazine-posts-grid.php:228
+msgid "Number of posts:"
+msgstr "Количество записей:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:298
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Подсветка первой записи (большая картинка и вводный текст)"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s работают с последней версией WordPress  %2$s. У вас установлена версия %3$s. Пожалуйста обновите версию или попробуйте еще раз."
+
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Получить больше возможностей"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Информация о теме"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Добро пожаловать в %1$s %2$s"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "Просмотр %s документации"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s позволяет использовать настройщик для всех настроек темы. Нажмите на кнопку \"Выбор темы\", чтобы открыть настройщик прямо сейчас."
+
+#: inc/widgets/widget-magazine-posts-columns.php:248
+msgid "Left Category Title:"
+msgstr "Заголовок для категории левой части:"
+
+#: inc/theme-info.php:150
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s с гордостью представлена вам автором %2$s. Если вам нравится тема, %3$s :)"
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Настройка темы"
+
+#: inc/customizer/customizer.php:181 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Демонстрация темы"
+
+#: inc/template-tags.php:419
+msgid "Powered by %1$s and %2$s."
+msgstr "Работает на %1$s и %2$s."
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com"

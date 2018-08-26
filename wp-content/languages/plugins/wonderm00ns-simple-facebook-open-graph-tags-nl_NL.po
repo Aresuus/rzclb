@@ -1,0 +1,564 @@
+# Translation of Plugins - Facebook Open Graph, Google+ and Twitter Card Tags - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Facebook Open Graph, Google+ and Twitter Card Tags - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-18 14:35:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Facebook Open Graph, Google+ and Twitter Card Tags - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webdados.pt"
+msgstr "http://www.webdados.pt"
+
+#. Author of the plugin/theme
+msgid "Webdados"
+msgstr "Webdados"
+
+#. Description of the plugin/theme
+msgid "Inserts Facebook Open Graph, Google+ / Schema.org and Twitter Card Tags into your WordPress Blog/Website for more effective and efficient Facebook, Google+ and Twitter sharing results. You can also choose to insert the \"enclosure\" and \"media:content\" tags to the RSS feeds, so that apps like RSS Graffiti and twitterfeed post the image to Facebook correctly."
+msgstr "Voegt tags voor Facebook Open Graph, Google+/Schema.org en Twitter Cards toe aan je WordPress-blog/website, voor meer effectieve en efficiënte Facebook, Google+ en Twitter-berichten. Je kunt er ook voor kiezen om de \"enclosure\" en \"media:content\"-tags toe te voegen aan de RSS-feeds, zodat apps als RSS Graffiti en twitterfeed op de juiste manier een afbeelding op Facebook plaatsen."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.webdados.pt/produtos-e-servicos/internet/desenvolvimento-wordpress/facebook-open-graph-meta-tags-wordpress/"
+msgstr "http://www.webdados.pt/produtos-e-servicos/internet/desenvolvimento-wordpress/facebook-open-graph-meta-tags-wordpress/"
+
+#. Plugin Name of the plugin/theme
+msgid "Facebook Open Graph, Google+ and Twitter Card Tags"
+msgstr "Facebook Open Graph, Google+ en Twitter Cards-tags"
+
+#: wonderm00n-open-graph.php:987
+msgid "SEO &gt; Social"
+msgstr "SEO &gt; Social"
+
+#: wonderm00n-open-graph.php:986
+msgid "Please ignore the (dumb) Yoast WordPress SEO warning regarding open graph issues with this plugin. Just disable WPSEO Social settings at"
+msgstr "Negeer de (domme) Yoast WordPress SEO-waarschuwing over Open Graph-problemen met deze plugin. Schakel de WPSEO Social-instellingen uit op:"
+
+#: wonderm00n-open-graph.php:968
+msgid "Facebook profile URL"
+msgstr "URL naar Facebookpagina"
+
+#: wonderm00n-open-graph.php:964
+msgid "Google+"
+msgstr "Google+"
+
+#: wonderm00n-open-graph.php:945
+msgid "Use as Image Open Graph Tag"
+msgstr "Gebruik als Open Graph Tag-afbeelding"
+
+#: wonderm00n-open-graph.php:905
+msgid "Error: Facebook Open Graph Tags cache NOT updated/purged."
+msgstr "Fout: Facebook Open Graph Tags-cache is NIET bijgewerkt/gewist."
+
+#: wonderm00n-open-graph.php:897
+msgid "Share this on Facebook"
+msgstr "Deel dit op Facebook"
+
+#: wonderm00n-open-graph.php:897
+msgid "Facebook Open Graph Tags cache updated/purged."
+msgstr "Facebook Open Graph Tags-cache bijgewerkt/gewist."
+
+#: wonderm00n-open-graph.php:880
+msgid "Facebook returned:"
+msgstr "Facebook gaf terug:"
+
+#: wonderm00n-open-graph.php:872
+msgid "URL failed:"
+msgstr "URL mislukt:"
+
+#: wonderm00n-open-graph.php:807
+msgid "Clear field"
+msgstr "Wis veld"
+
+#: wonderm00n-open-graph.php:806
+msgid "Upload/Choose Open Graph Image"
+msgstr "Upload/kies Open Graph-afbeelding"
+
+#: wonderm00n-open-graph.php:803
+msgid "Use this image:"
+msgstr "Gebruik deze afbeelding:"
+
+#: wonderm00n-open-graph.php:303 wonderm00n-open-graph.php:307
+#: wonderm00n-open-graph.php:311
+msgid "Archives"
+msgstr "Archieven"
+
+#: wonderm00n-open-graph.php:294
+msgid "Search for"
+msgstr "Zoek naar"
+
+#: includes/settings-page.php:766
+msgid "If you find this plugin useful and want to make a contribution towards future development please consider making a small, or big ;-), donation."
+msgstr "Als je deze plugin nuttig vindt en verdere ontwikkeling wilt ondersteunen, overweeg dan om een kleine, of grote ;-), donatie te doen."
+
+#: includes/settings-page.php:764
+msgid "Donate"
+msgstr "Doneren"
+
+#: includes/settings-page.php:751
+msgid "Useful links"
+msgstr "Nuttige links"
+
+#: includes/settings-page.php:744
+msgid "please give it a high Rating"
+msgstr "geef het dan alsjeblieft een hoge waardering"
+
+#: includes/settings-page.php:744
+msgid "If you like this plugin,"
+msgstr "Als deze plugin je bevalt,"
+
+#: includes/settings-page.php:742
+msgid "Rate this plugin"
+msgstr "Waardeer deze plugin"
+
+#: includes/settings-page.php:735
+msgid "Author's Twitter account: @Wonderm00n<br/>(Webdados founder)"
+msgstr "Twitteraccount van de auteur: @Wonderm00n<br/>(oprichter van Webdados)"
+
+#: includes/settings-page.php:732
+msgid "Author's Facebook page: Webdados"
+msgstr "Facebookpagina van de auteur: Webdados"
+
+#: includes/settings-page.php:729
+msgid "Author's website: Webdados"
+msgstr "Website van de auteur: Webdados"
+
+#: includes/settings-page.php:726
+msgid "Plugin official URL"
+msgstr "Officiële plugin-URL"
+
+#: includes/settings-page.php:723
+msgid "About Twitter Cards"
+msgstr "Over Twitter Cards"
+
+#: includes/settings-page.php:720
+msgid "The Open Graph Protocol (official website)"
+msgstr "Officiële Open Graph Protocol-website"
+
+#: includes/settings-page.php:717
+msgid "About the Open Graph Protocol (on Facebook)"
+msgstr "Over het Open Graph Protocol (op Facebook)"
+
+#: includes/settings-page.php:714
+msgid "Test (and request approval for) your URLs at Twitter Card validator"
+msgstr "Test (en vraag toestemming voor) je URL's bij de Twitter Card validator"
+
+#: includes/settings-page.php:711
+msgid "Test your URLs at Facebook URL Linter / Debugger"
+msgstr "Test je URL's bij de Facebook URL Linter/Debugger"
+
+#: includes/settings-page.php:703
+msgid "Save Changes"
+msgstr "Bewaar wijzigingen"
+
+#: includes/settings-page.php:692
+msgid "Supress Facebook Open Graph Tags cache updated notice"
+msgstr "Melding dat Facebook Open Graph Tags-cache bijgewerkt is niet weergeven"
+
+#: includes/settings-page.php:686
+msgid "Try to update Facebook Open Graph Tags cache when saving the post"
+msgstr "Probeer Facebook Open Graph Tags-cache bij te werken bij het opslaan van een bericht"
+
+#: includes/settings-page.php:682
+msgid "May cause problems with some multisite configurations but fix \"HTTP request failed\" errors"
+msgstr "Kan problemen veroorzaken met sommige multisite-configuraties, maar verhelpt problemen met \"HTTP request failed\""
+
+#: includes/settings-page.php:678
+msgid "Force getimagesize on local file even if allow_url_fopen=1"
+msgstr "Forceer getimagesize op lokale bestanden zelfs als allow_url_fopen=1"
+
+#: includes/settings-page.php:675
+msgid "Don't mess with this unless you know what you're doing"
+msgstr "Rommel hier niet mee tenzij je weet wat je doet"
+
+#: includes/settings-page.php:673
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: includes/settings-page.php:660
+msgid "This plugin is currently compatible with:"
+msgstr "Deze plugin is momenteel compatible met:"
+
+#: includes/settings-page.php:659
+msgid "You don't have any compatible 3rd Party plugin installed/active."
+msgstr "Je hebt geen enkele compatible 3rd party plugin geïnstalleerd/actief."
+
+#: includes/settings-page.php:651
+msgid "Setting \"Include URL\", \"Set Canonical URL\", \"Include Description\" and \"Include Image\" options above is HIGHLY recommended"
+msgstr "Het inschakelen van de opties \"URL invoegen\", \"Canonical URL gebruiken\", \"Omschrijving invoegen\" en \"Afbeelding invoegen\" hierboven is TEN ZEERSTE aanbevolen"
+
+#: includes/settings-page.php:647
+msgid "Use BDP listing contents as OG tags"
+msgstr "Gebruik BDP-vermeldingen als OG-tags"
+
+#: includes/settings-page.php:631
+msgid "Add SubHeading to Post/Page title"
+msgstr "Voeg SubHeading toe aan bericht-/paginatitel"
+
+#: includes/settings-page.php:615
+msgid "Use title, url (canonical) and description from WPSEO"
+msgstr "Gebruik titel, URL (canonical) en omschrijving van WPSEO"
+
+#: includes/settings-page.php:612
+msgid "even if you don't enable integration bellow. You will get duplicate tags if you don't do this."
+msgstr "zelfs als je hieronder de integratie niet inschakelt. Je krijgt dubbele tags als je dit niet doet."
+
+#: includes/settings-page.php:612
+msgid "It's HIGHLY recommended to go to <a href=\"admin.php?page=wpseo_social\" target=\"_blank\">SEO &gt; Social</a> and disable \"Add Open Graph meta data\", \"Add Twitter card meta data\" and \"Add Google+ specific post meta data\""
+msgstr "Het is TEN ZEERSTE aanbevolen om naar <a href=\"admin.php?page=wpseo_social\" target=\"_blank\">SEO &gt; Social</a> te gaan, en de volgende opties uit te schakelen: \"Voeg Open Graph metadata toe\", \"Voeg Twitter card metadata toe\" en \"Voeg Google+ specifieke bericht metadata toe\""
+
+#: includes/settings-page.php:601
+msgid "3rd Party Integration"
+msgstr "Integratie met derde partijen"
+
+#: includes/settings-page.php:592
+msgid "Summary Card with Large Image"
+msgstr "Samenvattingskaart met grote afbeelding"
+
+#: includes/settings-page.php:591
+msgid "Summary Card"
+msgstr "Samenvatting-card (Summary Card)"
+
+#: includes/settings-page.php:588
+msgid "Twitter Card Type"
+msgstr "Twitter Kaartsoort"
+
+#: includes/settings-page.php:580
+msgid "If it doesn't exist, use the default image above"
+msgstr "Als het niet bestaat, gebruik de standaardafbeelding hierboven"
+
+#: includes/settings-page.php:576
+msgid "If it doesn't exist, use first image from the post/page media gallery"
+msgstr "Als het niet bestaat, gebruik de eerste afbeelding van de fotogalerij van het bericht/de pagina"
+
+#: includes/settings-page.php:572
+msgid "If it doesn't exist, use the first image from the post/page content"
+msgstr "Als het niet bestaat, gebruik de eerste afbeelding van het bericht/de pagina-inhoud"
+
+#: includes/settings-page.php:568
+msgid "If it's not set, image will be fetched from post/page featured/thumbnail picture"
+msgstr "Als het niet ingesteld is, wordt de afbeelding gebruikt van de uitgelichte afbeelding van het bericht/de pagina"
+
+#: includes/settings-page.php:564
+msgid "Image will be fetched from the specific \"Open Graph Image\" custom field on the post"
+msgstr "Afbeelding zal worden opgehaald van het specifieke \"Open Graph-afbeelding\" aangepaste veld op het bericht"
+
+#: includes/settings-page.php:560
+msgid "On posts/pages"
+msgstr "Op berichten/pagina's"
+
+#: includes/settings-page.php:556
+msgid "For auto-posting apps like RSS Graffiti, twitterfeed, ..."
+msgstr "Voor apps die automatisch berichten plaatsen zoals RSS Graffiti, twitterfeed, ..."
+
+#: includes/settings-page.php:552
+msgid "Add image to RSS/RSS2 feeds"
+msgstr "Afbeelding toevoegen aan RSS/RSS2-feeds"
+
+#: includes/settings-page.php:548 wonderm00n-open-graph.php:808
+msgid "Recommended size: 1200x630px"
+msgstr "Aanbevolen grootte: 1200x630px"
+
+#: includes/settings-page.php:541
+msgid "Default image"
+msgstr "Standaardafbeelding"
+
+#: includes/settings-page.php:531
+msgid "Include Twitter Card Image tag"
+msgstr "Twitter Card afbeelding-tag invoegen"
+
+#: includes/settings-page.php:521
+msgid "Include Schema.org \"itemprop\" Image tag"
+msgstr "Schema.org \"itemprop\" afbeelding-tag invoegen"
+
+#: includes/settings-page.php:517
+msgid "Recommended only if Facebook is having problems loading the image when the post is shared for the first time."
+msgstr "Alleen aanbevolen wanneer Facebook problemen heeft om de afbeelding te laden wanneer het bericht voor de eerste keer wordt gedeeld."
+
+#: includes/settings-page.php:513
+msgid "Include Image size (og:image:width and og:image:height) tags"
+msgstr "Tags voor afbeeldingsgrootte (og:image:width en og:image:height) invoegen"
+
+#: includes/settings-page.php:509
+msgid "All images MUST have at least 200px on both dimensions in order to Facebook to load them at all.<br/>1200x630px for optimal results.<br/>Minimum of 600x315px is recommended."
+msgstr "Alle afbeeldingen MOETEN minstens 200px breed en hoog zijn om door Facebook gebruikt te worden.<br/>Gebruik 1200x630px voor optimale resultaten.<br/>Een minimum van 600x315px is aanbevolen."
+
+#: includes/settings-page.php:505
+msgid "Include Image (og:image) tag"
+msgstr "Afbeelding (og:image)-tag invoegen"
+
+#: includes/settings-page.php:492
+msgid "WPML users: Set the default language description here, save changes and then go to <a href=\"%s\">WPML &gt; String translation</a> to set it for other languages."
+msgstr "WPML-gebruikers: stel de omschrijving voor de standaardtaal hier in, bewaar de instellingen en ga dan naar <a href=\"%s\">WPML &gt; Teksten vertalen</a> om het voor andere talen in te stellen."
+
+#: includes/settings-page.php:482
+msgid "Custom text"
+msgstr "Aangepaste tekst"
+
+#: includes/settings-page.php:481
+msgid "Website tagline"
+msgstr "Tagline van website"
+
+#: includes/settings-page.php:476
+msgid "The description of your front page:"
+msgstr "De beschrijving van je startpagina:"
+
+#: includes/settings-page.php:470
+msgid "Homepage description"
+msgstr "Omschrijving startpagina"
+
+#: includes/settings-page.php:466
+msgid "0 or blank for no maximum length"
+msgstr "0 of leeg om geen maximumlengte in te stellen"
+
+#: includes/settings-page.php:462
+msgid "Description maximum length"
+msgstr "Maximale lengte omschrijving"
+
+#: includes/settings-page.php:452
+msgid "Include Twitter Card Description tag"
+msgstr "Twitter Card omschrijving-tag invoegen"
+
+#: includes/settings-page.php:442
+msgid "Include Schema.org \"itemprop\" Description tag"
+msgstr "Schema.org \"itemprop\" omschrijving-tag invoegen"
+
+#: includes/settings-page.php:438
+msgid "Recommended for SEO purposes if no other plugin is setting it already"
+msgstr "Aanbevolen voor SEO-doeleinden als de tag niet al door een andere plugin wordt ingesteld"
+
+#: includes/settings-page.php:432
+msgid "Include Meta Description tag"
+msgstr "Meta omschrijving (description)-tag invoegen"
+
+#: includes/settings-page.php:426
+msgid "Include Description (og:description) tag"
+msgstr "Omschrijving (og:description)-tag invoegen"
+
+#: includes/settings-page.php:418
+msgid "Hides all author tags on pages."
+msgstr "Verbergt alle auteur-tags op pagina's."
+
+#: includes/settings-page.php:414
+msgid "Hide author on pages"
+msgstr "Verberg auteur op pagina's"
+
+#: includes/settings-page.php:410
+msgid "Links the article to the author Twitter profile. The user's Twitter user must be filled in."
+msgstr "Linkt het artikel aan het Twitteraccount van de auteur. Het Twitteraccount van de gebruiker moet ingevoerd zijn."
+
+#: includes/settings-page.php:404
+msgid "Include Twitter Card Creator tag"
+msgstr "Twitter Card Creator-tag invoegen"
+
+#: includes/settings-page.php:400
+msgid "Links the article to the author Google+ Profile (authorship). The user's Google+ profile URL must be filled in."
+msgstr "Linkt het artikel aan het Google+-profiel van de auteur. De Google+-URL van de gebruiker moet ingevoerd zijn."
+
+#: includes/settings-page.php:394
+msgid "Include Google+ link rel \"author\" tag"
+msgstr "Google+ link rel \"author\"-tag invoegen"
+
+#: includes/settings-page.php:390
+msgid "Sets the article author name"
+msgstr "Stelt de naam van de auteur in"
+
+#: includes/settings-page.php:384
+msgid "Include Meta Author tag"
+msgstr "Meta author-tag invoegen"
+
+#: includes/settings-page.php:380
+msgid "Links the article to the author Facebook Profile. The user's Facebook profile URL must be filled in."
+msgstr "Linkt het artikel aan de Facebookpagina van de auteur. De Facebook-URL van de gebruiker moet ingevoerd zijn."
+
+#: includes/settings-page.php:376
+msgid "Include Author Profile (article:author) tag"
+msgstr "Auteurprofiel (article:author)-tag invoegen"
+
+#: includes/settings-page.php:368 wonderm00n-open-graph.php:966
+msgid "Twitter username (without @)"
+msgstr "Twitteraccount (zonder @)"
+
+#: includes/settings-page.php:364
+msgid "Website's Twitter Username"
+msgstr "Twiter-account van de website"
+
+#: includes/settings-page.php:360
+msgid "Links the website to the publisher Twitter Username."
+msgstr "Linkt de website naar het Twitter-account van de uitgever."
+
+#: includes/settings-page.php:356
+msgid "Include Twitter Card Website Username tag"
+msgstr "Twitteraccount van de site invoegen bij Twitter Card"
+
+#: includes/settings-page.php:348
+msgid "Website's Google+ Page"
+msgstr "Google+-pagina van de uitgever"
+
+#: includes/settings-page.php:344
+msgid "Links the website to the publisher Google+ Page."
+msgstr "Linkt de website naar de Google+-pagina van de uitgever."
+
+#: includes/settings-page.php:340
+msgid "Include Google+ \"publisher\" tag"
+msgstr "Google+ \"publisher\"-tag invoegen"
+
+#: includes/settings-page.php:336 includes/settings-page.php:352
+#: includes/settings-page.php:546
+msgid "Full URL with http://"
+msgstr "Volledige URL met http://"
+
+#: includes/settings-page.php:332
+msgid "Website's Facebook Page"
+msgstr "Facebookpagina van de site"
+
+#: includes/settings-page.php:328
+msgid "Links the website to the publisher Facebook Page."
+msgstr "Linkt de website naar de Facebookpagina van de uitgever."
+
+#: includes/settings-page.php:324
+msgid "Include Publisher Page (article:publisher) tag"
+msgstr "Uitgeverpagina (article:publisher)-tag invoegen"
+
+#: includes/settings-page.php:317
+msgid "from the categories"
+msgstr "van de categorieën"
+
+#: includes/settings-page.php:313
+msgid "Include article section (article:section) tags"
+msgstr "Artikelsectie (article:section)-tags invoegen"
+
+#: includes/settings-page.php:306 includes/settings-page.php:317
+msgid "Works for posts only"
+msgstr "Werkt alleen voor berichten"
+
+#: includes/settings-page.php:302
+msgid "Include published and modified dates (article:published_time, article:modified_time and og:updated_time) tags"
+msgstr "Tags voor publicatie- en wijzigingstijdstip invoegen (article:published_time, article:modified_time en og:updated_time)"
+
+#: includes/settings-page.php:291 includes/settings-page.php:479
+msgid "Use"
+msgstr "Gebruik"
+
+#: includes/settings-page.php:289
+msgid "Homepage type"
+msgstr "Type startpagina"
+
+#: includes/settings-page.php:285
+msgid "Will be \"%1$s\" for posts and pages and \"%2$s\" or \"%3$s\"; for the homepage"
+msgstr "Wordt \"%1$s\" voor berichten en pagina's, en \"%2$s\" of \"%3$s\" voor de startpagina"
+
+#: includes/settings-page.php:281
+msgid "Include Type (og:type) tag"
+msgstr "Type (og:type)-tag invoegen"
+
+#: includes/settings-page.php:270
+msgid "Set Canonical URL"
+msgstr "Canonical URL gebruiken"
+
+#: includes/settings-page.php:266
+msgid "On the homepage will be"
+msgstr "Op de startpagina wordt het"
+
+#: includes/settings-page.php:262
+msgid "Add trailing slash at the end"
+msgstr "Afsluitende slashes toevoegen aan einde"
+
+#: includes/settings-page.php:256
+msgid "Include Twitter Card URL tag"
+msgstr "Twitter Card URL-tag invoegen"
+
+#: includes/settings-page.php:250
+msgid "Include URL (og:url) tag"
+msgstr "URL (og:url)-tag invoegen"
+
+#: includes/settings-page.php:243 includes/settings-page.php:458
+#: includes/settings-page.php:537
+msgid "Recommended for Twitter sharing purposes if no other plugin is setting it already"
+msgstr "Aanbevolen voor delen op Twitter als deze tag niet al door een andere plugin wordt ingesteld"
+
+#: includes/settings-page.php:237
+msgid "Include Twitter Card Title tag"
+msgstr "Twitter Card titeltag invoegen"
+
+#: includes/settings-page.php:233 includes/settings-page.php:448
+#: includes/settings-page.php:527
+msgid "Recommended for Google+ sharing purposes if no other plugin is setting it already"
+msgstr "Aanbevolen voor delen op Google+ als deze tag niet al door een andere plugin wordt ingesteld"
+
+#: includes/settings-page.php:227
+msgid "Include Schema.org \"itemprop\" Name tag"
+msgstr "Schema.org \"itemprop\" naamtag invoegen"
+
+#: includes/settings-page.php:221
+msgid "Include Post/Page title (og:title) tag"
+msgstr "Bericht-/paginatitel (og:title)-tag invoegen"
+
+#: includes/settings-page.php:212
+msgid "Include Site Name (og:site_name) tag"
+msgstr "Sitenaam (og:site_name)-tag invoegen"
+
+#: includes/settings-page.php:202
+msgid "List not loaded"
+msgstr "Lijst niet geladen"
+
+#: includes/settings-page.php:200
+msgid "Reload from Facebook"
+msgstr "Opnieuw laden van Facebook"
+
+#: includes/settings-page.php:200
+msgid "You\\'l lose any changes you haven\\'t saved. Are you sure?"
+msgstr "Alle wijzigingen die niet opgeslagen zijn gaan verloren. Weet je het zeker?"
+
+#: includes/settings-page.php:200
+msgid "List loaded from local cache (offline)"
+msgstr "Lijst geladen van lokale cache (offline)"
+
+#: includes/settings-page.php:197
+msgid "List loaded from Facebook (online)"
+msgstr "Lijst geladen van Facebook (online)"
+
+#: includes/settings-page.php:146
+msgid "WordPress current locale/language"
+msgstr "Huidige WordPress-locale/taal"
+
+#: includes/settings-page.php:143
+msgid "Locale"
+msgstr "Locale"
+
+#: includes/settings-page.php:137
+msgid "Include locale (fb:locale) tag"
+msgstr "Locale (fb:locale)-tag invoegen"
+
+#: includes/settings-page.php:130
+msgid "Comma separated if more than one"
+msgstr "Kommagescheiden indien meer dan één"
+
+#: includes/settings-page.php:126
+msgid "Facebook Admin(s) ID"
+msgstr "Facebook beheerders(s) ID"
+
+#: includes/settings-page.php:120
+msgid "Include Facebook Admin(s) ID (fb:admins) tag"
+msgstr "Facebook beheerder(s) ID (fb:admins)-tag invoegen"
+
+#: includes/settings-page.php:111
+msgid "Facebook Platform App ID"
+msgstr "Facebook Platform App ID"
+
+#: includes/settings-page.php:105
+msgid "Include Facebook Platform App ID (fb:app_id) tag"
+msgstr "Facebook Platform App ID (fb:app_id)-tag invoegen"
+
+#: includes/settings-page.php:101 wonderm00n-open-graph.php:759
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/settings-page.php:90
+msgid "Please set some default values and which tags should, or should not, be included. It may be necessary to exclude some tags if other plugins are already including them."
+msgstr "Stel enkele standaardwaarden in en welke tags wel of niet moeten worden gebruikt. Het kan nodig zijn om enkele tags uit te sluiten als andere plugins ze al meesturen."

@@ -1,0 +1,579 @@
+# Translation of Themes - Tortuga in German
+# This file is distributed under the same license as the Themes - Tortuga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-09 12:06:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Tortuga\n"
+
+#. Theme Name of the plugin/theme
+msgid "Tortuga"
+msgstr "Tortuga"
+
+#. Description of the plugin/theme
+msgid "Tortuga is a highly flexible and adventurous WordPress theme for your pirate magazine or any news related website. It supports three different post layouts, two sidebar schemes and a Magazine Homepage template based on widgets. Other highlights of Tortuga are the beautiful post slider and header widgets area. Arrr!"
+msgstr "Tortuga ist ein flexibles und kühnes WordPress Theme für dein Piraten-Magazin oder jegliche andere News-Website. Es unterstützt drei verschiedene Layouts für Beiträge, zwei Sidebar-Styles und ein Magazin-Template basierend auf Widgets. Andere Highlights von Tortuga sind der wunderschöne Beitrags-Slider und der Widgetbereich im Header. Arrr!"
+
+#: inc/customizer/default-options.php:60
+#: inc/customizer/sections/customizer-blog.php:107
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: inc/customizer/sections/customizer-blog.php:114
+msgid "Read More Text"
+msgstr "Weiterlesen-Text"
+
+#: inc/customizer/sections/customizer-post.php:27
+msgid "Post Details"
+msgstr "Beitrag-Details"
+
+#: inc/customizer/sections/customizer-post.php:43
+msgid "Display date"
+msgstr "Datum anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:59
+msgid "Display author"
+msgstr "Autor anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:75
+msgid "Display categories"
+msgstr "Kategorien anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:117
+msgid "Display tags"
+msgstr "Schlagwörter anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:133
+msgid "Display previous/next post navigation"
+msgstr "Navigation für vorherigen/nächsten Beitrag anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:159
+msgid "Display images on blog and archives"
+msgstr "Beitragsbilder im Blog und Archiven anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:175
+msgid "Display image on single posts"
+msgstr "Beitragsbilder in einzelnen Beiträgen anzeigen"
+
+#: inc/customizer/sections/customizer-post.php:91
+msgid "Display comments"
+msgstr "Kommentare anzeigen"
+
+#: inc/customizer/sections/customizer-blog.php:77
+msgid "Blog Layout"
+msgstr "Blog-Layout"
+
+#: inc/customizer/sections/customizer-blog.php:19
+msgid "Blog Settings"
+msgstr "Blog-Einstellungen"
+
+#: inc/customizer/sections/customizer-post.php:143
+msgid "Featured Images"
+msgstr "Beitragsbilder"
+
+#: inc/customizer/sections/customizer-blog.php:124
+msgid "Magazine Widgets"
+msgstr "Magazin Widgets"
+
+#: inc/customizer/sections/customizer-blog.php:140
+msgid "Display Magazine widgets on blog index"
+msgstr "Magazin Widgets im Blog anzeigen"
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:27
+msgid "Displays your posts from a selected category in a horizontal box."
+msgstr "Zeigt die Beiträge einer gewählten Kategorie in einer horizontalen Box."
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:27
+msgid "Displays your posts from a selected category in a vertical box."
+msgstr "Zeigt die Beiträge einer gewählten Kategorie in einer vertikalen Box."
+
+#: inc/widgets/widget-magazine-posts-columns.php:27
+msgid "Displays your posts from two selected categories."
+msgstr "Zeigt die Beiträge von zwei gewählten Kategorien in zwei Spalten."
+
+#: inc/widgets/widget-magazine-posts-columns.php:41
+msgid "Left Category"
+msgstr "Linke Kategorie"
+
+#: inc/widgets/widget-magazine-posts-columns.php:42
+msgid "Right Category"
+msgstr "Rechte Kategorie"
+
+#: functions.php:128
+msgid "Appears on blog index and Magazine Homepage template. You can use the Magazine widgets here."
+msgstr "Erscheint auf dem Blog Index und Magazin Startseite Template. Du kannst hier die Magazin Widgets verwenden."
+
+#: inc/customizer/functions/magazine-widget-area-control.php:33
+#: inc/customizer/sections/customizer-magazine.php:51
+msgid "Add Magazine Widget"
+msgstr "Magazin Widget hinzufügen"
+
+#: inc/magazine.php:47
+msgid "Please go to Customize &#8594; Widgets and add at least one widget to the Magazine Homepage widget area."
+msgstr "Bitte gehe  zu Customizer &#8594; Widgets und füge mindestens ein Widget im Magazin Startseite Widget-Bereich hinzu."
+
+#: inc/widgets/widget-magazine-posts-grid.php:27
+msgid "Displays your posts from a selected category in a grid layout."
+msgstr "Zeigt die Beiträge einer gewählten Kategorie in einem Grid-Layout."
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:24
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:39
+msgid "Magazine (Horizontal Box)"
+msgstr "Magazin (Horizontale Box)"
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:24
+#: inc/widgets/widget-magazine-posts-vertical-box.php:39
+msgid "Magazine (Vertical Box)"
+msgstr "Magazin (Vertikale Box)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:24
+msgid "Magazine (Columns)"
+msgstr "Magazin (Zwei Spalten)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:24
+#: inc/widgets/widget-magazine-posts-grid.php:39
+msgid "Magazine (Grid)"
+msgstr "Magazin (Grid)"
+
+#. Template Name of the plugin/theme
+msgid "Centered Layout"
+msgstr "Zentriertes Layout"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Layout"
+msgstr "Volle Breite"
+
+#: inc/customizer/functions/custom-controls.php:99 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "Pro Version Add-on"
+
+#: inc/customizer/functions/custom-controls.php:115 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "Empfohlene Plugins"
+
+#: inc/customizer/functions/custom-controls.php:123 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: inc/customizer/customizer.php:192 inc/theme-info.php:50
+#: inc/theme-info.php:153
+msgid "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+
+#: inc/theme-info.php:153
+msgid "Review Tortuga"
+msgstr "Tortuga bewerten"
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:27
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/template-tags.php:350
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "Vorheriger Beitrag:"
+
+#: inc/template-tags.php:351
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "Nächster Beitrag:"
+
+#: inc/template-tags.php:405
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Nächste Beiträge"
+
+#: inc/template-tags.php:404
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Vorherige Beiträge"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit den ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</a>."
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es scheint wir können hier nichts finden. Vielleicht kann eine Suche helfen."
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Es tut uns leid, aber wir haben nichts gefunden. Bitte versuche es erneut mit einem anderen Suchwort."
+
+#: inc/customizer/customizer.php:82
+msgid "Display Tagline"
+msgstr "Untertitel anzeigen"
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "404: Seite nicht gefunden"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Unter dieser Adresse wurde nichts gefunden. Möglicherweise hilft eine Suche oder einer der Links unterhalb?"
+
+#: comments.php:29 inc/template-tags.php:282
+msgid "One comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:29 inc/template-tags.php:282
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Kommentar hinterlassen"
+
+#: functions.php:43
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:126
+msgid "Magazine Homepage"
+msgstr "Magazin Startseite"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suchen &hellip;"
+
+#: inc/template-tags.php:251
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s ansehen"
+
+#: inc/template-tags.php:419
+msgid "Powered by %1$s and %2$s."
+msgstr "Erstellt mit %1$s und %2$s."
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Willkommen bei %1$s %2$s"
+
+#: inc/customizer/customizer.php:171 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Theme Links"
+
+#: inc/customizer/customizer.php:175 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Theme Seite"
+
+#: inc/customizer/customizer.php:187 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+#: inc/customizer/customizer.php:193 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "Theme bewerten"
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Erste Schritte mit %s"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "Du brauchst Hilfe bei der Einrichtung und Konfiguration dieses Themes? Wir haben eine ausführliche Dokumentation auf unserer Webseite."
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "%s Dokumentation ansehen"
+
+#: inc/customizer/customizer.php:34 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Mehr Features"
+
+#: inc/customizer/functions/custom-controls.php:107 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "Erfahre mehr über %s Pro"
+
+#: inc/theme-info.php:150
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s wird stolz präsentiert von %2$s. Falls dir dieses Theme gefällt, %3$s :)"
+
+#: inc/theme-info.php:152
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/de/"
+
+#: inc/theme-info.php:153
+msgid "rate it"
+msgstr "bewerte es"
+
+#: inc/customizer/customizer.php:40
+msgid "Background"
+msgstr "Hintergrund"
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer/functions/custom-controls.php:65
+#: inc/widgets/widget-magazine-posts-columns.php:257
+#: inc/widgets/widget-magazine-posts-columns.php:278
+#: inc/widgets/widget-magazine-posts-grid.php:208
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:208
+#: inc/widgets/widget-magazine-posts-vertical-box.php:208
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: inc/customizer/sections/customizer-blog.php:33
+msgid "Blog Title"
+msgstr "Blog-Titel"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "Beitrags-Einstellungen"
+
+#: inc/customizer/sections/customizer-blog.php:83
+msgid "One Column"
+msgstr "Eine Spalte"
+
+#: inc/customizer/sections/customizer-blog.php:84
+msgid "Two Columns"
+msgstr "Zwei Spalten"
+
+#: inc/customizer/sections/customizer-blog.php:98
+msgid "Excerpt Length"
+msgstr "Länge des Beitragsauszugs"
+
+#: inc/customizer/sections/customizer-post.php:101
+msgid "Single Posts"
+msgstr "Einzelne Beiträge"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "Beitrags-Slider"
+
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr "Beitrags-Slider aktivieren"
+
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "Anzahl der Beiträge"
+
+#: inc/customizer/sections/customizer-upgrade.php:19
+msgid "More Features"
+msgstr "Mehr Features"
+
+#: inc/magazine.php:68
+msgid "View all posts from category %s"
+msgstr "Alle Beiträge in der Kategorie %s ansehen"
+
+#: inc/widgets/widget-magazine-posts-columns.php:248
+msgid "Left Category Title:"
+msgstr "Titel der linken Kategorie:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:254
+msgid "Left Category:"
+msgstr "Linke Kategorie:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:269
+msgid "Right Category Title:"
+msgstr "Titel der rechten Kategorie:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:275
+msgid "Right Category:"
+msgstr "Rechte Kategorie:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:290
+#: inc/widgets/widget-magazine-posts-grid.php:228
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:298
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Ersten Beitrag hervorheben (großes Bild + Textauszug)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:199
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:199
+#: inc/widgets/widget-magazine-posts-vertical-box.php:199
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:205
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:205
+#: inc/widgets/widget-magazine-posts-vertical-box.php:205
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:222
+msgid "Two Columns Grid"
+msgstr "Zweispaltiges Raster"
+
+#: inc/widgets/widget-magazine-posts-grid.php:223
+msgid "Three Columns Grid"
+msgstr "Dreispaltiges Raster"
+
+#: inc/customizer/customizer.php:116
+msgid "Hide header image on front page"
+msgstr "Header-Bild auf der Startseite verbergen"
+
+#: inc/customizer/sections/customizer-general.php:33
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: inc/customizer/sections/customizer-general.php:39
+msgid "Left Sidebar"
+msgstr "Sidebar links"
+
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Right Sidebar"
+msgstr "Sidebar rechts"
+
+#: functions.php:116
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:118
+msgid "Appears on header area. You can use a search or ad widget here."
+msgstr "Erscheint im Header Bereich. Du kannst hier Widgets für ein Suchfeld oder Werbebanner verwenden."
+
+#: inc/customizer/sections/customizer-blog.php:85
+msgid "Three Columns without Sidebar"
+msgstr "Drei Spalten ohne Sidebar"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:174 inc/theme-info.php:47
+msgid "https://themezee.com/themes/tortuga/"
+msgstr "https://themezee.com/de/themes/tortuga/"
+
+#: inc/customizer/customizer.php:186 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/tortuga-documentation/"
+msgstr "https://themezee.com/de/docs/tortuga-dokumentation/"
+
+#: inc/customizer/functions/custom-controls.php:106 inc/theme-info.php:116
+msgid "https://themezee.com/addons/tortuga-pro/"
+msgstr "https://themezee.com/de/addons/tortuga-pro/"
+
+#: functions.php:108
+msgid "Appears on posts and pages except the full width template."
+msgstr "Erscheint auf Beiträgen und Seiten mit Ausnahme des Fullwidth Templates."
+
+#: inc/customizer/functions/custom-controls.php:102 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Kaufe das %s Pro Add-on und erhalte zusätzliche Features und erweiterte Theme Optionen."
+
+#: inc/customizer/functions/custom-controls.php:118 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Erweitere die Funktionalität deiner WordPress Webseite mit unseren kostenlosen Plugins."
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s benötigt mindestens WordPress Version %2$s. Du verwendest Version %3$s. Bitte aktualisiere und versuche es erneut."
+
+#: inc/customizer/customizer.php:181 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Theme Demo"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: inc/template-tags.php:282
+msgid "Leave a comment"
+msgstr "Kommentar hinterlassen"
+
+#: inc/customizer/customizer.php:65
+msgid "Display Site Title"
+msgstr "Titel der Website anzeigen"
+
+#: inc/customizer/sections/customizer-blog.php:55
+msgid "Blog Description"
+msgstr "Blog-Beschreibung"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s verwendet den Customizer für alle Theme Einstellungen. Klicke auf \"Theme Customizer\", um den Customizer zu öffnen."
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Theme Customizer"
+
+#: inc/widgets/widget-magazine-posts-grid.php:220
+msgid "Grid Layout:"
+msgstr "Grid-Layout:"
+
+#: inc/customizer/customizer.php:99
+msgid "Header Image Link"
+msgstr "Header-Bild-Link"
+
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr "Slider auf Magazin Startseite anzeigen"
+
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "Slider im Blog anzeigen"
+
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "Slider-Kategorie"
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "Slider-Animation"
+
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "Slide-Effekt"
+
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "Fade-Effekt"
+
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr "Slider-Geschwindigkeit (in ms)"
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com/de"

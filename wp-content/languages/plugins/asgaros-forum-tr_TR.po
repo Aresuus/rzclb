@@ -1,0 +1,929 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-16 22:10:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.6.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.6.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.asgaros.de"
+msgstr "https://www.asgaros.de"
+
+#: includes/forum-profile.php:173
+msgid "Signature:"
+msgstr "İmza:"
+
+#: includes/forum-profile.php:162
+msgid "Biographical Info:"
+msgstr "Biyografik Bilgi:"
+
+#: admin/views/options.php:9
+msgid "Options updated."
+msgstr "Seçenekler güncellendi."
+
+#: admin/admin.php:366
+msgid "Donate"
+msgstr "Bağışla"
+
+#: admin/admin.php:364
+msgid "Official Support Forum"
+msgstr "Resmi Destek Formu"
+
+#: includes/forum.php:316
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: admin/views/options.php:108
+msgid "Show register button"
+msgstr "Kayıt butonunu göster"
+
+#: admin/views/options.php:104
+msgid "Show logout button"
+msgstr "Çıkış butonunu göster"
+
+#: admin/views/options.php:100
+msgid "Show login button"
+msgstr "Giriş butonunu göster"
+
+#: includes/forum.php:937
+msgid "Logout"
+msgstr "Çıkış yap"
+
+#: includes/forum-unread.php:147
+msgid "Nothing new"
+msgstr "Yeni bir şey yok"
+
+#: includes/forum-profile.php:229
+msgid "My Profile"
+msgstr "Profilim"
+
+#: includes/forum-profile.php:187
+msgid "This user does not exist."
+msgstr "Böyle bir kullanıcı yok."
+
+#: includes/forum-profile.php:155
+msgid "Replies Created:"
+msgstr "Cevaplayan:"
+
+#: includes/forum-profile.php:147
+msgid "Topics Started:"
+msgstr "Konuyu başlatan:"
+
+#: includes/forum-profile.php:139
+msgid "Member Since:"
+msgstr "Şu tarihden beri üye:"
+
+#: includes/forum-profile.php:132
+msgid "Website:"
+msgstr "Web Sitesi:"
+
+#: includes/forum-profile.php:100
+msgid "First Name:"
+msgstr "İlk Ad:"
+
+#: includes/forum-profile.php:113
+msgid "Moderator"
+msgstr "Arabulucu"
+
+#: includes/forum-profile.php:111
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: includes/forum-profile.php:108
+msgid "User"
+msgstr "Kullanıcı"
+
+#: includes/forum-profile.php:107
+msgid "Forum Role:"
+msgstr "Forum Rolü:"
+
+#: includes/forum-profile.php:82
+msgid "You need to login to have access to profiles."
+msgstr "Profillere erişmek için giriş yapmalısınız."
+
+#: includes/forum-profile.php:51 includes/forum-profile.php:65
+#: includes/forum-profile.php:70
+msgid "Profile"
+msgstr "Profil"
+
+#: admin/views/options.php:172
+msgid "Show profiles to logged-in users only"
+msgstr "Profilleri yalnızca giriş yapmış kullanıcılara göster"
+
+#: admin/views/options.php:162
+msgid "Profiles"
+msgstr "Profiller"
+
+#: admin/views/options.php:168
+msgid "Enable profiles"
+msgstr "Profilleri aktif et"
+
+#: admin/views/options.php:84
+msgid "Show author posts counter"
+msgstr "Yazarların yazı sayacını aktif et"
+
+#: includes/forum-notifications.php:389
+msgid "No subscriptions yet!"
+msgstr "Daha hiçbir abonelik yok!"
+
+#: includes/forum-notifications.php:371
+msgid "Forums"
+msgstr "Forumlar"
+
+#: admin/views/options.php:135 includes/forum-breadcrumbs.php:82
+#: includes/forum-notifications.php:349 includes/forum.php:335
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: admin/views/options.php:92
+msgid "Show description in forum"
+msgstr "Forumda açıklamayı göster"
+
+#: includes/forum.php:949
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: admin/views/structure.php:72
+msgid "List of available icons."
+msgstr "Mevcut ikonların listesi."
+
+#: admin/tables/admin-structure-table.php:88 admin/views/structure.php:68
+msgid "Icon:"
+msgstr "İkon:"
+
+#: includes/forum-notifications.php:211
+msgid "New topic: %s"
+msgstr "Yeni konu: %s"
+
+#: includes/forum-notifications.php:147
+msgid "New answer: %s"
+msgstr "Yeni cevap: %s"
+
+#: includes/forum-content.php:96
+msgid "You are not allowed to upload files with that file size."
+msgstr "Bu böyutta ki bir dosyayı yükleme izniniz yoktur."
+
+#: includes/forum-content.php:90
+msgid "You are not allowed to upload files with that file extension."
+msgstr "Bu uzantıdaki bir dosyayı yükleme izniniz yoktur."
+
+#: admin/views/options.php:159
+msgid "Sender mail:"
+msgstr "Gönderen e-posta adresi:"
+
+#: admin/views/options.php:155
+msgid "Sender name:"
+msgstr "Gönderen ismi:"
+
+#: includes/views/post-element.php:73
+msgid "Last edited on %s by %s"
+msgstr "En son %s tarihinde %s tarafından düzenlendi"
+
+#: includes/forum-usergroups.php:585
+msgid "User groups assignments updated."
+msgstr "Kullanıcı gruplarının görevleri güncellendi."
+
+#: includes/forum-usergroups.php:527
+msgid "Remove from"
+msgstr "Forumu sil"
+
+#: includes/forum-usergroups.php:360
+msgid "When user groups are selected, only users of the selected user groups will have access to the category."
+msgstr "Kullanıcı grupları seçildiğinde, yalnızca seçilen kullanıcı grupları bu kategorilere erişebilecektir."
+
+#: includes/forum-profile.php:124 includes/forum-usergroups.php:332
+#: includes/forum-usergroups.php:349
+msgid "User Groups:"
+msgstr "Kullanıcı Grupları:"
+
+#: includes/forum-online.php:102
+msgid "Currently nobody is online."
+msgstr "Şu an kimse çevirimiçi değil."
+
+#: includes/forum-online.php:86
+msgid "Currently Online:"
+msgstr "Çevirimiçi olanlar:"
+
+#: includes/forum-online.php:81
+msgid "Newest Member:"
+msgstr "En son üye:"
+
+#: admin/views/usergroups.php:119 admin/views/usergroups.php:120
+msgid "Add User Group"
+msgstr "Kullanıcı Grubu Ekle"
+
+#: admin/views/usergroups.php:45
+msgid "Are you sure you want to delete this user group?"
+msgstr "Bu kullanıcı grubunu silmek istediğinize emin misiniz?"
+
+#: admin/views/usergroups.php:6
+msgid "User Groups updated."
+msgstr "Kullanıcı Grupları güncellendi."
+
+#: admin/tables/admin-usergroups-table.php:54
+msgid "Users:"
+msgstr "Kullanıcılar:"
+
+#: admin/tables/admin-usergroups-table.php:53 admin/views/usergroups.php:29
+msgid "Color:"
+msgstr "Renk:"
+
+#: admin/tables/admin-usergroups-table.php:45
+msgid "Edit User Group"
+msgstr "Kullanıcı Grubunu Düzenle"
+
+#: admin/tables/admin-usergroups-table.php:43
+msgid "Delete User Group"
+msgstr "Kullanıcı Grubunu Sil"
+
+#: admin/admin.php:108 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:435
+msgid "User Groups"
+msgstr "Kullanıcı Grupları"
+
+#: includes/forum-usergroups.php:523
+msgid "Add to"
+msgstr "Ekle"
+
+#: includes/forum-widgets.php:152
+msgid "Show avatars?"
+msgstr "Profil fotoğrafları gösterilsin mi?"
+
+#: includes/forum.php:348
+msgid "Page"
+msgstr "Sayfa"
+
+#: admin/views/structure.php:176 admin/views/structure.php:177
+msgid "Add Forum"
+msgstr "Forum Ekle"
+
+#: admin/views/structure.php:163 admin/views/usergroups.php:105
+msgid "Delete Category"
+msgstr "Kategori Sil"
+
+#: admin/views/structure.php:122 admin/views/structure.php:123
+#: admin/views/structure.php:184 admin/views/structure.php:185
+#: admin/views/usergroups.php:88 admin/views/usergroups.php:89
+#: admin/views/usergroups.php:127 admin/views/usergroups.php:128
+msgid "Add Category"
+msgstr "Kategori Ekle"
+
+#: admin/views/structure.php:97
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "Bu kategoriyi silmek, içerisinde bulunan bütün forumlarnı, alt forumların, başlıkların ve gönderlerin kalıcı olarak silinmesine neden olacaktır. Bu kategoriyi silmek istediğinizden emin misiniz?"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "Yapı güncellendi."
+
+#: admin/admin.php:107 admin/views/structure.php:5
+msgid "Structure"
+msgstr "Yapı"
+
+#: admin/tables/admin-structure-table.php:91
+#: admin/tables/admin-usergroups-table.php:55
+msgid "Actions:"
+msgstr "Eylem:"
+
+#: admin/tables/admin-structure-table.php:89
+msgid "Status:"
+msgstr "Durum:"
+
+#: admin/tables/admin-structure-table.php:77
+#: admin/tables/admin-structure-table.php:78
+msgid "Add Sub-Forum"
+msgstr "Alt-Forum Ekle"
+
+#: admin/tables/admin-structure-table.php:67
+#: admin/tables/admin-structure-table.php:68
+msgid "Delete Forum"
+msgstr "Forumu Sil"
+
+#: admin/tables/admin-structure-table.php:61
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/tables/admin-structure-table.php:59
+msgid "Closed"
+msgstr "Kapalı"
+
+#: admin/views/options.php:188
+msgid "Show thumbnails"
+msgstr "Küçük resimleri göster"
+
+#: includes/forum-online.php:71
+msgid "Online"
+msgstr "Çevrimiçi"
+
+#: admin/views/options.php:121
+msgid "Show who is online"
+msgstr "Kimlerin çevrimiçi olduğunu göster"
+
+#: admin/views/options.php:117
+msgid "Enable breadcrumbs"
+msgstr "Bağlantı haritasını aktif et"
+
+#: admin/views/options.php:110
+msgid "Features"
+msgstr "Özellikler"
+
+#: admin/tables/admin-structure-table.php:45 admin/views/structure.php:145
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/options.php:21
+msgid "Page which contains the [forum]-shortcode."
+msgstr "[forum]-kısa kodu içeren sayfalar."
+
+#: admin/views/options.php:204 includes/forum-uploads.php:251
+msgid "Maximum file size (in megabyte):"
+msgstr "Maksimum dosya boyutu (megabyte):"
+
+#: admin/views/options.php:201 admin/views/options.php:206
+msgid "(0 = No limitation)"
+msgstr "(0 = sınırsız)"
+
+#: admin/views/options.php:199 includes/forum-uploads.php:247
+msgid "Maximum files per post:"
+msgstr "Gönderi başına maksimum dosya sayısı:"
+
+#: admin/views/options.php:129
+msgid "Allow signatures"
+msgstr "İmzalara izin ver"
+
+#: admin/admin.php:52
+msgid "Signature"
+msgstr "İmza"
+
+#: includes/forum-statistics.php:31
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: includes/forum-statistics.php:24
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: admin/views/options.php:125
+msgid "Show statistics"
+msgstr "İstatistikleri göster"
+
+#: includes/forum-notifications.php:46
+msgid "<b>Subscribe</b> to this forum."
+msgstr "Bu foruma <b>abone ol</b>."
+
+#: includes/forum-notifications.php:41
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "Bu foruma <b>aboneliği kaldır</b>."
+
+#. Description of the plugin/theme
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros Forum WordPress için en iyi forum çözümüdür! Düzinelerce özelliği ve şık tasarımıyla hafif, basit ve hızlıdır."
+
+#: includes/views/post-element.php:11
+msgid "Topic Author"
+msgstr "Konu Yazarı"
+
+#: includes/views/search.php:22
+msgid "No results found for:"
+msgstr "Bunun için sonuç yok:"
+
+#: includes/forum-notifications.php:362 includes/forum-statistics.php:28
+#: includes/views/forum.php:36
+msgid "Topics"
+msgstr "Konular"
+
+#: includes/views/forum.php:25 includes/views/forum.php:37
+#: includes/views/overview.php:11 includes/views/search.php:13
+msgid "Last post"
+msgstr "Son gönderi"
+
+#: includes/views/forum-element.php:53
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s Konu"
+msgstr[1] "%s Konu"
+
+#: includes/forum-search.php:40
+msgid "Search ..."
+msgstr "Ara..."
+
+#: includes/forum.php:860
+msgid "Open"
+msgstr "Aç"
+
+#: includes/forum.php:763 includes/views/topic-element.php:19
+msgid "By"
+msgstr "Yazan"
+
+#: includes/forum-breadcrumbs.php:78 includes/forum.php:333
+msgid "Search"
+msgstr "Ara"
+
+#: includes/forum-breadcrumbs.php:74 includes/forum.php:331
+msgid "Move Topic"
+msgstr "Konuyu Taşı"
+
+#: includes/forum-breadcrumbs.php:70 includes/forum-editor.php:116
+#: includes/forum.php:329 includes/forum.php:813
+msgid "New Topic"
+msgstr "Yeni Konu"
+
+#: admin/views/options.php:113
+msgid "Enable search functionality"
+msgstr "Arama fonsiyonunu aktif et."
+
+#: includes/views/search.php:12
+msgid "Search results:"
+msgstr "Arama sonuçları:"
+
+#: includes/forum-widgets.php:129
+msgid "The forum has not been configured correctly."
+msgstr "Bu forum doğru bir şekilde ayarlanmadı."
+
+#: admin/views/options.php:16
+msgid "Forum location:"
+msgstr "Forum yeri:"
+
+#: includes/forum-widgets.php:34 includes/forum-widgets.php:195
+msgid "Recent forum topics"
+msgstr "Güncel forum konuları"
+
+#: includes/forum-widgets.php:187
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros Forum: Güncel Konular"
+
+#: includes/forum-widgets.php:186
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "Asgaros Forum'daki güncel konuları göster."
+
+#: includes/forum-widgets.php:126 includes/forum.php:766
+msgid "No topics yet!"
+msgstr "Daha konu yok!"
+
+#: admin/views/options.php:138
+msgid "Notify site owner about new topics"
+msgstr "Yeni başlıklar hakkında site sahibini bilgilendir."
+
+#: admin/views/options.php:80
+msgid "Highlight topic authors"
+msgstr "Konu yazarını belirginleştir."
+
+#: admin/admin.php:45
+msgid "Notify about new topics"
+msgstr "Yeni konular hakkında bilgilendir."
+
+#: admin/views/options.php:184
+msgid "Guests can upload files"
+msgstr "Misafirler dosya yükleyebilir"
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "Bu kategoride daha forum yok!"
+
+#: includes/forum.php:715
+msgid "Deleted user"
+msgstr "Silinmiş kullanıcı"
+
+#: includes/forum.php:721
+msgid "Guest"
+msgstr "Misafir"
+
+#: includes/forum-uploads.php:162
+msgid "You need to login to have access to uploads."
+msgstr "Dosyalara ulaşmak için giriş yapmanız gerekmektedir."
+
+#: admin/views/options.php:192
+msgid "Show uploads to logged-in users only"
+msgstr "Dosyaları yalnızca giriş yapmış kullanıcılara göster"
+
+#: admin/views/options.php:133
+msgid "Allow guest postings"
+msgstr "Misafir kullanıcıların yazmasına izin ver"
+
+#: admin/views/options.php:72
+msgid "Allow shortcodes in posts"
+msgstr "Yazılarda kısa kodlara izin ver"
+
+#: includes/forum.php:256 includes/forum.php:263 includes/forum.php:271
+msgid "Sorry, you dont have access to this area."
+msgstr "Üzgünüz, bu alana erişim izniniz bulunmamaktadır."
+
+#: includes/forum.php:251
+msgid "Sorry, only logged in users have access to this category."
+msgstr "Üzgünüz, sadece kayıtlı kullanıcılar bu kategoriye erişebilir."
+
+#: includes/forum-notifications.php:212
+msgid "Hello,<br /><br />You received this message because there is a new forum-topic:<br />%s<br /><br />Author:<br />%s<br /><br />Text:<br />%s<br /><br />Link to the new topic:<br /><a href=\"%s\">%s</a>"
+msgstr "Merhaba,<br /><br />Yeni bir forum konusu olduğu için bu e-postayı aldınız:<br />%s<br /><br />Yazar:<br />%s<br /><br />Metin:<br />%s<br /><br />Yeni konu bağlantısı:<br /><a href=\"%s\">%s</a>"
+
+#: includes/forum-notifications.php:148
+msgid "Hello,<br /><br />You received this message because there is a new answer in a forum-topic you have subscribed to:<br />%s<br /><br />Author:<br />%s<br /><br />Answer:<br />%s<br /><br />Link to the new answer:<br /><a href=\"%s\">%s</a><br /><br />You can unsubscribe from this topic using the unsubscribe-link at the end of the topic as a logged-in user. Please dont answer to this mail!"
+msgstr "Merhaba,<br /><br />Takip ettiğiniz konuya yeni bir cevap verildiği için bu e-postayı aldınız:<br />%s<br /><br />Yazar:<br />%s<br /><br />Cevap:<br />%s<br /><br />Yeni cevap bağlantısı:<br /><a href=\"%s\">%s</a><br /><br />Kayıtlı kullanıcılar bu başlığın takibini, konu sonundaki takibi bırak bağlantısına tıklayarak bırakabilir. Lütfen bu e-postayı cevaplamayınız!"
+
+#: includes/forum-notifications.php:61
+msgid "Subscription:"
+msgstr "Abone:"
+
+#: admin/views/options.php:68
+msgid "Use minimalistic editor"
+msgstr "Basit düzenleyiciyi kullan"
+
+#: includes/forum-notifications.php:22 includes/forum-notifications.php:63
+msgid "<b>Subscribe</b> to this topic."
+msgstr "Bu konuya <b>Abone Ol</b>."
+
+#: includes/forum-notifications.php:17
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "Bu konunun <b>Aboneliğinden Çık</b>."
+
+#: admin/views/options.php:142
+msgid "Allow subscriptions (for logged-in users only)"
+msgstr "Aboneliğine izin ver (yalnızca kayıtlı kullanıcılar için)"
+
+#: includes/forum-profile.php:115 includes/views/post-element.php:33
+msgid "Banned"
+msgstr "Engelli"
+
+#: includes/views/forum-element.php:37 includes/views/forum.php:24
+msgid "Subforums"
+msgstr "Alt forumlar"
+
+#: includes/forum-content.php:51
+msgid "You are banned!"
+msgstr "Engellendiniz!"
+
+#: admin/views/options.php:233
+msgid "Background color:"
+msgstr "Arkaplan rengi:"
+
+#: admin/views/options.php:229
+msgid "Text color:"
+msgstr "Metin rengi:"
+
+#: admin/views/options.php:225
+msgid "Forum color:"
+msgstr "Forum rengi:"
+
+#: admin/views/options.php:213
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/views/options.php:208
+msgid "Appearance"
+msgstr "Görünüş"
+
+#: admin/views/options.php:174
+msgid "Uploads"
+msgstr "Yüklemeler"
+
+#: admin/views/options.php:14
+msgid "General"
+msgstr "Genel"
+
+#: admin/views/structure.php:111
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "Bu forumu silmeniz aynı zamanda bu forumla ilgisi olan bütün alt forumların, başlıkların ve cevapların kalıcı olarak silinmesine neden olacaktır. Bu forumu silmek istediğinize emin misiniz?"
+
+#: admin/views/structure.php:46 admin/views/structure.php:88
+#: admin/views/structure.php:101 admin/views/structure.php:115
+#: admin/views/usergroups.php:36 admin/views/usergroups.php:49
+#: admin/views/usergroups.php:68 admin/views/usergroups.php:81
+#: includes/forum-editor.php:167 includes/forum-editor.php:172
+msgid "Cancel"
+msgstr "İptal"
+
+#: admin/views/structure.php:45 admin/views/structure.php:87
+#: admin/views/usergroups.php:35 admin/views/usergroups.php:67
+msgid "Save"
+msgstr "Kaydet"
+
+#: admin/tables/admin-structure-table.php:71
+#: admin/tables/admin-structure-table.php:72
+msgid "Edit Forum"
+msgstr "Forumu düzenle"
+
+#: admin/tables/admin-structure-table.php:90 admin/views/structure.php:38
+#: admin/views/structure.php:81 admin/views/structure.php:156
+msgid "Order:"
+msgstr "Düzen:"
+
+#: admin/admin.php:35
+msgid "Banned User"
+msgstr "Engellenmiş Kullanıcı"
+
+#: admin/views/options.php:195 includes/forum-uploads.php:254
+msgid "Allowed filetypes:"
+msgstr "İzin verilen dosya türleri:"
+
+#: admin/views/structure.php:77
+msgid "Closed:"
+msgstr "Kapalı:"
+
+#: includes/views/forum-element.php:54 includes/views/post-element.php:28
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s Yazı"
+msgstr[1] "%s Yazı"
+
+#: includes/views/topic-element.php:31
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s Görüntüleme"
+msgstr[1] "%s Görüntüleme"
+
+#: includes/forum-widgets.php:114 includes/views/topic-element.php:30
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s Cevap"
+msgstr[1] "%s Cevap"
+
+#: admin/views/structure.php:33 admin/views/structure.php:153
+msgid "Moderators only"
+msgstr "Sadece moderatörler"
+
+#: admin/views/structure.php:32 admin/views/structure.php:151
+msgid "Logged in users only"
+msgstr "Yalnızca giriş yapmış kullanıcılar"
+
+#: admin/views/structure.php:31 admin/views/structure.php:149
+msgid "Everyone"
+msgstr "Herkes"
+
+#: admin/views/structure.php:28 admin/views/structure.php:147
+msgid "Access:"
+msgstr "Erişim:"
+
+#: admin/views/options.php:76
+msgid "Highlight administrator/moderator names"
+msgstr "Yönetici/moderatör isimlerini vurgula"
+
+#: admin/admin.php:31
+msgid "Forum Moderator"
+msgstr "Forum Moderatörü"
+
+#: admin/views/options.php:88
+msgid "Show edit date"
+msgstr "Düzenleme tarihini göster"
+
+#: includes/views/post-element.php:75
+msgid "Last edited on %s"
+msgstr "En son %s tarihinde düzenlenmiştir"
+
+#: includes/forum.php:241
+msgid "Sorry, only logged in users have access to the forum."
+msgstr "Üzgünüz, yalnızca giriş yapmış kullanıcılar foruma erişebilir."
+
+#: admin/views/options.php:96
+msgid "Forum visible to logged in users only"
+msgstr "Forum yalnızca giriş yapmış kullanıcılar tarafından görüntülenebilir"
+
+#: includes/forum.php:943
+msgid "Login"
+msgstr "Giriş"
+
+#: includes/forum.php:509
+msgid "You need to log in to create posts and topics."
+msgstr "Konu ve mesaj oluşturabilmek için giriş yapmanız gerekmektedir."
+
+#: includes/forum-widgets.php:146
+msgid "Number of topics to show:"
+msgstr "Gösterilecek konu sayısı:"
+
+#: includes/forum-widgets.php:141
+msgid "Title:"
+msgstr "Başlık"
+
+#: includes/forum-widgets.php:119 includes/forum.php:764
+msgid "%s ago"
+msgstr "%s  önce"
+
+#: includes/forum-widgets.php:118
+msgid "by"
+msgstr "yazan"
+
+#: includes/forum-widgets.php:32 includes/forum-widgets.php:176
+msgid "Recent forum posts"
+msgstr "Mevcut forum yazıları"
+
+#: includes/forum-widgets.php:168
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros Forum: Yeni Gönderiler"
+
+#: includes/forum-widgets.php:167
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "Asgaros Forumdaki son konuları gösterir."
+
+#: includes/forum.php:841 includes/forum.php:882
+msgid "Are you sure you want to remove this?"
+msgstr "Bunu silmek istediğinizden emin misiniz?"
+
+#. Author of the plugin/theme
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#. Plugin Name of the plugin/theme
+msgid "Asgaros Forum"
+msgstr "Asgaros Forum"
+
+#: includes/forum-unread.php:148
+msgid "Mark All Read"
+msgstr "Hepsini Okundu Olarak İşeretle"
+
+#: includes/forum-unread.php:146
+msgid "New posts"
+msgstr "Yeni gönderi"
+
+#: includes/views/forum.php:66
+msgid "There are no topics yet!"
+msgstr "Daha hiçbir konu yok!"
+
+#: includes/forum-statistics.php:29
+msgid "Posts"
+msgstr "Gönderiler"
+
+#: includes/forum-statistics.php:30
+msgid "Views"
+msgstr "izlenme"
+
+#: includes/forum-editor.php:175
+msgid "Submit"
+msgstr "Gönder"
+
+#: includes/forum-uploads.php:238
+msgid "Add another file ..."
+msgstr "Başka bir dosya ekleyin:"
+
+#: includes/forum-uploads.php:220
+msgid "Upload Files:"
+msgstr "Dosya Yükle:"
+
+#: includes/forum-editor.php:139
+msgid "Subject:"
+msgstr "Konu:"
+
+#: includes/forum-editor.php:118
+msgid "Post Reply:"
+msgstr "Konuya Cevap Gönder"
+
+#: includes/forum-editor.php:98 includes/views/post-element.php:53
+msgid "Quote from"
+msgstr "Şu kişiden alıntılanmıştır:"
+
+#: includes/forum-content.php:84
+msgid "You must enter a message."
+msgstr "Bir mesaj girmelisiniz."
+
+#: includes/forum-content.php:78
+msgid "You must enter a subject."
+msgstr "Bir başlık girmelisiniz."
+
+#: includes/forum-content.php:45 includes/forum-content.php:57
+#: includes/forum-content.php:63 includes/forum-content.php:72
+#: includes/forum-editor.php:87
+msgid "You are not allowed to do this."
+msgstr "Bunu yapmaya izniniz bulunmamaktadır."
+
+#: includes/forum.php:1080
+msgid "Sorry, this post does not exist."
+msgstr "Üzgünüz, bu gönderi mevcut değil."
+
+#: includes/forum-uploads.php:179 includes/forum-uploads.php:209
+msgid "Uploaded files:"
+msgstr "Yüklenmiş Dosyalar:"
+
+#: admin/tables/admin-usergroups-table.php:43 admin/views/structure.php:100
+#: admin/views/structure.php:114 admin/views/usergroups.php:48
+#: admin/views/usergroups.php:80 includes/forum-uploads.php:201
+#: includes/forum.php:842 includes/forum.php:883
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/forum-pagination.php:34 includes/forum-pagination.php:138
+msgid "Last"
+msgstr "Sonuncu"
+
+#: includes/forum-pagination.php:102
+msgid "First"
+msgstr "Birinci"
+
+#: includes/forum-pagination.php:78
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: includes/forum.php:865
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/forum.php:853
+msgid "Sticky"
+msgstr "Sabit"
+
+#: includes/forum.php:848
+msgid "Undo Sticky"
+msgstr "Sabitlemeyi Kaldır"
+
+#: includes/forum.php:830
+msgid "Reply"
+msgstr "Cevapla"
+
+#: admin/tables/admin-usergroups-table.php:45 includes/forum.php:891
+msgid "Edit"
+msgstr "Düzenle"
+
+#: includes/forum.php:900
+msgid "Quote"
+msgstr "Alıntıla"
+
+#: includes/forum-editor.php:98 includes/views/post-element.php:53
+msgid "on %s"
+msgstr "tarhinde %s"
+
+#: includes/forum.php:548
+msgid "You are not allowed to move topics."
+msgstr "Konuları taşıma izniniz yoktur."
+
+#: includes/forum.php:544 includes/forum.php:837
+msgid "Move"
+msgstr "Taşı"
+
+#: includes/forum.php:518
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "\"<strong>%s</strong>\"  yeni foruma taşı:"
+
+#: includes/forum.php:1081
+msgid "Sorry, this topic does not exist."
+msgstr "Üzgünüz, bu konu bulunmamakta."
+
+#: includes/forum.php:499
+msgid "Sorry, but there are no posts."
+msgstr "Üzgünüz, burada gönderi bulunmamakta."
+
+#: includes/forum.php:1082
+msgid "Sorry, this forum does not exist."
+msgstr "Üzgünüz, bu forum bulunmamakta."
+
+#: includes/views/overview.php:32
+msgid "There are no categories yet!"
+msgstr "Daha hiçbir kategori yok!"
+
+#: includes/forum-breadcrumbs.php:62 includes/forum.php:327
+msgid "Post Reply"
+msgstr "Cevap gönder"
+
+#: includes/forum-breadcrumbs.php:66 includes/forum-editor.php:120
+#: includes/forum.php:325
+msgid "Edit Post"
+msgstr "Gönderiyi Düzenle"
+
+#: admin/views/structure.php:165 admin/views/usergroups.php:107
+msgid "Edit Category"
+msgstr "Kategori Düzelt"
+
+#: admin/views/options.php:236
+msgid "Save Options"
+msgstr "Ayarları Kaydet"
+
+#: admin/views/options.php:180
+msgid "Allow file uploads"
+msgstr "Dosya yüklemeye izin ver"
+
+#: admin/views/options.php:29
+msgid "Topics to show per page:"
+msgstr "Her sayfada gösterilecek konu sayısı:"
+
+#: admin/views/options.php:25
+msgid "Replies to show per page:"
+msgstr "Her sayfada gösterilecek cevap sayısı:"
+
+#: admin/views/structure.php:64
+msgid "Description:"
+msgstr "Açıklama:"
+
+#: admin/tables/admin-structure-table.php:87
+#: admin/tables/admin-usergroups-table.php:52 admin/views/structure.php:24
+#: admin/views/structure.php:60 admin/views/usergroups.php:25
+#: admin/views/usergroups.php:61
+msgid "Name:"
+msgstr "Adınız:"
+
+#: includes/forum-usergroups.php:471
+msgid "Forum:"
+msgstr "Forum:"
+
+#: admin/admin.php:106 admin/views/options.php:8
+msgid "Options"
+msgstr "Ayarlar"
+
+#: admin/admin.php:58 admin/admin.php:105 includes/forum-breadcrumbs.php:24
+#: includes/forum-usergroups.php:283 includes/forum.php:913
+msgid "Forum"
+msgstr "Forum"

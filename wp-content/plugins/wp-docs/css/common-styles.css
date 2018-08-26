@@ -1,0 +1,59 @@
+/* CSS Document */
+.wpdocs_folders{
+	float:left;
+	width:70%;
+	background-color:#FFF;
+	border:1px solid #333;
+}
+.wpdocs_folders ul{
+	margin:0;
+	padding:0;
+	width:100%;
+	float:left;
+
+}
+.wpdocs_folders .wpdocs_list{
+	float:left;
+	width:100%;
+}
+.wpdocs_folders .wpdocs_list ul{
+	min-height:367px;
+	overflow-y:auto;	
+	padding:10px;
+	max-height:600px;
+}
+.wpdocs_folders .wpdocs_list ul li {
+	margin-right: 40px;
+	width: 114px;
+	height: 162px;
+	overflow: hidden;
+}
+.wpdocs_folders .wpdocs_list ul li:hover {
+	background-color:rgba(0,0,0, 0.1);
+	border-radius:10px;
+}
+.wpdocs_folders .wpdocs_list ul li a.folder,
+.wpdocs_folders .wpdocs_list ul li a.file{
+	color:#FFD000;
+	font-size:100px;
+	cursor:pointer;
+	width:100%;
+	display:block;
+	text-align:center;
+}
+.wpdocs_folders .wpdocs_list ul li a.file{
+	color:#CCC;
+	font-size:100px;
+}
+.wpdocs_folders .wpdocs_list ul li a.dtitle,
+.wpdocs_folders .wpdocs_list ul li a.ftitle{
+	width:100%;
+	display:block;
+	font-size:14px;
+	text-align:center;	
+	cursor:pointer;
+}
+
+.wpdocs_folders ul li{
+	float:left;
+}

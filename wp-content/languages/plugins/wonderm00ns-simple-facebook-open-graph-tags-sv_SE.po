@@ -1,0 +1,939 @@
+# Translation of Plugins - Open Graph for Facebook, Google+ and Twitter Card Tags - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Open Graph for Facebook, Google+ and Twitter Card Tags - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-27 17:33:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Open Graph for Facebook, Google+ and Twitter Card Tags - Stable (latest release)\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Open Graph for Facebook, Google+ and Twitter Card Tags"
+msgstr "Open Graph för Facebook, Google+ och Twitter korttaggar"
+
+#: admin/options-page-3rdparty.php:189
+msgid "This setting also applies to brand pages if WooCommerce Brands is installed"
+msgstr "Denna inställning gäller också märkessidor, om WooCommerce Brands (märken) är installerad"
+
+#: admin/options-page.php:67
+msgid "Tools"
+msgstr "Verktyg"
+
+#: admin/options-page-tools.php:26
+msgid "We use transients to cache the image sizes, so that we only have to calculate them once (a week). Because of some server issues it may happen that we cannot correctly get the image size and we'll cache that, meaning that we'll never try it again (for a week). This tool will delete ALL the transients and force the image size calculation to be done again for all images, as they're nedded."
+msgstr "Vi använder transienter för att cachea bildstorlekarna så att de bara behöver beräknas en gång (per vecka). På grund av vissa serverfel kan det vara så att bildstorleken inte hämtas korrekt, och den inkorrekta storleken då cacheas. Detta verktyg tar bort ALLA transienter och tvingar beräkningen av bildstorlekar att göras igen för alla bilder."
+
+#: admin/options-page-tools.php:24
+msgid "This is an advanced tool: Don't mess with this unless you know what you're doing"
+msgstr "Detta är ett avancerat verktyg: Pilla inte för mycket såvida du inte vet vad du gör!"
+
+#: admin/options-page-tools.php:19
+msgid "Do it"
+msgstr "Kör"
+
+#: admin/options-page-tools.php:15
+msgid "Clear all transients"
+msgstr "Rensa alla transienter"
+
+#: admin/options-page-tools.php:9
+msgid "Image tools"
+msgstr "Bildverktyg"
+
+#: admin/options-page-tools.php:7
+msgid "Just some random tools"
+msgstr "Bara lite blandade verktyg"
+
+#: admin/options-page-general.php:245
+msgid "Should not be needed on version 2.2 and above"
+msgstr "Borde inte behövas i version 2.2 och över"
+
+#: admin/class-webdados-fb-open-graph-admin.php:472
+msgid "%d transients deleted"
+msgstr "%d transienter borttagna"
+
+#: admin/class-webdados-fb-open-graph-admin.php:418
+msgid "Are you sure you want to run this tool?"
+msgstr "Är du helt säker på att du vill köra detta verktyg?"
+
+#: admin/options-page-general.php:200
+msgid "You need the <a href=\"%s\" target=\"_blank\">PHP GD library</a> to use this feature. Please ask your hosting company to enable it."
+msgstr "Du behöver <a href=\"%s\" target=\"_blank\">PHP GD-biblioteket</a> för att använda denna funktion. Vänligen be ditt webbhotell aktivera det."
+
+#: admin/options-page-general.php:167
+msgid "No"
+msgstr "Nej"
+
+#: admin/options-page-facebook.php:131
+msgid "Facebook does not support <i>blog</i> anymore, so we have to default to <i>website</i>"
+msgstr "Facebook stöder inte <i>bloggar</i> längre, så för närvarande är <i>webbplats</i> standard"
+
+#: admin/class-webdados-fb-open-graph-admin.php:335
+msgid "If you haven't, go to the settings page (Open Graph tab), and do it now."
+msgstr "Om du inte redan gjort det, gå till sidan inställningar (fliken Open Graph), och gör det nu."
+
+#: admin/class-webdados-fb-open-graph-admin.php:334
+msgid "Have you already configured the App ID and App Secret, needed for flushing the cache on Facebook?"
+msgstr "Har du redan konfigurerat App ID och App Hemlig, som behövs för att rensa cache på Facebook?"
+
+#: admin/options-page-right.php:84
+msgid "Donate in Euros"
+msgstr "Donera i Euro"
+
+#: admin/options-page-right.php:83
+msgid "Donate in US Dollars"
+msgstr "Donera i amerikanska Dollar"
+
+#: admin/options-page-facebook.php:402
+msgid "Please do not ask for support regarding this feature. Everything is explained in the blog post linked above."
+msgstr "Var snäll och be inte om support rörande denna funktion. Allt förklaras i blogginlägget med länk ovan."
+
+#: admin/options-page-facebook.php:400
+msgid "If you are using the (now deprecated) <i>fb_og_update_cache_url</i> filter, this ID and Secret will NOT be used. You should stop using the filter and use these settings."
+msgstr "Om du använder det nu utfasade <i>fb_og_update_cache_url</i> filtret så kommer detta ID och Hemlig inte att användas. Du borde sluta använda det filtret och använda dessa inställningarna."
+
+#: admin/options-page-facebook.php:398
+msgid "Facebook no longer allows updating the cache anonymously, so you have to use a App ID and Secret to do it. <a href=\"%s\" target=\"_blank\">Read here</a> how to do it."
+msgstr "Facebook tillåter inte längre uppdatering av cache anonymt, så du måste ha en App ID och App Hemlig för att göra det. <a href=\"%s\" target=\"_blank\">Läs här</a> hur du löser det."
+
+#: admin/options-page-facebook.php:391
+msgid "App Secret"
+msgstr "App Hemlig"
+
+#: admin/options-page-facebook.php:384
+msgid "App ID"
+msgstr "App ID"
+
+#: admin/class-webdados-fb-open-graph-admin.php:390
+msgid "Manually update Facebook cache"
+msgstr "Uppdatera Facebook-cache manuellt"
+
+#: admin/class-webdados-fb-open-graph-admin.php:339
+msgid "Click here to try to clear the cache manually and then click \"Scrape Again\""
+msgstr "Klicka här för att försöka rensa cache manuellt och klicka sedan på \"Skrapa igen\""
+
+#: admin/class-webdados-fb-open-graph-admin.php:332
+msgid "Lately and unfortunately, Facebook is not allowing to update the cache programmatically."
+msgstr "På sistone tillåter Facebook, dessvärre, inte uppdatering av cache programmeringsled."
+
+#: admin/class-webdados-fb-open-graph-admin.php:331
+msgid "Do not open support tickets about this issue."
+msgstr "Starta inte ett supportärende om detta."
+
+#: admin/class-webdados-fb-open-graph-admin.php:328
+msgid "This is NOT a plugin error."
+msgstr "Detta är INTE ett pluginfel!"
+
+#: admin/class-webdados-fb-open-graph-admin.php:283
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+#: admin/options-page-general.php:64
+msgid "WPML users: Set the main language homepage description here, save changes and then go to <a href=\"%s\" target=\"_blank\">WPML &gt; String translation</a> to set it for other languages."
+msgstr "WPML-användare: ange huvudspråkets beskrivning av hemsidan här, spara ändringarna och gå sedan till <a href=\"%s\" target=\"_blank\">WPML &gt; Strängöversättning</a> för att ange det för övriga språk."
+
+#: public/class-webdados-fb-open-graph-public.php:235
+msgid "Price"
+msgstr "Pris"
+
+#: admin/options-page.php:61
+msgid "3rd party"
+msgstr "Tredjepart"
+
+#: admin/options-page.php:55
+msgid "SEO tags"
+msgstr "SEO-taggar"
+
+#: admin/options-page.php:49
+msgid "Schema"
+msgstr "Schema"
+
+#: admin/options-page.php:43
+msgid "Cards"
+msgstr "Kort"
+
+#: admin/options-page.php:37
+msgid "Open Graph"
+msgstr "Open Graph"
+
+#: admin/options-page.php:31
+msgid "General"
+msgstr "Allmänt"
+
+#: admin/options-page-twitter.php:123
+msgid "The type of Twitter Card shown on the timeline"
+msgstr "Typ av Twitter-kort som visas på tidslinjen"
+
+#: admin/options-page-twitter.php:111
+msgid "Card Type"
+msgstr "Korttyp"
+
+#: admin/options-page-twitter.php:94
+msgid "The website's Twitter Username"
+msgstr "Webbplatsens användarnamn på Twitter"
+
+#: admin/options-page-twitter.php:80
+msgid "The user's Twitter Username must be filled in on his profile"
+msgstr "Användarens användarnamn på Twitter måste anges i profilen"
+
+#: admin/options-page-twitter.php:7
+msgid "Tags used by Twitter to render their Cards."
+msgstr "Taggar som används av Twitter för att skapa kort."
+
+#: admin/options-page-schema.php:130 admin/options-page-seo.php:68
+msgid "From the user Display name"
+msgstr "Från användarens visningsnamn"
+
+#: admin/options-page-seo.php:59
+msgid "Include Post/Page Author name"
+msgstr "Inkludera inläggs- eller sidförfattarens namn"
+
+#: admin/options-page-seo.php:27 admin/options-page-seo.php:49
+msgid "Not recommended because you have Yoast SEO active"
+msgstr "Rekommenderas inte eftersom du har Yoast SEO aktivt"
+
+#: admin/options-page-seo.php:9
+msgid "SEO Meta Tags"
+msgstr "SEO meta-taggar"
+
+#: admin/options-page-seo.php:7
+msgid "SEO Meta Tags that are recommended ONLY if no other plugin is setting them already."
+msgstr "SEO meta-taggar som rekommenderas ENBART om du inte har något annat tillägg som anger dem."
+
+#: admin/options-page-schema.php:170
+msgid "Google+ Page URL (with https://)"
+msgstr "Länk till Google+ -sida (med https://)"
+
+#: admin/options-page-schema.php:158
+msgid "The website's Google+ Page"
+msgstr "Webbplatsens Google+ -sida"
+
+#: admin/options-page-schema.php:116
+msgid "The user's Google+ URL must be filled in on his profile"
+msgstr "Användarens Google+ -URL måste anges i profilen"
+
+#: admin/options-page-schema.php:89
+msgid "Default (including Post/Page) Type"
+msgstr "Standardtyp (inklusive inlägg/sida)"
+
+#: admin/options-page-schema.php:68
+msgid "Added to the HTML tag, if you want to avoid W3C and Structured Data validation errors"
+msgstr "Tillagd i HTML-taggen, för att slippa problem med W3C och Structured Data-valideringsfel"
+
+#: admin/options-page-schema.php:15 admin/options-page-twitter.php:15
+msgid "Include Title"
+msgstr "Inkludera titel"
+
+#: admin/options-page-schema.php:9
+msgid "Google+ / Schema.org Tags"
+msgstr "Taggar för Google+ / Schema.org"
+
+#: admin/options-page-schema.php:7
+msgid "Schema.org tags used by Google+ to render link share posts."
+msgstr "Schema.org-taggar som används av Google+ för att skapa länkar till delade inlägg."
+
+#: admin/options-page-right.php:54
+msgid "Please rate our plugin at WordPress.org"
+msgstr "Ge ett omdöme av tillägget på WordPress.org"
+
+#: admin/options-page-right.php:53
+msgid "Please contact %s"
+msgstr "Vänligen kontakta oss %s"
+
+#: admin/options-page-right.php:52
+msgid "Premium technical support or custom WordPress development"
+msgstr "Premium teknisk support eller anpassad WordPress-utveckling"
+
+#: admin/options-page-right.php:50
+msgid "Support forum"
+msgstr "Supportforum"
+
+#: admin/options-page-right.php:48
+msgid "About this plugin"
+msgstr "Om detta tillägg"
+
+#: admin/options-page-right.php:9
+msgid "Test your URLs on the Twitter Card validator"
+msgstr "Testa dina URL:er i valideraren för Twitter Kort"
+
+#: admin/options-page-right.php:5
+msgid "Test your URLs on the Facebook Debugger"
+msgstr "Testa dina URL:er i Facebook Debugger"
+
+#: admin/options-page-general.php:317
+msgid "Keep the plugin settings on the database even if the plugin is uninstalled"
+msgstr "Behåll inställningarna för tillägget i databasen, även om tillägget är avinstallerat"
+
+#: admin/options-page-general.php:310
+msgid "Keep data on uninstall"
+msgstr "Behåll data vid avinstallation"
+
+#: admin/options-page-general.php:304
+msgid "Other settings"
+msgstr "Andra inställningar"
+
+#: admin/options-page-general.php:282
+msgid "Author settings"
+msgstr "Författarinställningar"
+
+#: admin/options-page-general.php:273
+msgid "Homepage example:"
+msgstr "Webbplatsexempel:"
+
+#: admin/options-page-general.php:271
+msgid "If missing, a trailing slash will be added at the end"
+msgstr "Om det saknas kommer ett avslutande snedstreck att läggas till i slutet"
+
+#: admin/options-page-general.php:258
+msgid "URL settings"
+msgstr "URL-inställningar"
+
+#: admin/options-page-general.php:247
+msgid "This can render the \"Add image to RSS/RSS2 feeds\" and \"Open Graph - Include Image Dimensions\" options useless"
+msgstr "Detta kan leda till att alternativet \"Lägg till bild i RSS/RSS2-flödet\" och \"Open Graph - Inkludera bilddimensioner\" oanvändbart"
+
+#: admin/options-page-general.php:243
+msgid "You should only activate this option if you're getting fatal errors (white screen of death) and only keep it active if this options does solve those errors"
+msgstr "Du borde bara aktivera detta alternativ om du får fatala fel (white screen of death) och bara hålla det aktivt om detta alternativ löser felet"
+
+#: admin/options-page-general.php:234
+msgid "Do not get image size"
+msgstr "Hämta inte bildstorlek"
+
+#: admin/options-page-general.php:225 admin/options-page-general.php:241
+msgid "This is an advanced option: Don't mess with this unless you know what you're doing"
+msgstr "Detta är ett avancerat alternativ: Pilla inte såvida du inte vet vad du håller på med!"
+
+#: admin/options-page-general.php:218
+msgid "Force getimagesize on local file"
+msgstr "Tvinga getimagesize på lokala filer"
+
+#: admin/options-page-general.php:194
+msgid "Size: %dx%dpx"
+msgstr "Storlek: %dx%dpx"
+
+#: admin/options-page-general.php:184
+msgid "PNG logo"
+msgstr "PNG-logotyp"
+
+#: admin/options-page-general.php:179
+msgid "If you activate this option globally, you can disable it based on your conditions using the <i>%1$s</i> filter"
+msgstr "Om du aktiverar detta alternativ globalt så kan du inaktivera det baserat på dina villkor genom filtret <i>%1$s</i>"
+
+#: admin/options-page-general.php:177
+msgid "You can see an example of the end result <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Du kan se ett exempel på slutresultatet <a href=\"%s\" target=\"_blank\">här</a>"
+
+#: admin/options-page-general.php:175
+msgid "The original image will be resized/cropped to %dx%dpx and the chosen PNG (that should also have this size) will be overlaid on it. It will only work for locally hosted images."
+msgstr "Originalbilden kommer att storleksändras/beskäras till %dx%dpx och den valda PNG-filen (som också borde ha denna storlek) läggs över. Det fungerar enbart för lokalt lagrade bilder."
+
+#: admin/options-page-schema.php:66
+msgid "Experimental"
+msgstr "Experimentell"
+
+#: admin/options-page-general.php:157
+msgid "On posts/pages the first image found, using the priority above, will be used. On the homepage, archives and other website sections the default image is always used."
+msgstr "Den första bilden på inlägg/sidor, vid prioriteringen ovan, kommer att användas. På startsidan, arkiv och andra webbplatssektioner kommer standardbilden alltid att användas."
+
+#: admin/options-page-general.php:151
+msgid "Default image specified above"
+msgstr "Standardbild angiven ovan"
+
+#: admin/options-page-general.php:147
+msgid "First image from the post/page media gallery"
+msgstr "Första bilden i inläggets- eller sidans mediagalleri"
+
+#: admin/options-page-general.php:143
+msgid "First image from the post/page content"
+msgstr "Första bilden från inläggets- eller sidans innehåll"
+
+#: admin/options-page-general.php:139
+msgid "Post/page featured image"
+msgstr "Inläggs- eller sidans utvalda bild"
+
+#: admin/options-page-general.php:135
+msgid "\"Open Graph Image\" custom field on the post"
+msgstr "Anpassat fält \"Open Graph Bild\" i inlägget"
+
+#: admin/options-page-general.php:131
+msgid "On Post/Page, use image from"
+msgstr "I inlägg eller på sida skall bild användas från"
+
+#: admin/options-page-general.php:122 admin/options-page-general.php:192
+msgid "URL (with http(s)://)"
+msgstr "URL (med http(s)://)"
+
+#: admin/options-page-general.php:108
+msgid "Image settings"
+msgstr "Bildinställningar"
+
+#: admin/options-page-general.php:86
+msgid "The default description to be used on any post / page / cpt / archive / search / ... that has a blank description"
+msgstr "Standardbeskrivning att använda på alla inlägg/sidor/cpt/arkiv/sök ... som har en tom beskrivning"
+
+#: admin/options-page-general.php:73
+msgid "Default description"
+msgstr "Standardbeskrivning"
+
+#: admin/options-page-general.php:27 admin/options-page-general.php:58
+#: admin/options-page-general.php:89
+msgid "Because Yoast SEO integration is active, this value may be overwritten"
+msgstr "Då Yoast SEO-integrationen är aktiv kan detta värde bli överskrivet"
+
+#: admin/options-page-general.php:19
+msgid "characters"
+msgstr "tecken"
+
+#: admin/options-page-general.php:11
+msgid "Description settings"
+msgstr "Beskrivningsinställningar"
+
+#: admin/options-page-general.php:9
+msgid "General settings that will apply to all tags types."
+msgstr "Generella inställningar som också gäller alla tagg-typer."
+
+#: admin/options-page-facebook.php:414
+msgid "Sometimes we aren't able to update the cache and the post author will see a notice if this option is not checked"
+msgstr "Om uppdatering av cache av någon anledning inte sker kommer författaren se en notis om detta alternativ inte är ikryssat. "
+
+#: admin/options-page-facebook.php:407
+msgid "Suppress cache notices"
+msgstr "Dölj cachenotiser"
+
+#: admin/options-page-facebook.php:379
+msgid "Try to clear the Facebook Open Graph Tags cache when saving a post or page, so the link preview on Facebook is immediately updated"
+msgstr "Försök att rensa cachen med Facebooks Open Graph-taggar när ett inlägg eller sida sparas, så förhandsvisnings-länken på Facebook blir uppdaterad direkt"
+
+#: admin/options-page-facebook.php:372
+msgid "Clear cache"
+msgstr "Rensa cache"
+
+#: admin/options-page-facebook.php:366
+msgid "Facebook Open Graph Tags cache"
+msgstr "Cache för Facebooks Open Graph-taggar"
+
+#: admin/options-page-facebook.php:357
+msgid "Prefix is recommended because it validates properly with the W3C validator, xmlns is the legacy method"
+msgstr "Prefix rekommenderas då det valideras korrekt med W3C valideringen, där xmlns är den äldre metoden"
+
+#: admin/options-page-facebook.php:355
+msgid "or"
+msgstr "eller"
+
+#: admin/options-page-facebook.php:345
+msgid "Declaration Method"
+msgstr "Deklareringsmetod"
+
+#: admin/options-page-facebook.php:341
+msgid "From your Facebook Developers dashboard"
+msgstr "Från din kontrollpanel på Facebook Developers"
+
+#: admin/options-page-facebook.php:322
+msgid "Include Facebook Platform App ID"
+msgstr "Inkludera Facebooks App ID"
+
+#: admin/options-page-facebook.php:298
+msgid "Include Facebook Admin(s) ID"
+msgstr "Inkludera Facebook admin(s) ID"
+
+#: admin/options-page-facebook.php:204
+msgid "Include Locale"
+msgstr "Inkludera språkversion"
+
+#: admin/options-page-facebook.php:199
+msgid "Facebook Page URL (with https://)"
+msgstr "Facebooks sid-URL (med https://)"
+
+#: admin/options-page-facebook.php:187 admin/options-page-facebook.php:213
+msgid "The website's Facebook Page"
+msgstr "Webbplatsens Facebook-sida"
+
+#: admin/options-page-facebook.php:178 admin/options-page-schema.php:149
+#: admin/options-page-seo.php:73 admin/options-page-twitter.php:85
+msgid "Include Publisher"
+msgstr "Inkludera redaktör"
+
+#: admin/options-page-facebook.php:173
+msgid "from the categories names"
+msgstr "från kategorinamn"
+
+#: admin/options-page-facebook.php:164
+msgid "Include Article Sections"
+msgstr "Inkludera artikelsektioner"
+
+#: admin/options-page-facebook.php:159 admin/options-page-facebook.php:173
+#: admin/options-page-schema.php:144
+msgid "For posts only"
+msgstr "Enbart för inlägg"
+
+#: admin/options-page-facebook.php:150 admin/options-page-schema.php:135
+msgid "Include Published/Modified Dates"
+msgstr "Inkludera datum för publicerad/ändrad"
+
+#: admin/options-page-facebook.php:145
+msgid "The user's Facebook URL must be filled in on his profile"
+msgstr "Användarens Facebook-URL måste anges i profilen"
+
+#: admin/options-page-facebook.php:136 admin/options-page-schema.php:107
+#: admin/options-page-schema.php:121 admin/options-page-twitter.php:71
+msgid "Include Post/Page Author"
+msgstr "Inkludera författare av inlägg/sida"
+
+#: admin/options-page-facebook.php:112
+msgid "Additional types may be used depending on 3rd party integrations"
+msgstr "Ytterligare typer kan användas beroende på tredjepartsintegrationer"
+
+#: admin/options-page-facebook.php:101 admin/options-page-schema.php:57
+msgid "Include Type"
+msgstr "Inkludera typ"
+
+#: admin/options-page-facebook.php:96
+msgid "Recommended only if Facebook is having problems loading the image when the post is shared for the first time, or else it adds extra unnecessary processing time"
+msgstr "Rekommenderas bara om Facebook har problem med att ladda bilden när inlägget delas för första gången. Annars läggs det till onödig hanteringstid."
+
+#: admin/options-page-facebook.php:94 admin/options-page-facebook.php:157
+#: admin/options-page-schema.php:22 admin/options-page-schema.php:142
+msgid "and"
+msgstr "och"
+
+#: admin/options-page-facebook.php:87
+msgid "Include Image Dimensions"
+msgstr "Inkludera bildstorlekar"
+
+#: admin/options-page-facebook.php:71 admin/options-page-schema.php:43
+#: admin/options-page-twitter.php:57
+msgid "Include Image"
+msgstr "Inkludera bild"
+
+#: admin/options-page-facebook.php:57 admin/options-page-schema.php:29
+#: admin/options-page-twitter.php:43
+msgid "Include Description"
+msgstr "Inkludera beskrivning"
+
+#: admin/options-page-facebook.php:43 admin/options-page-twitter.php:29
+msgid "Include URL"
+msgstr "Inkludera URL"
+
+#: admin/options-page-facebook.php:38 admin/options-page-seo.php:82
+msgid "From Settings &gt; General &gt; Site Title"
+msgstr "Från Inställningar &gt; Sidtitel"
+
+#: admin/options-page-facebook.php:29
+msgid "Include Site Name"
+msgstr "Inkludera webbplatsens namn"
+
+#: admin/options-page-facebook.php:15
+msgid "Include Post/Page Title"
+msgstr "Inkludera inläggs- eller sidtitel"
+
+#: admin/options-page-facebook.php:9
+msgid "Facebook Open Graph Tags"
+msgstr "Facebook Open Graph-taggar"
+
+#: admin/options-page-facebook.php:7
+msgid "Open Graph tags used by Facebook, and other social networks, to render link share posts."
+msgstr "Open Graph-taggar används av Facebook, och andra sociala nätverk, för att skapa delningslänkar."
+
+#: admin/options-page-3rdparty.php:274
+msgid "Use Business Directory Plugin listing details (Title, URL, Description and Image) to populate tags"
+msgstr "Använd uppgifter från Business Directory Plugin (titel, URL, beskrivning och bild) för att populera taggar"
+
+#: admin/options-page-3rdparty.php:267
+msgid "Use listing details"
+msgstr "Använd uppgifter"
+
+#: admin/options-page-3rdparty.php:233
+msgid "Before"
+msgstr "Före"
+
+#: admin/options-page-3rdparty.php:232
+msgid "After"
+msgstr "Efter"
+
+#: admin/options-page-3rdparty.php:229
+msgid "SubHeading position"
+msgstr "Underrubrikens position"
+
+#: admin/options-page-3rdparty.php:187
+msgid "Recommended if you set large thumbnails for Product Categories and want to use them as Open Graph Images on category listing pages"
+msgstr "Rekommenderas om du anger stora miniatyrer för produktkategorier och vill använda dem som Open Graph-bilder på kategorisidor"
+
+#: admin/options-page-3rdparty.php:180
+msgid "Use Category thumbnail as Image"
+msgstr "Använd kategoriers miniatyr som bild"
+
+#: admin/options-page-3rdparty.php:175
+msgid "Also overlay the PNG logo on the Product Gallery images"
+msgstr "Täck också över med PNG-logotypen på bilder i produktgalleri"
+
+#: admin/options-page-3rdparty.php:168 admin/options-page-general.php:162
+msgid "Overlay PNG logo"
+msgstr "Täck med PNG-logotyp"
+
+#: admin/options-page-3rdparty.php:163 admin/options-page-facebook.php:24
+#: admin/options-page-facebook.php:52 admin/options-page-facebook.php:66
+#: admin/options-page-facebook.php:82 admin/options-page-facebook.php:114
+#: admin/options-page-facebook.php:293 admin/options-page-general.php:126
+#: admin/options-page-schema.php:24 admin/options-page-schema.php:38
+#: admin/options-page-schema.php:52 admin/options-page-schema.php:70
+#: admin/options-page-seo.php:32 admin/options-page-seo.php:54
+#: admin/options-page-twitter.php:24 admin/options-page-twitter.php:38
+#: admin/options-page-twitter.php:52 admin/options-page-twitter.php:66
+msgid "You can change this value using the <i>%1$s</i> filter"
+msgstr "Du kan ändra detta värde genom filtret <i>%1$s</i>"
+
+#: admin/options-page-3rdparty.php:161
+msgid "Sets each Product Gallery image as an additional <i>og:image</i> tag so that, when a product is shared on Facebook, the user is given the choice what image to display"
+msgstr "Anger varje bild i produktgalleriet som en ytterligare <i>og:image</i>-tagg så att när en produkt delas på Facebook kan användaren välja vilken bild som ska visas"
+
+#: admin/options-page-3rdparty.php:154
+msgid "Use Product Gallery as Images"
+msgstr "Använd produktgalleri som bilder"
+
+#: admin/options-page-3rdparty.php:149
+msgid "On the product page we will automatically set <i>og:type</i> to \"product\" and <i>product:price</i> to the price including tax."
+msgstr "På produktsidan anges automatiskt <i>og:type</i> på \"produkt\" och <i>product:price</i> på pris inklusive moms."
+
+#: admin/options-page-3rdparty.php:119
+msgid "Because you are using All in One SEO Pack, and to avoid duplicate social tags, you should disable their social settings at <a href=\"%s\" target=\"_blank\">MISSING LINK</a>."
+msgstr "Eftersom du använder All in One SEO, och för att undvika dubbla sociala taggar, borde du inaktivera deras inställningar på <a href=\"%s\" target=\"_blank\">SAKNAD LÄNK</a>."
+
+#: admin/options-page-3rdparty.php:109
+msgid "Use Title and Description generated by All in One SEO Pack"
+msgstr "Använd titel och beskrivning genererad av All in One SEO"
+
+#: admin/options-page-3rdparty.php:102
+msgid "Use Title and Description"
+msgstr "Använd titel och beskrivning"
+
+#: admin/options-page-3rdparty.php:81 admin/options-page-3rdparty.php:133
+#: admin/options-page-3rdparty.php:198 admin/options-page-3rdparty.php:247
+#: admin/options-page-3rdparty.php:285
+msgid "You don't have %s installed or activated."
+msgstr "Du har inte %s installerad eller aktiverad."
+
+#: admin/options-page-3rdparty.php:67
+msgid "Because you are using Yoast SEO, and to avoid duplicate social tags, you should disable their social settings at <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Social</a>. If you cannot access that page, you must first activate the \"Advanced settings pages\" at <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Dashboard &gt; Features</a>."
+msgstr "Då du använder Yoat SEO, och för att undvika dubbla sociala taggar, borde du inaktivera deras inställningar på <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Socialt</a>. Om du inte kommer åt den sidan måste du först aktivera \"Avancerade inställningar\" på <a href=\"%s\" target=\"_blank\">Yoast SEO &gt; Kontrollpanel &gt; Funktioner</a>."
+
+#: admin/options-page-3rdparty.php:57
+msgid "Use Title, Canonical URL and Description generated by Yoast SEO"
+msgstr "Använd titel titel, kanonisk URL och beskrivning genererad av Yoast SEO"
+
+#: admin/options-page-3rdparty.php:50
+msgid "Use Title, URL and Description"
+msgstr "Använd titel, URL och beskrivning"
+
+#: admin/options-page-3rdparty.php:18
+msgid "You currently have both Yoast SEO and All in One SEO Pack plugins active. This is no recommended."
+msgstr "Du har för närvarande både Yoast SEO och All in One SEO aktiverade. Detta rekommenderas inte!"
+
+#: admin/options-page-3rdparty.php:16 admin/options-page-3rdparty.php:64
+#: admin/options-page-3rdparty.php:116
+msgid "Attention"
+msgstr "Observera"
+
+#: admin/options-page-3rdparty.php:9
+msgid "Settings for 3rd party integration with other plugins."
+msgstr "Inställningar för tredjepartsintegration med andra tillägg."
+
+#: admin/class-webdados-fb-open-graph-admin.php:190
+msgid "If this field is not filled, the description will be generated from the excerpt, if it exists, or from the content"
+msgstr "Om detta fält lämnas tomt kommer beskrivningen att genereras från utdraget, om det existerar, eller från innehållet"
+
+#: admin/class-webdados-fb-open-graph-admin.php:184
+msgid "The Yoast SEO integration is active, so it's description will be used"
+msgstr "Integration för Yoast SEO är aktivt, så den beskrivningen kommer användas"
+
+#: admin/class-webdados-fb-open-graph-admin.php:178
+msgid "Use this description"
+msgstr "Använd denna beskrivning"
+
+#: admin/class-webdados-fb-open-graph-admin.php:146
+#: admin/class-webdados-fb-open-graph-admin.php:416
+msgid "Select image"
+msgstr "Välj bild"
+
+#: admin/class-webdados-fb-open-graph-admin.php:130
+#: admin/options-page-general.php:124
+msgid "Recommended size: %dx%dpx"
+msgstr "Rekommenderad storlek: %dx%dpx"
+
+#: admin/class-webdados-fb-open-graph-admin.php:127
+#: admin/options-page-general.php:117 admin/options-page-general.php:187
+msgid "Upload/Choose"
+msgstr "Ladda upp/välj"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webdados.pt"
+msgstr "https://www.webdados.pt"
+
+#. Author of the plugin/theme
+msgid "Webdados"
+msgstr "Webdados"
+
+#. Description of the plugin/theme
+msgid "Inserts Facebook Open Graph, Google+/Schema.org, Twitter Card and SEO Meta Tags into your WordPress Blog/Website for more effective and efficient Facebook, Google+ and Twitter sharing results. You can also choose to insert the \"enclosure\" and \"media:content\" tags to the RSS feeds, so that apps like RSS Graffiti and Twitterfeed post the image to Facebook correctly."
+msgstr "Infogar Facebook Open Graph, Google+/Schema.org, Twitter Kort och SEO meta-taggar på din WordPress-blogg/hemsida för att ge mer effektiva Facebook-, Google+ - och Twitter-delningar. Du kan också välja att infoga bilaga och \"media:content\"-taggar till RSS-flödet, så att appar som RSS Graffiti och Twitterfeed postar inlägget korrekt på Facebook."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.webdados.pt/produtos-e-servicos/internet/desenvolvimento-wordpress/facebook-open-graph-meta-tags-wordpress/"
+msgstr "https://www.webdados.pt/produtos-e-servicos/internet/desenvolvimento-wordpress/facebook-open-graph-meta-tags-wordpress/"
+
+#: admin/class-webdados-fb-open-graph-admin.php:66
+msgid "Facebook profile URL"
+msgstr "Facebook profil-URL"
+
+#: admin/class-webdados-fb-open-graph-admin.php:62
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/class-webdados-fb-open-graph-admin.php:323
+msgid "Error: Facebook Open Graph Tags cache NOT updated/purged."
+msgstr "Fel: Cache för Facebook Open Graph-taggar är INTE uppdaterad/rensad."
+
+#: admin/class-webdados-fb-open-graph-admin.php:313
+#: admin/class-webdados-fb-open-graph-admin.php:391
+msgid "Share this on Facebook"
+msgstr "Dela på Facebook"
+
+#: admin/class-webdados-fb-open-graph-admin.php:313
+msgid "Facebook Open Graph Tags cache updated/purged."
+msgstr "Cache för Facebook Open Graph-taggar har uppdaterats/rensats."
+
+#: admin/class-webdados-fb-open-graph-admin.php:280
+msgid "Facebook returned:"
+msgstr "Facebook svarade:"
+
+#: admin/class-webdados-fb-open-graph-admin.php:268
+msgid "URL failed:"
+msgstr "URL-fel:"
+
+#: admin/class-webdados-fb-open-graph-admin.php:128
+msgid "Clear field"
+msgstr "Rensa fält"
+
+#: admin/class-webdados-fb-open-graph-admin.php:122
+#: admin/class-webdados-fb-open-graph-admin.php:147
+#: admin/class-webdados-fb-open-graph-admin.php:417
+msgid "Use this image"
+msgstr "Använd denna bild"
+
+#: public/class-webdados-fb-open-graph-public.php:332
+#: public/class-webdados-fb-open-graph-public.php:337
+#: public/class-webdados-fb-open-graph-public.php:342
+msgid "Archives"
+msgstr "Arkiv"
+
+#: public/class-webdados-fb-open-graph-public.php:320
+msgid "Search for"
+msgstr "Sök efter"
+
+#: admin/options-page-right.php:75
+msgid "If you find this plugin useful and want to make a contribution towards future development please consider making a small, or big ;-), donation."
+msgstr "Om detta tillägg har hjälpt dig och du vill bidra till vidare utveckling får du gärna komma med ett litet, eller stort :-), bidrag."
+
+#: admin/options-page-right.php:73
+msgid "Donate"
+msgstr "Donera"
+
+#: admin/options-page-right.php:62
+msgid "Useful links"
+msgstr "Användbara länkar"
+
+#: admin/options-page-right.php:37
+msgid "Author's Twitter account: @Wonderm00n<br/>(Webdados founder)"
+msgstr "Författarens Twitter-konto: @Wonderm00n<br/>(grundare av Webdados)"
+
+#: admin/options-page-right.php:33
+msgid "Author's Facebook page: Webdados"
+msgstr "Författarens Facebook-sida: Webdados"
+
+#: admin/options-page-right.php:29
+msgid "Author's website: Webdados"
+msgstr "Författarens webbplats: Webdados"
+
+#: admin/options-page-right.php:25
+msgid "Plugin official URL"
+msgstr "Tilläggets officiella URL"
+
+#: admin/options-page-right.php:21
+msgid "About Twitter Cards"
+msgstr "Om Twitter Kort"
+
+#: admin/options-page-right.php:17
+msgid "The Open Graph Protocol (official website)"
+msgstr "Open Graph-protokollet (officiell webbplats)"
+
+#: admin/options-page-right.php:13
+msgid "About the Open Graph Protocol (on Facebook)"
+msgstr "Om Open Graph-protokollet (på Facebook)"
+
+#: admin/options-page-general.php:229
+msgid "May cause problems with some multisite configurations but fixes \"HTTP request failed\" errors"
+msgstr "Kan orsaka problem med vissa mutisite-konfigurationer, men åtgärdar \"HTTP begäran misslyckades\"-fel"
+
+#: admin/options-page-general.php:227
+msgid "Force getimagesize on local file even if allow_url_fopen=1"
+msgstr "Tvinga getimagesize på lokala filer även om allow_url_fopen=1"
+
+#: admin/options-page-3rdparty.php:276
+msgid "Setting \"Include URL\", \"Set Canonical URL\", \"Include Description\" and \"Include Image\" options is HIGHLY recommended"
+msgstr "Inställning för alternativen \"Inkludera URL\", \"Ange kanonisk URL\", \"Inkludera beskrivning\" och \"Inkludera bild\" rekommenderas STARKT!"
+
+#: admin/options-page-3rdparty.php:218
+msgid "Add SubHeading to Post/Page Title"
+msgstr "Lägg till underrubrik till inlägg- eller sidtitlar."
+
+#: admin/options-page-twitter.php:115
+msgid "Summary Card with Large Image"
+msgstr "Summeringskort med stor bild"
+
+#: admin/options-page-twitter.php:114
+msgid "Summary Card"
+msgstr "Summeringskort"
+
+#: admin/options-page-twitter.php:9
+msgid "Twitter Card Tags"
+msgstr "Twitter Kort-taggar"
+
+#: admin/options-page-general.php:213
+msgid "For auto-posting apps like RSS Graffiti, twitterfeed, ..."
+msgstr "För automatiska postningsappar som RSS Graffiti, twitterfeed, ..."
+
+#: admin/options-page-general.php:206
+msgid "Add image to RSS/RSS2 feeds"
+msgstr "Lägg till bild i RSS/RSS2-flöde"
+
+#: admin/options-page-general.php:114
+msgid "Default image"
+msgstr "Standardbild"
+
+#: admin/options-page-facebook.php:80
+msgid "All images must have at least 200px on both dimensions in order to Facebook to load them at all. %dx%dpx for optimal results. Minimum of 600x315px is recommended."
+msgstr "Alla bilder måste vara minst 200px i bägge dimensionerna för att Facebook skall kunna ladda dem alls. %dx%dpx för optimala resultat. Ett minimum om 600x315px rekommenderas."
+
+#: admin/options-page-general.php:95
+msgid "WPML users: Set the main language default description here, save changes and then go to <a href=\"%s\" target=\"_blank\">WPML &gt; String translation</a> to set it for other languages."
+msgstr "WPML-användare: ange huvudspråkets standardbeskrivning här, spara och gå sedan till <a href=\"%s\" target=\"_blank\">WPML &gt; Strängöversättning</a> för att ange det för övriga språk."
+
+#: admin/options-page-general.php:46 admin/options-page-general.php:77
+msgid "Custom text"
+msgstr "Anpassad text"
+
+#: admin/options-page-general.php:45
+msgid "Website tagline"
+msgstr "Webbplatsens slogan"
+
+#: admin/options-page-general.php:40
+msgid "The description of your front page:"
+msgstr "Beskrivning av startsida:"
+
+#: admin/options-page-general.php:34 admin/options-page-general.php:76
+msgid "Homepage description"
+msgstr "Hemsidans beskrivning"
+
+#: admin/options-page-general.php:24
+msgid "0 (zero) or blank for no maximum length"
+msgstr "0 (noll) eller tomt för ingen maxlängd"
+
+#: admin/options-page-general.php:17
+msgid "Description maximum length"
+msgstr "Beskrivning maxlängd"
+
+#: admin/options-page-seo.php:37
+msgid "Include Meta Description tag"
+msgstr "Inkludera taggen meta-beskrivning"
+
+#: admin/options-page-general.php:295
+msgid "Hides all Author tags on Pages"
+msgstr "Döljer alla författar-taggar på sidor"
+
+#: admin/options-page-general.php:288
+msgid "Hide Author on Pages"
+msgstr "Dölj författare på sidor"
+
+#: admin/class-webdados-fb-open-graph-admin.php:64
+#: admin/options-page-twitter.php:106
+msgid "Twitter username (without @)"
+msgstr "Användarnamn på Twitter (utan @)"
+
+#: admin/options-page-twitter.php:99
+msgid "Website's Twitter Username"
+msgstr "Webbplatsens användarnamn på Twitter"
+
+#: admin/options-page-schema.php:163
+msgid "Website's Google+ Page"
+msgstr "Webbplatsens sida på Google+"
+
+#: admin/options-page-facebook.php:192
+msgid "Website's Facebook Page"
+msgstr "Webbplatsens Facebook-sida"
+
+#: admin/options-page-facebook.php:119 admin/options-page-schema.php:75
+msgid "Homepage Type"
+msgstr "Typ av hemsida"
+
+#: admin/options-page-facebook.php:110
+msgid "Will be \"%1$s\" for posts and pages and \"%2$s\" or \"%3$s\" for the homepage"
+msgstr "Kommer vara \"%1$s\" för inlägg och sidor samt \"%2$s\" eller \"%3$s\" för hemsidan"
+
+#: admin/options-page-seo.php:15
+msgid "Set Canonical URL"
+msgstr "Ange kanonisk URL"
+
+#: admin/options-page-general.php:264
+msgid "Add trailing slash at the end"
+msgstr "Lägg till avslutande snedstreck i slutet"
+
+#: admin/options-page-facebook.php:288
+msgid "List not loaded"
+msgstr "Lista inte laddad"
+
+#: admin/options-page-facebook.php:285
+msgid "Reload from Facebook"
+msgstr "Ladda om från Facebook"
+
+#: admin/options-page-facebook.php:285
+msgid "You\\'l lose any changes you haven\\'t saved. Are you sure?"
+msgstr "Du förlorar alla ändringar du inte har sparat. Är du säker?"
+
+#: admin/options-page-facebook.php:284
+msgid "List loaded from local cache (offline)"
+msgstr "Lista laddad från lokal cache (offline)"
+
+#: admin/options-page-facebook.php:281
+msgid "List loaded from Facebook (online)"
+msgstr "Lista laddad från Facebook (online)"
+
+#: admin/options-page-facebook.php:260
+msgid "WordPress current locale/language"
+msgstr "Nuvarande språk i WordPress"
+
+#: admin/options-page-facebook.php:218
+msgid "Locale"
+msgstr "Språk"
+
+#: admin/options-page-facebook.php:317
+msgid "Comma separated if more than one"
+msgstr "Separera med kommatecken om mer än ett"
+
+#: admin/options-page-facebook.php:310
+msgid "Facebook Admin(s) ID"
+msgstr "Facebook admin(s) ID"
+
+#: admin/options-page-facebook.php:334
+msgid "Facebook Platform App ID"
+msgstr "Facebook App ID"
+
+#: admin/class-webdados-fb-open-graph-admin.php:51
+msgid "Settings"
+msgstr "Inställningar"
+
+#: admin/options-page.php:14
+msgid "Please set some default values and which tags should, or should not, be included. It may be necessary to exclude some tags if other plugins are already including them."
+msgstr "Ange några standardvärden och vilka taggar som borde, eller inte borde, inkluderas. Det kan vara nödvändigt att exkludera några taggar om andra tillägg redan inkluderar dem."

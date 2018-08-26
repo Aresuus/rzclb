@@ -1,0 +1,18 @@
+/* ADMIN STYLE */
+/* INCRESE SIZE OF CHECKBOXES */
+#wpdocs-add-update-container input[type=checkbox] { -ms-transform: scale(2);  -moz-transform: scale(2); -webkit-transform: scale(2); -o-transform: scale(2); margin-top: 10px; }
+/* VERSION MENU */
+.wpdocs-bg-even { background: #fff !important; }
+.wpdocs-bg-odd { background: #f9f9f9 !important; }
+#wpdocs-version-header { padding-left: 15px; }
+#wpdocs-version-close, #wpdocs-version-close:hover  { padding: 15px !important; }
+/* SETTINGS MENU */
+/* BUTTON PREVIEW STYLE */
+.wpdocs-download-btn-config { border: none; }
+/* DONATE BUTTON */
+.wpdocs-donate-btn { position: absolute; right: 10px; top: 15px;}
+.wpdocs-donate-btn input[type="image"] { float: right; }
+/* CONTRIBUTOR BADGES */
+.wpdocs-contributors { font-size: 22px; display: inline-block; margin: 0px 5px 10px; }
+.wpdocs-contributors-delete-btn:hover { cursor: pointer; color: red; }
+.wpdocs-user-search-list { border: solid 1px #888; padding: 10px 20px; background: #fff; border-radius: 5px;}

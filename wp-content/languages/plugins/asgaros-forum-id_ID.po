@@ -1,0 +1,1324 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-15 11:14:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: admin/views/options.php:330
+msgid "Allowed HTML tags:"
+msgstr "Tag HTML yang diperbolehkan:"
+
+#: admin/views/options.php:327
+msgid "Allow HTML tags in signatures"
+msgstr "Perbolehkan tag HTML di signature"
+
+#: admin/views/options.php:323
+msgid "Enable signatures"
+msgstr "Aktifkan signature"
+
+#: admin/views/options.php:316
+msgid "Signatures"
+msgstr "Signature"
+
+#: admin/views/options.php:150
+msgid "Count topic views"
+msgstr "Jumlah penayangan topik"
+
+#: admin/admin.php:67
+msgid "HTML tags are not allowed in signatures."
+msgstr "Tag HTML tidak diperbolehkan di signature."
+
+#: admin/admin.php:63
+msgid "You can use the following HTML tags in signatures:"
+msgstr "Anda bisa menggunakan tag HTML berikut di signature:"
+
+#: includes/forum-profile.php:165
+msgid "In:"
+msgstr "Di:"
+
+#: includes/forum-profile.php:144
+msgid "No posts made by this user."
+msgstr "Pengguna ini belum pernah membuat pos."
+
+#: includes/forum-profile.php:38 includes/forum-profile.php:64
+#: includes/forum-profile.php:109 includes/forum-profile.php:111
+msgid "Post History"
+msgstr "Riwayat Pos"
+
+#: admin/views/appearance.php:50
+msgid "Accent color:"
+msgstr "Aksen warna:"
+
+#: includes/forum.php:840
+msgid "Last post by"
+msgstr "Pos terakhir oleh"
+
+#: includes/forum-activity.php:36
+msgid "Yesterday"
+msgstr "Kemarin"
+
+#: includes/forum-activity.php:34
+msgid "Today"
+msgstr "Hari ini"
+
+#: admin/views/usergroups.php:37
+msgid "Add new users automatically:"
+msgstr "Otomatis tambah pengguna baru:"
+
+#: admin/views/options.php:130
+msgid "Enable SEO-friendly URLs"
+msgstr "Aktifkan tautan ramah-SEO"
+
+#: admin/tables/admin-usergroups-table.php:71
+msgid "Automatically Add:"
+msgstr "Otomatis tambah:"
+
+#: admin/tables/admin-usergroups-table.php:54
+msgid "No"
+msgstr "Tidak"
+
+#: admin/tables/admin-usergroups-table.php:52
+msgid "Yes"
+msgstr "Ya"
+
+#: admin/tables/admin-usergroups-table.php:37
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "%s Pengguna"
+msgstr[1] "%s Pengguna"
+
+#: admin/tables/admin-structure-table.php:54
+msgid "No description yet ..."
+msgstr "Belum ada deskripsi ...."
+
+#: admin/admin.php:49
+msgid "Notify me when I got mentioned"
+msgstr "Beri notifikasi jika aku disebutkan"
+
+#: includes/forum-notifications.php:499
+msgid "You get notified about <b>all</b> new posts."
+msgstr "Anda akan mendapat notifikasi <b>semua</b> pos baru."
+
+#: includes/forum-notifications.php:497
+msgid "You get notified about <b>all</b> new topics."
+msgstr "Anda akan mendapat notifikasi <b>semua</b> topik baru."
+
+#: includes/forum-notifications.php:431
+msgid "Notify about new posts in:"
+msgstr "Beri notifikasi pos baru di:"
+
+#: includes/forum-notifications.php:423
+msgid "You get notified about all new topics and posts."
+msgstr "Anda akan mendapat notifikasi pada semua topik dan pos baru."
+
+#: includes/forum-notifications.php:417
+msgid "You get notified about all new topics."
+msgstr "Anda akan mendapat notifikasi semua topik baru."
+
+#: includes/forum-notifications.php:411
+msgid "You get notified about activity in forums and topics you are subscribed to."
+msgstr "Anda akan mendapat notifikasi aktivitas di forum dan topik yang telah Anda pilih untuk berlangganan."
+
+#: includes/forum-activity.php:119 includes/forum-breadcrumbs.php:98
+#: includes/forum.php:436
+msgid "Activity"
+msgstr "Aktivitas"
+
+#: includes/forum-activity.php:76
+msgid "No activity yet!"
+msgstr "Belum ada aktivitas!"
+
+#: includes/forum-activity.php:67
+msgid "%s answered in %s."
+msgstr "%s menjawab di %s."
+
+#: includes/forum-activity.php:61
+msgid "New topic %s created by %s."
+msgstr "Topik baru %s dibuat oleh %s."
+
+#: admin/views/usergroups.php:33
+msgid "Hide user group:"
+msgstr "Sembunyikan grup pengguna:"
+
+#: admin/views/options.php:134
+msgid "Enable Activity Feed"
+msgstr "Aktifkan Umpan Aktivitas"
+
+#: admin/views/options.php:118
+msgid "Time limitation for editing posts (in minutes):"
+msgstr "Batas waktu untuk mengubah pos (dalam menit):"
+
+#: admin/tables/admin-usergroups-table.php:70
+msgid "Visibility:"
+msgstr "Bisa dilihat:"
+
+#: admin/tables/admin-usergroups-table.php:46
+msgid "Visible"
+msgstr "Terlihat"
+
+#: admin/tables/admin-usergroups-table.php:44
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: includes/forum-notifications.php:56
+msgid "You are subscribed to <b>all</b> forums."
+msgstr "Anda telah berlanggakan ke <b>semua</b> forum."
+
+#: includes/forum-notifications.php:27 includes/forum-notifications.php:84
+msgid "You are subscribed to <b>all</b> topics."
+msgstr "Anda telah berlanggakan ke <b>semua</b> topik. "
+
+#: admin/views/options.php:179
+msgid "Show category name in breadcrumbs"
+msgstr "Tampilkan nama kategori dalam navigasi"
+
+#: includes/forum.php:1003
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/forum-notifications.php:507
+msgid "Unsubscribe"
+msgstr "Stop langganan"
+
+#: includes/forum-notifications.php:421
+msgid "New Topics & Posts"
+msgstr "Topik & Pos Baru"
+
+#: includes/forum-notifications.php:415
+msgid "New Topics"
+msgstr "Topik Baru"
+
+#: includes/forum-notifications.php:409
+msgid "Individual Subscriptions"
+msgstr "Langganan Tersendiri"
+
+#: includes/forum-notifications.php:404
+msgid "Subscription Settings"
+msgstr "Pengaturan Langganan"
+
+#: includes/forum-notifications.php:396
+msgid "Based on your settings you will automatically get notified about new topics as a site-owner."
+msgstr "Anda akan otomatis mendapat notifikasi mengenai topik baru sebagai pemilik-situs berdasarkan dari pengaturan dasar."
+
+#: admin/views/options.php:168
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: includes/forum-online.php:202
+msgid "Currently online"
+msgstr "Sedang Online"
+
+#: includes/forum-memberslist.php:70 includes/forum-profile.php:224
+msgid "Last seen:"
+msgstr "Terakhir terlihat:"
+
+#: admin/views/options.php:138
+msgid "Enable Mentioning"
+msgstr "Menyalakan fitur disebut"
+
+#: includes/forum-database.php:248
+msgid "Example Category"
+msgstr "Contoh Kategori"
+
+#: admin/views/structure.php:100
+msgid "Parent:"
+msgstr "Induk:"
+
+#: includes/forum-database.php:256
+msgid "First Forum"
+msgstr "Forum Pertama"
+
+#: includes/forum-database.php:257
+msgid "My first forum."
+msgstr "Forum Pertamaku."
+
+#: includes/forum-mentioning.php:78
+msgid "Hello,<br><br>You have been mentioned in a forum post.<br><br>Topic:<br>%s<br><br>Mentioned by:<br>%s<br><br>Post:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hai,<br><br>Anda telah disebut dalam sebuah pos forum.<br><br>Topik:<br>%s<br><br>Disebut oleh:<br>%s<br><br>Pos:<br>%s<br><br>Tautan ke pos:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-mentioning.php:77
+msgid "You have been mentioned!"
+msgstr "Anda telah disebut!"
+
+#: includes/forum-online.php:179
+msgid "%s Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%s Tamu"
+msgstr[1] "%s Tamu-tamu"
+
+#: widgets/widget-search.php:18 widgets/widget-search.php:49
+msgid "Forum Search"
+msgstr "Cari Forum"
+
+#: widgets/widget-search.php:8
+msgid "Asgaros Forum: Search"
+msgstr "Forum Asgaros: Cari"
+
+#: widgets/widget-search.php:7
+msgid "A search form for Asgaros Forum."
+msgstr "Format pencarian untuk Asgaros Forum."
+
+#: includes/forum-reports.php:75
+msgid "Hello,<br><br>There is a new report.<br><br>Topic:<br>%s<br><br>Post:<br>%s<br><br>Post Author:<br>%s<br><br>Reporter:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hai,<br><br>Terdapat laporan baru.<br><br>Topik:<br>%s<br><br>Pos:<br>%s<br><br>Pos Penulis:<br>%s<br><br>Pelapor:<br>%s<br><br>Tautan ke pos:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-reports.php:74
+msgid "New report"
+msgstr "Laporan baru"
+
+#: includes/forum-reports.php:40
+msgid "You reported this post."
+msgstr "Anda telah melaporkan pos ini."
+
+#: includes/forum-reports.php:36
+msgid "Report Post"
+msgstr "Lapor Pos"
+
+#: includes/forum-reports.php:33
+msgid "Are you sure that you want to report this post?"
+msgstr "Anda yakin ingin melaporkan pos ini?"
+
+#: includes/forum-profile.php:275
+msgid "Edit Profile"
+msgstr "Ubah Profil"
+
+#: includes/forum-appearance.php:66
+msgid "Default Theme"
+msgstr "Tema Dasar"
+
+#: admin/views/reports.php:41
+msgid "There are no reports yet!"
+msgstr "Belum ada laporan!"
+
+#: admin/views/reports.php:21
+msgid "Are you sure you want to delete this report?"
+msgstr "Apakah Anda yakin ingin menghapus laporan ini?"
+
+#: admin/views/reports.php:6
+msgid "Reports updated."
+msgstr "Laporan diperbarui."
+
+#: admin/views/options.php:336
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: admin/views/options.php:310
+msgid "Notify site owner about new reports"
+msgstr "Beritahu pemilik situs jika ada laporan baru"
+
+#: admin/views/options.php:306
+msgid "Enable reports"
+msgstr "Menyalakan fitur lapor"
+
+#: admin/views/options.php:273
+msgid "Who can upload files:"
+msgstr "Siapa saja yang bisa mengunggah berkas:"
+
+#: admin/views/options.php:262
+msgid "Allow uploads"
+msgstr "Perbolehkan unggah"
+
+#: admin/views/options.php:142
+msgid "Enable reactions"
+msgstr "Menyalakan fitur reaksi"
+
+#: admin/views/options.php:9
+msgid "Settings updated."
+msgstr "Pengaturan disimpan."
+
+#: admin/views/appearance.php:68
+msgid "Save Appearance"
+msgstr "Simpan Tampilan"
+
+#: admin/views/appearance.php:42
+msgid "Font size:"
+msgstr "Ukuran Font:"
+
+#: admin/views/appearance.php:38
+msgid "Font:"
+msgstr "Font:"
+
+#: admin/views/appearance.php:9
+msgid "Appearance updated."
+msgstr "Tampilan diperbarui."
+
+#: admin/tables/admin-reports-table.php:81
+msgid "Reporters:"
+msgstr "Pelapor:"
+
+#: admin/tables/admin-reports-table.php:80
+msgid "Post Author:"
+msgstr "Penulis Pos:"
+
+#: admin/tables/admin-reports-table.php:79
+msgid "Post:"
+msgstr "Pos:"
+
+#: admin/tables/admin-reports-table.php:72
+msgid "Delete Report"
+msgstr "Hapus Laporan"
+
+#: admin/tables/admin-reports-table.php:70
+msgid "View Post"
+msgstr "Lihat Pos"
+
+#: admin/admin.php:144 admin/views/options.php:8
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: admin/admin.php:138
+msgid "Reports %s"
+msgstr "%s Laporan"
+
+#: admin/admin.php:134 admin/admin.php:141 admin/views/options.php:299
+#: admin/views/reports.php:5 admin/views/reports.php:34
+msgid "Reports"
+msgstr "Laporan"
+
+#: includes/forum-breadcrumbs.php:94 includes/forum-memberslist.php:25
+#: includes/forum.php:434
+msgid "Members"
+msgstr "Anggota"
+
+#: admin/views/appearance.php:62
+msgid "Border color:"
+msgstr "Warna pembatas:"
+
+#: admin/views/options.php:231
+msgid "Members per page:"
+msgstr "Anggota tiap laman:"
+
+#: admin/views/options.php:228
+msgid "Show members list to logged-in users only"
+msgstr "Tampilkan daftar anggota hanya kepada khusus pengguna yang masuk"
+
+#: admin/views/options.php:224
+msgid "Enable members list"
+msgstr "Menyalakan fitur daftar Anggota"
+
+#: admin/views/options.php:217
+msgid "Members List"
+msgstr "Daftar Anggota"
+
+#: includes/forum-database.php:206
+msgid "Example User Group"
+msgstr "Contoh Grup Pengguna"
+
+#: admin/views/usergroups.php:85
+msgid "Deleting this category will also permanently delete all user groups inside it. Are you sure you want to delete this category?"
+msgstr "Menghapus kategori ini juga akan menghapus semua grup pengguna yang ada di dalamnya. Apakah Anda yakin ingin menghapus kategori ini?"
+
+#: includes/forum-database.php:186
+msgid "Custom User Groups"
+msgstr "Kustom Grup Pengguna"
+
+#: admin/views/options.php:46
+msgid "Select Forum"
+msgstr "Pilih Forum"
+
+#: admin/views/options.php:41
+msgid "Create topics for new blog posts in the following forum:"
+msgstr "Membuat topik baru dari postingan terbaru blog baru pada forum:"
+
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.asgaros.de"
+msgstr "https://www.asgaros.de"
+
+#: includes/forum-profile.php:265
+msgid "Signature:"
+msgstr "Tanda tangan:"
+
+#: includes/forum-profile.php:254
+msgid "Biographical Info:"
+msgstr "Informasi Biografis:"
+
+#: admin/admin.php:453
+msgid "Donate"
+msgstr "Donasi"
+
+#: admin/admin.php:451
+msgid "Official Support Forum"
+msgstr "Bantuan Resmi Forum"
+
+#: includes/forum.php:409
+msgid "Overview"
+msgstr "Ikhtisar"
+
+#: admin/views/options.php:111
+msgid "Show register button"
+msgstr "Tampilkan tombol daftar"
+
+#: admin/views/options.php:107
+msgid "Show logout button"
+msgstr "Tampilkan tombol keluar"
+
+#: admin/views/options.php:103
+msgid "Show login button"
+msgstr "Tampilkan tombol masuk"
+
+#: includes/forum.php:1029
+msgid "Logout"
+msgstr "Keluar"
+
+#: includes/forum-unread.php:154
+msgid "Nothing new"
+msgstr "Tidak ada yang baru"
+
+#: includes/forum-profile.php:339
+msgid "My Profile"
+msgstr "Profilku"
+
+#: includes/forum-profile.php:179 includes/forum-profile.php:280
+msgid "This user does not exist."
+msgstr "Pengguna ini tidak ada."
+
+#: includes/forum-profile.php:247
+msgid "Replies Created:"
+msgstr "Jumlah Balasan Dibuat:"
+
+#: includes/forum-profile.php:239
+msgid "Topics Started:"
+msgstr "Jumlah Topik Dibuat:"
+
+#: includes/forum-profile.php:231
+msgid "Member Since:"
+msgstr "Anggota Sejak:"
+
+#: includes/forum-profile.php:216
+msgid "Website:"
+msgstr "Situs:"
+
+#: includes/forum-profile.php:198
+msgid "First Name:"
+msgstr "Nama Pertama:"
+
+#: includes/forum-permissions.php:92
+msgid "Moderator"
+msgstr "Moderator"
+
+#: includes/forum-permissions.php:90
+msgid "Administrator"
+msgstr "Admin"
+
+#: includes/forum-permissions.php:96
+msgid "User"
+msgstr "Pengguna"
+
+#: includes/forum-profile.php:135 includes/forum-profile.php:190
+msgid "You need to login to have access to profiles."
+msgstr "Anda harus masuk terlebih dahulu untuk mengakses profil."
+
+#: includes/forum-profile.php:32 includes/forum-profile.php:57
+#: includes/forum-profile.php:102 includes/forum-profile.php:104
+msgid "Profile"
+msgstr "Profil"
+
+#: admin/views/options.php:249
+msgid "Show profiles to logged-in users only"
+msgstr "Tampilkan profil khusus kepada pengguna yang masuk"
+
+#: admin/views/options.php:238
+msgid "Profiles"
+msgstr "Profil"
+
+#: admin/views/options.php:245
+msgid "Enable profiles"
+msgstr "Menyalakan fitur profil"
+
+#: admin/views/options.php:91
+msgid "Show author posts counter"
+msgstr "Tampilkan jumlah postingan penulis"
+
+#: includes/forum-notifications.php:502
+msgid "No subscriptions yet!"
+msgstr "Belum ada yang berlangganan!"
+
+#: admin/views/options.php:185 includes/forum-breadcrumbs.php:86
+#: includes/forum-notifications.php:383 includes/forum.php:428
+msgid "Subscriptions"
+msgstr "Langganan"
+
+#: admin/views/options.php:95
+msgid "Show description in forum"
+msgstr "Tampilkan deskripsi di dalam forum"
+
+#: includes/forum.php:1041
+msgid "Register"
+msgstr "Daftar"
+
+#: admin/views/structure.php:110
+msgid "List of available icons."
+msgstr "Ikon yang tersedia."
+
+#: admin/views/structure.php:106
+msgid "Icon:"
+msgstr "Ikon:"
+
+#: includes/forum-notifications.php:241
+msgid "New topic: %s"
+msgstr "Topik baru: %s"
+
+#: includes/forum-notifications.php:169
+msgid "New answer: %s"
+msgstr "Jawaban baru: %s"
+
+#: includes/forum-content.php:138
+msgid "You are not allowed to upload files with that file size."
+msgstr "Anda tidak diperbolehkan untuk menggunggah berkas dengan ukuran berkas itu."
+
+#: includes/forum-content.php:132
+msgid "You are not allowed to upload files with that file extension."
+msgstr "Anda tidak diperbolehkan untuk menggunggah berkas dengan ekstensi berkas itu."
+
+#: admin/views/options.php:210
+msgid "Sender mail:"
+msgstr "Pengirim surat:"
+
+#: admin/views/options.php:206
+msgid "Sender name:"
+msgstr "Nama pengirim:"
+
+#: includes/views/post-element.php:106
+msgid "Last edited on %s by %s"
+msgstr "Terakhir di edit pada %s oleh %s"
+
+#: includes/forum-usergroups.php:671
+msgid "User groups assignments updated."
+msgstr "Penempatan grup pengguna diperbarui."
+
+#: includes/forum-usergroups.php:613
+msgid "Remove from"
+msgstr "Dihapus dari"
+
+#: includes/forum-usergroups.php:437
+msgid "When user groups are selected, only users of the selected user groups will have access to the category."
+msgstr "Ketika grup pengguna di pilih, hanya pengguna dari grup tersebut yang boleh mengakses kategorinya."
+
+#: includes/forum-profile.php:208 includes/forum-usergroups.php:407
+#: includes/forum-usergroups.php:424
+msgid "User Groups:"
+msgstr "Grup Pengguna:"
+
+#: includes/forum-online.php:184
+msgid "Currently nobody is online."
+msgstr "Saat ini tidak ada yang online."
+
+#: includes/forum-online.php:154
+msgid "Currently Online:"
+msgstr "Sedang Online:"
+
+#: includes/forum-online.php:149
+msgid "Newest Member:"
+msgstr "Anggota Terbaru:"
+
+#: admin/views/usergroups.php:127 admin/views/usergroups.php:128
+msgid "Add User Group"
+msgstr "Tambah Grup Pengguna"
+
+#: admin/views/usergroups.php:53
+msgid "Are you sure you want to delete this user group?"
+msgstr "Apakah Anda yakin ingin menghapus grup pengguna ini?"
+
+#: admin/views/usergroups.php:6
+msgid "User Groups updated."
+msgstr "Grup Pengguna diperbarui."
+
+#: admin/views/usergroups.php:29
+msgid "Color:"
+msgstr "Warna:"
+
+#: admin/tables/admin-usergroups-table.php:62
+msgid "Edit User Group"
+msgstr "Ubah Grup Pengguna"
+
+#: admin/tables/admin-usergroups-table.php:60
+msgid "Delete User Group"
+msgstr "Hapus Grup Pengguna"
+
+#: admin/admin.php:130 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:512
+msgid "User Groups"
+msgstr "Grup Pengguna"
+
+#: includes/forum-usergroups.php:609
+msgid "Add to"
+msgstr "Tambahkan ke"
+
+#: widgets/widget-recent-posts.php:32 widgets/widget-recent-topics.php:32
+msgid "Show avatars?"
+msgstr "Tampilkan avatar?"
+
+#: includes/forum.php:447
+msgid "Page"
+msgstr "Laman"
+
+#: admin/views/structure.php:214 admin/views/structure.php:215
+msgid "Add Forum"
+msgstr "Tambah Forum"
+
+#: admin/views/structure.php:201 admin/views/usergroups.php:113
+msgid "Delete Category"
+msgstr "Hapus Kategori"
+
+#: admin/views/structure.php:160 admin/views/structure.php:161
+#: admin/views/structure.php:222 admin/views/structure.php:223
+#: admin/views/usergroups.php:96 admin/views/usergroups.php:97
+#: admin/views/usergroups.php:135 admin/views/usergroups.php:136
+msgid "Add Category"
+msgstr "Tambah Kategori"
+
+#: admin/views/structure.php:135
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "Menghapus kategori ini juga akan menghapus semua forum,sub-forum, topik dan pos yang ada di dalamnya. Apakah Anda yakin ingin menghapus kategori ini?"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "Struktur diperbarui."
+
+#: admin/admin.php:128 admin/views/structure.php:5
+msgid "Structure"
+msgstr "Struktur"
+
+#: admin/tables/admin-reports-table.php:82
+#: admin/tables/admin-structure-table.php:99
+#: admin/tables/admin-usergroups-table.php:72
+msgid "Actions:"
+msgstr "Aksi:"
+
+#: admin/tables/admin-structure-table.php:97
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/tables/admin-structure-table.php:86
+#: admin/tables/admin-structure-table.php:87
+msgid "Add Sub-Forum"
+msgstr "Tambah Anak-Forum"
+
+#: admin/tables/admin-structure-table.php:76
+#: admin/tables/admin-structure-table.php:77
+msgid "Delete Forum"
+msgstr "Hapus Forum"
+
+#: admin/tables/admin-structure-table.php:70
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/tables/admin-structure-table.php:68
+msgid "Closed"
+msgstr "Tertutup"
+
+#: admin/views/options.php:266
+msgid "Show thumbnails"
+msgstr "Tampilkan gambar kecil"
+
+#: includes/forum-online.php:138
+msgid "Online"
+msgstr "Online"
+
+#: admin/views/options.php:154
+msgid "Show who is online"
+msgstr "Tampilkan siapa yang online"
+
+#: admin/views/options.php:175
+msgid "Enable breadcrumbs"
+msgstr "Menyalakan fitur breadcrumbs"
+
+#: admin/views/options.php:126
+msgid "Features"
+msgstr "Fitur"
+
+#: admin/tables/admin-structure-table.php:49 admin/views/structure.php:183
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/options.php:28
+msgid "Page which contains the [forum]-shortcode."
+msgstr "Laman yang di dalamnya terdapat shortcode-[forum]."
+
+#: admin/views/options.php:291 includes/forum-uploads.php:257
+msgid "Maximum file size (in megabyte):"
+msgstr "Maksimal ukuran berkas (dalam megabyte):"
+
+#: admin/views/options.php:120 admin/views/options.php:288
+#: admin/views/options.php:293
+msgid "(0 = No limitation)"
+msgstr "(0 = Tanpa batas)"
+
+#: admin/views/options.php:286 includes/forum-uploads.php:253
+msgid "Maximum files per post:"
+msgstr "Maksimal berkas tiap pos:"
+
+#: admin/admin.php:56
+msgid "Signature"
+msgstr "Tanda tangan"
+
+#: includes/forum-statistics.php:33
+msgid "Users"
+msgstr "Pengguna"
+
+#: includes/forum-statistics.php:23
+msgid "Statistics"
+msgstr "Statistik"
+
+#: admin/views/options.php:158
+msgid "Show statistics"
+msgstr "Tampilkan statistik"
+
+#: includes/forum-notifications.php:63
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>Berlangganan</b> pada forum ini."
+
+#: includes/forum-notifications.php:60
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>Stop Berlangganan</b> pada forum ini."
+
+#. Description of the plugin/theme
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros Forum merupakan solusi forum terbaik untuk WordPress! Memiliki banyak fitur dengan tampilan yang indah, simpel dan cepat."
+
+#: includes/views/post-element.php:20
+msgid "Topic Author"
+msgstr "Penulis Topik"
+
+#: includes/views/search.php:20
+msgid "No results found for:"
+msgstr "Tidak ada hasil yang ditemukan untuk:"
+
+#: includes/forum-statistics.php:26 includes/views/forum.php:35
+msgid "Topics"
+msgstr "Topik"
+
+#: includes/views/forum.php:24 includes/views/forum.php:36
+#: includes/views/overview.php:11 includes/views/search.php:11
+msgid "Last post"
+msgstr "Pos terakhir"
+
+#: includes/views/forum-element.php:35
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s Topik"
+msgstr[1] "%s Topik"
+
+#: includes/forum-search.php:48 widgets/widget-search.php:37
+msgid "Search ..."
+msgstr "Cari ...."
+
+#: includes/forum.php:951
+msgid "Open"
+msgstr "Dibuka"
+
+#: includes/forum.php:576 includes/forum.php:849
+msgid "By"
+msgstr "Oleh"
+
+#: includes/forum-breadcrumbs.php:82 includes/forum.php:426
+msgid "Search"
+msgstr "Cari"
+
+#: includes/forum-breadcrumbs.php:78 includes/forum.php:424
+msgid "Move Topic"
+msgstr "Pindahkan Topik"
+
+#: includes/forum-breadcrumbs.php:74 includes/forum-editor.php:134
+#: includes/forum.php:422 includes/forum.php:904
+msgid "New Topic"
+msgstr "Topik Baru"
+
+#: admin/views/options.php:146
+msgid "Enable search functionality"
+msgstr "Menyalakan fitur kolom cari"
+
+#: includes/views/search.php:10
+msgid "Search results:"
+msgstr "Hasil pencarian:"
+
+#: includes/forum-widgets.php:134 widgets/widget-search.php:42
+msgid "The forum has not been configured correctly."
+msgstr "Forum tidak terkonfigurasi dengan baik."
+
+#: admin/views/options.php:23
+msgid "Forum location:"
+msgstr "Lokasi forum:"
+
+#: includes/forum-widgets.php:46 widgets/widget-recent-topics.php:16
+msgid "Recent forum topics"
+msgstr "Topik forum terkini"
+
+#: widgets/widget-recent-topics.php:8
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros Forum: Topik Terkini"
+
+#: widgets/widget-recent-topics.php:7
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "Tampilkan topik terkini pada Asgaros Forum."
+
+#: includes/forum-widgets.php:131 includes/forum.php:853
+msgid "No topics yet!"
+msgstr "Belum ada topik!"
+
+#: admin/views/options.php:189
+msgid "Notify site owner about new topics"
+msgstr "Beritahu pemilik situs jika terdapat topik baru"
+
+#: admin/views/options.php:87
+msgid "Highlight topic authors"
+msgstr "Tandai penulis topik"
+
+#: includes/forum-notifications.php:442
+msgid "Notify about new topics in:"
+msgstr "Beri notifikasi tentang topik baru pada:"
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "Forum belum ada di kategori ini!"
+
+#: includes/forum.php:777
+msgid "Deleted user"
+msgstr "Pengguna terhapus"
+
+#: includes/forum.php:783
+msgid "Guest"
+msgstr "Tamu"
+
+#: includes/forum-uploads.php:161
+msgid "You need to login to have access to uploads."
+msgstr "Anda harus masuk terlebih dahulu untuk mengakses unggah."
+
+#: admin/views/options.php:270
+msgid "Show uploaded files to logged-in users only"
+msgstr "Tampilkan berkas terunggah khusus kepada pengguna yang masuk"
+
+#: admin/views/options.php:162
+msgid "Allow guest postings"
+msgstr "Pebolehkan tamu untuk posting"
+
+#: admin/views/options.php:79
+msgid "Allow shortcodes in posts"
+msgstr "Perbolehkan shortcodes pada pos"
+
+#: includes/forum.php:375 includes/forum.php:382 includes/forum.php:390
+msgid "Sorry, you dont have access to this area."
+msgstr "Maaf, Anda tidak memiliki akses untuk area ini."
+
+#: includes/forum.php:370
+msgid "Sorry, only logged in users have access to this category."
+msgstr "Maaf, kategori ini khusus bagi pengguna yang telah masuk."
+
+#: includes/forum-notifications.php:242
+msgid "Hello,<br /><br />You received this message because there is a new forum-topic:<br />%s<br /><br />Author:<br />%s<br /><br />Text:<br />%s<br /><br />Link to the new topic:<br /><a href=\"%s\">%s</a>"
+msgstr "Hai,<br /><br />Anda menerima pesan ini karena terdapat sebuah topik-forum baru:<br />%s<br /><br />Penulis:<br />%s<br /><br />Teks:<br />%s<br /><br />Tautan ke topik baru:<br /><a href=\"%s\">%s</a>"
+
+#: includes/forum-notifications.php:170
+msgid "Hello,<br /><br />You received this message because there is a new answer in a forum-topic you have subscribed to:<br />%s<br /><br />Author:<br />%s<br /><br />Answer:<br />%s<br /><br />Link to the new answer:<br /><a href=\"%s\">%s</a><br /><br />You can unsubscribe from this topic using the unsubscribe-link at the end of the topic as a logged-in user. Please dont answer to this mail!"
+msgstr "Hai,<br /><br />Anda menerima pesan ini karena terdapat jawaban baru pada topik-forum yang telah Anda langganan:<br />%s<br /><br />Penulis:<br />%s<br /><br />Jawaban:<br />%s<br /><br />Tautan ke jawaban baru:<br /><a href=\"%s\">%s</a><br /><br />Anda bisa berhenti langganan dengan memilih tautan Berhenti berlangganan yang ada di bawah sebelah kiri topik. Jangan membalas pesan ini!"
+
+#: includes/forum-notifications.php:78
+msgid "Subscription:"
+msgstr "Langganan:"
+
+#: admin/views/options.php:75
+msgid "Use minimalistic editor"
+msgstr "Gunakan editor yang minimal"
+
+#: includes/forum-notifications.php:34 includes/forum-notifications.php:86
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>Langganan</b> ke topik ini."
+
+#: includes/forum-notifications.php:31
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>Stop langganan</b> untuk topik ini."
+
+#: admin/views/options.php:193
+msgid "Allow subscriptions (for logged-in users only)"
+msgstr "Perbolehkan fitur berlangganan (khusus pengguna yang masuk saja)"
+
+#: includes/forum-permissions.php:94 includes/views/post-element.php:43
+msgid "Banned"
+msgstr "Banned"
+
+#: includes/views/forum-element.php:47 includes/views/forum.php:23
+msgid "Subforums"
+msgstr "Anak forum"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "Anda telah kena banned!"
+
+#: admin/views/appearance.php:58
+msgid "Background color:"
+msgstr "Warna latar belakang:"
+
+#: admin/views/appearance.php:54
+msgid "Text color:"
+msgstr "Warna teks:"
+
+#: admin/views/appearance.php:46
+msgid "Forum color:"
+msgstr "Warna Forum:"
+
+#: admin/views/appearance.php:26
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/admin.php:129 admin/views/appearance.php:8
+#: admin/views/appearance.php:20
+msgid "Appearance"
+msgstr "Tampilan"
+
+#: admin/views/options.php:255
+msgid "Uploads"
+msgstr "Unggah"
+
+#: admin/views/options.php:20
+msgid "General"
+msgstr "Umum"
+
+#: admin/views/structure.php:149
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "Menghapus forum ini juga akan menghapus seluruh anak forum, topik dan pos yang ada di dalamnya. Apakah Anda yakin ingin menghapus forum ini?"
+
+#: admin/views/reports.php:25 admin/views/structure.php:78
+#: admin/views/structure.php:126 admin/views/structure.php:139
+#: admin/views/structure.php:153 admin/views/usergroups.php:44
+#: admin/views/usergroups.php:57 admin/views/usergroups.php:76
+#: admin/views/usergroups.php:89 includes/forum-editor.php:185
+#: includes/forum-editor.php:190
+msgid "Cancel"
+msgstr "Batal"
+
+#: admin/views/structure.php:77 admin/views/structure.php:125
+#: admin/views/usergroups.php:43 admin/views/usergroups.php:75
+msgid "Save"
+msgstr "Simpan"
+
+#: admin/tables/admin-structure-table.php:80
+#: admin/tables/admin-structure-table.php:81
+msgid "Edit Forum"
+msgstr "Ubah Forum"
+
+#: admin/tables/admin-structure-table.php:98 admin/views/structure.php:70
+#: admin/views/structure.php:119 admin/views/structure.php:194
+msgid "Order:"
+msgstr "Urutan:"
+
+#: admin/admin.php:39
+msgid "Banned User"
+msgstr "Pengguna Banned"
+
+#: admin/views/options.php:282 includes/forum-uploads.php:260
+msgid "Allowed filetypes:"
+msgstr "Jenis berkas yang diperbolehkan"
+
+#: admin/views/structure.php:115
+msgid "Closed:"
+msgstr "Ditutup:"
+
+#: includes/forum-memberslist.php:65 includes/views/forum-element.php:37
+#: includes/views/post-element.php:38
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s Pos"
+msgstr[1] "%s Pos"
+
+#: includes/forum.php:589
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "Telah dilihat %sx"
+msgstr[1] "Telah dilihat %sx"
+
+#: includes/forum-widgets.php:117 includes/forum.php:584
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s Jawaban"
+msgstr[1] "%s Jawaban"
+
+#: admin/views/options.php:278 admin/views/structure.php:65
+#: admin/views/structure.php:191
+msgid "Moderators only"
+msgstr "Khusus Moderator"
+
+#: admin/views/options.php:277 admin/views/structure.php:64
+#: admin/views/structure.php:189
+msgid "Logged in users only"
+msgstr "Khusus pengguna yang masuk"
+
+#: admin/views/options.php:276 admin/views/structure.php:63
+#: admin/views/structure.php:187
+msgid "Everyone"
+msgstr "Semua orang"
+
+#: admin/views/structure.php:60 admin/views/structure.php:185
+msgid "Access:"
+msgstr "Akses:"
+
+#: admin/views/options.php:83
+msgid "Highlight administrator/moderator names"
+msgstr "Tandai nama administrasi/moderator"
+
+#: admin/admin.php:35
+msgid "Forum Moderator"
+msgstr "Moderator Forum"
+
+#: admin/views/options.php:115
+msgid "Show edit date"
+msgstr "Tampilkan tanggal ubah"
+
+#: includes/views/post-element.php:108
+msgid "Last edited on %s"
+msgstr "Terakhir di ubah pada %s"
+
+#: includes/forum.php:360
+msgid "Sorry, only logged in users have access to the forum."
+msgstr "Maaf, hanya pengguna yang masuk saja yang boleh mengakses forum."
+
+#: admin/views/options.php:99
+msgid "Forum visible to logged in users only"
+msgstr "Forum terlihat khusus ke pengguna yang masuk"
+
+#: includes/forum.php:1035
+msgid "Login"
+msgstr "Masuk"
+
+#: includes/forum.php:632
+msgid "You need to log in to create posts and topics."
+msgstr "Anda harus masuk terlebih dahulu untuk membuat pos dan topik."
+
+#: widgets/widget-recent-posts.php:26 widgets/widget-recent-topics.php:26
+msgid "Number of topics to show:"
+msgstr "Jumlah topik yang ingin ditampilkan:"
+
+#: widgets/widget-recent-posts.php:21 widgets/widget-recent-topics.php:21
+#: widgets/widget-search.php:52
+msgid "Title:"
+msgstr "Judul:"
+
+#: includes/forum-activity.php:31 includes/forum-online.php:212
+#: includes/forum-profile.php:163 includes/forum-widgets.php:122
+#: includes/forum.php:838 includes/forum.php:842 includes/forum.php:850
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: includes/forum-widgets.php:121 includes/forum.php:837
+msgid "by"
+msgstr "oleh"
+
+#: includes/forum-widgets.php:44 widgets/widget-recent-posts.php:16
+msgid "Recent forum posts"
+msgstr "Pos terbaru forum"
+
+#: widgets/widget-recent-posts.php:8
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros Forum: Postingan Terbaru"
+
+#: widgets/widget-recent-posts.php:7
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "Tampilkan pos terbaru dari Asgaros Forum."
+
+#: includes/forum.php:932 includes/forum.php:973
+msgid "Are you sure you want to remove this?"
+msgstr "Apakah Anda yakin ingin menghapus ini?"
+
+#. Author of the plugin/theme
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#. Plugin Name of the plugin/theme
+msgid "Asgaros Forum"
+msgstr "Asgaros Forum"
+
+#: includes/forum-unread.php:156
+msgid "Mark All Read"
+msgstr "Tandai telah membaca semua"
+
+#: includes/forum-unread.php:152
+msgid "New posts"
+msgstr "Pos baru"
+
+#: includes/views/forum.php:65
+msgid "There are no topics yet!"
+msgstr "Belum ada topik!"
+
+#: includes/forum-statistics.php:27
+msgid "Posts"
+msgstr "Pos"
+
+#: includes/forum-statistics.php:30
+msgid "Views"
+msgstr "Kali lihat"
+
+#: includes/forum-editor.php:193
+msgid "Submit"
+msgstr "Kirim"
+
+#: includes/forum-uploads.php:244
+msgid "Add another file ..."
+msgstr "Tambahkan berkas lainnya ...."
+
+#: includes/forum-uploads.php:226
+msgid "Upload Files:"
+msgstr "Unggah Berkas:"
+
+#: includes/forum-editor.php:157
+msgid "Subject:"
+msgstr "Subyek:"
+
+#: includes/forum-editor.php:136
+msgid "Post Reply:"
+msgstr "Pos Balasan:"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "Quote from"
+msgstr "Kutipan dari"
+
+#: includes/forum-content.php:126
+msgid "You must enter a message."
+msgstr "Pesan Anda tidak boleh kosong."
+
+#: includes/forum-content.php:120
+msgid "You must enter a subject."
+msgstr "Subjek Anda tidak boleh kosong."
+
+#: includes/forum-content.php:67 includes/forum-content.php:79
+#: includes/forum-content.php:85 includes/forum-content.php:97
+#: includes/forum-content.php:105 includes/forum-content.php:113
+#: includes/forum-editor.php:105
+msgid "You are not allowed to do this."
+msgstr "Anda tidak diperbolehkan untuk melakukan ini."
+
+#: includes/forum.php:1176
+msgid "Sorry, this post does not exist."
+msgstr "Maaf, pos ini tidak tersedia."
+
+#: includes/forum-uploads.php:178 includes/forum-uploads.php:208
+msgid "Uploaded files:"
+msgstr "Berkas yang terunggah:"
+
+#: admin/tables/admin-usergroups-table.php:60 admin/views/reports.php:24
+#: admin/views/structure.php:138 admin/views/structure.php:152
+#: admin/views/usergroups.php:56 admin/views/usergroups.php:88
+#: includes/forum-uploads.php:200 includes/forum.php:933 includes/forum.php:974
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/forum-pagination.php:34 includes/forum-pagination.php:154
+msgid "Last"
+msgstr "Terakhir"
+
+#: includes/forum-pagination.php:118
+msgid "First"
+msgstr "Pertama"
+
+#: includes/forum-pagination.php:94
+msgid "Pages:"
+msgstr "Laman:"
+
+#: includes/forum.php:956
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/forum.php:944
+msgid "Sticky"
+msgstr "Lekatkan"
+
+#: includes/forum.php:939
+msgid "Undo Sticky"
+msgstr "Urungkan Lekat"
+
+#: includes/forum.php:921
+msgid "Reply"
+msgstr "Balas"
+
+#: admin/tables/admin-usergroups-table.php:62 includes/forum.php:982
+msgid "Edit"
+msgstr "Ubah"
+
+#: includes/forum.php:990
+msgid "Quote"
+msgstr "Kutip"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "on %s"
+msgstr "pada %s"
+
+#: includes/forum.php:835
+msgid "Last post in"
+msgstr "Post terakhir di"
+
+#: includes/forum.php:671
+msgid "You are not allowed to move topics."
+msgstr "Anda tidak diperbolehkan untuk memindahkan topik."
+
+#: includes/forum.php:667 includes/forum.php:928
+msgid "Move"
+msgstr "Pindahkan"
+
+#: includes/forum.php:641
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "Pindahkan \"<strong>%s</strong>\" ke forum baru:"
+
+#: includes/forum.php:1177
+msgid "Sorry, this topic does not exist."
+msgstr "Maaf, topik ini tidak tersedia."
+
+#: includes/forum.php:620
+msgid "Sorry, but there are no posts."
+msgstr "Maaf, belum ada pos sama sekali."
+
+#: includes/forum.php:1178
+msgid "Sorry, this forum does not exist."
+msgstr "Maaf, forum ini tidak tersedia."
+
+#: includes/views/overview.php:32
+msgid "There are no categories yet!"
+msgstr "Belum ada kategori!"
+
+#: includes/forum-breadcrumbs.php:66 includes/forum.php:420
+msgid "Post Reply"
+msgstr "Balas"
+
+#: includes/forum-breadcrumbs.php:70 includes/forum-editor.php:138
+#: includes/forum.php:418
+msgid "Edit Post"
+msgstr "Sunting Pos"
+
+#: admin/views/structure.php:203 admin/views/usergroups.php:115
+msgid "Edit Category"
+msgstr "Ubah Kategori"
+
+#: admin/views/options.php:36
+msgid "Topics to show per page:"
+msgstr "Topik yang ingin ditampilkan di tiap laman:"
+
+#: admin/views/options.php:32
+msgid "Replies to show per page:"
+msgstr "Balasan yang ingin ditampilkan di tiap laman:"
+
+#: admin/views/structure.php:96
+msgid "Description:"
+msgstr "Deskripsi:"
+
+#: admin/tables/admin-structure-table.php:96
+#: admin/tables/admin-usergroups-table.php:69 admin/views/structure.php:56
+#: admin/views/structure.php:92 admin/views/usergroups.php:25
+#: admin/views/usergroups.php:69
+msgid "Name:"
+msgstr "Nama:"
+
+#: includes/forum-usergroups.php:557
+msgid "Forum:"
+msgstr "Forum:"
+
+#: admin/admin.php:75 admin/admin.php:127 includes/forum-breadcrumbs.php:26
+#: includes/forum-usergroups.php:354 includes/forum.php:1006
+msgid "Forum"
+msgstr "Forum"

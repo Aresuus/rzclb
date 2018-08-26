@@ -1,0 +1,2333 @@
+# Translation of Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-13 13:00:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - WordPress Page Builder &#8211; Beaver Builder - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "The Beaver Builder Team"
+msgstr "La squadra di  Beaver Builder"
+
+#. Description of the plugin/theme
+msgid "A drag and drop frontend WordPress page builder plugin that works with almost any theme!"
+msgstr "Trascina e rilascia il builder di WordPress che funziona con qualsiasi tema!"
+
+#. #-#-#-#-#  tmp-beaver-builder-lite-version.pot (Beaver Builder Plugin (Lite
+#. Version) 1.6.2.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-beaver-builder-lite-version.pot (Beaver Builder Plugin (Lite
+#. Version) 1.6.2.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.wpbeaverbuilder.com/?utm_source=external&utm_medium=builder&utm_campaign=plugins-page"
+msgstr "https://www.wpbeaverbuilder.com/?utm_source=external&utm_medium=builder&utm_campaign=plugins-page"
+
+#. Plugin Name of the plugin/theme
+msgid "Beaver Builder Plugin (Lite Version)"
+msgstr "Beaver Builder Plugin (Lite Version)"
+
+#: modules/widget/widget.php:15
+msgid "Display a WordPress widget."
+msgstr "Mostra un widget di WordPress."
+
+#: modules/widget/widget.php:14
+msgid "Widget"
+msgstr "Widget"
+
+#: modules/widget/includes/frontend.php:35
+#: modules/widget/includes/settings-general.php:46
+msgctxt "%s stands for widget slug."
+msgid "%s no longer exists."
+msgstr "%s non esiste più."
+
+#: modules/video/video.php:132
+msgid "Video Embed Code"
+msgstr "Codice di embed del video"
+
+#: modules/video/video.php:120
+msgid "Loop"
+msgstr "Ripeti"
+
+#: modules/video/video.php:108
+msgid "Auto Play"
+msgstr "Avvio automatico"
+
+#: modules/video/video.php:104
+msgctxt "Video preview/fallback image."
+msgid "Poster"
+msgstr "Poster"
+
+#: modules/video/video.php:87
+msgid "Embed"
+msgstr "Embed"
+
+#: modules/video/video.php:83
+msgid "Video Type"
+msgstr "Tipo di video"
+
+#: modules/video/video.php:20
+msgid "Render a WordPress or embedable video."
+msgstr "Visualizza un video caricato in WordPress o embed."
+
+#: modules/sidebar/sidebar.php:15
+msgid "Display a WordPress sidebar that has been registered by the current theme."
+msgstr "Mostra una sidebar di WordPress che è stata registrata dal tema corrente."
+
+#: modules/sidebar/includes/settings-general.php:5
+#: modules/sidebar/sidebar.php:14
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: modules/rich-text/rich-text.php:15
+msgid "A WYSIWYG text editor."
+msgstr "Un editor di testo WYSIWYG."
+
+#: modules/photo/photo.php:498
+msgid "New Window"
+msgstr "Nuova finestra"
+
+#: modules/photo/photo.php:497
+msgid "Same Window"
+msgstr "Stessa finestra"
+
+#: modules/photo/photo.php:494
+msgid "Link Target"
+msgstr "Destinazione del collegamento"
+
+#: modules/photo/photo.php:487
+msgid "Link URL"
+msgstr "URL collegamento"
+
+#: modules/photo/photo.php:480
+msgid "Link type applies to how the image should be linked on click. You can choose a specific URL, the individual photo or a separate page with the photo."
+msgstr "Il tipo di collegamento si applica a cosa dovrebbe essere collegato al clic. È possibile scegliere un URL specifico, la singola foto o una pagina separata per la foto."
+
+#: modules/photo/photo.php:469
+msgid "Photo File"
+msgstr "File foto"
+
+#: modules/photo/photo.php:468
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: modules/photo/photo.php:466
+msgctxt "Link type."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/photo/photo.php:464
+msgid "Link Type"
+msgstr "Tipo di collegamento"
+
+#: modules/photo/photo.php:450
+msgid "Below Photo"
+msgstr "Sotto la foto"
+
+#: modules/photo/photo.php:449
+msgid "On Hover"
+msgstr "Al passaggio del mouse"
+
+#: modules/photo/photo.php:448
+msgid "Never"
+msgstr "Mai"
+
+#: modules/photo/photo.php:445
+msgid "Show Caption"
+msgstr "Mostra didascalia"
+
+#: modules/photo/photo.php:441 modules/photo/photo.php:455
+msgid "Caption"
+msgstr "Didascalia"
+
+#: modules/photo/photo.php:430
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: modules/photo/photo.php:425
+msgid "Circle"
+msgstr "Cerchio"
+
+#: modules/photo/photo.php:424
+msgid "Square"
+msgstr "Quadrato"
+
+#: modules/photo/photo.php:423
+msgid "Portrait"
+msgstr "Ritratto"
+
+#: modules/photo/photo.php:422
+msgid "Panorama"
+msgstr "Panorama"
+
+#: modules/photo/photo.php:421
+msgid "Landscape"
+msgstr "Paesaggio"
+
+#: modules/photo/photo.php:420
+msgctxt "Crop."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/photo/photo.php:417
+msgid "Crop"
+msgstr "Ritaglio"
+
+#: modules/photo/photo.php:413
+msgid "http://www.example.com/my-photo.jpg"
+msgstr "http://www.example.com/my-photo.jpg"
+
+#: modules/photo/photo.php:412
+msgid "Photo URL"
+msgstr "URL foto"
+
+#: modules/photo/photo.php:395 modules/photo/photo.php:467
+msgid "URL"
+msgstr "URL"
+
+#: modules/photo/photo.php:391
+msgid "Photo Source"
+msgstr "Sorgente foto"
+
+#: modules/photo/photo.php:26
+msgid "Upload a photo or display one from the media library."
+msgstr "Carica una foto o mostrane una dalla libreria multimediale."
+
+#: modules/html/html.php:15
+msgid "Display raw HTML code."
+msgstr "Mostra codice HTML."
+
+#: modules/html/html.php:14
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/updater/includes/form.php:39
+msgid "Save Subscription Settings"
+msgstr "Salva le impostazioni di abbonamento"
+
+#: includes/updater/includes/form.php:27
+msgid "Enter your <a%s>license key</a> to enable remote updates and support."
+msgstr "Inserisci la tua <a%s> chiave di licenza</a> per abilitare gli aggiornamenti e il supporto."
+
+#: includes/updater/includes/form.php:22
+msgid "Email address saved!"
+msgstr "Indirizzo email salvato!"
+
+#: includes/updater/includes/form.php:16
+msgid "Not Active!"
+msgstr "Non attivo!"
+
+#: includes/updater/includes/form.php:14
+msgid "Active!"
+msgstr "Attivo!"
+
+#: includes/updater/includes/form.php:11
+msgid "Updates &amp; Support Subscription"
+msgstr "Abbonamento supporto e aggiornamenti"
+
+#: includes/updater/includes/form.php:5
+msgid "UPDATES UNAVAILABLE! Please subscribe or enter your license key below to enable automatic updates."
+msgstr "AGGIORNAMENTI DISPONIBILI! Iscriviti o inserisci la tua chiave di licenza per attivare automaticamente gli aggiornamenti"
+
+#: includes/updater/classes/class-fl-updater.php:136
+#: includes/updater/includes/form.php:6
+msgid "Subscribe Now"
+msgstr "Abbonati ora"
+
+#: includes/updater/classes/class-fl-updater.php:134
+msgid "Please subscribe to enable automatic updates for this plugin."
+msgstr "Si prega di abbonarsi per abilitare gli aggiornamenti automatici per questo plugin."
+
+#: includes/updater/classes/class-fl-updater.php:132
+msgid "<strong>UPDATE UNAVAILABLE!</strong>"
+msgstr "<strong>AGGIORNAMENTO NON DISPONIBILE!</strong>"
+
+#: includes/ui.php:90
+msgid "Left &amp; Right Sidebar"
+msgstr "Barra laterale sinistra e destra"
+
+#: includes/ui.php:89
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: includes/ui.php:88
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: includes/ui.php:87
+msgid "6 Columns"
+msgstr "6 colonne"
+
+#: includes/ui.php:86
+msgid "5 Columns"
+msgstr "5 colonne"
+
+#: includes/ui.php:85
+msgid "4 Columns"
+msgstr "4 colonne"
+
+#: includes/ui.php:84
+msgid "3 Columns"
+msgstr "3 colonne"
+
+#: includes/ui.php:83
+msgid "2 Columns"
+msgstr "2 colonne"
+
+#: includes/ui.php:82
+msgid "1 Column"
+msgstr "1 colonna"
+
+#: includes/ui.php:78
+msgid "Row Layouts"
+msgstr "Layout di riga"
+
+#: includes/ui.php:53
+msgid "Upgrade!"
+msgstr "Aggiorna!"
+
+#: includes/ui.php:51
+msgid "Buy Now!"
+msgstr "Acquista ora!"
+
+#: includes/ui.php:34
+msgid "Page Builder Demo"
+msgstr "Dimostrazione del Page Builder"
+
+#: includes/ui.php:21 includes/ui.php:56
+msgid "Tools"
+msgstr "Strumenti"
+
+#: includes/ui.php:8 includes/ui.php:13
+msgid "Template: %s"
+msgstr "Modello: %s"
+
+#: includes/settings.php:62
+msgid "Save"
+msgstr "Salva"
+
+#: includes/service-settings.php:32
+msgid "Service"
+msgstr "Servizio"
+
+#: includes/row-settings.php:640
+msgid "A class that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Una classe che sarà applicata al codice HTML di questa riga. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Separa classi multiple con spazio."
+
+#: includes/row-settings.php:632
+msgid "A unique ID that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Un ID univoco che sarà applicato al codice HTML di questa riga. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Niente spazi."
+
+#: includes/row-settings.php:619
+msgid "Choose whether to show or hide this row at different device sizes."
+msgstr "Scegli se mostrare o nascondere questa riga per diverse dimensioni dei dispositivi."
+
+#: includes/row-settings.php:357
+msgid "Slow"
+msgstr "Lenta"
+
+#: includes/row-settings.php:356
+msgctxt "Speed."
+msgid "Medium"
+msgstr "Media"
+
+#: includes/row-settings.php:355
+msgid "Fast"
+msgstr "Veloce"
+
+#: includes/row-settings.php:341
+msgid "Background Parallax"
+msgstr "Sfondo parallasse"
+
+#: includes/row-settings.php:328
+msgid "Randomize Photos"
+msgstr "Foto casuali"
+
+#: includes/row-settings.php:318
+msgid "Transition Speed"
+msgstr "Velocità di transizione"
+
+#: includes/row-settings.php:310
+msgid "Boxes Grow"
+msgstr "Quadrati ingrandimento"
+
+#: includes/row-settings.php:309
+msgid "Random Boxes"
+msgstr "Quadrati casuali"
+
+#: includes/row-settings.php:308
+msgid "Boxes"
+msgstr "Quadrati"
+
+#: includes/row-settings.php:307
+msgid "Random Bars"
+msgstr "Barre casuali"
+
+#: includes/row-settings.php:306
+msgid "Bars"
+msgstr "Barre"
+
+#: includes/row-settings.php:305
+msgid "Blinds"
+msgstr "Tendina"
+
+#: includes/row-settings.php:304
+msgid "Slide Vertical"
+msgstr "Scorri verticale"
+
+#: includes/row-settings.php:303
+msgid "Slide Horizontal"
+msgstr "Scorri orizontale"
+
+#: includes/row-settings.php:302
+msgid "Ken Burns"
+msgstr "Ken Burns"
+
+#: includes/row-settings.php:301
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: includes/row-settings.php:300
+msgctxt "Slideshow transition type."
+msgid "None"
+msgstr "Nessuna"
+
+#: includes/row-settings.php:297
+msgid "Transition"
+msgstr "Transizione"
+
+#: includes/row-settings.php:287 includes/row-settings.php:352
+msgid "Speed"
+msgstr "Velocità"
+
+#: includes/row-settings.php:280
+msgid "Feed URL"
+msgstr "URL del feed"
+
+#: includes/row-settings.php:273
+msgid "Photos"
+msgstr "Foto"
+
+#: includes/row-settings.php:258
+msgid "Pull images from the WordPress media library or a gallery on your SmugMug site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be accessed by using the get a link function in your SmugMug gallery."
+msgstr "Estrae immagini dalla libreria multimedia di WordPress o una galleria sul tuo sito SmugMug inserendo la URL del feed RSS di SmugMug. L'URL del feed RSS è accessibile tramite un collegamento nella tua galleria SmugMug."
+
+#: includes/row-settings.php:252
+msgid "Source"
+msgstr "Sorgente"
+
+#: includes/row-settings.php:248
+msgid "Background Slideshow"
+msgstr "Sfondo Slideshow"
+
+#: includes/row-settings.php:240
+msgid "A photo that will be displayed if the video fails to load."
+msgstr "Una foto che verrà visualizzata se non è possibile caricare il video."
+
+#: includes/row-settings.php:239
+msgid "Fallback Photo"
+msgstr "Foto di fallback"
+
+#: includes/row-settings.php:232
+msgid "An HTML5 video to use as the background of this row. Supported types are MP4, WebM and Ogg."
+msgstr "Un video HTML5 da usare come sfondo di questa riga. I tipi supportati sono MP4, WebM e Ogg."
+
+#: includes/row-settings.php:231 modules/video/video.php:19
+#: modules/video/video.php:100
+msgid "Video"
+msgstr "Video"
+
+#: includes/row-settings.php:227
+msgid "Background Video"
+msgstr "Video di sfondo"
+
+#: includes/row-settings.php:101
+msgctxt "Background type."
+msgid "Parallax"
+msgstr "Parallasse"
+
+#: includes/row-settings.php:97
+msgctxt "Background type."
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: includes/row-settings.php:95
+msgctxt "Background type."
+msgid "Video"
+msgstr "Video"
+
+#: includes/row-settings.php:52
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: includes/row-settings.php:48
+msgid "Colors"
+msgstr "Colori"
+
+#: includes/row-settings.php:40
+msgid "Full width content spans the width of the page from edge to edge. Fixed content is no wider than the Row Max Width set in the Global Settings."
+msgstr "Il contenuto a larghezza piena si estende per la larghezza di pagina da bordo a bordo. Il contenuto fisso non è più ampio rispetto alla larghezza massima scelta nelle impostazioni globali."
+
+#: includes/row-settings.php:34
+msgid "Content Width"
+msgstr "Larghezza contenuto"
+
+#: includes/row-settings.php:27
+msgid "Full width rows span the width of the page from edge to edge. Fixed rows are no wider than the Row Max Width set in the Global Settings."
+msgstr "Le righe a larghezza piena si estendono per la larghezza di pagina da bordo a bordo. Le righe fisse non sono più ampie rispetto alla larghezza massima scelta nelle impostazioni globali."
+
+#: includes/row-settings.php:16
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/module-settings.php:128
+msgid "A class that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Una classe che sarà applicata al codice HTML di questo modulo. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Separa classi multiple con spazio."
+
+#: includes/module-settings.php:127 includes/row-settings.php:639
+msgid "Class"
+msgstr "Classe"
+
+#: includes/module-settings.php:120
+msgid "A unique ID that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Un ID univoco che sarà applicato al codice HTML del modulo. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Niente spazi."
+
+#: includes/module-settings.php:107
+msgid "The amount of time in seconds before this animation starts."
+msgstr "Periodo di tempo in secondi prima dell'inizio di questa animazione."
+
+#: includes/module-settings.php:106 includes/row-settings.php:290
+#: includes/row-settings.php:321
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "secondi"
+
+#: includes/module-settings.php:102
+msgid "Delay"
+msgstr "Ritardo"
+
+#: includes/module-settings.php:94
+msgctxt "Animation style."
+msgid "Slide Down"
+msgstr "Scorri basso"
+
+#: includes/module-settings.php:93
+msgctxt "Animation style."
+msgid "Slide Up"
+msgstr "Scorri alto"
+
+#: includes/module-settings.php:92
+msgctxt "Animation style."
+msgid "Slide Right"
+msgstr "Scorri destra"
+
+#: includes/module-settings.php:91
+msgctxt "Animation style."
+msgid "Slide Left"
+msgstr "Scorri sinistra"
+
+#: includes/module-settings.php:90
+msgctxt "Animation style."
+msgid "Fade In"
+msgstr "Dissolvenza in entrata"
+
+#: includes/module-settings.php:89
+msgctxt "Animation style."
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/module-settings.php:83
+msgid "Animation"
+msgstr "Animazione"
+
+#: includes/module-settings.php:75
+msgid "Choose whether to show or hide this module at different device sizes."
+msgstr "Scegli se visualizzare o nascondere questo modulo a diverse dimensioni dei dispositivi."
+
+#: includes/loop-settings.php:101
+msgid "Enter a comma separated list of authors usernames. Only posts with these authors will be shown."
+msgstr "Immettere un elenco delimitato da virgole di nomi di autori. Verranno visualizzati solo i post di questi autori."
+
+#: includes/loop-settings.php:100
+msgid "Authors"
+msgstr "Autori"
+
+#: includes/loop-settings.php:86
+msgid "Enter a comma separated list of %s. Only posts with these %s will be shown."
+msgstr "Immettere un elenco delimitato da virgole di %s. Verranno mostrati soli gli articoli con queste %s."
+
+#: includes/loop-settings.php:73
+msgid "Enter a comma separated list of %s. Only these %s will be shown."
+msgstr "Immettere un elenco delimitato da virgole di %s. Verranno mostrati solo questi %s."
+
+#: includes/loop-settings.php:62
+msgid "Filter"
+msgstr "Filtro"
+
+#: includes/loop-settings.php:55
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Salta questo numero di post che corrispondono ai criteri specificati."
+
+#: includes/loop-settings.php:52
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/loop-settings.php:45
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: includes/loop-settings.php:44
+msgid "Descending"
+msgstr "Decrescente"
+
+#: includes/loop-settings.php:42
+msgid "Order"
+msgstr "Ordine"
+
+#: includes/loop-settings.php:35
+msgid "Random"
+msgstr "Casuale"
+
+#: includes/loop-settings.php:34
+msgid "Menu Order"
+msgstr "Ordine del menu"
+
+#: includes/loop-settings.php:33
+msgid "Comment Count"
+msgstr "Conteggio commenti"
+
+#: includes/loop-settings.php:32
+msgid "Author"
+msgstr "Autore"
+
+#: includes/loop-settings.php:31
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/loop-settings.php:30
+msgid "Date Last Modified"
+msgstr "Data ultima modifica"
+
+#: includes/loop-settings.php:29
+msgid "Date"
+msgstr "Data"
+
+#: includes/loop-settings.php:26
+msgid "Order By"
+msgstr "Ordina per"
+
+#: includes/loop-settings.php:20
+msgid "Post Type"
+msgstr "Tipo di post"
+
+#: includes/js-config.php:104
+msgid "Yes Please!"
+msgstr "Si grazie!"
+
+#: includes/js-config.php:103
+msgid "Welcome! It looks like this might be your first time using the builder. Would you like to take a tour?"
+msgstr "Benvenuto! Sembra che questa potrebbe essere la prima volta che utilizzi il builder. Vuoi fare un giro?"
+
+#: includes/js-config.php:102
+msgid "Watch the Video"
+msgstr "Visualizza il video"
+
+#: includes/js-config.php:101
+msgid "Visit the Forums"
+msgstr "Visita i forum"
+
+#: includes/js-config.php:100
+msgid "View the Knowledge Base"
+msgstr "Leggi la documentazione"
+
+#: includes/js-config.php:99
+msgid "The settings you are currently editing will not be saved if you navigate away from this page."
+msgstr "Le impostazioni che stai modificando attualmente non verranno salvate se navighi via da questa pagina."
+
+#: includes/js-config.php:98
+msgid "Now that you know the basics, you're ready to start building! If at any time you need help, click the help icon in the upper right corner to access the help menu. Happy building!"
+msgstr "Ora che conosci le basi, sei pronto per iniziare a costruire! Se in qualsiasi momento hai bisogno di aiuto, clicca l'icona aiuto nell'angolo in alto a destra per accedere al menu di aiuto. Buona costruzione!"
+
+#: includes/js-config.php:97
+msgid "Let's Get Building!"
+msgstr "Andiamo a costruire!"
+
+#: includes/js-config.php:96
+msgid "Once you're finished, click the Done button to publish your changes, save a draft or revert back to the last published state."
+msgstr "Quando hai finito, clicca sul pulsante Fatto per pubblicare le tue modifiche, salvare una bozza o ritornare all'ultima versione pubblicata."
+
+#: includes/js-config.php:95
+msgid "Publish Your Changes"
+msgstr "Pubblica le modifiche"
+
+#: includes/js-config.php:94
+msgid "The Tools button lets you duplicate a page, save a template or edit the global settings."
+msgstr "Il pulsante Strumenti ti permette di duplicare una pagina, salvare un modello o modificare le impostazioni globali."
+
+#: includes/js-config.php:93
+msgid "Helpful Tools"
+msgstr "Strumenti utili"
+
+#: includes/js-config.php:92
+msgid "Use the Templates button to pick a new template or append one to your layout. Appending will insert a new template at the end of your existing page content."
+msgstr "Usa il pulsante Modelli per scegliere un nuovo modello o appenderne uno al tuo layout. Appendi inserirà il nuovo modello alla fine del contenuto di pagina esistente."
+
+#: includes/js-config.php:91
+msgid "Change Templates"
+msgstr "Cambia modello"
+
+#: includes/js-config.php:90
+msgid "Use the Add Content button to open the content panel and add new row layouts, modules or widgets."
+msgstr "Usa il pulsante Aggiungi contenuto per aprire il pannello contenuti e aggiungere nuove righe di layout, moduli o widgets."
+
+#: includes/js-config.php:89
+msgid "Add More Content"
+msgstr "Aggiungi contenuto"
+
+#: includes/js-config.php:88
+msgid "Use the action buttons to perform actions such as moving, editing, duplicating or deleting rows, columns and modules."
+msgstr "Usa i bottoni di azione per compiere azioni come muovere, modificare, duplicare, o cancellare righe, colonne e moduli."
+
+#: includes/js-config.php:87
+msgid "Move your mouse over rows, columns or modules to edit and interact with them."
+msgstr "Muovi il mouse su righe, colonne o moduli per modificare e interagire con esse."
+
+#: includes/js-config.php:86
+msgid "Edit Content"
+msgstr "Modifica contenuto"
+
+#: includes/js-config.php:85
+msgid "Add new content by dragging and dropping modules or widgets into your row layouts or to create a new row layout."
+msgstr "Aggiungi nuovo contenuto trascinando e rilasciando moduli o widget nei tuoi layout di riga o crea un nuovo layout di riga."
+
+#: includes/js-config.php:84 includes/ui.php:22 includes/ui.php:60
+msgid "Add Content"
+msgstr "Aggiungi contenuto"
+
+#: includes/js-config.php:83
+msgid "Add multi-column rows, adjust spacing, add backgrounds and more by dragging and dropping row layouts onto the page."
+msgstr "Aggiungi righe multi-colonna, aggiusta gli spazi, aggiungi sfondi e altro trascinando e rilasciando layout di riga nella pagina."
+
+#: includes/js-config.php:82
+msgid "Add Rows"
+msgstr "Aggiungi righe"
+
+#: includes/js-config.php:81
+msgid "Get started by choosing a layout template to customize, or build a page from scratch by selecting the blank layout template."
+msgstr "Inizia scegliendo un modello di layout da personalizzare, o costruisci una pagina da zero selezionando il modello di layout vuoto."
+
+#: includes/js-config.php:80
+msgid "Choose a Template"
+msgstr "Scegli un modello"
+
+#: includes/js-config.php:79
+msgid "Get Started"
+msgstr "Inizia"
+
+#: includes/js-config.php:78
+msgid "Next"
+msgstr "Avanti"
+
+#: includes/js-config.php:77
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/js-config.php:76
+msgid "Template Saved!"
+msgstr "Modello salvato!"
+
+#: includes/js-config.php:75
+msgid "Replace Existing Layout"
+msgstr "Sostituisci Layout esistente"
+
+#: includes/js-config.php:74
+msgid "Append New Layout"
+msgstr "Aggiungi nuovo Layout"
+
+#: includes/js-config.php:73
+msgid "Take a Tour"
+msgstr "Inizia visita guidata"
+
+#: includes/js-config.php:72
+msgid "Please select a list before saving."
+msgstr "Si prega di selezionare una lista prima di salvare."
+
+#: includes/js-config.php:71
+msgid "Please connect an account before saving."
+msgstr "Si prega di connettere un account prima di salvare."
+
+#: includes/js-config.php:70
+msgid "Please select an account before saving."
+msgstr "Si prega di selezionare un'account prima di salvare."
+
+#: includes/js-config.php:67
+msgid "Select Photos"
+msgstr "Seleziona foto"
+
+#: includes/js-config.php:65
+msgid "Save Template"
+msgstr "Salva modello"
+
+#: includes/js-config.php:64
+msgid "Save Core Template"
+msgstr "Salva il modello Core"
+
+#: includes/js-config.php:63 includes/row-settings.php:6
+msgid "Row Settings"
+msgstr "Impostazioni di riga"
+
+#: includes/js-config.php:62
+msgid "Row"
+msgstr "Riga"
+
+#: includes/js-config.php:60
+msgid "Publish Changes"
+msgstr "Pubblica le modifiche"
+
+#: includes/js-config.php:59
+msgid "Please Wait..."
+msgstr "Si prega di attendere..."
+
+#: includes/js-config.php:58
+msgid "Photos Selected"
+msgstr "Foto selezionate"
+
+#: includes/js-config.php:57
+msgid "Photo Selected"
+msgstr "Foto selezionata"
+
+#: includes/js-config.php:56 modules/photo/photo.php:470
+msgid "Photo Page"
+msgstr "Pagina di foto"
+
+#: includes/js-config.php:55
+msgid "OK"
+msgstr "OK"
+
+#: includes/js-config.php:54
+msgid "No Thanks"
+msgstr "No grazie"
+
+#: includes/js-config.php:53
+msgid "No results found."
+msgstr "Nessun risultato trovato."
+
+#: includes/js-config.php:52
+msgid "New Row"
+msgstr "Nuova riga"
+
+#: includes/js-config.php:51
+msgid "New Column"
+msgstr "Nuova colonna"
+
+#: includes/js-config.php:50
+msgid "Move"
+msgstr "Sposta"
+
+#: includes/js-config.php:49
+msgid "Module"
+msgstr "Modulo"
+
+#: includes/js-config.php:48
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/js-config.php:47
+msgid "Manage Templates"
+msgstr "Gestione modelli"
+
+#: includes/js-config.php:46
+msgid "Large"
+msgstr "Grande"
+
+#: includes/js-config.php:45
+msgid "Insert"
+msgstr "Inserisci"
+
+#: includes/js-config.php:44
+msgid "\"{message}\" on line {line} of {file}."
+msgstr "\"{message}\" nella riga {line} di {file}."
+
+#: includes/js-config.php:43
+msgid "Getting Started Video"
+msgstr "Video per iniziare"
+
+#: includes/js-config.php:42
+msgid "Get Help"
+msgstr "Richiedi assistenza"
+
+#: includes/js-config.php:41
+msgid "Full Size"
+msgstr "Tutta larghezza"
+
+#: includes/js-config.php:40
+msgid "Beaver Builder caught the following JavaScript error. If Beaver Builder is not functioning as expected the cause is most likely this error. Please help us by disabling all plugins and testing Beaver Builder while reactivating each to determine if the issue is related to a third party plugin."
+msgstr "Beaver Builder ha intercettato il seguente errore JavaScript. Se Beaver Builder non funziona come previsto la causa è probabilmente questo errore. Vi preghiamo di aiutarci disabilitando tutti i plugin e provando Beaver Builder dopo averli riattivati uno ad uno per determinare se il problema è legato a un plugin di terze parti."
+
+#: includes/js-config.php:39
+msgid "Drop a row layout or module to get started!"
+msgstr "Trascina un layout di riga o un modulo per iniziare!"
+
+#: includes/js-config.php:38
+msgid "Edit Global Settings"
+msgstr "Modifica impostazioni globali"
+
+#: includes/js-config.php:37
+msgid "Duplicate This Template"
+msgstr "Duplica questo modello"
+
+#: includes/js-config.php:36
+msgid "Duplicate This Page"
+msgstr "Duplica questa pagina"
+
+#: includes/js-config.php:35
+msgctxt "Duplicate page/post action label."
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: includes/js-config.php:34
+msgid "Save Draft"
+msgstr "Salva bozza"
+
+#: includes/js-config.php:33 includes/ui.php:20 includes/ui.php:55
+msgid "Done"
+msgstr "Fatto"
+
+#: includes/js-config.php:32
+msgid "Do you really want to discard these changes? All of your changes that are not published will be lost."
+msgstr "Vuoi veramente scartare queste modifiche? Tutti i cambiamenti che non sono pubblicati saranno persi."
+
+#: includes/js-config.php:31
+msgid "Discard Changes"
+msgstr "Scarta modifiche"
+
+#: includes/js-config.php:30
+msgid "Do you really want to delete this template?"
+msgstr "Vuoi davvero eliminare questo modello?"
+
+#: includes/js-config.php:29
+msgid "Do you really want to delete this row? All content data will be permanently deleted."
+msgstr "Vuoi davvero eliminare questa riga? Tutti i dati contenuti verranno eliminati definitivamente."
+
+#: includes/js-config.php:28
+msgid "Do you really want to delete this module? All content data will be permanently deleted."
+msgstr "Vuoi davvero eliminare questo modulo? Tutti i dati contenuti verranno eliminati definitivamente."
+
+#: includes/js-config.php:27
+msgid "Do you really want to delete this item?"
+msgstr "Vuoi davvero eliminare questo elemento?"
+
+#: includes/js-config.php:26
+msgid "Are you sure you want to remove this account? Other modules that are connected to it will be affected."
+msgstr "Sei sicuro di voler rimuovere questo account? I moduli che gli sono connessi saranno influenzati."
+
+#: includes/js-config.php:25
+msgid "Remove Account"
+msgstr "Rimuovi account"
+
+#: includes/js-config.php:24
+msgid "Please select either a background layout or content layout before submitting."
+msgstr "Si prega di selezionare un layout di sfondo o un layout contenuto prima di inviare."
+
+#: includes/js-config.php:22
+msgid "Column"
+msgstr "Colonna"
+
+#: includes/js-config.php:21
+msgid "Warning! Changing the template will replace your existing layout. Do you really want to do this?"
+msgstr "ATTENZIONE! Cambiare il modello sostituirà il layout esistente. Vuoi davvero fare questo?"
+
+#: includes/js-config.php:20
+msgid "Change Template"
+msgstr "Cambiare modello"
+
+#: includes/js-config.php:18
+msgid "What would you like to do?"
+msgstr "Che cosa vorresti fare?"
+
+#: includes/icon-selector.php:5
+msgctxt "Select option for showing all icon libraries."
+msgid "All Libraries"
+msgstr "Tutte le librerie"
+
+#: includes/global-settings.php:145
+msgid "The browser width at which the layout will adjust for small devices such as phones."
+msgstr "La larghezza del browser a cui il layout si adatterà per dispositivi piccoli come i telefoni."
+
+#: includes/global-settings.php:140
+msgid "Small Device Breakpoint"
+msgstr "Breakpoint dispositivi piccoli"
+
+#: includes/global-settings.php:136
+msgid "The browser width at which the layout will adjust for medium devices such as tablets."
+msgstr "La larghezza del browser a cui il layout si adatterà per dispositivi medi come i tablet."
+
+#: includes/global-settings.php:131
+msgid "Medium Device Breakpoint"
+msgstr "Breakpoint dispositivi medi"
+
+#: includes/global-settings.php:127
+msgid "When auto spacing is enabled, the builder will automatically adjust the margins and padding in your layout once the small device breakpoint is reached. Most users will want to leave this enabled."
+msgstr "Quando la spaziatura automatica è abilitata, il builder aggiusterà automaticamente i margini e il padding nel tuo layout non appena viene raggiunto il breakpoint per dispositivi piccoli. La maggior parte degli utenti vorrà lasciare questo abilitato."
+
+#: includes/global-settings.php:121
+msgctxt "General settings form field label. Intended meaning: \"Enable auto spacing for responsive layouts?\""
+msgid "Enable Auto Spacing"
+msgstr "Abilita spaziatura automatica"
+
+#: includes/global-settings.php:107
+msgctxt "General settings form field label. Intended meaning: \"Responsive layout enabled?\""
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: includes/global-settings.php:80
+msgid "Default Row Content Width"
+msgstr "Larghezza predefinita riga di contenuto"
+
+#: includes/global-settings.php:70 includes/global-settings.php:84
+#: includes/row-settings.php:20 includes/row-settings.php:38
+msgid "Full Width"
+msgstr "Larghezza piena"
+
+#: includes/global-settings.php:66
+msgid "Default Row Width"
+msgstr "Larghezza predefinita riga"
+
+#: includes/global-settings.php:62
+msgid "All rows will default to this width. You can override this and make a row full width in the settings for each row."
+msgstr "Tutte le righe avranno questa larghezza per impostazione predefinita. Potete ignorarla e creare una riga a piena larghezza nelle impostazioni di ciascuna riga."
+
+#: includes/global-settings.php:57
+msgid "Max Width"
+msgstr "Larghezza max"
+
+#: includes/global-settings.php:37
+msgid "Rows"
+msgstr "Righe"
+
+#: includes/global-settings.php:32
+msgid "Enter a CSS selector for the default page heading to hide it."
+msgstr "Inserire il selettore CSS per nascondere l'intestazione predefinita della pagina."
+
+#: includes/global-settings.php:30
+msgid "CSS Selector"
+msgstr "Selettore CSS"
+
+#: includes/global-settings.php:26
+msgid "Choosing no will hide the default theme heading for the \"Page\" post type. You will also be required to enter some basic CSS for this to work if you choose no."
+msgstr "Scegliendo no, si nasconderà il titolo predefinito del tema per il tipo di post \"Pagina\". Se scegli no, sarà richiesto anche di inserire alcuni CSS base per fare in modo che questo funzioni."
+
+#: includes/global-settings.php:19 includes/global-settings.php:111
+#: includes/global-settings.php:125 includes/row-settings.php:332
+#: modules/video/video.php:112 modules/video/video.php:124
+msgid "Yes"
+msgstr "Sì"
+
+#: includes/global-settings.php:18 includes/global-settings.php:110
+#: includes/global-settings.php:124 includes/row-settings.php:331
+#: modules/video/video.php:111 modules/video/video.php:123
+msgid "No"
+msgstr "No"
+
+#: includes/global-settings.php:15
+msgctxt "General settings form field label. Intended meaning: \"Show page heading?\""
+msgid "Show"
+msgstr "Visualizza"
+
+#: includes/global-settings.php:11
+msgid "Default Page Heading"
+msgstr "Intestazione di pagina predefinita"
+
+#: includes/global-settings.php:8
+msgid "Note: These settings apply to all posts and pages."
+msgstr "Nota: Queste impostazioni si applicano a tutti i post e pagine."
+
+#: includes/global-settings.php:7 modules/html/html.php:26
+#: modules/photo/photo.php:384 modules/rich-text/rich-text.php:26
+#: modules/sidebar/sidebar.php:27 modules/video/video.php:76
+#: modules/widget/widget.php:64
+msgid "General"
+msgstr "Generale"
+
+#: includes/field-video.php:17
+msgid "Replace Video"
+msgstr "Sostituisci video"
+
+#: includes/field-video.php:3 includes/js-config.php:68
+msgid "Select Video"
+msgstr "Seleziona video"
+
+#: includes/field-photo.php:12
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/field-photo.php:3 includes/js-config.php:66
+msgid "Select Photo"
+msgstr "Seleziona foto"
+
+#: includes/field-multiple-photos.php:24
+msgid "Add Photos"
+msgstr "Aggiungi foto"
+
+#: includes/field-multiple-photos.php:23
+msgid "Edit Gallery"
+msgstr "Modifica galleria"
+
+#: includes/field-multiple-photos.php:22
+msgid "Create Gallery"
+msgstr "Crea galleria"
+
+#: includes/field-multiple-photos.php:20
+msgid "1 Photo Selected"
+msgid_plural "%d Photos Selected"
+msgstr[0] "Una foto selezionata"
+msgstr[1] "%d foto selezionate"
+
+#: includes/field-link.php:7 includes/icon-selector.php:28
+#: includes/js-config.php:19 includes/settings.php:63
+msgid "Cancel"
+msgstr "Annulla"
+
+#: includes/field-link.php:6 includes/field-suggest.php:7
+msgid "Start typing..."
+msgstr "Inizia a digitare..."
+
+#: includes/field-link.php:5
+msgid "Enter a post title to search."
+msgstr "Inserisci un titolo del post per la ricerca."
+
+#: includes/field-link.php:3
+msgid "Select"
+msgstr "Seleziona"
+
+#: includes/field-icon.php:7 includes/js-config.php:61
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: includes/field-icon.php:5 includes/field-photo.php:13
+msgid "Replace"
+msgstr "Sostituisci"
+
+#: includes/field-icon.php:2 includes/icon-selector.php:2
+msgid "Select Icon"
+msgstr "Seleziona icona"
+
+#: includes/field-form.php:28
+msgctxt "%s stands for form field label."
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: includes/column-settings.php:517
+msgid "A class that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Una classe che sarà applicata al codice HTML di questa colonna. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Separa classi multiple con spazio."
+
+#: includes/column-settings.php:516
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: includes/column-settings.php:509
+msgid "A unique ID that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "Un ID univoco che sarà applicato al codice HTML della colonna. Deve iniziare con una lettera e contenere solo trattini, underscore, lettere o numeri. Niente spazi."
+
+#: includes/column-settings.php:508 includes/loop-settings.php:28
+#: includes/module-settings.php:119 includes/row-settings.php:631
+msgid "ID"
+msgstr "ID"
+
+#: includes/column-settings.php:504 includes/module-settings.php:115
+#: includes/row-settings.php:627
+msgid "CSS Selectors"
+msgstr "Selettore CSS"
+
+#: includes/column-settings.php:492
+msgid "Custom Small Device Width"
+msgstr "Larghezza personalizzata dispositivi piccoli"
+
+#: includes/column-settings.php:476
+msgid "The width of this column on small devices such as phones."
+msgstr "La larghezza della colonna su dispositivi piccoli come i telefoni."
+
+#: includes/column-settings.php:475
+msgid "Small Device Width"
+msgstr "Larghezza dispositivi piccoli"
+
+#: includes/column-settings.php:464
+msgid "Custom Medium Device Width"
+msgstr "Larghezza personalizzata dispositivi medi"
+
+#: includes/column-settings.php:448
+msgid "The width of this column on medium devices such as tablets."
+msgstr "La larghezza della colonna su dispositivi medi come i tablet."
+
+#: includes/column-settings.php:447
+msgid "Medium Device Width"
+msgstr "Larghezza dispositivi medi"
+
+#: includes/column-settings.php:440
+msgid "Choose whether to show or hide this column at different device sizes."
+msgstr "Scegli se visualizzare o nascondere questa colonna a diverse dimensioni dei dispositivi."
+
+#: includes/column-settings.php:438 includes/module-settings.php:73
+#: includes/row-settings.php:617
+msgid "Small Devices Only"
+msgstr "Solo dispositivi piccoli"
+
+#: includes/column-settings.php:437 includes/module-settings.php:72
+#: includes/row-settings.php:616
+msgid "Medium &amp; Small Devices Only"
+msgstr "Solo dispositivi medi e piccoli"
+
+#: includes/column-settings.php:436 includes/module-settings.php:71
+#: includes/row-settings.php:615
+msgid "Medium Devices Only"
+msgstr "Solo dispositivi medi"
+
+#: includes/column-settings.php:435 includes/module-settings.php:70
+#: includes/row-settings.php:614
+msgid "Large &amp; Medium Devices Only"
+msgstr "Solo dispositivi grandi e medi"
+
+#: includes/column-settings.php:434 includes/module-settings.php:69
+#: includes/row-settings.php:613
+msgid "Large Devices Only"
+msgstr "Solo dispositivi grandi"
+
+#: includes/column-settings.php:433 includes/module-settings.php:68
+#: includes/row-settings.php:612
+msgid "Always"
+msgstr "Sempre"
+
+#: includes/column-settings.php:431 includes/module-settings.php:66
+#: includes/row-settings.php:610
+msgid "Display"
+msgstr "Visualizza"
+
+#: includes/column-settings.php:427 includes/global-settings.php:103
+#: includes/module-settings.php:62 includes/row-settings.php:606
+msgid "Responsive Layout"
+msgstr "Layout reattivo"
+
+#: includes/column-settings.php:361 includes/column-settings.php:414
+#: includes/module-settings.php:49 includes/row-settings.php:540
+#: includes/row-settings.php:593 modules/photo/photo.php:435
+msgid "Right"
+msgstr "Destra"
+
+#: includes/column-settings.php:349 includes/column-settings.php:402
+#: includes/module-settings.php:37 includes/row-settings.php:528
+#: includes/row-settings.php:581 modules/photo/photo.php:433
+msgid "Left"
+msgstr "Sinistra"
+
+#: includes/column-settings.php:337 includes/column-settings.php:390
+#: includes/module-settings.php:25 includes/row-settings.php:516
+#: includes/row-settings.php:569
+msgid "Bottom"
+msgstr "Basso"
+
+#: includes/column-settings.php:325 includes/column-settings.php:378
+#: includes/module-settings.php:13 includes/row-settings.php:504
+#: includes/row-settings.php:557
+msgid "Top"
+msgstr "Alto"
+
+#: includes/column-settings.php:321 includes/global-settings.php:41
+#: includes/global-settings.php:94 includes/module-settings.php:9
+#: includes/row-settings.php:500
+msgid "Margins"
+msgstr "Margini"
+
+#: includes/column-settings.php:318 includes/module-settings.php:6
+#: includes/row-settings.php:497
+msgid "Advanced"
+msgstr "Avanzato"
+
+#: includes/column-settings.php:303 includes/row-settings.php:482
+msgid "Right Width"
+msgstr "Larghezza destra"
+
+#: includes/column-settings.php:291 includes/row-settings.php:470
+msgid "Left Width"
+msgstr "Larghezza sinistra"
+
+#: includes/column-settings.php:279 includes/row-settings.php:458
+msgid "Bottom Width"
+msgstr "Larghezza inferiore"
+
+#: includes/column-settings.php:267 includes/row-settings.php:446
+msgid "Top Width"
+msgstr "Larghezza superiore"
+
+#: includes/column-settings.php:223 includes/row-settings.php:402
+msgctxt "Border type."
+msgid "Double"
+msgstr "Doppio"
+
+#: includes/column-settings.php:222 includes/row-settings.php:401
+msgctxt "Border type."
+msgid "Dotted"
+msgstr "Punteggiato"
+
+#: includes/column-settings.php:221 includes/row-settings.php:400
+msgctxt "Border type."
+msgid "Dashed"
+msgstr "Tratteggiato"
+
+#: includes/column-settings.php:220 includes/row-settings.php:399
+msgctxt "Border type."
+msgid "Solid"
+msgstr "Solido"
+
+#: includes/column-settings.php:219 includes/row-settings.php:398
+msgctxt "Border type."
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/column-settings.php:217 includes/row-settings.php:396
+msgid "The type of border to use. Double borders must have a width of at least 3px to render properly."
+msgstr "Il tipo di bordo da utilizzare. I bordi doppi devono avere una larghezza di almeno 3px per essere visualizzati correttamente."
+
+#: includes/column-settings.php:211 includes/row-settings.php:390
+msgid "Border"
+msgstr "Bordo"
+
+#: includes/column-settings.php:199 includes/row-settings.php:378
+msgid "Overlay Opacity"
+msgstr "Opacità overlay"
+
+#: includes/column-settings.php:191 includes/row-settings.php:370
+msgid "Overlay Color"
+msgstr "Colore overlay"
+
+#: includes/column-settings.php:187 includes/row-settings.php:366
+msgid "Background Overlay"
+msgstr "Sfondo overlay"
+
+#: includes/column-settings.php:179 includes/row-settings.php:219
+msgid "Scale applies to how the image should display in the background. You can select either fill or fit to the background."
+msgstr "La scala si applica a come si dovrebbe visualizzare l'immagine sullo sfondo. È possibile selezionare o riempimento o adatta allo sfondo della riga."
+
+#: includes/column-settings.php:177 includes/row-settings.php:217
+msgid "Fill"
+msgstr "Riempi"
+
+#: includes/column-settings.php:176 includes/row-settings.php:216
+msgid "Fit"
+msgstr "Adatta"
+
+#: includes/column-settings.php:175 includes/row-settings.php:215
+msgctxt "Background scale."
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/column-settings.php:172 includes/row-settings.php:212
+msgid "Scale"
+msgstr "Scala"
+
+#: includes/column-settings.php:165 includes/row-settings.php:205
+msgid "Attachment will specify how the image reacts when scrolling a page. When scrolling is selected, the image will scroll with page scrolling. This is the default setting. Fixed will allow the image to scroll within the background if fill is selected in the scale setting."
+msgstr "L'attaccatura specificherà come reagisce l'immagine durante lo scorrimento di pagina. Quando lo scorrimento è selezionato, l'immagine scorre con lo scorrimento della pagina. Questa è l'impostazione predefinita. Fisso permette all'immagine di scorrere all'interno dello sfondo se nelle impostazioni di scala è selezionato riempimento."
+
+#: includes/column-settings.php:163 includes/global-settings.php:69
+#: includes/global-settings.php:83 includes/row-settings.php:19
+#: includes/row-settings.php:37 includes/row-settings.php:203
+msgid "Fixed"
+msgstr "Fissa"
+
+#: includes/column-settings.php:162 includes/row-settings.php:202
+msgid "Scroll"
+msgstr "Scorrimento"
+
+#: includes/column-settings.php:152 includes/row-settings.php:192
+msgid "Position will tell the image where it should sit in the background."
+msgstr "La posizione sistemerà l'immagine sullo sfondo."
+
+#: includes/column-settings.php:150 includes/row-settings.php:190
+msgid "Center Bottom"
+msgstr "Centro Basso"
+
+#: includes/column-settings.php:149 includes/row-settings.php:189
+#: modules/photo/photo.php:434
+msgid "Center"
+msgstr "Centro"
+
+#: includes/column-settings.php:148 includes/row-settings.php:188
+msgid "Center Top"
+msgstr "Centro Alto"
+
+#: includes/column-settings.php:147 includes/row-settings.php:187
+msgid "Right Bottom"
+msgstr "Destra Basso"
+
+#: includes/column-settings.php:146 includes/row-settings.php:186
+msgid "Right Center"
+msgstr "Destra Centro"
+
+#: includes/column-settings.php:145 includes/row-settings.php:185
+msgid "Right Top"
+msgstr "Destra Alto"
+
+#: includes/column-settings.php:144 includes/row-settings.php:184
+msgid "Left Bottom"
+msgstr "Sinistra Basso"
+
+#: includes/column-settings.php:143 includes/row-settings.php:183
+msgid "Left Center"
+msgstr "Sinistra Centro"
+
+#: includes/column-settings.php:142 includes/row-settings.php:182
+msgid "Left Top"
+msgstr "Sinistra Alto"
+
+#: includes/column-settings.php:139 includes/row-settings.php:179
+msgid "Position"
+msgstr "Posizione"
+
+#: includes/column-settings.php:132 includes/row-settings.php:172
+msgid "Repeat applies to how the image should display in the background. Choosing none will display the image as uploaded. Tile will repeat the image as many times as needed to fill the background horizontally and vertically. You can also specify the image to only repeat horizontally or vertically."
+msgstr "Ripeti si applica a come mostrare l'immagine nello sfondo. Scegliendo nessuno mostrerà l'immagine così come caricata. Tassello ripeterà l'immagine tante volte quanto necessario per riempire lo sfondo in orizontale e verticale. Puoi anche specificare di ripetere l'immagine solo in orizontale o verticale."
+
+#: includes/column-settings.php:130 includes/row-settings.php:170
+msgctxt "Background repeat."
+msgid "Vertical"
+msgstr "Verticale"
+
+#: includes/column-settings.php:129 includes/row-settings.php:169
+msgctxt "Background repeat."
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: includes/column-settings.php:128 includes/row-settings.php:168
+msgctxt "Background repeat."
+msgid "Tile"
+msgstr "Tassello"
+
+#: includes/column-settings.php:127 includes/row-settings.php:167
+msgctxt "Background repeat."
+msgid "None"
+msgstr "Nessuna"
+
+#: includes/column-settings.php:124 includes/row-settings.php:164
+msgid "Repeat"
+msgstr "Ripetizione"
+
+#: includes/column-settings.php:117 includes/row-settings.php:157
+#: includes/row-settings.php:345 modules/photo/photo.php:25
+#: modules/photo/photo.php:408
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/column-settings.php:113 includes/row-settings.php:153
+msgid "Background Photo"
+msgstr "Foto di sfondo"
+
+#: includes/column-settings.php:101 includes/column-settings.php:256
+#: includes/row-settings.php:141 includes/row-settings.php:435
+msgid "Opacity"
+msgstr "Opacità"
+
+#: includes/column-settings.php:89 includes/row-settings.php:129
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: includes/column-settings.php:72 includes/row-settings.php:94
+msgctxt "Background type."
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/column-settings.php:71 includes/row-settings.php:93
+msgctxt "Background type."
+msgid "Color"
+msgstr "Colore"
+
+#: includes/column-settings.php:70 includes/row-settings.php:92
+msgctxt "Background type."
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/column-settings.php:67 includes/column-settings.php:215
+#: includes/row-settings.php:89 includes/row-settings.php:394
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/column-settings.php:63 includes/row-settings.php:85
+msgid "Background"
+msgstr "Sfondo"
+
+#: includes/column-settings.php:54 includes/row-settings.php:76
+msgid "Heading Color"
+msgstr "Colore intestazione"
+
+#: includes/column-settings.php:46 includes/row-settings.php:68
+msgid "Link Hover Color"
+msgstr "Colore collegamento al passaggio del mouse"
+
+#: includes/column-settings.php:38 includes/row-settings.php:60
+msgid "Link Color"
+msgstr "Colore collegamento"
+
+#: includes/column-settings.php:30 includes/column-settings.php:93
+#: includes/column-settings.php:248 includes/row-settings.php:133
+#: includes/row-settings.php:427
+msgid "Color"
+msgstr "Colore"
+
+#: includes/column-settings.php:26
+msgid "Text"
+msgstr "Testo"
+
+#: includes/column-settings.php:14
+msgid "Column Width"
+msgstr "Larghezza colonna"
+
+#: includes/column-settings.php:7 includes/module-settings.php:87
+#: includes/row-settings.php:9
+msgid "Style"
+msgstr "Stile"
+
+#: includes/column-settings.php:4 includes/js-config.php:23
+msgid "Column Settings"
+msgstr "Impostazioni colonna"
+
+#: includes/admin-settings-upgrade.php:9
+msgid "Learn More"
+msgstr "Ulteriori informazioni"
+
+#: includes/admin-settings-upgrade.php:7
+msgid "Upgrade Now"
+msgstr "Aggiorna ora"
+
+#: includes/admin-settings-upgrade.php:5
+msgid "You are currently running the lite version of the Beaver Builder plugin. Upgrade today for access to premium features such as advanced modules, templates, support and more!"
+msgstr "Stai usando la versione lite del plugin Beaver Builder. Aggiorna oggi per accedere a funzioni premium come moduli avanzati, modelli, supporto e altro!"
+
+#: includes/admin-settings-uninstall.php:7
+msgid "The builder does not delete the post meta <code>_fl_builder_data</code>, <code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> in case you want to reinstall it later. If you do, the builder will rebuild all of its data using those meta values."
+msgstr "Il builder non elimina il post meta <code>_fl_builder_data</code> , <code>_fl_builder_draft</code> e <code>_fl_builder_enabled</code> nel caso in cui si desidera reinstallarlo successivamente. Se lo fai, il builder ricostruirà tutti i suoi dati utilizzando quei valori meta."
+
+#: includes/admin-settings-uninstall.php:5
+msgid "Clicking the button below will uninstall the page builder plugin and delete all of the data associated with it. You can uninstall or deactivate the page builder from the plugins page instead if you do not wish to delete the data."
+msgstr "Clicca sul pulsante qui sotto per disinstallare il page builder plugin e rimuovere tutti i dati ad esso associati. È possibile disinstallare o disattivare il page builder dalla pagina dei plugin se invece non si desidera eliminare i dati."
+
+#: includes/admin-settings-post-types.php:70
+msgid "Save Post Types"
+msgstr "Salva tipi di Post"
+
+#: includes/admin-settings-post-types.php:38
+msgid "Select the post types you would like the builder to work with."
+msgstr "Seleziona i tipi di post su cui vuoi abilitare il builder."
+
+#: includes/admin-settings-post-types.php:34
+msgid "Example: page, post, product"
+msgstr "Esempio: pagina, articolo, prodotto"
+
+#: includes/admin-settings-post-types.php:19
+#: includes/admin-settings-post-types.php:39
+msgid "NOTE: Not all custom post types may be supported."
+msgstr "Nota: Non tutti i tipi di post personalizzati potrebbero essere supportati."
+
+#: includes/admin-settings-post-types.php:18
+msgid "Enter a comma separated list of the post types you would like the builder to work with."
+msgstr "Inserisci una lista separata da virgole dei tipi di post su cui desideri attivare il builder."
+
+#: includes/admin-settings-modules.php:64
+msgid "Save Module Settings"
+msgstr "Salvare le impostazioni del modulo"
+
+#: includes/admin-settings-modules.php:26
+msgctxt "Plugin setup page: Modules."
+msgid "All"
+msgstr "Tutti"
+
+#: includes/admin-settings-modules.php:16
+msgid "Check or uncheck modules below to enable or disable them."
+msgstr "Selezionare o deselezionare i moduli sottostanti per abilitarli o disabilitarli."
+
+#: includes/admin-settings-modules.php:3
+msgid "Enabled Modules"
+msgstr "Moduli abilitati"
+
+#: includes/admin-settings-js-config.php:5
+msgid "Please type \"uninstall\" in the box below to confirm that you really want to uninstall the page builder and all of its data."
+msgstr "Si prega di digitare \"uninstall\" nella casella qui sotto per confermare che si desidera davvero disinstallare il page builder e tutti i relativi dati."
+
+#: includes/admin-settings-js-config.php:4
+msgid "Select File"
+msgstr "Seleziona file"
+
+#: includes/admin-settings-editing.php:22
+msgid "Save Editing Settings"
+msgstr "Salva le impostazioni di modifica"
+
+#: includes/admin-settings-editing.php:16
+msgid "Set the <a%s>capability</a> required for users to access advanced builder editing such as adding, deleting or moving modules."
+msgstr "Imposta la <a%s>capacità</a> necessaria degli utenti per accedere al builder avanzato e aggiungere, eliminare o spostare i moduli."
+
+#: includes/admin-settings-editing.php:10
+#: includes/admin-settings-modules.php:10
+#: includes/admin-settings-post-types.php:10
+msgid "Override network settings?"
+msgstr "Eseguire l'override delle impostazioni di rete?"
+
+#: includes/admin-settings-editing.php:3
+msgid "Editing Settings"
+msgstr "Impostazioni di modifica"
+
+#: includes/admin-settings-cache.php:19
+msgid "Clear Cache"
+msgstr "Svuota cache"
+
+#: includes/admin-settings-cache.php:14
+msgid "This only applies to this site. Please visit the Network Admin Settings to clear the cache for all sites on the network."
+msgstr "Ciò si applica solo a questo sito. Si prega di visitare le impostazioni amministrative di rete per svuotare la cache di tutti i siti della rete."
+
+#: includes/admin-settings-cache.php:12
+#: includes/admin-settings-uninstall.php:10
+#: includes/updater/includes/form.php:31
+msgid "This applies to all sites on the network."
+msgstr "Questo vale per tutti i siti della rete."
+
+#: includes/admin-settings-cache.php:12 includes/admin-settings-cache.php:14
+#: includes/admin-settings-uninstall.php:7
+#: includes/admin-settings-uninstall.php:10
+#: includes/updater/includes/form.php:31
+msgid "NOTE:"
+msgstr "NOTA:"
+
+#: includes/admin-settings-cache.php:9
+msgid "A CSS and JavaScript file is dynamically generated and cached each time you create a new layout. Sometimes the cache needs to be refreshed when you migrate your site to another server or update to the latest version. If you are running into any issues, please try clearing the cache by clicking the button below."
+msgstr "Ogni volta che crei un layout vengono generati dinamicamente un file CSS e Javascript. Qualche volta la cache deve essere rigenerata quando migri il tuo sito ad un'altro server o aggiorni all'ultima versione. Se stai avendo qualche problema, si prega di provare a svuotare la cache cliccando il bottone di sotto."
+
+#: includes/admin-posts.php:15
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Switching to Text Editor mode will disable your %s layout until it is enabled again. Any edits made while in Text Editor mode will not be made on your %s layout. Do you want to continue?"
+msgstr "Tornando alla modalità Text Editor i layout di %s saranno disabilitati finchè non lo riattivi. Le modifiche apportate in modalità Text Editor non saranno effettuate sul tuo layout %s. Vuoi continuare?"
+
+#: includes/admin-posts.php:8
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Launch %s"
+msgstr "Lancia %s"
+
+#: includes/admin-posts.php:7
+msgctxt "The first %s stands for custom branded \"Page Builder\" name. The second %s stands for the post type name."
+msgid "%s is currently active for this %s."
+msgstr "%s è attualmente attivo per questo %s."
+
+#: includes/admin-posts.php:3 modules/rich-text/rich-text.php:14
+msgid "Text Editor"
+msgstr "Editor di testo"
+
+#: classes/class-fl-builder.php:1416 includes/js-config.php:69
+msgctxt "%s stands for module name."
+msgid "%s Settings"
+msgstr "impostazioni %s"
+
+#: classes/class-fl-builder.php:959
+msgctxt "Custom taxonomy label."
+msgid "New Category Name"
+msgstr "Nome nuova categoria"
+
+#: classes/class-fl-builder.php:958
+msgctxt "Custom taxonomy label."
+msgid "Add New Category"
+msgstr "Aggiungi nuova categoria"
+
+#: classes/class-fl-builder.php:957
+msgctxt "Custom taxonomy label."
+msgid "Update Category"
+msgstr "Aggiorna categoria"
+
+#: classes/class-fl-builder.php:956
+msgctxt "Custom taxonomy label."
+msgid "Edit Category"
+msgstr "Modifica categoria"
+
+#: classes/class-fl-builder.php:955
+msgctxt "Custom taxonomy label."
+msgid "Parent Category:"
+msgstr "Categoria genitore:"
+
+#: classes/class-fl-builder.php:954
+msgctxt "Custom taxonomy label."
+msgid "Parent Category"
+msgstr "Categoria genitore"
+
+#: classes/class-fl-builder.php:953
+msgctxt "Custom taxonomy label."
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: classes/class-fl-builder.php:952
+msgctxt "Custom taxonomy label."
+msgid "Search Categories"
+msgstr "Cerca categorie"
+
+#: classes/class-fl-builder.php:951
+msgctxt "Custom taxonomy label."
+msgid "Category"
+msgstr "Categoria"
+
+#: classes/class-fl-builder.php:950 classes/class-fl-builder.php:960
+msgctxt "Custom taxonomy label."
+msgid "Categories"
+msgstr "Categorie"
+
+#: classes/class-fl-builder.php:936
+msgctxt "Custom post type label."
+msgid "No templates found in Trash."
+msgstr "Nessun modello trovato nel cestino."
+
+#: classes/class-fl-builder.php:935
+msgctxt "Custom post type label."
+msgid "No templates found."
+msgstr "Nessun modello trovato."
+
+#: classes/class-fl-builder.php:934
+msgctxt "Custom post type label."
+msgid "Parent Templates:"
+msgstr "Modelli genitore:"
+
+#: classes/class-fl-builder.php:933
+msgctxt "Custom post type label."
+msgid "Search Templates"
+msgstr "Cerca modelli"
+
+#: classes/class-fl-builder.php:932
+msgctxt "Custom post type label."
+msgid "All Templates"
+msgstr "Tutti i modelli"
+
+#: classes/class-fl-builder.php:931
+msgctxt "Custom post type label."
+msgid "View Template"
+msgstr "Visualizza modello"
+
+#: classes/class-fl-builder.php:930
+msgctxt "Custom post type label."
+msgid "Edit Template"
+msgstr "Modifica modello"
+
+#: classes/class-fl-builder.php:929
+msgctxt "Custom post type label."
+msgid "New Template"
+msgstr "Nuovo modello"
+
+#: classes/class-fl-builder.php:928
+msgctxt "Custom post type label."
+msgid "Add New Template"
+msgstr "Aggiungi nuovo modello"
+
+#: classes/class-fl-builder.php:927
+msgctxt "Custom post type label."
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: classes/class-fl-builder.php:833
+msgctxt "Field name to add."
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#: classes/class-fl-builder-services.php:302
+msgid "Account"
+msgstr "Account"
+
+#: classes/class-fl-builder-services.php:295
+msgid "Add Account..."
+msgstr "Aggiungi account..."
+
+#: classes/class-fl-builder-services.php:267
+msgid "Connect"
+msgstr "Connetti"
+
+#: classes/class-fl-builder-services.php:254
+msgid "Used to identify this connection within the accounts list and can be anything you like."
+msgstr "Usato per identificare questo collegamento nella lista degli account e può essere ciò che preferisci."
+
+#: classes/class-fl-builder-services.php:253
+msgid "Account Name"
+msgstr "Nome account"
+
+#: classes/class-fl-builder-services.php:173
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: An account with that name already exists."
+msgstr "Errore: esiste già un account con quel nome."
+
+#: classes/class-fl-builder-services.php:164
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: Missing account name."
+msgstr "Errore: nome account mancante."
+
+#: classes/class-fl-builder-services.php:161
+msgctxt "Connection data such as an API key."
+msgid "Error: Missing service data."
+msgstr "Errore: dati di servizio mancanti."
+
+#: classes/class-fl-builder-services.php:158
+msgctxt "Third party service such as MailChimp."
+msgid "Error: Missing service type."
+msgstr "Errore: tipo di servizio mancante."
+
+#: classes/class-fl-builder-service-sendinblue.php:223
+msgid "Error: Could not subscribe to SendinBlue. %s"
+msgstr "Errore: Impossibile sottoscrivere SendinBlue . %s"
+
+#: classes/class-fl-builder-service-sendinblue.php:220
+msgid "There was an error subscribing to SendinBlue. Please try again."
+msgstr "Si è verificato un errore nell'iscrizione a SendinBlue. Si prega di riprovare."
+
+#: classes/class-fl-builder-service-sendinblue.php:198
+msgid "There was an error subscribing to SendinBlue. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a SendinBlue. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-sendinblue.php:104
+msgid "Your Access Key can be found in your SendinBlue account under API & Integration > Manager Your Keys > Version 2.0 > Access Key."
+msgstr "Puoi trovare la tua chiave API nel tuo account SendinBlue sotto API & Integration > Manager Your Keys > Version 2.0 > Access Key."
+
+#: classes/class-fl-builder-service-sendinblue.php:103
+msgid "Access Key"
+msgstr "Chiave di accesso"
+
+#: classes/class-fl-builder-service-sendinblue.php:79
+#: classes/class-fl-builder-service-sendinblue.php:139
+msgid "Error: Could not connect to SendinBlue. %s"
+msgstr "Errore: Impossibile connettersi a SendinBlue. %s"
+
+#: classes/class-fl-builder-service-sendinblue.php:76
+#: classes/class-fl-builder-service-sendinblue.php:136
+msgid "There was an error connecting to SendinBlue. Please try again."
+msgstr "Si è verificato un errore nella connessione a SendinBlue. Si prega di riprovare."
+
+#: classes/class-fl-builder-service-sendinblue.php:67
+msgid "Error: You must provide an Access Key."
+msgstr "Errore: devi fornire una chiave di accesso."
+
+#: classes/class-fl-builder-service-mailpoet.php:129
+msgid "There was an error subscribing. MailPoet is not installed."
+msgstr "Si è verificato un'errore nell'iscrizione. MailPoet non è installato."
+
+#: classes/class-fl-builder-service-mailpoet.php:73
+msgid "There was an error retrieveing your lists."
+msgstr "Si è verificato un'errore nell'ottenere le tue liste."
+
+#: classes/class-fl-builder-service-mailchimp.php:352
+msgid "There was an error subscribing to MailChimp. %s"
+msgstr "Si è verificato un errore nell'iscrizione a MailChimp. %s"
+
+#: classes/class-fl-builder-service-mailchimp.php:255
+msgid "There was an error subscribing to MailChimp. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a MailChimp. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-mailchimp.php:227
+msgctxt "MailChimp list group."
+msgid "Groups"
+msgstr "Gruppi"
+
+#: classes/class-fl-builder-service-mailchimp.php:215
+msgid "No Group"
+msgstr "Nessun gruppo"
+
+#: classes/class-fl-builder-service-mailchimp.php:101
+msgid "Your API key can be found in your MailChimp account under Account > Extras > API Keys."
+msgstr "Puoi trovare la tua chiave API nel tuo account MailChimp sotto Account > Extras > API Keys."
+
+#: classes/class-fl-builder-service-madmimi.php:215
+#: classes/class-fl-builder-service-madmimi.php:242
+msgid "There was an error subscribing to Mad Mimi. The account is no longer connected."
+msgstr "Si è verificato un'errore nell'iscrizione a Mad Mimi. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-madmimi.php:156
+msgid "There was a problem retrieving your lists. Please check your API credentials."
+msgstr "Si è verificato un problema nell'ottenere le tue liste. Si prega di verificare le credenziali API."
+
+#: classes/class-fl-builder-service-madmimi.php:122
+msgid "Your API key can be found in your Mad Mimi account under Account > Settings &amp; Billing > API."
+msgstr "Puoi trovare la tua chiave API nell'account Mad Mimi sotto Account > Settings &amp; Billing > API."
+
+#: classes/class-fl-builder-service-madmimi.php:111
+msgid "The email address associated with your Mad Mimi account."
+msgstr "L'indirizzo email associato al tuo account Mad Mimi."
+
+#: classes/class-fl-builder-service-madmimi.php:83
+msgid "Unable to connect to Mad Mimi. Please check your credentials."
+msgstr "Impossibile connettersi a Mad Mimi. Si prega di verificare le credenziali."
+
+#: classes/class-fl-builder-service-infusionsoft.php:291
+msgid "There was an error subscribing to Infusionsoft. %s"
+msgstr "Si è verificato un errore nell'iscrizione a Infusionsoft. %s"
+
+#: classes/class-fl-builder-service-infusionsoft.php:242
+msgid "There was an error subscribing to Infusionsoft. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a Infusionsoft. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-infusionsoft.php:130
+msgid "Your API key can be found in your Infusionsoft account under Admin > Settings > Application > API > Encrypted Key."
+msgstr "Puoi trovare la tua chiave API nel tuo account Infusionsoft sotto Admin > Settings > Application > API > Encrypted Key."
+
+#: classes/class-fl-builder-service-infusionsoft.php:119
+msgid "Your App ID can be found in the URL for your account. For example, if the URL for your account is myaccount.infusionsoft.com, your App ID would be <strong>myaccount</strong>."
+msgstr "Il tuo App ID si può trovare nella URL del tuo account. Per esempio, se la URL del tuo account è myaccount.infusionsoft.com, la tua App ID sarà <strong>myaccount</strong>."
+
+#: classes/class-fl-builder-service-infusionsoft.php:83
+msgid "Error: You must provide an app ID."
+msgstr "Errore: devi fornire una app ID."
+
+#: classes/class-fl-builder-service-infusionsoft.php:49
+msgid "There was an error connecting to Infusionsoft. %s"
+msgstr "Si è verificato un errore nella connessione a Infusionsoft. %s"
+
+#: classes/class-fl-builder-service-icontact.php:280
+msgid "There was an error subscribing to iContact. %s"
+msgstr "Si è verificato un errore nell'iscrizione a iContact. %s"
+
+#: classes/class-fl-builder-service-icontact.php:244
+msgid "There was an error subscribing to iContact. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione ad iContact. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-icontact.php:149
+msgid "You must <a%s>create an app</a> in iContact to obtain an app ID and password. Please see <a%s>the iContact docs</a> for complete instructions."
+msgstr "Devi <a%s>creare un'applicazione</a> in iContact per ottenere un ID applicazione e password. Si prega di consultare <a%s>la documentazione di iContact</a> per le istruzioni complete."
+
+#: classes/class-fl-builder-service-icontact.php:148
+msgid "Your iContact app password."
+msgstr "La tua password applicazione iContact."
+
+#: classes/class-fl-builder-service-icontact.php:147
+msgid "App Password"
+msgstr "Password applicazione"
+
+#: classes/class-fl-builder-service-icontact.php:137
+msgid "Your iContact app ID."
+msgstr "Il tuo ID applicazione iContact."
+
+#: classes/class-fl-builder-service-icontact.php:136
+#: classes/class-fl-builder-service-infusionsoft.php:118
+msgid "App ID"
+msgstr "ID applicazione"
+
+#: classes/class-fl-builder-service-icontact.php:126
+msgid "Your iContact username."
+msgstr "Il tuo nome utente iContact."
+
+#: classes/class-fl-builder-service-icontact.php:125
+msgid "Username"
+msgstr "Nome utente"
+
+#: classes/class-fl-builder-service-icontact.php:104
+#: classes/class-fl-builder-service-icontact.php:188
+msgid "Error: Could not connect to iContact. %s"
+msgstr "Errore: non è possibile connettersi ad iContact. %s"
+
+#: classes/class-fl-builder-service-icontact.php:83
+msgid "Error: You must provide a app password."
+msgstr "Errore: devi fornire una password applicazione."
+
+#: classes/class-fl-builder-service-icontact.php:79
+msgid "Error: You must provide a app ID."
+msgstr "Errore: devi fornire un ID applicazione."
+
+#: classes/class-fl-builder-service-icontact.php:75
+msgid "Error: You must provide a username."
+msgstr "Errore: devi fornire un nome utente."
+
+#: classes/class-fl-builder-service-hatchbuck.php:200
+#: classes/class-fl-builder-service-hatchbuck.php:232
+msgid "There was an error subscribing to Hatchbuck."
+msgstr "Si è verificato un'errore nell'iscrizione a Hatchbuck."
+
+#: classes/class-fl-builder-service-hatchbuck.php:190
+msgid "There was an error subscribing to Hatchbuck. The API key is invalid."
+msgstr "Si è verificato un errore nell'iscrizione a Hatchbuck. La chiave API non è valida."
+
+#: classes/class-fl-builder-service-hatchbuck.php:161
+msgid "There was an error subscribing to Hatchbuck. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a Hatchbuck. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-hatchbuck.php:134
+msgctxt "A tag to add to contacts in Hatchbuck when they subscribe."
+msgid "Tag"
+msgstr "Tag"
+
+#: classes/class-fl-builder-service-hatchbuck.php:88
+msgid "Your API key can be found in your Hatchbuck account under Account Settings > Web API."
+msgstr "La tua chiave API può essere trovata nel tuo account Hatchbuck in Account Settings > Web API."
+
+#: classes/class-fl-builder-service-getresponse.php:202
+msgid "There was an error subscribing to GetResponse. %s"
+msgstr "Si è verificato un errore nell'iscrizione a GetResponse. %s"
+
+#: classes/class-fl-builder-service-getresponse.php:191
+msgid "There was an error subscribing to GetResponse. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a GetResponse. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-getresponse.php:101
+msgid "Your API key can be found in your GetResponse account under My Account > GetResponse API."
+msgstr "Puoi trovare la tua chiave API nel tuo account su GetResponse sotto Il mio account > GetResponse API."
+
+#: classes/class-fl-builder-service-email-address.php:124
+msgid "There was an error subscribing. Please try again."
+msgstr "Si è verificato un errore nell'iscrizione. Riprova, per favore."
+
+#: classes/class-fl-builder-service-email-address.php:118
+msgid "Name"
+msgstr "Nome"
+
+#: classes/class-fl-builder-service-email-address.php:115
+msgid "Email"
+msgstr "Email"
+
+#: classes/class-fl-builder-service-email-address.php:114
+msgid "Subscribe Form Signup"
+msgstr "Modulo di iscrizione"
+
+#: classes/class-fl-builder-service-email-address.php:110
+msgid "There was an error subscribing. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione. L'account non è più connesso. "
+
+#: classes/class-fl-builder-service-email-address.php:63
+#: classes/class-fl-builder-service-madmimi.php:110
+msgid "Email Address"
+msgstr "Indirizzo email"
+
+#: classes/class-fl-builder-service-email-address.php:39
+#: classes/class-fl-builder-service-madmimi.php:69
+msgid "Error: You must provide an email address."
+msgstr "Errore: devi fornire un indirizzo email."
+
+#: classes/class-fl-builder-service-constant-contact.php:245
+#: classes/class-fl-builder-service-constant-contact.php:279
+msgid "There was an error subscribing to Constant Contact. %s"
+msgstr "Si è verificato un errore nell'iscrizione a Constant Contact. %s"
+
+#: classes/class-fl-builder-service-constant-contact.php:193
+msgid "There was an error subscribing to Constant Contact. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a Constant Contact. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-constant-contact.php:101
+msgid "You must register a <a%s>Developer Account</a> with Constant Contact to obtain an API key and access token. Please see <a%s>Getting an API key</a> for complete instructions."
+msgstr "Devi registrare un <a%s>Account sviluppatore</a> su Constant Contact per ottenere una chiave API e un token di accesso, Si prega di consultare <a%s>Prendere una chiave API</a> per istruzioni complete."
+
+#: classes/class-fl-builder-service-constant-contact.php:100
+msgid "Your Constant Contact access token."
+msgstr "Il tuo token di accesso a Constant Contact"
+
+#: classes/class-fl-builder-service-constant-contact.php:99
+msgid "Access Token"
+msgstr "Token di accesso"
+
+#: classes/class-fl-builder-service-constant-contact.php:89
+msgid "Your Constant Contact API key."
+msgstr "La tua chiave API Constant Contact."
+
+#: classes/class-fl-builder-service-constant-contact.php:61
+#: classes/class-fl-builder-service-constant-contact.php:134
+msgid "Error: Could not connect to Constant Contact. %s"
+msgstr "Errore: impossibile connettersi a Constant Contact. %s "
+
+#: classes/class-fl-builder-service-constant-contact.php:52
+msgid "Error: You must provide an access token."
+msgstr "Errore: devi fornire un token di accesso."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:253
+msgid "There was an error subscribing to Campaign Monitor."
+msgstr "Si è verificato un'errore nell'iscrizione a Campaign Monitor."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:236
+msgid "There was an error subscribing to Campaign Monitor. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione a Campaign Monitor. L'account non è più connesso."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:158
+msgctxt "A client account in Campaign Monitor."
+msgid "Client"
+msgstr "Client"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:89
+msgid "Your API key can be found in your Campaign Monitor account under Account Settings > API Key."
+msgstr "Puoi trovare la tua chiave API nell'account Campaign Monitor sotto Impostazioni Account > Chiave API."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:67
+#: classes/class-fl-builder-service-campaign-monitor.php:129
+#: classes/class-fl-builder-service-getresponse.php:76
+#: classes/class-fl-builder-service-getresponse.php:132
+#: classes/class-fl-builder-service-hatchbuck.php:63
+msgid "Error: Please check your API key."
+msgstr "Errore: si prega di verificare la chiave API."
+
+#: classes/class-fl-builder-service-aweber.php:247
+msgid "There was an error subscribing to AWeber. %s"
+msgstr "Si è verificato un'errore nell'iscrizione ad AWeber. %s"
+
+#: classes/class-fl-builder-service-aweber.php:242
+msgid "There was an error connecting to AWeber. Please try again."
+msgstr "Si è verificato un errore nella connessione ad AWeber. Si prega di riprovare."
+
+#: classes/class-fl-builder-service-aweber.php:219
+msgid "There was an error subscribing to AWeber. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione ad Aweber. L'account non è più connesso. "
+
+#: classes/class-fl-builder-service-aweber.php:128
+msgid "Please register this website with AWeber to get your Authorization Code. <a%s>Register Now</a>"
+msgstr "Si prega di registrare questo sito su AWeber per ottenere il tuo codice di autorizzazione. <a%s>Registra ora</a>"
+
+#: classes/class-fl-builder-service-aweber.php:127
+msgid "Authorization Code"
+msgstr "Codice di autorizzazione"
+
+#: classes/class-fl-builder-service-aweber.php:76
+msgid "Error: Please enter a valid Authorization Code."
+msgstr "Errore: si prega di inserire un codice di autorizzazione valido."
+
+#: classes/class-fl-builder-service-aweber.php:72
+msgid "Error: You must provide an Authorization Code."
+msgstr "Errore: devi fornire un codice di autorizzazione."
+
+#: classes/class-fl-builder-service-activecampaign.php:239
+msgid "Error: Invalid API data."
+msgstr "Errore: dati API non validi."
+
+#: classes/class-fl-builder-service-activecampaign.php:208
+msgid "There was an error subscribing to ActiveCampaign. The account is no longer connected."
+msgstr "Si è verificato un errore nell'iscrizione ad ActiveCampaign. L'account non è più connesso. "
+
+#: classes/class-fl-builder-service-activecampaign.php:181
+#: classes/class-fl-builder-service-aweber.php:192
+#: classes/class-fl-builder-service-campaign-monitor.php:209
+#: classes/class-fl-builder-service-constant-contact.php:166
+#: classes/class-fl-builder-service-getresponse.php:164
+#: classes/class-fl-builder-service-icontact.php:217
+#: classes/class-fl-builder-service-infusionsoft.php:214
+#: classes/class-fl-builder-service-madmimi.php:188
+#: classes/class-fl-builder-service-mailchimp.php:187
+#: classes/class-fl-builder-service-mailpoet.php:102
+#: classes/class-fl-builder-service-sendinblue.php:171
+msgctxt "An email list from a third party provider."
+msgid "List"
+msgstr "Lista"
+
+#: classes/class-fl-builder-service-activecampaign.php:169
+#: classes/class-fl-builder-service-aweber.php:182
+#: classes/class-fl-builder-service-campaign-monitor.php:148
+#: classes/class-fl-builder-service-campaign-monitor.php:199
+#: classes/class-fl-builder-service-constant-contact.php:156
+#: classes/class-fl-builder-service-getresponse.php:154
+#: classes/class-fl-builder-service-icontact.php:207
+#: classes/class-fl-builder-service-infusionsoft.php:204
+#: classes/class-fl-builder-service-madmimi.php:178
+#: classes/class-fl-builder-service-mailchimp.php:177
+#: classes/class-fl-builder-service-mailpoet.php:92
+#: classes/class-fl-builder-service-sendinblue.php:161
+#: classes/class-fl-builder-services.php:288 includes/service-settings.php:21
+msgid "Choose..."
+msgstr "Scegli..."
+
+#: classes/class-fl-builder-service-activecampaign.php:120
+msgid "Your API key can be found in your ActiveCampaign account under My Settings > API."
+msgstr "Puoi trovare la tua chiave API nell'account di ActiveCampaign sotto My Settings > API."
+
+#: classes/class-fl-builder-service-activecampaign.php:119
+#: classes/class-fl-builder-service-campaign-monitor.php:88
+#: classes/class-fl-builder-service-constant-contact.php:88
+#: classes/class-fl-builder-service-getresponse.php:100
+#: classes/class-fl-builder-service-hatchbuck.php:87
+#: classes/class-fl-builder-service-infusionsoft.php:129
+#: classes/class-fl-builder-service-madmimi.php:121
+#: classes/class-fl-builder-service-mailchimp.php:100
+msgid "API Key"
+msgstr "Chiave API"
+
+#: classes/class-fl-builder-service-activecampaign.php:109
+msgid "Your API url can be found in your ActiveCampaign account under My Settings > API."
+msgstr "Puoi trovare la tua API URL nell'account di ActiveCampaign sotto My Settings > API."
+
+#: classes/class-fl-builder-service-activecampaign.php:108
+msgid "API URL"
+msgstr "API URL"
+
+#: classes/class-fl-builder-service-activecampaign.php:81
+msgid "Error: Please check your API URL and API key."
+msgstr "Errore: si prega di verificare la API URL e la chiave API."
+
+#: classes/class-fl-builder-service-activecampaign.php:73
+#: classes/class-fl-builder-service-campaign-monitor.php:55
+#: classes/class-fl-builder-service-constant-contact.php:48
+#: classes/class-fl-builder-service-getresponse.php:67
+#: classes/class-fl-builder-service-hatchbuck.php:48
+#: classes/class-fl-builder-service-infusionsoft.php:79
+#: classes/class-fl-builder-service-madmimi.php:73
+#: classes/class-fl-builder-service-mailchimp.php:67
+msgid "Error: You must provide an API key."
+msgstr "Errore: devi fornire una chiave API."
+
+#: classes/class-fl-builder-service-activecampaign.php:69
+msgid "Error: You must provide an API URL."
+msgstr "Errore: devi fornire una API URL."
+
+#: classes/class-fl-builder-photo.php:103
+msgctxt "Image size."
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: classes/class-fl-builder-photo.php:102
+msgctxt "Image size."
+msgid "Medium"
+msgstr "Media"
+
+#: classes/class-fl-builder-photo.php:101
+msgctxt "Image size."
+msgid "Large"
+msgstr "Grande"
+
+#: classes/class-fl-builder-photo.php:95 classes/class-fl-builder-photo.php:100
+msgctxt "Image size."
+msgid "Full Size"
+msgstr "Piena larghezza"
+
+#: classes/class-fl-builder-model.php:3107
+msgid "Content Pages"
+msgstr "Pagine di contenuto"
+
+#: classes/class-fl-builder-model.php:3106
+msgid "Home Pages"
+msgstr "Pagine home"
+
+#: classes/class-fl-builder-model.php:2751
+msgctxt "Default user template category."
+msgid "Uncategorized"
+msgstr "Senza categoria"
+
+#: classes/class-fl-builder-model.php:2313
+msgctxt "%s stands for post/page title."
+msgid "Copy of %s"
+msgstr "Copia di %s"
+
+#: classes/class-fl-builder-model.php:1663
+#: classes/class-fl-builder-model.php:1724
+#: includes/admin-settings-modules.php:32 includes/ui.php:99
+#: modules/widget/widget.php:16
+msgid "WordPress Widgets"
+msgstr "Widget di WordPress"
+
+#: classes/class-fl-builder-model.php:1662
+#: classes/class-fl-builder-model.php:1723
+msgid "Other Modules"
+msgstr "Altri moduli"
+
+#: classes/class-fl-builder-model.php:1661
+#: classes/class-fl-builder-model.php:1722 modules/html/html.php:16
+#: modules/sidebar/sidebar.php:16
+msgid "Advanced Modules"
+msgstr "Moduli avanzati"
+
+#: classes/class-fl-builder-model.php:1660
+#: classes/class-fl-builder-model.php:1721 modules/photo/photo.php:27
+#: modules/rich-text/rich-text.php:16 modules/video/video.php:21
+msgid "Basic Modules"
+msgstr "Moduli base"
+
+#: classes/class-fl-builder-model.php:1609
+msgctxt "%s stands for the module filename"
+msgid "A module with the filename %s.php already exists! Please namespace your module filenames to ensure compatibility with Beaver Builder."
+msgstr "Esiste già un modulo con il nome file %s.php! Per favore usa un namespace nel nome file del tuo modulo per assicurare la compatibilità con Beaver Builder."
+
+#: classes/class-fl-builder-admin.php:253
+#: classes/class-fl-builder-model.php:3149
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: classes/class-fl-builder-admin.php:238
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "Aggiorna"
+
+#: classes/class-fl-builder-admin.php:112
+msgid "Page Builder activated! <a%s>Click here</a> to enable remote updates."
+msgstr "Page Builder attivato! <a%s>Clicca qui</a> per attivare gli aggiornamenti remoti."
+
+#: classes/class-fl-builder-admin.php:55
+msgid "The <strong>Page Builder</strong> plugin requires WordPress version 3.5 or greater. Please update WordPress before activating the plugin."
+msgstr "Il plugin <strong>Page Builder</strong> richiede WordPress versione 3.5 o superiore. Si prega di aggiornare WordPress prima di attivare il plugin."
+
+#: classes/class-fl-builder-admin.php:45
+msgid "This version of the <strong>Page Builder</strong> plugin is not compatible with WordPress Multisite. <a%s>Please upgrade</a> to the Multisite version of this plugin."
+msgstr "Questa versione del plugin <strong>Page Builder</strong> non è compatibile con WordPress Multisite. <a%s>Si prega di aggiornare</a> alla versione Multisite di questo plugin."
+
+#: classes/class-fl-builder-admin-settings.php:636
+msgid "Error! You must have at least one feature of the help button enabled."
+msgstr "Errore! Devi avere almeno una funzione del bottone aiuto abilitata."
+
+#: classes/class-fl-builder-admin-settings.php:618
+msgid "Error! Please enter an iframe for the video embed code."
+msgstr "Errore! Per favore inserisci un iframe per il codice video embed."
+
+#: classes/class-fl-builder-admin-settings.php:515
+msgid "Error! Please upload an icon set from either Icomoon or Fontello."
+msgstr "Errore! Per favore carica un set di icone da Iconmoon o Fontello."
+
+#: classes/class-fl-builder-admin-settings.php:481
+msgid "Error! Could not unzip file."
+msgstr "Errore! Non è stato possibile decomprimere il file."
+
+#: classes/class-fl-builder-admin-settings.php:439
+msgid "Error! You must have at least one icon set enabled."
+msgstr "Errore! Devi avere almeno un set di icone abilitato."
+
+#: classes/class-fl-builder-admin-settings.php:187
+#: includes/admin-settings-uninstall.php:3
+#: includes/admin-settings-uninstall.php:15
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+#: classes/class-fl-builder-admin-settings.php:183
+#: includes/admin-settings-cache.php:3
+msgid "Cache"
+msgstr "Cache"
+
+#: classes/class-fl-builder-admin-settings.php:179
+msgid "Help Button"
+msgstr "Pulsante Aiuto"
+
+#: classes/class-fl-builder-admin-settings.php:175
+msgid "Branding"
+msgstr "Branding"
+
+#: classes/class-fl-builder-admin-settings.php:171
+msgid "Editing"
+msgstr "Modifica"
+
+#: classes/class-fl-builder-admin-settings.php:167
+msgid "Icons"
+msgstr "Icone"
+
+#: classes/class-fl-builder-admin-settings.php:163
+#: includes/admin-settings-post-types.php:3
+msgid "Post Types"
+msgstr "Tipi di post"
+
+#: classes/class-fl-builder-admin-settings.php:155
+#: includes/global-settings.php:90
+msgid "Modules"
+msgstr "Moduli"
+
+#: classes/class-fl-builder-admin-settings.php:151
+#: includes/admin-settings-upgrade.php:3
+msgid "Upgrade"
+msgstr "Aggiornamento"
+
+#: classes/class-fl-builder-admin-settings.php:147
+msgid "License"
+msgstr "Licenza"
+
+#: classes/class-fl-builder-admin-settings.php:133
+msgid "Settings updated!"
+msgstr "Impostazioni aggiornate!"
+
+#: classes/class-fl-builder-admin-settings.php:116
+#: includes/global-settings.php:4
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "%s Settings"
+msgstr "impostazioni %s"

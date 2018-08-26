@@ -1,0 +1,495 @@
+# Translation of Plugins - FooBox Image Lightbox WordPress Plugin - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - FooBox Image Lightbox WordPress Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-23 09:59:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - FooBox Image Lightbox WordPress Plugin - Development (trunk)\n"
+
+#: free/includes/view-getting-started.php:97
+msgid "With 85+ settings available, you can customize FooBox to your heart's content."
+msgstr "Avec plus de 85 réglages disponibles, vous pouvez personnaliser FooBox à votre envie."
+
+#: free/includes/view-getting-started.php:97
+msgid "PLUS tons more!"
+msgstr "Et bien plus !"
+
+#: free/includes/view-getting-started.php:96
+msgid "Power-users can add custom JS and CSS using our advanced settings."
+msgstr "Les utilisateurs avancés peuvent ajouté du JS personnalisé et du CSS avec nos réglages avancés."
+
+#: free/includes/view-getting-started.php:96
+msgid "Custom JS &amp; CSS"
+msgstr "JS personnalisé &amp; CSS"
+
+#: free/includes/class-settings.php:175
+msgid "JS &amp; CSS"
+msgstr "JS &amp; CSS"
+
+#: free/includes/class-settings.php:173
+msgid "By default, FooBox includes javascript and stylesheet assets into all your pages. We do this, because we do not know if the page content contains media or not.<br>If you want more control over when FooBox assets are included, you can now exclude FooBox assets by default, by enabling this setting. Then on each page, you can choose to include the assets if required.<br>Or you can leave the setting disabled, and then choose to exclude FooBox assets from particular pages. A new FooBox metabox is now available when editing your pages or posts."
+msgstr "Par défaut, FooBox charge ses ressources Javascript et CSS sur toutes vos pages. Nous procédons ainsi parce que nous ne pouvons pas détecter la présence de médias.<br>Si vous souhaitez plus de contrôle sur le chargement des ressources, vous pouvez maintenant les désactiver par défaut avec ce réglage. Puis, sur chaque page, vous pouvez choisir de charger les ressources.<br>Ou vous pouvez également faire l’inverse en désactivant le chargement sur certaines pages. Un nouveau réglage est maintenant disponible dans chaque article et page."
+
+#: free/includes/class-settings.php:172
+msgid "Exclude FooBox Assets"
+msgstr "Désactiver le chargement des ressources de FooBox"
+
+#: free/includes/class-exclude.php:57
+msgid "Include FooBox on this page or post? By default, FooBox will be excluded!"
+msgstr "Charger FooBox sur cette publication ? Par défaut, les ressources ne seront pas chargées."
+
+#: free/includes/class-exclude.php:56
+msgid "Exclude FooBox from this page or post? By default, FooBox will be included."
+msgstr "Ne pas charger FooBox sur cette publication ? Par défaut, les ressources seront chargées."
+
+#: free/includes/class-exclude.php:32
+msgid "FooBox Javascript &amp; CSS"
+msgstr "Javascript &amp; CSS de FooBox"
+
+#: includes/admin/menu.php:43
+msgid "Activation"
+msgstr "Activation"
+
+#: includes/admin/menu.php:42
+msgid "FooBox Opt-In"
+msgstr "Opt-in Foobox"
+
+#: free/includes/class-settings.php:97
+msgid "Hide Captions"
+msgstr "Masquer les légendes"
+
+#: free/includes/class-settings.php:98
+msgid "Whether or not to hide captions for images."
+msgstr "Masquer ou non les légendes des images."
+
+#: free/includes/class-settings.php:88
+msgid "the message to use as the item counter. The fields <code>%index</code> and <code>%total</code> can be used to substitute the correct values. <br/ >Example : <code>item %index / %total</code> would result in <code>item 1 / 7</code>"
+msgstr "le message à utiliser en tant que compteur. Les champs <code>%index</code> et <code>%total</code> reprendront les bonnes valeurs. <br/ >Exemple : <code>item %index / %total</code> donnera <code>élément 1 / 7</code>."
+
+#: free/includes/class-settings.php:87
+msgid "Count Message"
+msgstr "Message du compteur"
+
+#: free/includes/class-settings.php:141
+msgid "By default, we defer running the FooBox javascript to work with most optimization plugins. You can choose to turn this off if there are problems."
+msgstr "Par défaut, nous retardons le javascript de FooBox pour être compatible avec la plupart des extensions d’optimisation. Vous pouvez désactiver cette fonctionnalité si elle pose problème."
+
+#: free/includes/class-settings.php:140
+msgid "Disable Defer Javascript"
+msgstr "Désactiver le retardement Javascript"
+
+#: free/includes/view-getting-started.php:86
+msgid "Start Your 7-day Free Trial"
+msgstr "Commencez votre essai gratuit de 7 jours"
+
+#: free/includes/view-getting-started.php:85
+msgid "Want to test out all the PRO features? No problem! You can start a 7-day free trial immediately. No credit card is required!"
+msgstr "Vous souhaitez tester toutes les fonctionnalités PRO ? Aucun problème ! Vous pouvez commencer un essai gratuit de 7 jours sur-le-champ. Aucune carte de crédit n’est nécessaire !"
+
+#: free/includes/view-getting-started.php:84
+msgid "FooBox PRO Free Trial"
+msgstr "Essai gratuit de FooBox PRO"
+
+#: free/includes/view-getting-started.php:7
+msgid "Already convinced? Upgrade to PRO!"
+msgstr "Déjà convaincu ? Passez à la version PRO !"
+
+#: free/includes/view-getting-started.php:6
+msgid "Upgrade to PRO"
+msgstr "Passer à la version PRO"
+
+#: free/includes/class-settings.php:149
+msgid "Drop support for IE7, which removes some CSS hacks to get things working in IE7. This also allows the FooBox CSS to pass CSS validation."
+msgstr "Abandon de la compatibilité avec IE7, ce qui retire des bidouillages CSS. Cela permet à FooBox de passer les tests de validation CSS."
+
+#: free/includes/class-settings.php:148
+msgid "Drop IE7 Support"
+msgstr "Abandon de la compatibilité avec IE7"
+
+#. Plugin Name of the plugin/theme
+msgid "FooBox Image Lightbox"
+msgstr "FooBox - Lightbox d’image"
+
+#: includes/admin/view-getting-started.php:4
+msgid "See it in action now!"
+msgstr "Le voir en action !"
+
+#: includes/admin/view-getting-started.php:2
+msgid "Welcome to FooBox!"
+msgstr "Bienvenue dans FooBox !"
+
+#: includes/admin/menu.php:53
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin/menu.php:52
+msgid "FooBox Settings"
+msgstr "Réglages de FooBox"
+
+#: includes/admin/menu.php:23
+msgid "FooBox"
+msgstr "FooBox"
+
+#: includes/admin/menu.php:22 includes/admin/menu.php:32
+msgid "Getting Started With FooBox"
+msgstr "Commencer avec FooBox"
+
+#: free/includes/view-getting-started.php:6
+msgid "Free Trial"
+msgstr "Essai gratuit"
+
+#: free/includes/view-getting-started.php:185
+msgid "Download FooGallery"
+msgstr "Télécharger FooGallery"
+
+#: free/includes/view-getting-started.php:179
+msgid "Looking for a Gallery Plugin?"
+msgstr "Vous recherchez une extension de galeries ?"
+
+#: free/includes/view-getting-started.php:176
+msgid "images found on pixabay.com"
+msgstr "images trouvées sur pixabay.com"
+
+#: free/includes/view-getting-started.php:126
+msgid "A caption with no title, and only a long description describing the image"
+msgstr "Une légende sans titre et seulement une longue description de l’image"
+
+#: free/includes/view-getting-started.php:122
+msgid "Title With No Description"
+msgstr "Titre sans description"
+
+#: free/includes/view-getting-started.php:118
+msgid "HTML is also <a href='#'>allowed</a> in your <em>descriptions</em>!"
+msgstr "Le HTML est également <a href='#'>autorisé</a> dans vos <em>descriptions</em> !"
+
+#: free/includes/view-getting-started.php:117
+msgid "Beach Sandcastle"
+msgstr "Château de sable"
+
+#: free/includes/view-getting-started.php:113
+msgid "You can have a nice long image description that goes here"
+msgstr "Vous pouvez une longue et sympathique description de l’image ici"
+
+#: free/includes/view-getting-started.php:112
+msgid "Your Image Title Goes Here"
+msgstr "Votre titre d’image vient ici"
+
+#: free/includes/view-getting-started.php:95
+msgid "Use the browser's native fullscreen mode to showcase your media."
+msgstr "Utilisez le mode plein-écran natif de votre navigateur pour affichez vos images."
+
+#: free/includes/view-getting-started.php:95
+msgid "Fullscreen Mode"
+msgstr "Mode plein-écran"
+
+#: free/includes/view-getting-started.php:94
+msgid "Default, Metro and Flat styles available. You can also change color schemes and icons."
+msgstr "Les styles Default, Metro et Flat sont disponibles. Vous pouvez également changer le jeu de couleurs et les icônes."
+
+#: free/includes/view-getting-started.php:94
+msgid "Look and feel"
+msgstr "Apparence"
+
+#: free/includes/view-getting-started.php:93
+msgid "Share content to your favourite social networks with ease."
+msgstr "Partagez facilement vos contenus sur vos réseaux sociaux préférés."
+
+#: free/includes/view-getting-started.php:93
+msgid "Social Sharing"
+msgstr "Partages sociaux"
+
+#: free/includes/view-getting-started.php:92
+msgid "WP Gallery, FooGallery, Justified Image Grid, JetPack Tiled Gallery, NextGen Gallery, Envira Gallery, WooCommerce product images."
+msgstr "WP Gallery, FooGallery, Justified Image Grid, JetPack Tiled Gallery, NextGen Gallery, Envira Gallery, WooCommerce product images."
+
+#: free/includes/view-getting-started.php:92
+msgid "Supported Galleries"
+msgstr "Galeries compatibles"
+
+#: free/includes/view-getting-started.php:91
+msgid "Images, galleries, videos, iframes, html. You name it, FooBox can open it."
+msgstr "Images, galeries, vidéos, iframes, html. FooBox peut les utiliser."
+
+#: free/includes/view-getting-started.php:91
+msgid "ALL content types"
+msgstr "TOUS les types de contenus"
+
+#: free/includes/view-getting-started.php:90
+msgid "PRO Features"
+msgstr "Fonctionnalités PRO"
+
+#: free/includes/view-getting-started.php:78
+msgid "open a captioned image"
+msgstr "ouvrir une image avec légende"
+
+#: free/includes/view-getting-started.php:69
+msgid "FooBox will try to find captions from the link and image titles, but you can be sure by adding <strong>data-caption-title</strong> and <strong>data-caption-desc</strong> attributes onto your links, for example:"
+msgstr "FooBox essaiera de trouver des légendes à partir des liens et titres des images. Mais vous pouvez aussi les personnaliser en ajoutant les attributs <strong>data-caption-title</strong> et <strong>data-caption-desc</strong> sur vos liens, par exemple :"
+
+#: free/includes/view-getting-started.php:67
+msgid "Captions"
+msgstr "Légendes"
+
+#: free/includes/view-getting-started.php:64
+msgid "open a gallery"
+msgstr "ouvrir une galerie"
+
+#: free/includes/view-getting-started.php:55
+msgid "Group your images into galleries that open in FooBox. Just add the same rel attribute to the links you want to group together, for example:"
+msgstr "Groupez vos images en galeries qui s’ouvriront dans FooBox. Ajoutez seulement l’attribut rel aux liens que vous souhaitez grouper, par exemple :"
+
+#: free/includes/view-getting-started.php:53
+msgid "rel=\"gallery\""
+msgstr "rel=\"gallery\""
+
+#: free/includes/view-getting-started.php:50
+msgid "open an image"
+msgstr "ouvrir une image"
+
+#: free/includes/view-getting-started.php:45
+msgid "Use your own links to open images in FooBox. Just add a class of \"<strong>foobox</strong>\" to your links, and make sure the link points to an image, for example:"
+msgstr "Utilisez vos propres liens pour ouvrir des images dans FooBox. Ajoutez seulement la classe \"<strong>foobox</strong>\" à vos liens et veillez à ce qu'ils pointent bien sur l’image. Par exemple :"
+
+#: free/includes/view-getting-started.php:43
+msgid "class=\"foobox\""
+msgstr "class=\"foobox\""
+
+#: free/includes/view-getting-started.php:39
+msgid "visit the FooBox settings page"
+msgstr "visiter la page des réglages FooBox"
+
+#: free/includes/view-getting-started.php:36
+msgid "No configuration for the above is needed! But you can still customize the plugin from the settings page if you want to."
+msgstr "Aucune configuration n’est requise ci-dessous. Mais vous pouvez toujours personnaliser l’extension à partir de la page des réglages si vous le désirez."
+
+#: free/includes/view-getting-started.php:34
+msgid "images that are added using the \"Add Media\" tool."
+msgstr "images ajoutées avec l’outil « Ajouter un média »."
+
+#: free/includes/view-getting-started.php:33
+msgid "image galleries that use the <code>[gallery]</code> shortcode."
+msgstr "galeries d’images qui utilisent le code court <code>[gallery]</code>."
+
+#: free/includes/view-getting-started.php:32
+msgid "images that use the <code>[caption]</code> shortcode."
+msgstr "images qui utilisent le code court <code>[caption]</code>."
+
+#: free/includes/view-getting-started.php:32
+msgid "Captioned Images"
+msgstr "Images avec légendes"
+
+#: free/includes/view-getting-started.php:31
+msgid "FooBox FREE works out-of-the-box with the following standard features:"
+msgstr "FooBox FREE fonctionne tout de suite avec les fonctionnalités suivantes :"
+
+#: free/includes/class-settings.php:200
+msgid "Upgrade in WP Admin!"
+msgstr "Passez à la version PRO depuis l’administration WordPress !"
+
+#: free/foobox-free.php:221
+msgid "FooBox settings updated."
+msgstr "Réglages de FooBox mis à jour."
+
+#: free/foobox-free.php:216
+msgid "FooBox settings restored to defaults."
+msgstr "Réglages de FooBox remis à zéro."
+
+#: foobox-free.php:105
+msgid "Support"
+msgstr "Support"
+
+#: free/includes/view-getting-started.php:25
+msgid "Demo"
+msgstr "Démo"
+
+#: free/includes/view-getting-started.php:181
+msgid "Creating galleries has never been easier with our free %s plugin and our premium %s extension, both of which work beautifully with FooBox!"
+msgstr "Créer des galeries vidéos n'a jamais été aussi simple avec notre extension gratuite %s et notre extension premium %s, qui fonctionnent parfaitement avec FooBox !"
+
+#: free/includes/view-getting-started.php:30
+msgid "Zero Configuration"
+msgstr "Aucune configuration !"
+
+#: free/includes/view-getting-started.php:19 includes/admin/menu.php:33
+msgid "Getting Started"
+msgstr "Mise en route"
+
+#: includes/admin/view-getting-started.php:3
+msgid "Thank you for choosing FooBox as your lightbox! A great looking and responsive lightbox for your WordPress website!"
+msgstr "Merci d’avoir choisi FooBox Image Lightbox ! Une belle lightbox responsive pour votre site WordPress !"
+
+#. Author URI of the plugin/theme
+msgid "http://fooplugins.com"
+msgstr "http://fooplugins.com"
+
+#. Author of the plugin/theme
+msgid "FooPlugins"
+msgstr "FooPlugins"
+
+#. Description of the plugin/theme
+msgid "The best responsive lightbox for WordPress."
+msgstr "La meilleure lightbox d’image responsive pour WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://fooplugins.com/plugins/foobox/"
+msgstr "http://fooplugins.com/plugins/foobox/"
+
+#: free/includes/foopluginbase/views/settings.php:95
+msgid "Restore Defaults"
+msgstr "Restaurer les réglages par défaut"
+
+#: free/includes/foopluginbase/views/settings.php:93
+msgid "Are you sure you want to restore all settings back to their default values?"
+msgstr "Souhaitez-vous vraiment restaurer les réglages à leurs valeurs par défaut ?"
+
+#: free/includes/foopluginbase/views/settings.php:91
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: free/includes/foopluginbase/classes/class-foo-plugin-settings.php:363
+msgid "Settings restored to default values"
+msgstr "Réglages par défaut restaurés"
+
+#: free/includes/foopluginbase/classes/class-foo-plugin-settings.php:331
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: free/includes/foopluginbase/classes/class-foo-plugin-settings.php:331
+msgid "Select An Image"
+msgstr "Sélectionner une image"
+
+#: free/includes/foopluginbase/classes/class-foo-plugin-base.php:313
+msgid " Settings"
+msgstr "Réglages"
+
+#: free/includes/class-settings.php:210
+msgid "There are tons of reasons..."
+msgstr "Il y a des tonnes de raisons&hellip;"
+
+#: free/includes/class-settings.php:198
+#: free/includes/view-getting-started.php:7
+msgid "Upgrade to PRO!"
+msgstr "Passer à la version PRO !"
+
+#: free/includes/class-settings.php:190
+msgid "Debug Information"
+msgstr "Informations de débogage"
+
+#: free/includes/class-settings.php:186
+msgid "Debug"
+msgstr "Debogage"
+
+#: free/includes/class-settings.php:165
+msgid "Show an extra debug information tab to help debug any issues."
+msgstr "Afficher un onglet d&rsquo;informations de débogage pour aider à régler les bugs."
+
+#: free/includes/class-settings.php:164
+msgid "Enable Debug Mode"
+msgstr "Activer le mode de débogage"
+
+#: free/includes/class-settings.php:157
+msgid "Certain themes and plugins use a hard-coded lightbox, which make it very difficult to override.<br>By enabling this setting, we inject a small amount of javascript onto the page which attempts to get around this issue.<br>But please note this is not guaranteed, as we cannot account for every lightbox solution out there :)"
+msgstr "Certains thèmes et extensions utilisent leur propre visionneuse, et celles-ci sont très difficiles à désactiver.<br>En activant cette option, nous injectons un peu de code javascript dans la page pour régler le problème.<br>Veuillez noter que cela n’est pas garanti, étant donné que nous ne pouvons pas prendre en compte toutes les visionneuses disponibles :)"
+
+#: free/includes/class-settings.php:156
+msgid "Disable Other Lightboxes"
+msgstr "Désactiver les autres lightboxes"
+
+#: free/includes/class-settings.php:132
+msgid "Should the FooBox lightbox close when the overlay is clicked."
+msgstr "Est-ce que la lightbox FooBox doit se fermer lors d’un clic à l’exterieur ?"
+
+#: free/includes/class-settings.php:131
+msgid "Close On Overlay Click"
+msgstr "Fermer lors d’un clic à l’exterieur"
+
+#: free/includes/class-settings.php:127
+msgid "Advanced"
+msgstr "Avancé"
+
+#: free/includes/class-settings.php:117
+msgid "Could not load the item"
+msgstr "Impossible de charger l’élément"
+
+#: free/includes/class-settings.php:116
+msgid "The error message to display when an image has trouble loading."
+msgstr "Le message d’erreur à afficher lorsqu’une image a du mal à se charger."
+
+#: free/includes/class-settings.php:115
+msgid "Error Message"
+msgstr "Message d’erreur"
+
+#: free/includes/class-settings.php:107
+msgid "Only show the caption when hovering over the image."
+msgstr "Afficher uniquement la légende lors du survol de l’image."
+
+#: free/includes/class-settings.php:106
+msgid "Show Captions On Hover"
+msgstr "Afficher les légendes au survol"
+
+#: free/includes/class-settings.php:78
+msgid "Shows a counter under the FooBox modal when viewing a gallery of images."
+msgstr "Afficher un compteur sous la fenêtre Foobox lorsque l’on voit une galerie d’images."
+
+#: free/includes/class-settings.php:77
+msgid "Show Counter"
+msgstr "Afficher le compteur"
+
+#: free/includes/class-settings.php:68
+msgid "Hide the page's scrollbars when FooBox is visible."
+msgstr "Masquer les ascenseurs de la page lorsque FooBox est visible."
+
+#: free/includes/class-settings.php:67
+msgid "Hide Page Scrollbars"
+msgstr "Masquer les ascenseurs de page"
+
+#: free/includes/class-settings.php:58
+msgid "Force smaller images to fit the screen dimensions."
+msgstr "Forcer les petites images à s’adapter aux dimensions de l’écran."
+
+#: free/includes/class-settings.php:57
+msgid "Fit To Screen"
+msgstr "Adapter à l’écran"
+
+#: free/includes/class-settings.php:52
+msgid "Display Settings"
+msgstr "Réglages de l’affichage"
+
+#: free/includes/class-settings.php:43
+msgid "Enable FooBox for all media images included in posts or pages."
+msgstr "Activez FooBox pour toutes les images inclues dans les articles ou les pages."
+
+#: free/includes/class-settings.php:42
+#: free/includes/view-getting-started.php:34
+msgid "Attachment Images"
+msgstr "Images liées"
+
+#: free/includes/class-settings.php:33
+msgid "Enable FooBox for all WordPress images that have captions."
+msgstr "Activez FooBox pour toutes les images qui ont des légendes."
+
+#: free/includes/class-settings.php:32
+msgid "WordPress Images With Captions"
+msgstr "Images WordPress avec des légendes"
+
+#: free/includes/class-settings.php:23
+msgid "Enable FooBox for all WordPress image galleries."
+msgstr "Activez Foobox pour toutes les galeries d'images WordPress."
+
+#: free/includes/class-settings.php:22
+#: free/includes/view-getting-started.php:33
+msgid "WordPress Galleries"
+msgstr "Galeries WordPress"
+
+#: free/includes/class-settings.php:17
+msgid "What do you want to attach FooBox to?"
+msgstr "À quoi voulez-vous lier FooBox ?"
+
+#: free/includes/class-settings.php:13
+msgid "General"
+msgstr "Général"

@@ -1,0 +1,61 @@
+<div class="userlist mini-list"><div class="user-single" data-user-id="14">
+    <div class="thumb-user">
+        <a title="vjik" href="https://www.rzclub.pro/?page_id=9&user=14">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/steam_76561198412613094.jpg" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/steam_76561198412613094.jpg" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 2 недели"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="13">
+    <div class="thumb-user">
+        <a title="Бородач" href="https://www.rzclub.pro/?page_id=9&user=13">
+            <img alt='' src='https://secure.gravatar.com/avatar/e48a196d9cf507aeb37110c5a5e6681a?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e48a196d9cf507aeb37110c5a5e6681a?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети давно"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="12">
+    <div class="thumb-user">
+        <a title="doberman" href="https://www.rzclub.pro/?page_id=9&user=12">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/google_104839775582011480150.jpg" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/google_104839775582011480150.jpg" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 месяц"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="11">
+    <div class="thumb-user">
+        <a title="West" href="https://www.rzclub.pro/?page_id=9&user=11">
+            <img alt='' src='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/11-70.jpg' srcset='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/11-150.jpg 2x' class='avatar avatar-50 photo avatar-default' height='50' width='50' />            <span class="status_user offline" title="не в сети 4 недели"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="10">
+    <div class="thumb-user">
+        <a title="Little Dob / Алёна" href="https://www.rzclub.pro/?page_id=9&user=10">
+            <img alt='' src='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/10-70.jpg' srcset='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/10-150.jpg 2x' class='avatar avatar-50 photo avatar-default' height='50' width='50' />            <span class="status_user offline" title="не в сети 4 недели"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="7">
+    <div class="thumb-user">
+        <a title="Elphinstone" href="https://www.rzclub.pro/?page_id=9&user=7">
+            <img alt='' src='https://secure.gravatar.com/avatar/98f6b5f0ef10ea2052a764657902d130?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/98f6b5f0ef10ea2052a764657902d130?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 месяц"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="6">
+    <div class="thumb-user">
+        <a title="Dnipro" href="https://www.rzclub.pro/?page_id=9&user=6">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/facebook_219003438727123.jpg" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/facebook_219003438727123.jpg" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 месяц"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="5">
+    <div class="thumb-user">
+        <a title="nikita" href="https://www.rzclub.pro/?page_id=9&user=5">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/google_112957999654231796820.png" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/google_112957999654231796820.png" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 месяц"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="4">
+    <div class="thumb-user">
+        <a title="Serg" href="https://www.rzclub.pro/?page_id=9&user=4">
+            <img alt='' src='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/4-70.jpg' srcset='https://www.rzclub.pro/wp-content/uploads/rcl-uploads/avatars/4-150.jpg 2x' class='avatar avatar-50 photo avatar-default' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 неделя"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="3">
+    <div class="thumb-user">
+        <a title="olga" href="https://www.rzclub.pro/?page_id=9&user=3">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/facebook_100001764100773.jpg" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/facebook_100001764100773.jpg" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 1 месяц"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="2">
+    <div class="thumb-user">
+        <a title="Red Zone" href="https://www.rzclub.pro/?page_id=9&user=2">
+            <img alt='' src="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/vkontakte_205746138.jpg" srcset="https://www.rzclub.pro/wp-content/uploads/ulogin_avatars/vkontakte_205746138.jpg" 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 2 недели"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div><div class="user-single" data-user-id="1">
+    <div class="thumb-user">
+        <a title="TataRin" href="https://www.rzclub.pro/?page_id=9&user=1">
+            <img alt='' src='https://secure.gravatar.com/avatar/614f582b4aa05c5dfef5b71be30c84e5?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/614f582b4aa05c5dfef5b71be30c84e5?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />            <span class="status_user offline" title="не в сети 4 дня"><i class="fa fa-circle"></i></span>        </a>
+    </div>
+</div></div>

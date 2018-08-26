@@ -1,0 +1,42 @@
+00:19:51 Запуск событий крона rcl_cron_hourly
+01:10:16 Запуск событий крона rcl_cron_hourly
+02:15:00 Запуск событий крона rcl_cron_hourly
+03:37:49 Запуск событий крона rcl_cron_hourly
+04:29:24 Запуск событий крона rcl_cron_hourly
+05:29:34 Запуск событий крона rcl_cron_hourly
+06:16:03 Запуск событий крона rcl_cron_hourly
+07:12:29 Запуск событий крона rcl_cron_hourly
+07:35:35 Запуск событий крона rcl_cron_twicedaily
+07:35:35 Отправка запроса на сервер обновления для получение последних версий установленных дополнений
+07:35:35 Не удалось открыть файл с данными дополнений для проверки обновлений
+http://downloads.codeseller.ru/products-files/info/light-info.xml
+07:48:48 Запуск событий крона rcl_cron_daily
+08:44:20 Запуск событий крона rcl_cron_hourly
+09:15:30 Запуск событий крона rcl_cron_hourly
+10:10:40 Запуск событий крона rcl_cron_hourly
+11:10:07 Запуск событий крона rcl_cron_hourly
+12:11:20 Запуск событий крона rcl_cron_hourly
+13:16:11 Запуск событий крона rcl_cron_hourly
+14:09:53 Запуск событий крона rcl_cron_hourly
+14:12:00 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [object_id] => 650
+    [object_author] => 1
+    [rating_type] => post
+    [rating_value] => 0
+)
+
+15:15:43 Запуск событий крона rcl_cron_hourly
+16:14:51 Запуск событий крона rcl_cron_hourly
+17:14:19 Запуск событий крона rcl_cron_hourly
+18:13:02 Запуск событий крона rcl_cron_hourly
+19:14:12 Запуск событий крона rcl_cron_hourly
+19:28:20 Запуск событий крона rcl_cron_twicedaily
+19:28:20 Отправка запроса на сервер обновления для получение последних версий установленных дополнений
+19:28:20 Не удалось открыть файл с данными дополнений для проверки обновлений
+http://downloads.codeseller.ru/products-files/info/light-info.xml
+20:13:40 Запуск событий крона rcl_cron_hourly
+21:15:56 Запуск событий крона rcl_cron_hourly
+22:17:15 Запуск событий крона rcl_cron_hourly
+23:18:11 Запуск событий крона rcl_cron_hourly

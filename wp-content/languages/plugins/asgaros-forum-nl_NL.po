@@ -1,0 +1,1324 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-06 19:25:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: admin/views/options.php:330
+msgid "Allowed HTML tags:"
+msgstr "Toegestane HTML tags:"
+
+#: admin/views/options.php:150
+msgid "Count topic views"
+msgstr "Tellen hoe vaak een onderwerp bekeken is"
+
+#: admin/views/options.php:327
+msgid "Allow HTML tags in signatures"
+msgstr "HTML tags in handtekeningen toestaan"
+
+#: admin/views/options.php:323
+msgid "Enable signatures"
+msgstr "Handtekeningen toestaan"
+
+#: admin/views/options.php:316
+msgid "Signatures"
+msgstr "Handtekeningen"
+
+#: admin/admin.php:63
+msgid "You can use the following HTML tags in signatures:"
+msgstr "Je kunt de volgende HTML tags gebruiken in handtekeningen:"
+
+#: admin/admin.php:67
+msgid "HTML tags are not allowed in signatures."
+msgstr "HTML tags zijn niet toegestaan in handtekeningen."
+
+#: includes/forum-profile.php:165
+msgid "In:"
+msgstr "In:"
+
+#: includes/forum-profile.php:144
+msgid "No posts made by this user."
+msgstr "Deze gebruiker heeft geen berichten gemaakt."
+
+#: includes/forum-profile.php:38 includes/forum-profile.php:64
+#: includes/forum-profile.php:109 includes/forum-profile.php:111
+msgid "Post History"
+msgstr "Berichtshistorie"
+
+#: admin/views/appearance.php:50
+msgid "Accent color:"
+msgstr "Accentueringskleur:"
+
+#: includes/forum.php:840
+msgid "Last post by"
+msgstr "Laatste bericht door"
+
+#: includes/forum-activity.php:36
+msgid "Yesterday"
+msgstr "Gisteren"
+
+#: includes/forum-activity.php:34
+msgid "Today"
+msgstr "Vandaag"
+
+#: admin/views/usergroups.php:37
+msgid "Add new users automatically:"
+msgstr "Nieuwe gebruikers automatisch toevoegen:"
+
+#: admin/tables/admin-usergroups-table.php:71
+msgid "Automatically Add:"
+msgstr "Automatisch toevoegen:"
+
+#: admin/tables/admin-usergroups-table.php:54
+msgid "No"
+msgstr "Nee"
+
+#: admin/tables/admin-usergroups-table.php:52
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/tables/admin-usergroups-table.php:37
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "%s Gebruiker"
+msgstr[1] "%s Gebruikers"
+
+#: admin/tables/admin-structure-table.php:54
+msgid "No description yet ..."
+msgstr "Nog geen beschrijving..."
+
+#: admin/admin.php:49
+msgid "Notify me when I got mentioned"
+msgstr "Stuur me een notificatie als ik vermeld word"
+
+#: admin/views/options.php:130
+msgid "Enable SEO-friendly URLs"
+msgstr "SEO-vriendelijke URLs inschakelen"
+
+#: includes/forum-notifications.php:499
+msgid "You get notified about <b>all</b> new posts."
+msgstr "Je krijgt een notificatie over <b>alle</b> nieuwe berichten."
+
+#: includes/forum-notifications.php:497
+msgid "You get notified about <b>all</b> new topics."
+msgstr "Je krijgt een notificatie over <b>alle</b> nieuwe onderwerpen."
+
+#: includes/forum-notifications.php:431
+msgid "Notify about new posts in:"
+msgstr "Stuur een notificatie over nieuwe berichten in:"
+
+#: includes/forum-notifications.php:423
+msgid "You get notified about all new topics and posts."
+msgstr "Je krijgt een notificatie over alle nieuwe onderwerpen en berichten."
+
+#: includes/forum-notifications.php:417
+msgid "You get notified about all new topics."
+msgstr "Je krijgt een notificatie over alle nieuwe onderwerpen."
+
+#: includes/forum-notifications.php:411
+msgid "You get notified about activity in forums and topics you are subscribed to."
+msgstr "Je krijgt een notificatie over activiteit in forums en onderwerpen waarop je geabonneerd bent."
+
+#: includes/forum-activity.php:119 includes/forum-breadcrumbs.php:98
+#: includes/forum.php:436
+msgid "Activity"
+msgstr "Activiteit"
+
+#: includes/forum-activity.php:76
+msgid "No activity yet!"
+msgstr "Nog geen activiteit!"
+
+#: includes/forum-activity.php:67
+msgid "%s answered in %s."
+msgstr "%s beantwoord in %s."
+
+#: includes/forum-activity.php:61
+msgid "New topic %s created by %s."
+msgstr "Nieuw onderwerp %s gemaakt door %s."
+
+#: admin/views/usergroups.php:33
+msgid "Hide user group:"
+msgstr "Verberg gebruikersgroep:"
+
+#: admin/views/options.php:118
+msgid "Time limitation for editing posts (in minutes):"
+msgstr "Tijdslimiet voor het bewerken van berichten (in minuten):"
+
+#: admin/tables/admin-usergroups-table.php:70
+msgid "Visibility:"
+msgstr "Zichtbaarheid:"
+
+#: admin/tables/admin-usergroups-table.php:46
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: admin/tables/admin-usergroups-table.php:44
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: admin/views/options.php:134
+msgid "Enable Activity Feed"
+msgstr "Activiteitenlijst inschakelen"
+
+#: includes/forum-notifications.php:56
+msgid "You are subscribed to <b>all</b> forums."
+msgstr "Je bent geabonneerd op <b>alle</b> forums."
+
+#: includes/forum-notifications.php:27 includes/forum-notifications.php:84
+msgid "You are subscribed to <b>all</b> topics."
+msgstr "Je bent geabonneerd op <b>alle</b> onderwerpen."
+
+#: admin/views/options.php:179
+msgid "Show category name in breadcrumbs"
+msgstr "Naam van de categorie tonen in kruimelpaden"
+
+#: includes/forum.php:1003
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/forum-notifications.php:507
+msgid "Unsubscribe"
+msgstr "Afmelden"
+
+#: includes/forum-notifications.php:421
+msgid "New Topics & Posts"
+msgstr "Nieuwe onderwerpen & berichten"
+
+#: includes/forum-notifications.php:415
+msgid "New Topics"
+msgstr "Nieuwe onderwerpen"
+
+#: includes/forum-notifications.php:409
+msgid "Individual Subscriptions"
+msgstr "Afzonderlijke abonnementen"
+
+#: includes/forum-notifications.php:404
+msgid "Subscription Settings"
+msgstr "Instellingen voor abonnementen"
+
+#: includes/forum-notifications.php:396
+msgid "Based on your settings you will automatically get notified about new topics as a site-owner."
+msgstr "Op basis van je instellingen krijg je als beheerder van de site automatisch een notificatie over nieuwe onderwerpen."
+
+#: admin/views/options.php:168
+msgid "Breadcrumbs"
+msgstr "Kruimelpad"
+
+#: includes/forum-online.php:202
+msgid "Currently online"
+msgstr "Momenteel online"
+
+#: includes/forum-memberslist.php:70 includes/forum-profile.php:224
+msgid "Last seen:"
+msgstr "Laatst gezien:"
+
+#: includes/forum-mentioning.php:78
+msgid "Hello,<br><br>You have been mentioned in a forum post.<br><br>Topic:<br>%s<br><br>Mentioned by:<br>%s<br><br>Post:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hallo,<br><br>Je bent vermeld in een forumbericht.<br><br>Onderwerp:<br>%s<br><br>Vermeld door:<br>%s<br><br>Bericht:<br>%s<br><br>Link naar het bericht:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-mentioning.php:77
+msgid "You have been mentioned!"
+msgstr "Je bent vermeld!"
+
+#: includes/forum-database.php:257
+msgid "My first forum."
+msgstr "Mijn eerste forum."
+
+#: includes/forum-database.php:256
+msgid "First Forum"
+msgstr "Eerste Forum"
+
+#: includes/forum-database.php:248
+msgid "Example Category"
+msgstr "Voorbeeldcategorie"
+
+#: admin/views/structure.php:100
+msgid "Parent:"
+msgstr "Hoofd:"
+
+#: admin/views/options.php:138
+msgid "Enable Mentioning"
+msgstr "Vermeldingsfunctie inschakelen"
+
+#: includes/forum-online.php:179
+msgid "%s Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%s Gast"
+msgstr[1] "%s Gasten"
+
+#: widgets/widget-search.php:18 widgets/widget-search.php:49
+msgid "Forum Search"
+msgstr "Forum zoeken"
+
+#: widgets/widget-search.php:8
+msgid "Asgaros Forum: Search"
+msgstr "Asgaros Forum: Zoeken"
+
+#: widgets/widget-search.php:7
+msgid "A search form for Asgaros Forum."
+msgstr "Een zoekformulier voor het Asgaros Forum."
+
+#: includes/forum-reports.php:75
+msgid "Hello,<br><br>There is a new report.<br><br>Topic:<br>%s<br><br>Post:<br>%s<br><br>Post Author:<br>%s<br><br>Reporter:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hallo,<br><br>Er is een nieuw rapport.<br><br>Onderwerp:<br>%s<br><br>Bericht:<br>%s<br><br>Auteur van het bericht:<br>%s<br><br>Rapporteur:<br>%s<br><br>Link naar het bericht:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-reports.php:74
+msgid "New report"
+msgstr "Nieuw rapport"
+
+#: includes/forum-reports.php:40
+msgid "You reported this post."
+msgstr "Je hebt dit bericht gerapporteerd."
+
+#: includes/forum-reports.php:36
+msgid "Report Post"
+msgstr "Bericht rapporteren."
+
+#: includes/forum-reports.php:33
+msgid "Are you sure that you want to report this post?"
+msgstr "Weet je zeker dat je dit bericht wilt rapporteren?"
+
+#: includes/forum-profile.php:275
+msgid "Edit Profile"
+msgstr "Profiel bewerken"
+
+#: includes/forum-appearance.php:66
+msgid "Default Theme"
+msgstr "Standaard thema"
+
+#: admin/views/reports.php:41
+msgid "There are no reports yet!"
+msgstr "Er zijn nog geen rapporten!"
+
+#: admin/views/reports.php:21
+msgid "Are you sure you want to delete this report?"
+msgstr "Weet je zeker dat je dit rapport wil verwijderen?"
+
+#: admin/views/reports.php:6
+msgid "Reports updated."
+msgstr "Rapporten bijgewerkt."
+
+#: admin/views/options.php:336
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: admin/views/options.php:306
+msgid "Enable reports"
+msgstr "Rapporteringsfunctie inschakelen"
+
+#: admin/views/options.php:262
+msgid "Allow uploads"
+msgstr "Uploads toestaan"
+
+#: admin/views/options.php:142
+msgid "Enable reactions"
+msgstr "Reacties inschakelen"
+
+#: admin/views/options.php:9
+msgid "Settings updated."
+msgstr "Instellingen bijgewerkt."
+
+#: admin/views/appearance.php:68
+msgid "Save Appearance"
+msgstr "Weergave opslaan"
+
+#: admin/views/appearance.php:42
+msgid "Font size:"
+msgstr "Grootte lettertype:"
+
+#: admin/views/appearance.php:38
+msgid "Font:"
+msgstr "Lettertype:"
+
+#: admin/views/appearance.php:9
+msgid "Appearance updated."
+msgstr "Weergave bijgewerkt."
+
+#: admin/tables/admin-reports-table.php:81
+msgid "Reporters:"
+msgstr "Rapporteurs:"
+
+#: admin/tables/admin-reports-table.php:80
+msgid "Post Author:"
+msgstr "Auteur van het bericht:"
+
+#: admin/tables/admin-reports-table.php:79
+msgid "Post:"
+msgstr "Bericht:"
+
+#: admin/tables/admin-reports-table.php:72
+msgid "Delete Report"
+msgstr "Rapport verwijderen"
+
+#: admin/tables/admin-reports-table.php:70
+msgid "View Post"
+msgstr "Bericht bekijken"
+
+#: admin/admin.php:144 admin/views/options.php:8
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/admin.php:138
+msgid "Reports %s"
+msgstr "Rapporten %s"
+
+#: admin/admin.php:134 admin/admin.php:141 admin/views/options.php:299
+#: admin/views/reports.php:5 admin/views/reports.php:34
+msgid "Reports"
+msgstr "Rapporten"
+
+#: admin/views/options.php:310
+msgid "Notify site owner about new reports"
+msgstr "De beheerder van de site inlichten over nieuwe rapporten"
+
+#: admin/views/options.php:273
+msgid "Who can upload files:"
+msgstr "Wie bestanden kan uploaden:"
+
+#: includes/forum-breadcrumbs.php:94 includes/forum-memberslist.php:25
+#: includes/forum.php:434
+msgid "Members"
+msgstr "Leden"
+
+#: admin/views/appearance.php:62
+msgid "Border color:"
+msgstr "Randkleur:"
+
+#: admin/views/options.php:231
+msgid "Members per page:"
+msgstr "Leden per pagina:"
+
+#: admin/views/options.php:228
+msgid "Show members list to logged-in users only"
+msgstr "Ledenlijst alleen tonen aan ingelogde gebruikers"
+
+#: admin/views/options.php:224
+msgid "Enable members list"
+msgstr "Ledenlijst inschakelen"
+
+#: admin/views/options.php:217
+msgid "Members List"
+msgstr "Ledenlijst"
+
+#: includes/forum-database.php:206
+msgid "Example User Group"
+msgstr "Voorbeeld gebruikersgroep"
+
+#: admin/views/usergroups.php:85
+msgid "Deleting this category will also permanently delete all user groups inside it. Are you sure you want to delete this category?"
+msgstr "Als je deze categorie verwijdert, verwijder je ook definitief alle gebruikersgroepen daarbinnen. Weet je zeker dat je deze categorie wil verwijderen?"
+
+#: admin/views/options.php:46
+msgid "Select Forum"
+msgstr "Forum selecteren"
+
+#: admin/views/options.php:41
+msgid "Create topics for new blog posts in the following forum:"
+msgstr "Onderwerpen voor nieuwe blog berichten in het volgende forum plaatsen:"
+
+#: includes/forum-database.php:186
+msgid "Custom User Groups"
+msgstr "Individuele gebruikersgroepen"
+
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.asgaros.de"
+msgstr "https://www.asgaros.de"
+
+#: includes/forum-profile.php:265
+msgid "Signature:"
+msgstr "Ondertekening:"
+
+#: includes/forum-profile.php:254
+msgid "Biographical Info:"
+msgstr "Biografische gegevens:"
+
+#: admin/admin.php:453
+msgid "Donate"
+msgstr "Doneren"
+
+#: admin/admin.php:451
+msgid "Official Support Forum"
+msgstr "Officieel Supportforum"
+
+#: includes/forum.php:409
+msgid "Overview"
+msgstr "Overzicht"
+
+#: admin/views/options.php:111
+msgid "Show register button"
+msgstr "Knop Registreren tonen"
+
+#: admin/views/options.php:107
+msgid "Show logout button"
+msgstr "Knop Uitloggen tonen"
+
+#: admin/views/options.php:103
+msgid "Show login button"
+msgstr "Knop inloggen tonen"
+
+#: includes/forum.php:1029
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: includes/forum-unread.php:154
+msgid "Nothing new"
+msgstr "Niets nieuws"
+
+#: includes/forum-profile.php:339
+msgid "My Profile"
+msgstr "Mijn profiel"
+
+#: includes/forum-profile.php:179 includes/forum-profile.php:280
+msgid "This user does not exist."
+msgstr "Deze gebruiker bestaat niet."
+
+#: includes/forum-profile.php:247
+msgid "Replies Created:"
+msgstr "Antwoorden geplaatst:"
+
+#: includes/forum-profile.php:239
+msgid "Topics Started:"
+msgstr "Onderwerpen gestart:"
+
+#: includes/forum-profile.php:231
+msgid "Member Since:"
+msgstr "Lid sinds:"
+
+#: includes/forum-profile.php:216
+msgid "Website:"
+msgstr "Website:"
+
+#: includes/forum-profile.php:198
+msgid "First Name:"
+msgstr "Voornaam:"
+
+#: includes/forum-permissions.php:92
+msgid "Moderator"
+msgstr "Moderator"
+
+#: includes/forum-permissions.php:90
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: includes/forum-permissions.php:96
+msgid "User"
+msgstr "Gebruiker"
+
+#: includes/forum-profile.php:135 includes/forum-profile.php:190
+msgid "You need to login to have access to profiles."
+msgstr "Je moet inloggen om toegang tot profielen te krijgen."
+
+#: includes/forum-profile.php:32 includes/forum-profile.php:57
+#: includes/forum-profile.php:102 includes/forum-profile.php:104
+msgid "Profile"
+msgstr "Profiel"
+
+#: admin/views/options.php:249
+msgid "Show profiles to logged-in users only"
+msgstr "Profielen alleen tonen aan ingelogde gebruikers"
+
+#: admin/views/options.php:238
+msgid "Profiles"
+msgstr "Profielen"
+
+#: admin/views/options.php:245
+msgid "Enable profiles"
+msgstr "Profielen inschakelen"
+
+#: admin/views/options.php:91
+msgid "Show author posts counter"
+msgstr "Berichtenteller van de auteur tonen"
+
+#: includes/forum-notifications.php:502
+msgid "No subscriptions yet!"
+msgstr "Nog geen abonnementen!"
+
+#: admin/views/options.php:185 includes/forum-breadcrumbs.php:86
+#: includes/forum-notifications.php:383 includes/forum.php:428
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: admin/views/options.php:95
+msgid "Show description in forum"
+msgstr "Abonnementen in het forum tonen."
+
+#: includes/forum.php:1041
+msgid "Register"
+msgstr "Registreren"
+
+#: admin/views/structure.php:110
+msgid "List of available icons."
+msgstr "Lijst met beschikbare iconen."
+
+#: admin/views/structure.php:106
+msgid "Icon:"
+msgstr "Iconen:"
+
+#: includes/forum-notifications.php:241
+msgid "New topic: %s"
+msgstr "Nieuw onderwerp: %s"
+
+#: admin/views/options.php:210
+msgid "Sender mail:"
+msgstr "Mail afzender:"
+
+#: includes/forum-notifications.php:169
+msgid "New answer: %s"
+msgstr "Nieuw antwoord: %s"
+
+#: admin/views/options.php:206
+msgid "Sender name:"
+msgstr "Naam afzender:"
+
+#: includes/forum-content.php:132
+msgid "You are not allowed to upload files with that file extension."
+msgstr "Je hebt geen toestemming om bestanden te uploaden met die bestandsextensie."
+
+#: includes/forum-content.php:138
+msgid "You are not allowed to upload files with that file size."
+msgstr "Je hebt geen toestemming om bestanden te uploaden met die bestandsgrootte."
+
+#: includes/forum-usergroups.php:609
+msgid "Add to"
+msgstr "Toevoegen aan"
+
+#: admin/admin.php:130 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:512
+msgid "User Groups"
+msgstr "Gebruikersgroepen"
+
+#: admin/views/usergroups.php:29
+msgid "Color:"
+msgstr "Kleur:"
+
+#: admin/views/usergroups.php:6
+msgid "User Groups updated."
+msgstr "Gebruikersgroepen bijgewerkt."
+
+#: includes/forum-online.php:149
+msgid "Newest Member:"
+msgstr "Nieuwste lid:"
+
+#: includes/forum-online.php:154
+msgid "Currently Online:"
+msgstr "Op dit moment online:"
+
+#: includes/forum-online.php:184
+msgid "Currently nobody is online."
+msgstr "Op dit moment is er niemand online"
+
+#: includes/forum-profile.php:208 includes/forum-usergroups.php:407
+#: includes/forum-usergroups.php:424
+msgid "User Groups:"
+msgstr "Gebruikersgroepen:"
+
+#: includes/forum-usergroups.php:437
+msgid "When user groups are selected, only users of the selected user groups will have access to the category."
+msgstr "Wanneer gebruikersgroepen zijn geselecteerd, krijgen alleen gebruikers van de geselecteerde gebruikersgroepen toegang tot de categorie."
+
+#: includes/forum-usergroups.php:613
+msgid "Remove from"
+msgstr "Verwijder van"
+
+#: includes/views/post-element.php:106
+msgid "Last edited on %s by %s"
+msgstr "Laatst bewerkt op %s door %s"
+
+#: admin/views/usergroups.php:53
+msgid "Are you sure you want to delete this user group?"
+msgstr "Weet je zeker dat je deze gebruikersgroep wilt verwijderen?"
+
+#: includes/forum-usergroups.php:671
+msgid "User groups assignments updated."
+msgstr "Toewijzingen van gebruikersgroepen bijgewerkt."
+
+#: admin/views/usergroups.php:127 admin/views/usergroups.php:128
+msgid "Add User Group"
+msgstr "Gebruikersgroep toevoegen"
+
+#: admin/tables/admin-usergroups-table.php:62
+msgid "Edit User Group"
+msgstr "Gebruikersgroep bewerken"
+
+#: admin/tables/admin-usergroups-table.php:60
+msgid "Delete User Group"
+msgstr "Gebruikersgroep verwijderen"
+
+#: widgets/widget-recent-posts.php:32 widgets/widget-recent-topics.php:32
+msgid "Show avatars?"
+msgstr "Avatars laten zien?"
+
+#: includes/forum.php:447
+msgid "Page"
+msgstr "Pagina"
+
+#: admin/tables/admin-structure-table.php:68
+msgid "Closed"
+msgstr "Gesloten"
+
+#: admin/tables/admin-structure-table.php:70
+msgid "Normal"
+msgstr "Normaal"
+
+#: admin/tables/admin-structure-table.php:97
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/admin.php:128 admin/views/structure.php:5
+msgid "Structure"
+msgstr "Structuur"
+
+#: admin/tables/admin-reports-table.php:82
+#: admin/tables/admin-structure-table.php:99
+#: admin/tables/admin-usergroups-table.php:72
+msgid "Actions:"
+msgstr "Acties:"
+
+#: admin/views/structure.php:135
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "Als je deze categorie verwijdert, worden ook alle fora, subfora, onderwerpen en berichten permanent verwijderd. Weet je zeker dat je deze categorie wilt verwijderen?"
+
+#: admin/views/structure.php:160 admin/views/structure.php:161
+#: admin/views/structure.php:222 admin/views/structure.php:223
+#: admin/views/usergroups.php:96 admin/views/usergroups.php:97
+#: admin/views/usergroups.php:135 admin/views/usergroups.php:136
+msgid "Add Category"
+msgstr "Categorie toevoegen"
+
+#: admin/views/structure.php:201 admin/views/usergroups.php:113
+msgid "Delete Category"
+msgstr "Categorie verwijderen"
+
+#: admin/views/structure.php:214 admin/views/structure.php:215
+msgid "Add Forum"
+msgstr "Forum toevoegen"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "Structuur bijgewerkt."
+
+#: admin/tables/admin-structure-table.php:86
+#: admin/tables/admin-structure-table.php:87
+msgid "Add Sub-Forum"
+msgstr "Subforum toevoegen"
+
+#: admin/tables/admin-structure-table.php:76
+#: admin/tables/admin-structure-table.php:77
+msgid "Delete Forum"
+msgstr "Forum verwijderen"
+
+#: admin/views/options.php:266
+msgid "Show thumbnails"
+msgstr "Thumbnails tonen"
+
+#: includes/forum-online.php:138
+msgid "Online"
+msgstr "Online"
+
+#: admin/views/options.php:126
+msgid "Features"
+msgstr "Kenmerken"
+
+#: admin/tables/admin-structure-table.php:49 admin/views/structure.php:183
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/options.php:154
+msgid "Show who is online"
+msgstr "Laten zien wie er online is"
+
+#: admin/views/options.php:175
+msgid "Enable breadcrumbs"
+msgstr "Kruimelpad inschakelen"
+
+#: admin/views/options.php:28
+msgid "Page which contains the [forum]-shortcode."
+msgstr "Pagina die de [forum]-shortcode bevat. "
+
+#: admin/views/options.php:291 includes/forum-uploads.php:257
+msgid "Maximum file size (in megabyte):"
+msgstr "Maximum  bestandsgrootte (in megabyte):"
+
+#: admin/views/options.php:120 admin/views/options.php:288
+#: admin/views/options.php:293
+msgid "(0 = No limitation)"
+msgstr "(0 = geen limiet) "
+
+#: admin/views/options.php:286 includes/forum-uploads.php:253
+msgid "Maximum files per post:"
+msgstr "Maximum bestanden per bericht:"
+
+#: admin/admin.php:56
+msgid "Signature"
+msgstr "Handtekening"
+
+#: includes/forum-statistics.php:33
+msgid "Users"
+msgstr "Gebruikers"
+
+#: includes/forum-statistics.php:23
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: admin/views/options.php:158
+msgid "Show statistics"
+msgstr "Statistieken tonen"
+
+#: includes/forum-notifications.php:63
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>Abonneren</b> op dit forum."
+
+#: includes/forum-notifications.php:60
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>Afmelden</b> voor dit forum."
+
+#: includes/forum-search.php:48 widgets/widget-search.php:37
+msgid "Search ..."
+msgstr "Zoeken..."
+
+#: includes/forum-breadcrumbs.php:82 includes/forum.php:426
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/forum.php:576 includes/forum.php:849
+msgid "By"
+msgstr "Door"
+
+#: includes/forum.php:951
+msgid "Open"
+msgstr "Open"
+
+#: includes/forum-breadcrumbs.php:74 includes/forum-editor.php:134
+#: includes/forum.php:422 includes/forum.php:904
+msgid "New Topic"
+msgstr "Nieuw onderwerp"
+
+#: includes/views/search.php:10
+msgid "Search results:"
+msgstr "Zoekresultaten:"
+
+#: includes/views/search.php:20
+msgid "No results found for:"
+msgstr "Geen resultaten gevonden voor:"
+
+#: includes/forum-statistics.php:26 includes/views/forum.php:35
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: includes/views/forum.php:24 includes/views/forum.php:36
+#: includes/views/overview.php:11 includes/views/search.php:11
+msgid "Last post"
+msgstr "Laatste bericht"
+
+#: includes/views/forum-element.php:35
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s onderwerp"
+msgstr[1] "%s onderwerpen"
+
+#: includes/forum-breadcrumbs.php:78 includes/forum.php:424
+msgid "Move Topic"
+msgstr "Onderwerp verplaatsen"
+
+#. Description of the plugin/theme
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros Forum is het beste forum voor WordPress. Het komt met tientallen functies in een mooi ontwerp en blijft licht, eenvoudig en snel."
+
+#: admin/views/options.php:146
+msgid "Enable search functionality"
+msgstr "Zoekfunctionaliteit inschakelen"
+
+#: includes/views/post-element.php:20
+msgid "Topic Author"
+msgstr "Topic starter"
+
+#: includes/forum-widgets.php:134 widgets/widget-search.php:42
+msgid "The forum has not been configured correctly."
+msgstr "Het forum is niet correct geconfigureerd."
+
+#: admin/views/options.php:23
+msgid "Forum location:"
+msgstr "Forumlocatie:"
+
+#: includes/forum-widgets.php:46 widgets/widget-recent-topics.php:16
+msgid "Recent forum topics"
+msgstr "Recente forumonderwerpen"
+
+#: widgets/widget-recent-topics.php:8
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros Forum: Recente onderwerpen"
+
+#: includes/forum-widgets.php:131 includes/forum.php:853
+msgid "No topics yet!"
+msgstr "Nog geen onderwerpen."
+
+#: widgets/widget-recent-topics.php:7
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "Recente onderwerpen in het Asgaros Forum tonen."
+
+#: admin/views/options.php:189
+msgid "Notify site owner about new topics"
+msgstr "De beheerder van de site inlichten over nieuwe onderwerpen"
+
+#: includes/forum-notifications.php:442
+msgid "Notify about new topics in:"
+msgstr "Stuur een notificatie over nieuwe onderwerpen in:"
+
+#: admin/views/options.php:87
+msgid "Highlight topic authors"
+msgstr "Topic starters markeren"
+
+#: includes/forum-uploads.php:161
+msgid "You need to login to have access to uploads."
+msgstr "Je dient in te loggen om toegang te hebben tot bestanden."
+
+#: includes/forum.php:783
+msgid "Guest"
+msgstr "Gast"
+
+#: includes/forum.php:777
+msgid "Deleted user"
+msgstr "Verwijderde gebruiker"
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "In deze categorie zijn er nog geen forums"
+
+#: admin/views/options.php:270
+msgid "Show uploaded files to logged-in users only"
+msgstr "Geüploade bestanden alleen aan ingelogde gebruikers tonen"
+
+#: admin/views/options.php:162
+msgid "Allow guest postings"
+msgstr "Plaatsing van berichten door gasten toestaan"
+
+#: admin/views/options.php:79
+msgid "Allow shortcodes in posts"
+msgstr "Shortcodes in berichten toestaan"
+
+#: includes/forum.php:370
+msgid "Sorry, only logged in users have access to this category."
+msgstr "Sorry, alleen ingelogde gebruikers hebben toegang tot deze categorie."
+
+#: includes/forum-notifications.php:242
+msgid "Hello,<br /><br />You received this message because there is a new forum-topic:<br />%s<br /><br />Author:<br />%s<br /><br />Text:<br />%s<br /><br />Link to the new topic:<br /><a href=\"%s\">%s</a>"
+msgstr "Hallo,<br /><br />Je krijgt dit bericht omdat er een nieuw onderwerp is geplaatst op het forum:<br />%s<br /><br />Auteur:<br />%s<br /><br />Tekst:<br />%s<br /><br />Link naar het nieuwe topic:<br /><a href=\"%s\">%s</a>"
+
+#: includes/forum-notifications.php:170
+msgid "Hello,<br /><br />You received this message because there is a new answer in a forum-topic you have subscribed to:<br />%s<br /><br />Author:<br />%s<br /><br />Answer:<br />%s<br /><br />Link to the new answer:<br /><a href=\"%s\">%s</a><br /><br />You can unsubscribe from this topic using the unsubscribe-link at the end of the topic as a logged-in user. Please dont answer to this mail!"
+msgstr "Hallo,<br /><br />Je krijgt dit bericht omdat er een nieuw antwoord is op een onderwerp waarop je bent geabonneerd:<br />%s<br /><br />Auteur:<br />%s<br /><br />Reactie:<br />%s<br /><br />Link naar het nieuwe antwoord:<br /><a href=\"%s\">%s</a><br /><br />Je kunt je afmelden voor dit onderwerp door op de speciale link onderaan het onderwerp te klikken wanneer je bent ingelogd. Graag niet antwoorden op deze mail."
+
+#: includes/forum.php:375 includes/forum.php:382 includes/forum.php:390
+msgid "Sorry, you dont have access to this area."
+msgstr "Sorry, je hebt geen toegang tot dit gebied."
+
+#: includes/forum-notifications.php:78
+msgid "Subscription:"
+msgstr "Abonnement:"
+
+#: admin/views/options.php:75
+msgid "Use minimalistic editor"
+msgstr "Geminimaliseerde editor gebruiken"
+
+#: includes/forum-notifications.php:31
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>Afmelden</b> voor dit onderwerp."
+
+#: includes/forum-notifications.php:34 includes/forum-notifications.php:86
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>Abonneren</b> op dit onderwerp."
+
+#: admin/views/options.php:193
+msgid "Allow subscriptions (for logged-in users only)"
+msgstr "Abonnementen toestaan (alleen voor ingelogde gebruikers)"
+
+#: admin/views/options.php:20
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/views/appearance.php:26
+msgid "Theme"
+msgstr "Thema"
+
+#: admin/tables/admin-structure-table.php:98 admin/views/structure.php:70
+#: admin/views/structure.php:119 admin/views/structure.php:194
+msgid "Order:"
+msgstr "Volgorde:"
+
+#: admin/views/structure.php:77 admin/views/structure.php:125
+#: admin/views/usergroups.php:43 admin/views/usergroups.php:75
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/views/reports.php:25 admin/views/structure.php:78
+#: admin/views/structure.php:126 admin/views/structure.php:139
+#: admin/views/structure.php:153 admin/views/usergroups.php:44
+#: admin/views/usergroups.php:57 admin/views/usergroups.php:76
+#: admin/views/usergroups.php:89 includes/forum-editor.php:185
+#: includes/forum-editor.php:190
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: admin/views/options.php:255
+msgid "Uploads"
+msgstr "Uploads"
+
+#: admin/admin.php:129 admin/views/appearance.php:8
+#: admin/views/appearance.php:20
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+#: admin/views/appearance.php:46
+msgid "Forum color:"
+msgstr "Forumkleur:"
+
+#: admin/views/appearance.php:54
+msgid "Text color:"
+msgstr "Tekstkleur:"
+
+#: includes/forum-permissions.php:94 includes/views/post-element.php:43
+msgid "Banned"
+msgstr "Niet toegelaten"
+
+#: admin/views/appearance.php:58
+msgid "Background color:"
+msgstr "Achtergrondkleur:"
+
+#: admin/admin.php:39
+msgid "Banned User"
+msgstr "Verbannen gebruiker"
+
+#: admin/views/structure.php:149
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "Het verwijderen van dit forum verwijdert ook permanent alle sub-forums, onderwerpen en berichten. Ben je er zeker van dat je dit forum wilt verwijderen ?"
+
+#: includes/views/forum-element.php:47 includes/views/forum.php:23
+msgid "Subforums"
+msgstr "Subforums"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "Je bent niet toegelaten!"
+
+#: admin/tables/admin-structure-table.php:80
+#: admin/tables/admin-structure-table.php:81
+msgid "Edit Forum"
+msgstr "Forum bewerken"
+
+#: admin/views/options.php:282 includes/forum-uploads.php:260
+msgid "Allowed filetypes:"
+msgstr "Toegelaten bestandstypen:"
+
+#: admin/views/structure.php:115
+msgid "Closed:"
+msgstr "Gesloten:"
+
+#: includes/forum-memberslist.php:65 includes/views/forum-element.php:37
+#: includes/views/post-element.php:38
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s bericht"
+msgstr[1] "%s berichten"
+
+#: includes/forum-widgets.php:117 includes/forum.php:584
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s Antwoord"
+msgstr[1] "%s Antwoorden"
+
+#: includes/forum.php:589
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s keer bekeken"
+msgstr[1] "%s keer bekeken"
+
+#: admin/views/options.php:276 admin/views/structure.php:63
+#: admin/views/structure.php:187
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: admin/views/options.php:277 admin/views/structure.php:64
+#: admin/views/structure.php:189
+msgid "Logged in users only"
+msgstr "Alleen voor ingelogde gebruikers"
+
+#: admin/views/options.php:278 admin/views/structure.php:65
+#: admin/views/structure.php:191
+msgid "Moderators only"
+msgstr "Alleen voor beheerders"
+
+#: admin/views/structure.php:60 admin/views/structure.php:185
+msgid "Access:"
+msgstr "Toegang:"
+
+#: admin/admin.php:35
+msgid "Forum Moderator"
+msgstr "Forum Moderator"
+
+#: admin/views/options.php:83
+msgid "Highlight administrator/moderator names"
+msgstr "Namen van administrateurs/moderators markeren"
+
+#: admin/views/options.php:115
+msgid "Show edit date"
+msgstr "Bewerkingsdatum tonen"
+
+#: includes/views/post-element.php:108
+msgid "Last edited on %s"
+msgstr "Laatst bewerkt op %s"
+
+#: includes/forum.php:360
+msgid "Sorry, only logged in users have access to the forum."
+msgstr "Sorry, alleen ingelogde gebruikers hebben toegang tot het forum."
+
+#: admin/views/options.php:99
+msgid "Forum visible to logged in users only"
+msgstr "Forum alleen zichtbaar voor ingelogde gebruikers"
+
+#: includes/forum.php:1035
+msgid "Login"
+msgstr "Inloggen"
+
+#: includes/forum.php:632
+msgid "You need to log in to create posts and topics."
+msgstr "Je dient in te loggen om berichten en onderwerpen te maken."
+
+#: widgets/widget-recent-posts.php:26 widgets/widget-recent-topics.php:26
+msgid "Number of topics to show:"
+msgstr "Aantal te tonen onderwerpen:"
+
+#: widgets/widget-recent-posts.php:21 widgets/widget-recent-topics.php:21
+#: widgets/widget-search.php:52
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/forum-activity.php:31 includes/forum-online.php:212
+#: includes/forum-profile.php:163 includes/forum-widgets.php:122
+#: includes/forum.php:838 includes/forum.php:842 includes/forum.php:850
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: includes/forum-widgets.php:121 includes/forum.php:837
+msgid "by"
+msgstr "door"
+
+#: includes/forum-widgets.php:44 widgets/widget-recent-posts.php:16
+msgid "Recent forum posts"
+msgstr "Recente forumberichten"
+
+#: widgets/widget-recent-posts.php:8
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros Forum: Recente berichten"
+
+#: widgets/widget-recent-posts.php:7
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "Actuele berichten op het Asgaros Forum"
+
+#: includes/forum.php:932 includes/forum.php:973
+msgid "Are you sure you want to remove this?"
+msgstr "Weet je zeker dat je dit wilt verwijderen?"
+
+#: includes/forum-statistics.php:27
+msgid "Posts"
+msgstr "Berichten"
+
+#. Author of the plugin/theme
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#: includes/forum-unread.php:152
+msgid "New posts"
+msgstr "Nieuwe berichten"
+
+#: includes/views/forum.php:65
+msgid "There are no topics yet!"
+msgstr "Er zijn nog geen topics aanwezig!"
+
+#. Plugin Name of the plugin/theme
+msgid "Asgaros Forum"
+msgstr "Asgaros Forum"
+
+#: includes/forum-unread.php:156
+msgid "Mark All Read"
+msgstr "Alles als gelezen markeren"
+
+#: includes/forum-statistics.php:30
+msgid "Views"
+msgstr "Views"
+
+#: includes/forum-editor.php:193
+msgid "Submit"
+msgstr "Opslaan"
+
+#: includes/forum-uploads.php:226
+msgid "Upload Files:"
+msgstr "Bestanden uploaden"
+
+#: includes/forum-uploads.php:244
+msgid "Add another file ..."
+msgstr "Nieuw bestand toevoegen..."
+
+#: includes/forum-content.php:67 includes/forum-content.php:79
+#: includes/forum-content.php:85 includes/forum-content.php:97
+#: includes/forum-content.php:105 includes/forum-content.php:113
+#: includes/forum-editor.php:105
+msgid "You are not allowed to do this."
+msgstr "Je hebt geen toestemming dit te doen."
+
+#: includes/forum-editor.php:157
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "Quote from"
+msgstr "Citaat van"
+
+#: includes/forum-content.php:126
+msgid "You must enter a message."
+msgstr "Je dient een bericht in te voeren."
+
+#: includes/forum-content.php:120
+msgid "You must enter a subject."
+msgstr "Je dient een onderwerp in te voeren."
+
+#: includes/forum-editor.php:136
+msgid "Post Reply:"
+msgstr "Bericht beantwoorden:"
+
+#: includes/forum.php:1176
+msgid "Sorry, this post does not exist."
+msgstr "Sorry, dit bericht bestaat niet."
+
+#: includes/forum-uploads.php:178 includes/forum-uploads.php:208
+msgid "Uploaded files:"
+msgstr "Geüploade bestanden:"
+
+#: admin/tables/admin-usergroups-table.php:60 admin/views/reports.php:24
+#: admin/views/structure.php:138 admin/views/structure.php:152
+#: admin/views/usergroups.php:56 admin/views/usergroups.php:88
+#: includes/forum-uploads.php:200 includes/forum.php:933 includes/forum.php:974
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/forum-pagination.php:34 includes/forum-pagination.php:154
+msgid "Last"
+msgstr "Laatste"
+
+#: includes/forum-pagination.php:118
+msgid "First"
+msgstr "Eerste"
+
+#: includes/forum-pagination.php:94
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: includes/forum.php:956
+msgid "Close"
+msgstr "Sluiten"
+
+#: includes/forum.php:944
+msgid "Sticky"
+msgstr "Sticky"
+
+#: includes/forum.php:939
+msgid "Undo Sticky"
+msgstr "Sticky ongedaan maken"
+
+#: includes/forum.php:921
+msgid "Reply"
+msgstr "Antwoorden"
+
+#: admin/tables/admin-usergroups-table.php:62 includes/forum.php:982
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "on %s"
+msgstr "op %s"
+
+#: includes/forum.php:990
+msgid "Quote"
+msgstr "Citaat"
+
+#: includes/forum.php:671
+msgid "You are not allowed to move topics."
+msgstr "Je hebt geen toestemming om onderwerpen te verplaatsen."
+
+#: includes/forum.php:835
+msgid "Last post in"
+msgstr "Laatste bericht in"
+
+#: includes/forum.php:1177
+msgid "Sorry, this topic does not exist."
+msgstr "Sorry, dit onderwerp bestaat niet."
+
+#: includes/forum.php:620
+msgid "Sorry, but there are no posts."
+msgstr "Sorry, er zijn geen berichten."
+
+#: includes/forum.php:1178
+msgid "Sorry, this forum does not exist."
+msgstr "Sorry, dit forum bestaat niet."
+
+#: includes/views/overview.php:32
+msgid "There are no categories yet!"
+msgstr "Er zijn nog geen categorieën"
+
+#: includes/forum.php:641
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "\"<strong>%s</strong>\" verplaatsen naar nieuw forum:"
+
+#: includes/forum-breadcrumbs.php:66 includes/forum.php:420
+msgid "Post Reply"
+msgstr "Antwoord plaatsen"
+
+#: includes/forum.php:667 includes/forum.php:928
+msgid "Move"
+msgstr "Verplaatsen"
+
+#: includes/forum-breadcrumbs.php:70 includes/forum-editor.php:138
+#: includes/forum.php:418
+msgid "Edit Post"
+msgstr "Bericht bewerken"
+
+#: admin/views/structure.php:203 admin/views/usergroups.php:115
+msgid "Edit Category"
+msgstr "Categorie bewerken"
+
+#: admin/views/options.php:36
+msgid "Topics to show per page:"
+msgstr "Onderwerpen per pagina weer te geven:"
+
+#: admin/views/options.php:32
+msgid "Replies to show per page:"
+msgstr "Antwoorden per pagina weer te geven:"
+
+#: admin/views/structure.php:96
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: admin/tables/admin-structure-table.php:96
+#: admin/tables/admin-usergroups-table.php:69 admin/views/structure.php:56
+#: admin/views/structure.php:92 admin/views/usergroups.php:25
+#: admin/views/usergroups.php:69
+msgid "Name:"
+msgstr "Naam:"
+
+#: includes/forum-usergroups.php:557
+msgid "Forum:"
+msgstr "Forum:"
+
+#: admin/admin.php:75 admin/admin.php:127 includes/forum-breadcrumbs.php:26
+#: includes/forum-usergroups.php:354 includes/forum.php:1006
+msgid "Forum"
+msgstr "Forum"

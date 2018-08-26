@@ -1,0 +1,530 @@
+# Translation of Themes - Tortuga in Japanese
+# This file is distributed under the same license as the Themes - Tortuga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-17 01:54:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Tortuga\n"
+
+#. Theme Name of the plugin/theme
+msgid "Tortuga"
+msgstr "Tortuga"
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:27
+msgid "Displays your posts from a selected category in a horizontal box. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "選択したカテゴリーの投稿をヨコのボックスで表示します。このウィジェットはマガジンフロントページウィジェットエリアでのみ使用可能です。"
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:24
+msgid "Magazine (Vertical Box)"
+msgstr "マガジン (タテのボックス)"
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:24
+msgid "Magazine (Horizontal Box)"
+msgstr "マガジン (ヨコのボックス)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:24
+msgid "Magazine (Columns)"
+msgstr "マガジン (列)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:24
+msgid "Magazine (Grid)"
+msgstr "マガジン (グリッド)"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Layout"
+msgstr "全幅レイアウト"
+
+#. Template Name of the plugin/theme
+msgid "Centered Layout"
+msgstr "中央レイアウト"
+
+#: inc/theme-info.php:153
+msgid "Review Tortuga"
+msgstr "Tortuga のレビュー"
+
+#: inc/customizer/functions/custom-controls.php:123 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: inc/customizer/functions/custom-controls.php:115 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "おすすめプラグイン"
+
+#: inc/customizer/functions/custom-controls.php:99 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "プロ版アドオン"
+
+#: inc/customizer/customizer.php:189 inc/theme-info.php:50
+#: inc/theme-info.php:153
+msgid "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/tortuga/reviews/?filter=5"
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:27
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツは見つかりません。検索をお試しください。"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありません。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: inc/template-tags.php:337
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "前の記事"
+
+#: inc/template-tags.php:338
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "次の記事"
+
+#: inc/template-tags.php:284
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "次の記事:"
+
+#: inc/template-tags.php:283
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "前の記事:"
+
+#: inc/customizer/customizer.php:79
+msgid "Display Tagline"
+msgstr "キャッチフレーズを表示"
+
+#: template-magazine.php:42
+msgid "Please go to Appearance &#8594; Widgets and add at least one widget to the \"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to set up the theme like the demo website."
+msgstr "「外観」>「ウィジェット」内の「マガジンホームページ」ウィジェットエリアに1つ以上のウィジェットを追加してください。デモサイトのように設定するには「マガジン投稿ウィジェット」を利用してください。"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/widgets/widget-magazine-posts-grid.php:222
+msgid "Three Columns Grid"
+msgstr "3カラムグリッド"
+
+#: inc/widgets/widget-magazine-posts-grid.php:221
+msgid "Two Columns Grid"
+msgstr "2カラムグリッド"
+
+#: inc/widgets/widget-magazine-posts-grid.php:219
+msgid "Grid Layout:"
+msgstr "グリッドレイアウト:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:27
+msgid "Displays your posts from a selected category in a grid layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "選択したカテゴリーから投稿をグリッドレイアウトで表示します。マガジンホームページのウィジェットエリアでのみ利用してください。"
+
+#: inc/widgets/widget-magazine-posts-columns.php:297
+msgid "Highlight first post (big image + excerpt)"
+msgstr "最初の投稿を目立たせる (大きな画像 + 抜粋)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:289
+#: inc/widgets/widget-magazine-posts-grid.php:227
+msgid "Number of posts:"
+msgstr "投稿数:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:274
+msgid "Right Category:"
+msgstr "右カテゴリー:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:268
+msgid "Right Category Title:"
+msgstr "右カテゴリータイトル:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:253
+msgid "Left Category:"
+msgstr "左カテゴリー:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:247
+msgid "Left Category Title:"
+msgstr "左カテゴリータイトル:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:27
+msgid "Displays your posts from two selected categories. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "2つの選択したカテゴリーから投稿を表示します。マガジンホームページのウィジェットエリアでのみ利用してください。"
+
+#: inc/widgets/widget-magazine-posts-grid.php:204
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:204
+#: inc/widgets/widget-magazine-posts-vertical-box.php:204
+msgid "Category:"
+msgstr "カテゴリー:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:198
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:198
+#: inc/widgets/widget-magazine-posts-vertical-box.php:198
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/magazine.php:25
+msgid "View all posts from category %s"
+msgstr "%sカテゴリーのすべての投稿を表示"
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:27
+msgid "Displays your posts from a selected category in a vertical box. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "選択したカテゴリーの投稿をタテのボックスで表示します。マガジンホームページのウィジェットエリアでのみ使用可能です。"
+
+#: inc/theme-info.php:153
+msgid "rate it"
+msgstr "評価する"
+
+#: inc/theme-info.php:152
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/theme-info.php:150
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s は %2$s がお届けしています。もしテーマが気に入ったら、%3$s 😊"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "さらに機能を入手"
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "テーマをカスタマイズ"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s はすべてのテーマ設定をカスタマイザーで行います。「テーマのカスタマイズ」をクリックしてカスタマイザーを開きましょう。"
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "%s ドキュメンテーションをみる"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "テーマの設定にお困りですか ? Web サイトにある広範囲のテーマドキュメンテーションで網羅しています。"
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "%s をはじめましょう"
+
+#: inc/customizer/customizer.php:178 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "テーマデモ"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "テーマ情報"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$s %2$s へようこそ"
+
+#: inc/template-tags.php:352
+msgid "Powered by %1$s and %2$s."
+msgstr "Powered by %1$s and %2$s."
+
+#: inc/template-tags.php:264
+msgid "Continue reading &raquo;"
+msgstr "続きを読む &raquo;"
+
+#: inc/template-tags.php:221
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: inc/template-tags.php:190
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/customizer/sections/customizer-upgrade.php:19
+msgid "More Features"
+msgstr "さらに多くの機能"
+
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr "スライダーの速さ (ミリ秒)"
+
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "フェード効果"
+
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "スライド効果"
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "スライダーのアニメーション"
+
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "投稿数"
+
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "スライダーカテゴリー"
+
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "投稿ページでスライダーを表示"
+
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr "マガジンホームページでスライダーを表示"
+
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr "投稿スライダーを有効化"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.2.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "投稿スライダー"
+
+#: inc/customizer/sections/customizer-post.php:203
+msgid "Display post navigation on single posts"
+msgstr "個別投稿ページで投稿ナビゲーションを表示"
+
+#: inc/customizer/sections/customizer-post.php:187
+msgid "Display post tags on single posts"
+msgstr "個別投稿ページで投稿タグを表示"
+
+#: inc/customizer/sections/customizer-post.php:155
+msgid "Single Posts"
+msgstr "個別投稿"
+
+#: inc/customizer/sections/customizer-post.php:137
+msgid "Display post comments"
+msgstr "投稿を表示"
+
+#: inc/customizer/sections/customizer-post.php:121
+msgid "Display post categories"
+msgstr "投稿カテゴリーを表示"
+
+#: inc/customizer/sections/customizer-post.php:105
+msgid "Display post author"
+msgstr "投稿者を表示"
+
+#: inc/customizer/sections/customizer-post.php:89
+msgid "Display post date"
+msgstr "投稿日を表示"
+
+#: inc/customizer/sections/customizer-post.php:74
+msgid "Post Meta"
+msgstr "投稿メタ"
+
+#: inc/customizer/sections/customizer-post.php:56
+msgid "Excerpt Length"
+msgstr "抜粋の長さ"
+
+#: inc/customizer/sections/customizer-post.php:42
+msgid "Three Columns without Sidebar"
+msgstr "3カラム サイドバー無し"
+
+#: inc/customizer/sections/customizer-post.php:41
+msgid "Two Columns"
+msgstr "2カラム"
+
+#: inc/customizer/sections/customizer-post.php:40
+msgid "One Column"
+msgstr "1カラム"
+
+#: inc/customizer/sections/customizer-post.php:34
+msgid "Post Layout (archive pages)"
+msgstr "投稿レイアウト (アーカイブページ)"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "投稿設定"
+
+#: inc/customizer/sections/customizer-general.php:72
+msgid "Blog Description"
+msgstr "ブログの説明"
+
+#: inc/customizer/sections/customizer-general.php:55
+msgid "Blog Title"
+msgstr "ブログのタイトル"
+
+#: inc/customizer/sections/customizer-general.php:41
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/sections/customizer-general.php:34
+msgid "Theme Layout"
+msgstr "テーマレイアウト"
+
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "一般設定"
+
+#: inc/customizer/functions/custom-controls.php:118 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "プラグインを使って、WordPress サイトを無料で簡単に、機能拡張しましょう。"
+
+#: inc/customizer/functions/custom-controls.php:107 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "%s プロについて詳しく知る"
+
+#: inc/customizer/functions/custom-controls.php:106 inc/theme-info.php:116
+msgid "https://themezee.com/addons/tortuga-pro/"
+msgstr "https://themezee.com/addons/tortuga-pro/"
+
+#: inc/customizer/functions/custom-controls.php:102 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "%s プロアドオンを購入して追加機能と高度なカスタマイズ設定を入手する。"
+
+#: inc/customizer/functions/custom-controls.php:65
+#: inc/widgets/widget-magazine-posts-columns.php:256
+#: inc/widgets/widget-magazine-posts-columns.php:277
+#: inc/widgets/widget-magazine-posts-grid.php:207
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:207
+#: inc/widgets/widget-magazine-posts-vertical-box.php:207
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#: inc/customizer/customizer.php:190 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "このテーマを評価"
+
+#: inc/customizer/customizer.php:184 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "テーマのドキュメント"
+
+#: inc/customizer/customizer.php:183 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/tortuga-documentation/"
+msgstr "https://themezee.com/docs/tortuga-documentation/"
+
+#: inc/customizer/customizer.php:172 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "テーマページ"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.2.4)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:171 inc/theme-info.php:47
+msgid "https://themezee.com/themes/tortuga/"
+msgstr "https://themezee.com/themes/tortuga/"
+
+#: inc/customizer/customizer.php:168 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "テーマのリンク"
+
+#: inc/customizer/customizer.php:113
+msgid "Hide header image on front page"
+msgstr "フロントページのヘッダー画像を非表示"
+
+#: inc/customizer/customizer.php:96
+msgid "Header Image Link"
+msgstr "ヘッダー画像リンク"
+
+#: inc/customizer/customizer.php:62
+msgid "Display Site Title"
+msgstr "サイトのタイトルを表示"
+
+#: inc/customizer/customizer.php:37
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/customizer.php:31 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/back-compat.php:41 inc/back-compat.php:51 inc/back-compat.php:64
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s は、WordPress バージョン%2$s以上が必要です。現在のバージョンは%3$sです。更新してやり直してください。"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:127
+msgid "Appears on Magazine Homepage template only. You can use the Magazine Posts widgets here."
+msgstr "マガジンホームページテンプレートでのみ表示します。マガジン投稿ウィジェットはここで利用可能です。"
+
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.2.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:125
+msgid "Magazine Homepage"
+msgstr "マガジンホームページ"
+
+#: functions.php:117
+msgid "Appears on header area. You can use a search or ad widget here."
+msgstr "ヘッダーエリアに表示されます。ここで検索ウィジェットまたは広告ウィジェットを使用できます。"
+
+#: functions.php:115
+msgid "Header"
+msgstr "ヘッダー"
+
+#: functions.php:107
+msgid "Appears on posts and pages except the full width template."
+msgstr "全幅テンプレート以外の投稿と固定ページで表示します。"
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:42
+msgid "Main Navigation"
+msgstr "メインナビゲーション"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "返信を残す"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "ただいまコメントは受け付けていません。"
+
+#: comments.php:29 inc/template-tags.php:221
+msgid "% comments"
+msgstr "%件のコメント"
+
+#: comments.php:29 inc/template-tags.php:221
+msgid "One comment"
+msgstr "1件のコメント"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索をお試しください。"
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "404: ページが見つかりません"
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"

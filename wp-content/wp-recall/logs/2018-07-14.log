@@ -1,0 +1,138 @@
+00:14:06 Запуск событий крона rcl_cron_hourly
+01:33:01 Запуск событий крона rcl_cron_hourly
+02:20:03 Запуск событий крона rcl_cron_hourly
+03:19:45 Запуск событий крона rcl_cron_hourly
+04:29:15 Запуск событий крона rcl_cron_hourly
+05:41:41 Запуск событий крона rcl_cron_hourly
+06:32:30 Запуск событий крона rcl_cron_hourly
+07:11:39 Запуск событий крона rcl_cron_hourly
+07:25:30 Запуск событий крона rcl_cron_twicedaily
+07:25:30 Отправка запроса на сервер обновления для получение последних версий установленных дополнений
+07:29:29 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [object_id] => 107
+    [object_author] => 1
+    [rating_type] => post
+    [rating_value] => 0
+)
+
+07:29:29 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [object_id] => 112
+    [object_author] => 1
+    [rating_type] => post
+    [rating_value] => 0
+)
+
+07:41:45 Запуск событий крона rcl_cron_daily
+08:09:57 Запуск событий крона rcl_cron_hourly
+09:10:25 Запуск событий крона rcl_cron_hourly
+10:09:48 Запуск событий крона rcl_cron_hourly
+11:10:09 Запуск событий крона rcl_cron_hourly
+11:31:36 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [user_id] => 1
+    [object_id] => 1
+    [object_author] => 1
+    [rating_value] => 0
+    [rating_type] => edit-admin
+    [rating_date] => 2018-07-14 11:31:36
+)
+
+11:31:37 rcl_update_total_rating: Не удалось изменить общий рейтинг объекта
+Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [user_id] => 1
+            [object_id] => 2
+            [object_author] => 2
+            [rating_value] => 0
+            [rating_type] => edit-admin
+            [rating_date] => 2018-07-14 11:31:37
+        )
+
+)
+
+11:31:37 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [user_id] => 1
+    [object_id] => 2
+    [object_author] => 2
+    [rating_value] => 0
+    [rating_type] => edit-admin
+    [rating_date] => 2018-07-14 11:31:37
+)
+
+11:31:38 rcl_update_total_rating: Не удалось изменить общий рейтинг объекта
+Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [user_id] => 1
+            [object_id] => 3
+            [object_author] => 3
+            [rating_value] => 0
+            [rating_type] => edit-admin
+            [rating_date] => 2018-07-14 11:31:38
+        )
+
+)
+
+11:31:38 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [user_id] => 1
+    [object_id] => 3
+    [object_author] => 3
+    [rating_value] => 0
+    [rating_type] => edit-admin
+    [rating_date] => 2018-07-14 11:31:38
+)
+
+12:10:16 Запуск событий крона rcl_cron_hourly
+13:09:51 Запуск событий крона rcl_cron_hourly
+14:09:56 Запуск событий крона rcl_cron_hourly
+15:10:37 Запуск событий крона rcl_cron_hourly
+16:37:29 Запуск событий крона rcl_cron_hourly
+17:24:16 Запуск событий крона rcl_cron_hourly
+18:13:21 Запуск событий крона rcl_cron_hourly
+19:36:22 Запуск событий крона rcl_cron_hourly
+19:36:22 Запуск событий крона rcl_cron_twicedaily
+19:36:22 Отправка запроса на сервер обновления для получение последних версий установленных дополнений
+19:39:07 rcl_update_total_rating: Не удалось изменить общий рейтинг объекта
+Array
+(
+    [0] => 1
+    [1] => Array
+        (
+            [user_id] => 1
+            [object_id] => 4
+            [object_author] => 4
+            [rating_value] => 0
+            [rating_type] => edit-admin
+            [rating_date] => 2018-07-14 19:39:07
+        )
+
+)
+
+19:39:07 rcl_update_user_rating: Не удалось изменить общий рейтинг пользователя
+Array
+(
+    [user_id] => 1
+    [object_id] => 4
+    [object_author] => 4
+    [rating_value] => 0
+    [rating_type] => edit-admin
+    [rating_date] => 2018-07-14 19:39:07
+)
+
+20:37:06 Запуск событий крона rcl_cron_hourly
+21:18:01 Запуск событий крона rcl_cron_hourly
+22:14:53 Запуск событий крона rcl_cron_hourly

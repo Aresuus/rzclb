@@ -1,0 +1,1233 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-15 12:09:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: includes/forum-notifications.php:499
+msgid "You get notified about <b>all</b> new posts."
+msgstr "Du blir varslet om <b>alle</b> nye innlegg. "
+
+#: includes/forum-notifications.php:497
+msgid "You get notified about <b>all</b> new topics."
+msgstr "Du blir varslet om <b>alle</b> nye emner."
+
+#: includes/forum-notifications.php:431
+msgid "Notify about new posts in:"
+msgstr "Motta varsel om nye innlegg i: "
+
+#: includes/forum-notifications.php:423
+msgid "You get notified about all new topics and posts."
+msgstr "Du får varsel om alle nye emner og innlegg."
+
+#: includes/forum-notifications.php:417
+msgid "You get notified about all new topics."
+msgstr "Du får beskjed om alle nye emner."
+
+#: includes/forum-notifications.php:411
+msgid "You get notified about activity in forums and topics you are subscribed to."
+msgstr "Du får varsel om aktivitet i forum og emner du abonnerer på."
+
+#: includes/forum-activity.php:119 includes/forum-breadcrumbs.php:96
+#: includes/forum.php:428
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: includes/forum-activity.php:76
+msgid "No activity yet!"
+msgstr "Ingen aktivitet enda!"
+
+#: includes/forum-activity.php:67
+msgid "%s answered in %s."
+msgstr "%s besvart i %s."
+
+#: includes/forum-activity.php:61
+msgid "New topic %s created by %s."
+msgstr "Nytt emne %s opprette av %s."
+
+#: admin/views/usergroups.php:33
+msgid "Hide user group:"
+msgstr "Skjul brukergruppe:"
+
+#: admin/views/options.php:134
+msgid "Enable Activity Feed"
+msgstr "Aktiver aktivitetsfeed"
+
+#: admin/views/options.php:118
+msgid "Time limitation for editing posts (in minutes):"
+msgstr "Tidsbegrensning for redigering av innlegg (i minutter):"
+
+#: admin/tables/admin-usergroups-table.php:70
+msgid "Visibility:"
+msgstr "Synlighet:"
+
+#: admin/tables/admin-usergroups-table.php:46
+msgid "Visible"
+msgstr "Synlig"
+
+#: admin/tables/admin-usergroups-table.php:44
+msgid "Hidden"
+msgstr "Skjult"
+
+#: includes/forum-notifications.php:56
+msgid "You are subscribed to <b>all</b> forums."
+msgstr "Du abonnerer på <b>alle</b> forum"
+
+#: includes/forum-notifications.php:27 includes/forum-notifications.php:84
+msgid "You are subscribed to <b>all</b> topics."
+msgstr "Du abonnerer på <b>alle</b> emner"
+
+#: admin/views/options.php:179
+msgid "Show category name in breadcrumbs"
+msgstr "Vis kategorinavn i breadcrumbs"
+
+#: includes/forum.php:987
+msgid "Menu"
+msgstr "Meny"
+
+#: includes/forum-notifications.php:507
+msgid "Unsubscribe"
+msgstr "Slå av varsling"
+
+#: includes/forum-notifications.php:421
+msgid "New Topics & Posts"
+msgstr "Nye emner og innlegg"
+
+#: includes/forum-notifications.php:415
+msgid "New Topics"
+msgstr "Nye emnter"
+
+#: includes/forum-notifications.php:409
+msgid "Individual Subscriptions"
+msgstr "Individuelle abonnementer"
+
+#: includes/forum-notifications.php:404
+msgid "Subscription Settings"
+msgstr "Abonnementsinnstillinger"
+
+#: includes/forum-notifications.php:396
+msgid "Based on your settings you will automatically get notified about new topics as a site-owner."
+msgstr "Basert på innstillingene dine vil du automatisk bli varslet om nye emner som nettstedseier."
+
+#: admin/views/options.php:168
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: includes/forum-online.php:202
+msgid "Currently online"
+msgstr "Pålogget nå"
+
+#: includes/forum-memberslist.php:70 includes/forum-profile.php:132
+msgid "Last seen:"
+msgstr "Sist sett:"
+
+#: admin/views/options.php:138
+msgid "Enable Mentioning"
+msgstr "Aktiver å bli nevnt"
+
+#: includes/forum-database.php:248
+msgid "Example Category"
+msgstr "Eksempelkategori "
+
+#: admin/views/structure.php:100
+msgid "Parent:"
+msgstr "Foreldre:"
+
+#: includes/forum-database.php:256
+msgid "First Forum"
+msgstr "Første forum"
+
+#: includes/forum-database.php:257
+msgid "My first forum."
+msgstr "Mitt første forum"
+
+#: includes/forum-mentioning.php:78
+msgid "Hello,<br><br>You have been mentioned in a forum post.<br><br>Topic:<br>%s<br><br>Mentioned by:<br>%s<br><br>Post:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hei,<br><br>Du har blitt nevnt i en forumpost.<br><br>Emne:<br>%s<br><br>Nevnt av:<br>%s<br><br>Innlegg:<br>%s<br><br>Link til innlegg:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-mentioning.php:77
+msgid "You have been mentioned!"
+msgstr "Du har blitt nevnt!"
+
+#: includes/forum-online.php:179
+msgid "%s Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%s gjest"
+msgstr[1] "%s gjester"
+
+#: widgets/widget-search.php:18 widgets/widget-search.php:49
+msgid "Forum Search"
+msgstr "Søk"
+
+#: widgets/widget-search.php:8
+msgid "Asgaros Forum: Search"
+msgstr "Asgaros Forum: Søk"
+
+#: widgets/widget-search.php:7
+msgid "A search form for Asgaros Forum."
+msgstr "Et søkeskjema for Asgaros Forum."
+
+#: includes/forum-reports.php:75
+msgid "Hello,<br><br>There is a new report.<br><br>Topic:<br>%s<br><br>Post:<br>%s<br><br>Post Author:<br>%s<br><br>Reporter:<br>%s<br><br>Link to the post:<br><a href=\"%s\">%s</a>"
+msgstr "Hei,<br><br>Det er kommet en ny rapportering.<br><br>Emne:<br>%s<br><br>Innlegg:<br>%s<br><br>Forfatter:<br>%s<br><br>Rapportert av:<br>%s<br><br>Link til innlegget:<br><a href=\"%s\">%s</a>"
+
+#: includes/forum-reports.php:74
+msgid "New report"
+msgstr "Ny rapportering"
+
+#: includes/forum-reports.php:40
+msgid "You reported this post."
+msgstr "Du rapporterte dette innlegget."
+
+#: includes/forum-reports.php:36
+msgid "Report Post"
+msgstr "Rapporter innlegg"
+
+#: includes/forum-reports.php:33
+msgid "Are you sure that you want to report this post?"
+msgstr "Er du sikker på at du vil rapportere dette innlegget?"
+
+#: includes/forum-profile.php:183
+msgid "Edit Profile"
+msgstr "Endre profil"
+
+#: includes/forum-appearance.php:65
+msgid "Default Theme"
+msgstr "Standard tema"
+
+#: admin/views/reports.php:41
+msgid "There are no reports yet!"
+msgstr "Ingen rapporteringer enda!"
+
+#: admin/views/reports.php:21
+msgid "Are you sure you want to delete this report?"
+msgstr "Er du sikker du at du vil slette denne rapporteringen? "
+
+#: admin/views/reports.php:6
+msgid "Reports updated."
+msgstr "Rapporteringer oppdatert"
+
+#: admin/views/options.php:315
+msgid "Save Settings"
+msgstr "Lagre innstillinger "
+
+#: admin/views/options.php:310
+msgid "Notify site owner about new reports"
+msgstr "Varsle nettstedseier om nye rapporteringer"
+
+#: admin/views/options.php:306
+msgid "Enable reports"
+msgstr "Aktiver rapporteringer"
+
+#: admin/views/options.php:273
+msgid "Who can upload files:"
+msgstr "Hvem kan kan laste opp filer:"
+
+#: admin/views/options.php:262
+msgid "Allow uploads"
+msgstr "Tillat opplastinger"
+
+#: admin/views/options.php:142
+msgid "Enable reactions"
+msgstr "Aktiver reaksjoner"
+
+#: admin/views/options.php:9
+msgid "Settings updated."
+msgstr "Innstillinger oppdatert"
+
+#: admin/views/appearance.php:64
+msgid "Save Appearance"
+msgstr "Lagre utseende"
+
+#: admin/views/appearance.php:42
+msgid "Font size:"
+msgstr "Font størrelse: "
+
+#: admin/views/appearance.php:38
+msgid "Font:"
+msgstr "Font:"
+
+#: admin/views/appearance.php:9
+msgid "Appearance updated."
+msgstr "Utseende oppdatert."
+
+#: admin/tables/admin-reports-table.php:81
+msgid "Reporters:"
+msgstr "Reportere: "
+
+#: admin/tables/admin-reports-table.php:80
+msgid "Post Author:"
+msgstr "Innleggs forfatter"
+
+#: admin/tables/admin-reports-table.php:79
+msgid "Post:"
+msgstr "Innlegg: "
+
+#: admin/tables/admin-reports-table.php:72
+msgid "Delete Report"
+msgstr "Slett rapportering"
+
+#: admin/tables/admin-reports-table.php:70
+msgid "View Post"
+msgstr "Vis innlegg"
+
+#: admin/admin.php:127 admin/views/options.php:8
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: admin/admin.php:121
+msgid "Reports %s"
+msgstr "Rapporteringer: %s"
+
+#: admin/admin.php:117 admin/admin.php:124 admin/views/options.php:299
+#: admin/views/reports.php:5 admin/views/reports.php:34
+msgid "Reports"
+msgstr "Rapporteringer"
+
+#: includes/forum-breadcrumbs.php:92 includes/forum-memberslist.php:25
+#: includes/forum.php:426
+msgid "Members"
+msgstr "Medlemmer"
+
+#: admin/views/appearance.php:58
+msgid "Border color:"
+msgstr "Border farge:"
+
+#: admin/views/options.php:231
+msgid "Members per page:"
+msgstr "Medlemmer per side:"
+
+#: admin/views/options.php:228
+msgid "Show members list to logged-in users only"
+msgstr "Vis medlemsliste kun til innloggede brukere."
+
+#: admin/views/options.php:224
+msgid "Enable members list"
+msgstr "Aktiver medlemsliste"
+
+#: admin/views/options.php:217
+msgid "Members List"
+msgstr "Medlemsliste"
+
+#: includes/forum-database.php:206
+msgid "Example User Group"
+msgstr "Eksempel på brukergruppe"
+
+#: admin/views/usergroups.php:85
+msgid "Deleting this category will also permanently delete all user groups inside it. Are you sure you want to delete this category?"
+msgstr "Hvis du sletter denne kategorien, vil du også slette alle brukergrupper i den permanent. Er du sikker på at du vil slette denne kategorien?"
+
+#: includes/forum-database.php:186
+msgid "Custom User Groups"
+msgstr "Egendefinerte brukergrupper"
+
+#: admin/views/options.php:46
+msgid "Select Forum"
+msgstr "Velg forum"
+
+#: admin/views/options.php:41
+msgid "Create topics for new blog posts in the following forum:"
+msgstr "Opprett emner for nye blogginnlegg i følgende forum:"
+
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  asgaros-forum-code.pot (Asgaros Forum 1.9.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.asgaros.de"
+msgstr "https://www.asgaros.de"
+
+#: includes/forum-profile.php:173
+msgid "Signature:"
+msgstr "Signatur:"
+
+#: includes/forum-profile.php:162
+msgid "Biographical Info:"
+msgstr "Personlig info:"
+
+#: admin/admin.php:436
+msgid "Donate"
+msgstr "Doner"
+
+#: admin/admin.php:434
+msgid "Official Support Forum"
+msgstr "Offisielt support-forum"
+
+#: includes/forum.php:403
+msgid "Overview"
+msgstr "Oversikt"
+
+#: admin/views/options.php:111
+msgid "Show register button"
+msgstr "Vis registreringsknapp"
+
+#: admin/views/options.php:107
+msgid "Show logout button"
+msgstr "Vis utloggingsknapp"
+
+#: admin/views/options.php:103
+msgid "Show login button"
+msgstr "Vis innloggingsknapp"
+
+#: includes/forum.php:1013
+msgid "Logout"
+msgstr "Logg ut"
+
+#: includes/forum-unread.php:154
+msgid "Nothing new"
+msgstr "Ingenting nytt"
+
+#: includes/forum-profile.php:236
+msgid "My Profile"
+msgstr "Min profil"
+
+#: includes/forum-profile.php:189
+msgid "This user does not exist."
+msgstr "Denne brukeren eksisterer ikke."
+
+#: includes/forum-profile.php:155
+msgid "Replies Created:"
+msgstr "Innlegg opprettet:"
+
+#: includes/forum-profile.php:147
+msgid "Topics Started:"
+msgstr "Emner opprettet:"
+
+#: includes/forum-profile.php:139
+msgid "Member Since:"
+msgstr "Medlem siden:"
+
+#: includes/forum-profile.php:124
+msgid "Website:"
+msgstr "Nettsted:"
+
+#: includes/forum-profile.php:106
+msgid "First Name:"
+msgstr "Fornavn:"
+
+#: includes/forum-permissions.php:92
+msgid "Moderator"
+msgstr "Moderator"
+
+#: includes/forum-permissions.php:90
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/forum-permissions.php:96
+msgid "User"
+msgstr "Bruker"
+
+#: includes/forum-profile.php:76
+msgid "You need to login to have access to profiles."
+msgstr "Du må være innlogget for å få tilgang til profiler."
+
+#: includes/forum-profile.php:45 includes/forum-profile.php:59
+#: includes/forum-profile.php:64
+msgid "Profile"
+msgstr "Profil"
+
+#: admin/views/options.php:249
+msgid "Show profiles to logged-in users only"
+msgstr "Vis profiler kun til innloggede brukere"
+
+#: admin/views/options.php:238
+msgid "Profiles"
+msgstr "Profiler"
+
+#: admin/views/options.php:245
+msgid "Enable profiles"
+msgstr "Aktiver profiler"
+
+#: admin/views/options.php:91
+msgid "Show author posts counter"
+msgstr "Vis antall innlegg fra forfatter"
+
+#: includes/forum-notifications.php:502
+msgid "No subscriptions yet!"
+msgstr "Ingen abonnementer ennå!"
+
+#: admin/views/options.php:185 includes/forum-breadcrumbs.php:86
+#: includes/forum-notifications.php:383 includes/forum.php:422
+msgid "Subscriptions"
+msgstr "Abonnementer"
+
+#: admin/views/options.php:95
+msgid "Show description in forum"
+msgstr "Vis beskrivelse på forumet"
+
+#: includes/forum.php:1025
+msgid "Register"
+msgstr "Registrer"
+
+#: admin/views/structure.php:110
+msgid "List of available icons."
+msgstr "Liste over tilgjengelige ikoner"
+
+#: admin/views/structure.php:106
+msgid "Icon:"
+msgstr "Ikon:"
+
+#: includes/forum-notifications.php:241
+msgid "New topic: %s"
+msgstr "Nytt emne: %s"
+
+#: includes/forum-notifications.php:169
+msgid "New answer: %s"
+msgstr "Nytt svar: %s"
+
+#: includes/forum-content.php:138
+msgid "You are not allowed to upload files with that file size."
+msgstr "Du har ikke tillatelse til å laste opp filer med den størrelsen."
+
+#: includes/forum-content.php:132
+msgid "You are not allowed to upload files with that file extension."
+msgstr "Du har ikke tillatelse til å laste opp denne filtypen."
+
+#: admin/views/options.php:210
+msgid "Sender mail:"
+msgstr "Avsenders e-post:"
+
+#: admin/views/options.php:206
+msgid "Sender name:"
+msgstr "Avsenders navn:"
+
+#: includes/views/post-element.php:106
+msgid "Last edited on %s by %s"
+msgstr "Sist endret %s av %s"
+
+#: includes/forum-usergroups.php:671
+msgid "User groups assignments updated."
+msgstr "Oppgaver for brukergrupper endret."
+
+#: includes/forum-usergroups.php:613
+msgid "Remove from"
+msgstr "Fjern fra"
+
+#: includes/forum-usergroups.php:437
+msgid "When user groups are selected, only users of the selected user groups will have access to the category."
+msgstr "Når brukergrupper er valgt, har bare brukere av de valgte brukergruppene tilgang til kategorien."
+
+#: includes/forum-profile.php:116 includes/forum-usergroups.php:407
+#: includes/forum-usergroups.php:424
+msgid "User Groups:"
+msgstr "Brukergrupper:"
+
+#: includes/forum-online.php:184
+msgid "Currently nobody is online."
+msgstr "For øyeblikket er ingen online."
+
+#: includes/forum-online.php:154
+msgid "Currently Online:"
+msgstr "Følgende er online:"
+
+#: includes/forum-online.php:149
+msgid "Newest Member:"
+msgstr "Nyeste medlem:"
+
+#: admin/views/usergroups.php:127 admin/views/usergroups.php:128
+msgid "Add User Group"
+msgstr "Legg til brukergruppe"
+
+#: admin/views/usergroups.php:53
+msgid "Are you sure you want to delete this user group?"
+msgstr "Er du sikker på at du vil slette denne brukergruppen?"
+
+#: admin/views/usergroups.php:6
+msgid "User Groups updated."
+msgstr "Brukergruppe endret."
+
+#: admin/views/usergroups.php:29
+msgid "Color:"
+msgstr "Farge:"
+
+#: admin/tables/admin-usergroups-table.php:62
+msgid "Edit User Group"
+msgstr "Endre brukergruppe"
+
+#: admin/tables/admin-usergroups-table.php:60
+msgid "Delete User Group"
+msgstr "Slette brukergruppe"
+
+#: admin/admin.php:113 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:512
+msgid "User Groups"
+msgstr "Brukergrupper"
+
+#: includes/forum-usergroups.php:609
+msgid "Add to"
+msgstr "Legg til"
+
+#: widgets/widget-recent-posts.php:32 widgets/widget-recent-topics.php:32
+msgid "Show avatars?"
+msgstr "Vis avatarer?"
+
+#: includes/forum.php:439
+msgid "Page"
+msgstr "Side"
+
+#: admin/views/structure.php:214 admin/views/structure.php:215
+msgid "Add Forum"
+msgstr "Legg til forum"
+
+#: admin/views/structure.php:201 admin/views/usergroups.php:113
+msgid "Delete Category"
+msgstr "Slette kategori"
+
+#: admin/views/structure.php:160 admin/views/structure.php:161
+#: admin/views/structure.php:222 admin/views/structure.php:223
+#: admin/views/usergroups.php:96 admin/views/usergroups.php:97
+#: admin/views/usergroups.php:135 admin/views/usergroups.php:136
+msgid "Add Category"
+msgstr "Legg til kategori"
+
+#: admin/views/structure.php:135
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "Hvis du sletter denne kategorien, slettes også alle fora, underfora, emner og innlegg i denne kategorien permanent. Er du sikker på at du vil slette denne kategorien?"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "Struktur oppdatert."
+
+#: admin/admin.php:111 admin/views/structure.php:5
+msgid "Structure"
+msgstr "Struktur"
+
+#: admin/tables/admin-reports-table.php:82
+#: admin/tables/admin-structure-table.php:99
+#: admin/tables/admin-usergroups-table.php:72
+msgid "Actions:"
+msgstr "Handlinger:"
+
+#: admin/tables/admin-structure-table.php:97
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/tables/admin-structure-table.php:86
+#: admin/tables/admin-structure-table.php:87
+msgid "Add Sub-Forum"
+msgstr "Legg til underforum"
+
+#: admin/tables/admin-structure-table.php:76
+#: admin/tables/admin-structure-table.php:77
+msgid "Delete Forum"
+msgstr "Slette forum"
+
+#: admin/tables/admin-structure-table.php:70
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/tables/admin-structure-table.php:68
+msgid "Closed"
+msgstr "Stengt"
+
+#: admin/views/options.php:266
+msgid "Show thumbnails"
+msgstr "Vis miniatyrbilder"
+
+#: includes/forum-online.php:138
+msgid "Online"
+msgstr "Pålogget"
+
+#: admin/views/options.php:150
+msgid "Show who is online"
+msgstr "Vis hvem som er pålogget"
+
+#: admin/views/options.php:175
+msgid "Enable breadcrumbs"
+msgstr "Aktiver brødsmuler "
+
+#: admin/views/options.php:126
+msgid "Features"
+msgstr "Egenskaper"
+
+#: admin/tables/admin-structure-table.php:49 admin/views/structure.php:183
+msgid "ID"
+msgstr "Id"
+
+#: admin/views/options.php:28
+msgid "Page which contains the [forum]-shortcode."
+msgstr "Side som inneholder [forum]-kortkode."
+
+#: admin/views/options.php:291 includes/forum-uploads.php:257
+msgid "Maximum file size (in megabyte):"
+msgstr "Maksimal filstørrelse (i megabyte):"
+
+#: admin/views/options.php:120 admin/views/options.php:288
+#: admin/views/options.php:293
+msgid "(0 = No limitation)"
+msgstr "(0 = Ingen begrensning)"
+
+#: admin/views/options.php:286 includes/forum-uploads.php:253
+msgid "Maximum files per post:"
+msgstr "Maks antall filer per innlegg:"
+
+#: admin/views/options.php:158
+msgid "Allow signatures"
+msgstr "Tillat signatur"
+
+#: admin/admin.php:56
+msgid "Signature"
+msgstr "Signatur"
+
+#: includes/forum-statistics.php:29
+msgid "Users"
+msgstr "Brukere"
+
+#: includes/forum-statistics.php:23
+msgid "Statistics"
+msgstr "Statistikk"
+
+#: admin/views/options.php:154
+msgid "Show statistics"
+msgstr "Vis statistikk"
+
+#: includes/forum-notifications.php:63
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>Abonnér</b> på dette forumet."
+
+#: includes/forum-notifications.php:60
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>Avslutt abonnement</b> for dette forumet."
+
+#. Description of the plugin/theme
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros Forum er den beste forumløsningen for WordPress! Den leveres med dusinvis av funksjoner i et vakker design og forblir liten, enkel og rask."
+
+#: includes/views/post-element.php:20
+msgid "Topic Author"
+msgstr "Emneforfatter"
+
+#: includes/views/search.php:20
+msgid "No results found for:"
+msgstr "Ingen resultater funnet for:"
+
+#: includes/forum-statistics.php:26 includes/views/forum.php:35
+msgid "Topics"
+msgstr "Emner"
+
+#: includes/views/forum.php:24 includes/views/forum.php:36
+#: includes/views/overview.php:11 includes/views/search.php:11
+msgid "Last post"
+msgstr "Siste innlegg"
+
+#: includes/views/forum-element.php:35
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s Emne"
+msgstr[1] "%s Emner"
+
+#: includes/forum-search.php:48 widgets/widget-search.php:37
+msgid "Search ..."
+msgstr "Søker ..."
+
+#: includes/forum.php:935
+msgid "Open"
+msgstr "Åpne"
+
+#: includes/forum.php:565 includes/forum.php:833
+msgid "By"
+msgstr "Av"
+
+#: includes/forum-breadcrumbs.php:82 includes/forum.php:420
+msgid "Search"
+msgstr "Søk"
+
+#: includes/forum-breadcrumbs.php:78 includes/forum.php:418
+msgid "Move Topic"
+msgstr "Flytt emne"
+
+#: includes/forum-breadcrumbs.php:74 includes/forum-editor.php:134
+#: includes/forum.php:416 includes/forum.php:888
+msgid "New Topic"
+msgstr "Nytt emne"
+
+#: admin/views/options.php:146
+msgid "Enable search functionality"
+msgstr "Aktiver søkefunksjonalitet"
+
+#: includes/views/search.php:10
+msgid "Search results:"
+msgstr "Søkeresultater:"
+
+#: includes/forum-widgets.php:134 widgets/widget-search.php:42
+msgid "The forum has not been configured correctly."
+msgstr "Forumet er ikke konfigurert riktig."
+
+#: admin/views/options.php:23
+msgid "Forum location:"
+msgstr "Forumplassering:"
+
+#: includes/forum-widgets.php:46 widgets/widget-recent-topics.php:16
+msgid "Recent forum topics"
+msgstr "Nylige forumemner"
+
+#: widgets/widget-recent-topics.php:8
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros forum: Nylige emner"
+
+#: widgets/widget-recent-topics.php:7
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "Viser de siste emnene i Asgaros forum."
+
+#: includes/forum-widgets.php:131 includes/forum.php:837
+msgid "No topics yet!"
+msgstr "Ingen emner ennå!"
+
+#: admin/views/options.php:189
+msgid "Notify site owner about new topics"
+msgstr "Varsle administrator om nye emner"
+
+#: admin/views/options.php:87
+msgid "Highlight topic authors"
+msgstr "Fremhev emneforfattere"
+
+#: includes/forum-notifications.php:442
+msgid "Notify about new topics in:"
+msgstr "Varsle om nye emner i:"
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "I denne kategorien er det ikke noen fora ennå!"
+
+#: includes/forum.php:761
+msgid "Deleted user"
+msgstr "Slettet bruker"
+
+#: includes/forum.php:767
+msgid "Guest"
+msgstr "Gjest"
+
+#: includes/forum-uploads.php:161
+msgid "You need to login to have access to uploads."
+msgstr "Du må logge inn for å få tilgang til opplastinger."
+
+#: admin/views/options.php:270
+msgid "Show uploaded files to logged-in users only"
+msgstr "Vis opplastinger kun til innloggede brukere"
+
+#: admin/views/options.php:162
+msgid "Allow guest postings"
+msgstr "Tillat gjesteinnlegg"
+
+#: admin/views/options.php:79
+msgid "Allow shortcodes in posts"
+msgstr "Tillat kortkoder i innlegg"
+
+#: includes/forum.php:369 includes/forum.php:376 includes/forum.php:384
+msgid "Sorry, you dont have access to this area."
+msgstr "Beklager, du har ikke tilgang til dette området. "
+
+#: includes/forum.php:364
+msgid "Sorry, only logged in users have access to this category."
+msgstr "Beklager, kun innloggede brukere har tilgang til denne kategorien. "
+
+#: includes/forum-notifications.php:242
+msgid "Hello,<br /><br />You received this message because there is a new forum-topic:<br />%s<br /><br />Author:<br />%s<br /><br />Text:<br />%s<br /><br />Link to the new topic:<br /><a href=\"%s\">%s</a>"
+msgstr "Hei,<br /><br />Du mottar denne e-posten fordi det er opprettet en ny forum-tråd:<br />%s<br /><br />Forfatter:<br />%s<br /><br />Tekst:<br />%s<br /><br />Lenke til den nye forum-tråden:<br /><a href=\"%s\">%s</a>"
+
+#: includes/forum-notifications.php:170
+msgid "Hello,<br /><br />You received this message because there is a new answer in a forum-topic you have subscribed to:<br />%s<br /><br />Author:<br />%s<br /><br />Answer:<br />%s<br /><br />Link to the new answer:<br /><a href=\"%s\">%s</a><br /><br />You can unsubscribe from this topic using the unsubscribe-link at the end of the topic as a logged-in user. Please dont answer to this mail!"
+msgstr "Hei,<br /><br />Du mottar denne e-posten fordi det har kommet et svar i en forum-tråd som du abonnerer på:<br />%s<br /><br />Forfatter:<br />%s<br /><br />Svar:<br />%s<br /><br />Lenke til det nye svaret:<br /><a href=\"%s\">%s</a><br /><br />Du kan melde deg av denne forum-tråden med lenken som du finner i bunnen på siden til tråden når du er logget inn. Denne e-posten kan ikke besvares!"
+
+#: includes/forum-notifications.php:78
+msgid "Subscription:"
+msgstr "Abonnement: "
+
+#: admin/views/options.php:75
+msgid "Use minimalistic editor"
+msgstr "Bruk minimalistisk editor"
+
+#: includes/forum-notifications.php:34 includes/forum-notifications.php:86
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>Slå på varsler</b> for denne tråden."
+
+#: includes/forum-notifications.php:31
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>Slå av varsler</b> for denne tråden."
+
+#: admin/views/options.php:193
+msgid "Allow subscriptions (for logged-in users only)"
+msgstr "Tillatt tråd-varsling (Kun for innloggede brukere)"
+
+#: includes/forum-permissions.php:94 includes/views/post-element.php:43
+msgid "Banned"
+msgstr "Utestengt"
+
+#: includes/views/forum-element.php:47 includes/views/forum.php:23
+msgid "Subforums"
+msgstr "Underforum"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "Du er utestengt!"
+
+#: admin/views/appearance.php:54
+msgid "Background color:"
+msgstr "Bakgrunnsfarge:"
+
+#: admin/views/appearance.php:50
+msgid "Text color:"
+msgstr "Tekstfarge:"
+
+#: admin/views/appearance.php:46
+msgid "Forum color:"
+msgstr "Forumfarge:"
+
+#: admin/views/appearance.php:26
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/admin.php:112 admin/views/appearance.php:8
+#: admin/views/appearance.php:20
+msgid "Appearance"
+msgstr "Utseende"
+
+#: admin/views/options.php:255
+msgid "Uploads"
+msgstr "Opplastninger"
+
+#: admin/views/options.php:20
+msgid "General"
+msgstr "Generelt"
+
+#: admin/views/structure.php:149
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "Sletting av dette forumet vil også permanent slette alle underliggende forumer, tråder og svar. Er du helt sikker på at du vil slette dette forumet?"
+
+#: admin/views/reports.php:25 admin/views/structure.php:78
+#: admin/views/structure.php:126 admin/views/structure.php:139
+#: admin/views/structure.php:153 admin/views/usergroups.php:44
+#: admin/views/usergroups.php:57 admin/views/usergroups.php:76
+#: admin/views/usergroups.php:89 includes/forum-editor.php:185
+#: includes/forum-editor.php:190
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: admin/views/structure.php:77 admin/views/structure.php:125
+#: admin/views/usergroups.php:43 admin/views/usergroups.php:75
+msgid "Save"
+msgstr "Lagre"
+
+#: admin/tables/admin-structure-table.php:80
+#: admin/tables/admin-structure-table.php:81
+msgid "Edit Forum"
+msgstr "Rediger forum"
+
+#: admin/tables/admin-structure-table.php:98 admin/views/structure.php:70
+#: admin/views/structure.php:119 admin/views/structure.php:194
+msgid "Order:"
+msgstr "Sorter:"
+
+#: admin/admin.php:39
+msgid "Banned User"
+msgstr "Utestengt bruker"
+
+#: admin/views/options.php:282 includes/forum-uploads.php:260
+msgid "Allowed filetypes:"
+msgstr "Tillatte filtyper"
+
+#: admin/views/structure.php:115
+msgid "Closed:"
+msgstr "Stengt"
+
+#: includes/forum-memberslist.php:65 includes/views/forum-element.php:37
+#: includes/views/post-element.php:38
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s innlegg"
+msgstr[1] "%s innlegg"
+
+#: includes/forum.php:576
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s visning"
+msgstr[1] "%s visninger"
+
+#: includes/forum-widgets.php:117 includes/forum.php:574
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "%s svar"
+msgstr[1] "%s svar"
+
+#: admin/views/options.php:278 admin/views/structure.php:65
+#: admin/views/structure.php:191
+msgid "Moderators only"
+msgstr "Kun moderatorer"
+
+#: admin/views/options.php:277 admin/views/structure.php:64
+#: admin/views/structure.php:189
+msgid "Logged in users only"
+msgstr "Innloggede brukere"
+
+#: admin/views/options.php:276 admin/views/structure.php:63
+#: admin/views/structure.php:187
+msgid "Everyone"
+msgstr "Alle"
+
+#: admin/views/structure.php:60 admin/views/structure.php:185
+msgid "Access:"
+msgstr "Tilgang:"
+
+#: admin/views/options.php:83
+msgid "Highlight administrator/moderator names"
+msgstr "Fremhev administrators/moderators navn"
+
+#: admin/admin.php:35
+msgid "Forum Moderator"
+msgstr "Moderator"
+
+#: admin/views/options.php:115
+msgid "Show edit date"
+msgstr "Vis endringsdato"
+
+#: includes/views/post-element.php:108
+msgid "Last edited on %s"
+msgstr "Sist endret %s"
+
+#: includes/forum.php:354
+msgid "Sorry, only logged in users have access to the forum."
+msgstr "Beklager, kun innloggede brukere har tilgang til dette forumet. "
+
+#: admin/views/options.php:99
+msgid "Forum visible to logged in users only"
+msgstr "Forum synlig kun for innloggede brukere"
+
+#: includes/forum.php:1019
+msgid "Login"
+msgstr "Logg Inn"
+
+#: includes/forum.php:616
+msgid "You need to log in to create posts and topics."
+msgstr "Du må logge inn for å opprette emner og besvare eksisterende forum-tråder."
+
+#: widgets/widget-recent-posts.php:26 widgets/widget-recent-topics.php:26
+msgid "Number of topics to show:"
+msgstr "Antall overskrifter å vise: "
+
+#: widgets/widget-recent-posts.php:21 widgets/widget-recent-topics.php:21
+#: widgets/widget-search.php:52
+msgid "Title:"
+msgstr "Tittel:"
+
+#: includes/forum-activity.php:31 includes/forum-online.php:212
+#: includes/forum-widgets.php:122 includes/forum.php:822 includes/forum.php:826
+#: includes/forum.php:834
+msgid "%s ago"
+msgstr "%s siden"
+
+#: includes/forum-widgets.php:121 includes/forum.php:821
+msgid "by"
+msgstr "av"
+
+#: includes/forum-widgets.php:44 widgets/widget-recent-posts.php:16
+msgid "Recent forum posts"
+msgstr "Siste forumposter "
+
+#: widgets/widget-recent-posts.php:8
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros Forum: Siste poster"
+
+#: widgets/widget-recent-posts.php:7
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "Vis siste poster i Asgaros Forum."
+
+#: includes/forum.php:916 includes/forum.php:957
+msgid "Are you sure you want to remove this?"
+msgstr "Er du sikker på du vil fjerne dette? "
+
+#. Author of the plugin/theme
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#. Plugin Name of the plugin/theme
+msgid "Asgaros Forum"
+msgstr "Asgaros Forum"
+
+#: includes/forum-unread.php:156
+msgid "Mark All Read"
+msgstr "Merk alle som lest"
+
+#: includes/forum-unread.php:152
+msgid "New posts"
+msgstr "Nye poster"
+
+#: includes/views/forum.php:65
+msgid "There are no topics yet!"
+msgstr "Det finnes ingen emner enda!"
+
+#: includes/forum-statistics.php:27
+msgid "Posts"
+msgstr "Innlegg:"
+
+#: includes/forum-statistics.php:28
+msgid "Views"
+msgstr "Visninger"
+
+#: includes/forum-editor.php:193
+msgid "Submit"
+msgstr "Send inn"
+
+#: includes/forum-uploads.php:244
+msgid "Add another file ..."
+msgstr "Legg til en annen fil ..."
+
+#: includes/forum-uploads.php:226
+msgid "Upload Files:"
+msgstr "Last opp filer: "
+
+#: includes/forum-editor.php:157
+msgid "Subject:"
+msgstr "Emne:"
+
+#: includes/forum-editor.php:136
+msgid "Post Reply:"
+msgstr "Skriv svar:"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "Quote from"
+msgstr "Sitat fra"
+
+#: includes/forum-content.php:126
+msgid "You must enter a message."
+msgstr "Du må skrive inn en beskjed"
+
+#: includes/forum-content.php:120
+msgid "You must enter a subject."
+msgstr "Du må skrive inn et emne"
+
+#: includes/forum-content.php:67 includes/forum-content.php:79
+#: includes/forum-content.php:85 includes/forum-content.php:97
+#: includes/forum-content.php:105 includes/forum-content.php:113
+#: includes/forum-editor.php:105
+msgid "You are not allowed to do this."
+msgstr "Du har ikke tilgang til å gjøre dette."
+
+#: includes/forum.php:1160
+msgid "Sorry, this post does not exist."
+msgstr "Beklager, denne posten eksisterer ikke."
+
+#: includes/forum-uploads.php:178 includes/forum-uploads.php:208
+msgid "Uploaded files:"
+msgstr "Opplastede filer:"
+
+#: admin/tables/admin-usergroups-table.php:60 admin/views/reports.php:24
+#: admin/views/structure.php:138 admin/views/structure.php:152
+#: admin/views/usergroups.php:56 admin/views/usergroups.php:88
+#: includes/forum-uploads.php:200 includes/forum.php:917 includes/forum.php:958
+msgid "Delete"
+msgstr "Slett"
+
+#: includes/forum-pagination.php:34 includes/forum-pagination.php:148
+msgid "Last"
+msgstr "Vare"
+
+#: includes/forum-pagination.php:112
+msgid "First"
+msgstr "Først"
+
+#: includes/forum-pagination.php:88
+msgid "Pages:"
+msgstr "Sider:"
+
+#: includes/forum.php:940
+msgid "Close"
+msgstr "Stengt"
+
+#: includes/forum.php:928
+msgid "Sticky"
+msgstr "Fremhevet"
+
+#: includes/forum.php:923
+msgid "Undo Sticky"
+msgstr "Angre fremhevet"
+
+#: includes/forum.php:905
+msgid "Reply"
+msgstr "Svar"
+
+#: admin/tables/admin-usergroups-table.php:62 includes/forum.php:966
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/forum.php:974
+msgid "Quote"
+msgstr "Sitat"
+
+#: includes/forum-editor.php:116 includes/views/post-element.php:73
+msgid "on %s"
+msgstr "den %s"
+
+#: includes/forum.php:655
+msgid "You are not allowed to move topics."
+msgstr "Du har ikke lov til å flytte tråder."
+
+#: includes/forum.php:651 includes/forum.php:912
+msgid "Move"
+msgstr "Flytt"
+
+#: includes/forum.php:625
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "Flytt \"<strong>%s</strong>\" til nytt forum:"
+
+#: includes/forum.php:1161
+msgid "Sorry, this topic does not exist."
+msgstr "Beklager, men denne tråden eksisterer ikke. "
+
+#: includes/forum.php:606
+msgid "Sorry, but there are no posts."
+msgstr "Beklager, men det er ingen poster."
+
+#: includes/forum.php:1162
+msgid "Sorry, this forum does not exist."
+msgstr "Beklager, dette forumet eksisterer ikke. "
+
+#: includes/views/overview.php:32
+msgid "There are no categories yet!"
+msgstr "Det er ingen kategorier enda! "
+
+#: includes/forum-breadcrumbs.php:66 includes/forum.php:414
+msgid "Post Reply"
+msgstr "Send svar"
+
+#: includes/forum-breadcrumbs.php:70 includes/forum-editor.php:138
+#: includes/forum.php:412
+msgid "Edit Post"
+msgstr "Rediger innlegg"
+
+#: admin/views/structure.php:203 admin/views/usergroups.php:115
+msgid "Edit Category"
+msgstr "Editer kategori"
+
+#: admin/views/options.php:36
+msgid "Topics to show per page:"
+msgstr "Tråder å vise per side: "
+
+#: admin/views/options.php:32
+msgid "Replies to show per page:"
+msgstr "Hvor mange svar per side:"
+
+#: admin/views/structure.php:96
+msgid "Description:"
+msgstr "Beskrivelse:"
+
+#: admin/tables/admin-structure-table.php:96
+#: admin/tables/admin-usergroups-table.php:69 admin/views/structure.php:56
+#: admin/views/structure.php:92 admin/views/usergroups.php:25
+#: admin/views/usergroups.php:69
+msgid "Name:"
+msgstr "Navn:"
+
+#: includes/forum-usergroups.php:557
+msgid "Forum:"
+msgstr "Forum:"
+
+#: admin/admin.php:62 admin/admin.php:110 includes/forum-breadcrumbs.php:26
+#: includes/forum-usergroups.php:354 includes/forum.php:990
+msgid "Forum"
+msgstr "Forum"

@@ -1,0 +1,63 @@
+/* CSS Document */
+li.current a[href="options-general.php?page=wpdocs"],
+li.current:hover a[href="options-general.php?page=wpdocs"]{
+	background: url('../includes/imgs/folder.png') no-repeat !important;
+	background-position: 11px 7px !important;
+	padding-left: 30px !important;
+	background-color: rgba(255,255,255,0.3) !important;
+	padding-bottom: 8px !important;
+}
+li.current:hover a[href="options-general.php?page=wpdocs"]{
+	background-color: rgba(255,255,255,0.4) !important;
+}
+
+.wpdocs_folders .wpdocs_toolbar{
+	border-bottom:1px solid #999;
+	float:left;
+	width:100%;
+	padding: 0 10px;
+}
+.wpdocs_folders .wpdocs_toolbar ul li{
+	margin-right:4px;
+}
+.wpdocs_folders .new-file {
+	font-size:12px;
+	padding: 0 0 0 2px;
+	cursor:pointer;
+}
+.wpdocs_folders .new-file i{
+	font-size:16px;
+	margin-right:2px;
+}
+.wpdocs_folders .new-folder {
+	cursor: pointer;
+	background: url('../includes/imgs/folder.png') no-repeat;
+	background-position: 2px 0px;
+	padding: 0 0 0 22px;
+	font-size: 12px;
+}
+.wpdocs_folders .back-folder{
+	cursor: pointer;
+	padding: 0 0 0 0;
+	font-size: 18px;	
+}
+.wpdocs_folders .back-folder[data-id="0"]{
+	display:none;
+}
+.wpdocs_folders .new-folder:hover,
+.wpdocs_folders .back-folder:hover,
+.wpdocs_folders .new-file:hover {
+	background-color:rgba(255,255,0, 0.3);
+	
+}
+.wpdocs_log{
+	width:30%;
+	border:1px solid #666;
+	padding:10px;
+	background-color:#333;
+	color:#fff;
+	float:left;
+	min-height:400px;
+	overflow-y:auto;
+	max-height:633px;
+}

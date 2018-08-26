@@ -1,0 +1,939 @@
+# Translation of Plugins - ThemeGrill Demo Importer - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - ThemeGrill Demo Importer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-08 11:25:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - ThemeGrill Demo Importer - Stable (latest release)\n"
+
+#: includes/admin/views/html-admin-page-importer.php:180
+#: includes/admin/views/html-admin-page-installer.php:196
+msgid "Select All"
+msgstr "選取全部"
+
+#: includes/admin/views/html-admin-page-importer.php:194
+#: includes/admin/views/html-admin-page-installer.php:210
+msgid "Select %s"
+msgstr "選取 %s"
+
+#: includes/admin/views/html-admin-page-importer.php:216
+#: includes/admin/views/html-admin-page-installer.php:232
+msgid "Active"
+msgstr "使用中"
+
+#: includes/admin/views/html-admin-page-importer.php:218
+#: includes/admin/views/html-admin-page-installer.php:234
+msgid "Activate"
+msgstr "啟用"
+
+#: includes/admin/views/html-admin-page-importer.php:234
+#: includes/admin/views/html-admin-page-installer.php:250
+msgid "Install Plugins"
+msgstr "安裝外掛"
+
+#: includes/admin/views/html-admin-page-installer-preview.php:25
+#: includes/admin/views/html-admin-page-installer.php:301
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/class-demo-importer.php:220
+msgid "Are you sure you want to install the selected plugins and their data?"
+msgstr "你確定要安裝選取的外掛及它們的資料嗎？"
+
+#: includes/functions-demo-importer.php:69
+msgid "Sorry, you are not allowed to activate plugins for this site."
+msgstr "抱歉，你沒有啟用外掛的權限。"
+
+#. translators: %s: Number of plugins
+#: includes/functions-demo-importer.php:417
+msgid "%s plugin successfully installed."
+msgstr "%s 個外掛已安裝成功。"
+
+#. translators: %s: Number of plugins
+#: includes/functions-demo-importer.php:424
+msgid "%s plugins successfully installed."
+msgstr "%s 個外掛已安裝成功。"
+
+#. translators: %s: Number of failed installs
+#: includes/functions-demo-importer.php:434
+msgid "%s install failed."
+msgstr "%s 個安裝失敗。"
+
+#. translators: %s: Number of failed installs
+#: includes/functions-demo-importer.php:439
+msgid "%s installs failed."
+msgstr "%s 個安裝失敗。"
+
+#: includes/functions-demo-importer.php:442
+msgid "Show more details"
+msgstr "顯示更多詳細資訊"
+
+#: includes/admin/views/html-admin-page-installer.php:74
+msgid "3. Browse the downloaded demo zip file and click on <strong>Install Now</strong> button."
+msgstr "3. 瀏覽並選取已下載的示範內容 ZIP 壓縮檔，然後按一下 <strong>[立即安裝]</strong> 按鈕。"
+
+#: includes/admin/views/html-notice-reset-wizard-success.php:14
+msgid "WordPress has been reset back to defaults. The user <strong>\"%1$s\"</strong> was recreated with its previous password."
+msgstr "WordPress 已重新設定回預設狀態，並以舊密碼重新建立使用者 [<strong>\"%1$s\"</strong>]。"
+
+#: includes/admin/views/html-notice-reset-wizard.php:12
+msgid "<strong>Reset Wizard</strong> &#8211; If you need to reset the WordPress back to default again :)"
+msgstr "<strong>重新設定小幫手</strong> &#8211; 如果需要將目前的 WordPress 網站重新設定回安裝佈景主題後的預設狀態，請按一下下方按鈕 :)"
+
+#: includes/admin/views/html-notice-reset-wizard.php:13
+msgid "Run the Reset Wizard"
+msgstr "執行 [重新設定小幫手]"
+
+#: includes/admin/views/html-notice-reset-wizard.php:13
+msgid "Hide this notice"
+msgstr "隱藏這項通知"
+
+#: includes/class-demo-importer.php:217
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the reset wizard now?"
+msgstr "強烈建議在進行這項操作前，先備份網站的資料庫。確定要執行 [重新設定小幫手] 嗎？"
+
+#: includes/class-demo-importer.php:252
+msgid "If you like <strong>ThemeGrill Demo Importer</strong> please leave us a %1$s&#9733;&#9733;&#9733;&#9733;&#9733;%2$s rating. A huge thanks in advance!"
+msgstr "如果你喜歡 <strong>ThemeGrill Demo Importer</strong>，請給我們%1$s五星%2$s評價，開發團隊在此先行致謝。"
+
+#: includes/class-demo-importer.php:252
+msgid "Thanks :)"
+msgstr "謝謝 :)"
+
+#: includes/class-demo-importer.php:254
+msgid "Thank you for importing with ThemeGrill Demo Importer."
+msgstr "感謝採用 ThemeGrill Demo Importer 匯入示範內容。"
+
+#: includes/class-demo-importer.php:273
+msgid "Importing Demo"
+msgstr "匯入示範內容"
+
+#: includes/class-demo-importer.php:288 includes/class-demo-importer.php:289
+msgid "Guided Tour"
+msgstr "使用指南課程"
+
+#: includes/class-demo-importer.php:295 includes/class-demo-importer.php:297
+msgid "Help &amp; Support"
+msgstr "線上說明與技術支援"
+
+#: includes/class-demo-importer.php:299
+msgid "Should you need help understanding, using, or extending ThemeGrill Demo Importer, <a href=\"%s\">please read our documentation</a>. You will find all kinds of resources including snippets, tutorials and much more."
+msgstr "如果你想進一步瞭解、使用及擴充 ThemeGrill Demo Importer，請參考這份<a href=\"%s\">線上說明</a>，你可以在此找到程式碼片段、使用教學及更多豐富有用的資源。"
+
+#: includes/class-demo-importer.php:303
+msgid "For further assistance with ThemeGrill Demo Importer core you can use the <a href=\"%1$s\">community forum</a>. If you need help with premium themes sold by ThemeGrill, please <a href=\"%2$s\">use our free support forum</a>."
+msgstr "如需取得 ThemeGrill Demo Importer 核心功能的進一步協助，可以透過<a href=\"%1$s\">社群論壇</a>取得。如果需要 ThemeGrill 販售的付費佈景主題的相關協助，請使用我們的免費<a href=\"%2$s\">技術支援論壇</a>。"
+
+#: includes/class-demo-importer.php:307
+msgid "Community forum"
+msgstr "社群論壇"
+
+#: includes/class-demo-importer.php:307
+msgid "ThemeGrill Support"
+msgstr "ThemeGrill 技術支援"
+
+#: includes/class-demo-importer.php:312 includes/class-demo-importer.php:314
+msgid "Found a bug?"
+msgstr "發現程式錯誤？"
+
+#: includes/class-demo-importer.php:315
+msgid "If you find a bug within ThemeGrill Demo Importer you can create a ticket via <a href=\"%1$s\">Github issues</a>. Ensure you read the <a href=\"%2$s\">contribution guide</a> prior to submitting your report. To help us solve your issue, please be as descriptive as possible."
+msgstr "如果你找到 ThemeGrill Demo Importer 的程式錯誤，請透過透過 <a href=\"%1$s\">Github 的 Issue 方式</a>回報。在你送出報告前，請確認你閱讀過我們的《<a href=\"%2$s\">貢獻方式指南</a>》(英文)。請盡可能地詳細描述，這可以協助我們解決你的問題。"
+
+#: includes/class-demo-importer.php:316
+msgid "Report a bug"
+msgstr "回報程式錯誤"
+
+#: includes/class-demo-importer.php:322 includes/class-demo-importer.php:324
+#: includes/class-demo-importer.php:326
+msgid "Reset wizard"
+msgstr "重新設定小幫手"
+
+#: includes/class-demo-importer.php:325
+msgid "If you need to reset the WordPress back to default again, please click on the button below."
+msgstr "如需再次將 WordPress 重新設定回預設狀態，請按一下下方按鈕。"
+
+#: includes/class-demo-importer.php:330
+msgid "For more information:"
+msgstr "取得更多資訊:"
+
+#: includes/class-demo-importer.php:331
+msgid "About Demo Importer"
+msgstr "關於 ThemeGrill Demo Importer"
+
+#: includes/class-demo-importer.php:332
+msgid "WordPress.org project"
+msgstr "WordPress.org 外掛頁面"
+
+#: includes/class-demo-importer.php:333
+msgid "Github project"
+msgstr "GitHub 專案"
+
+#: includes/class-demo-importer.php:334
+msgid "Official themes"
+msgstr "官方佈景主題"
+
+#: includes/class-demo-importer.php:335
+msgid "Official plugins"
+msgstr "官方外掛"
+
+#: includes/class-demo-importer.php:365
+msgid "Action failed. Please refresh the page and retry."
+msgstr "操作失敗。請重新整理頁面再重試一次。"
+
+#: includes/class-demo-importer.php:369 themegrill-demo-importer.php:55
+#: themegrill-demo-importer.php:63
+msgid "Cheatin&#8217; huh?"
+msgstr "作弊喔？"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-installer-preview.php:46
+#: includes/admin/views/html-admin-page-installer.php:322
+msgctxt "demo"
+msgid "View %s Pro"
+msgstr "進一步瞭解 %s Pro 版"
+
+#: includes/admin/views/html-admin-page-installer-preview.php:48
+#: includes/admin/views/html-admin-page-installer.php:324
+msgid "View Pro"
+msgstr "進一步瞭解 Pro 版"
+
+#: includes/admin/class-demo-installer-skin.php:47
+#: includes/admin/class-demo-installer-skin.php:49
+msgid "Return to Demo Importer"
+msgstr "返回 [示範內容匯入程式]"
+
+#: includes/admin/class-demo-installer-skin.php:51
+msgid "Return to Demos page"
+msgstr "返回示範內容頁面"
+
+#: includes/admin/class-demo-upgrader.php:40
+msgid "Install package not available."
+msgstr "安裝檔無法使用。"
+
+#: includes/admin/class-demo-upgrader.php:41
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "正在從 <span class=\"code\">%s</span> 下載安裝檔&#8230;"
+
+#: includes/admin/class-demo-upgrader.php:42
+msgid "Unpacking the package&#8230;"
+msgstr "檔案解壓縮中&#8230;"
+
+#: includes/admin/class-demo-upgrader.php:43
+msgid "Removing the old version of the demo&#8230;"
+msgstr "移除舊版示範內容中&#8230;"
+
+#: includes/admin/class-demo-upgrader.php:44
+msgid "Could not remove the old demo."
+msgstr "無法移除舊版示範內容。"
+
+#: includes/admin/class-demo-upgrader.php:45
+msgid "Installing the demo&#8230;"
+msgstr "安裝示範內容中&#8230;"
+
+#: includes/admin/class-demo-upgrader.php:46
+msgid "The demo contains no files."
+msgstr "這個示範內容沒有檔案。"
+
+#: includes/admin/class-demo-upgrader.php:47
+msgid "Demo install failed."
+msgstr "示範內容安裝失敗。"
+
+#: includes/admin/class-demo-upgrader.php:48
+msgid "Demo installed successfully."
+msgstr "示範內容安裝成功。"
+
+#: includes/admin/class-demo-upgrader.php:131
+msgid "No valid demos were found."
+msgstr "找不到有效的示範內容。"
+
+#: includes/admin/views/html-admin-page-importer.php:12
+#: includes/admin/views/html-admin-page-installer.php:21
+#: includes/class-demo-importer.php:146 themegrill-demo-importer.php:257
+msgid "Demo Importer"
+msgstr "示範內容匯入程式"
+
+#: includes/admin/views/html-admin-page-importer.php:17
+msgid "New Demos"
+msgstr "新版示範內容"
+
+#: includes/admin/views/html-admin-page-importer.php:25
+#: includes/admin/views/html-admin-page-installer.php:30
+msgid "The Demo Importer screen requires JavaScript."
+msgstr "示範內容匯入程式須要 JavaScript 才能使用。"
+
+#: includes/admin/views/html-admin-page-importer.php:40
+#: includes/admin/views/html-admin-page-importer.php:94
+#: includes/admin/views/html-admin-page-installer-uploads.php:23
+#: includes/admin/views/html-admin-page-installer.php:110
+msgid "Demo Details"
+msgstr "示範內容詳細資料"
+
+#. translators: %s: Demo author name
+#: includes/admin/views/html-admin-page-importer.php:43
+#: includes/admin/views/html-admin-page-importer.php:97
+#: includes/admin/views/html-admin-page-importer.php:159
+#: includes/admin/views/html-admin-page-installer-preview.php:30
+#: includes/admin/views/html-admin-page-installer-uploads.php:26
+#: includes/admin/views/html-admin-page-installer.php:113
+#: includes/admin/views/html-admin-page-installer.php:175
+#: includes/admin/views/html-admin-page-installer.php:306
+msgid "By %s"
+msgstr "開發者為 %s"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-importer.php:50
+#: includes/admin/views/html-admin-page-importer.php:104
+#: includes/admin/views/html-admin-page-installer-uploads.php:33
+#: includes/admin/views/html-admin-page-installer.php:120
+msgid "<span>Imported:</span> %s"
+msgstr "<span>已匯入</span>: %s"
+
+#: includes/admin/views/html-admin-page-importer.php:58
+#: includes/admin/views/html-admin-page-importer.php:112
+#: includes/admin/views/html-admin-page-importer.php:250
+#: includes/admin/views/html-admin-page-importer.php:259
+#: includes/admin/views/html-admin-page-installer-uploads.php:41
+#: includes/admin/views/html-admin-page-installer.php:128
+#: includes/admin/views/html-admin-page-installer.php:266
+#: includes/admin/views/html-admin-page-installer.php:275
+#: includes/class-demo-importer.php:204
+msgid "Live Preview"
+msgstr "即時預覽"
+
+#: includes/admin/views/html-admin-page-importer.php:62
+#: includes/admin/views/html-admin-page-importer.php:116
+#: includes/admin/views/html-admin-page-importer.php:164
+#: includes/admin/views/html-admin-page-installer-uploads.php:45
+#: includes/admin/views/html-admin-page-installer.php:132
+#: includes/admin/views/html-admin-page-installer.php:180
+msgid "Required %s theme must be activated to import this demo."
+msgstr "須要啟用 %s 佈景主題以匯入示範內容。"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-importer.php:69
+#: includes/admin/views/html-admin-page-importer.php:123
+#: includes/admin/views/html-admin-page-importer.php:255
+#: includes/admin/views/html-admin-page-installer-uploads.php:52
+#: includes/admin/views/html-admin-page-installer.php:139
+#: includes/admin/views/html-admin-page-installer.php:271
+msgctxt "demo"
+msgid "Import %s"
+msgstr "匯入 %s"
+
+#: includes/admin/views/html-admin-page-importer.php:73
+#: includes/admin/views/html-admin-page-importer.php:127
+#: includes/admin/views/html-admin-page-importer.php:264
+#: includes/admin/views/html-admin-page-installer-preview.php:50
+#: includes/admin/views/html-admin-page-installer-uploads.php:56
+#: includes/admin/views/html-admin-page-installer.php:143
+#: includes/admin/views/html-admin-page-installer.php:280
+#: includes/admin/views/html-admin-page-installer.php:326
+msgid "Preview"
+msgstr "預覽"
+
+#: includes/admin/views/html-admin-page-importer.php:62
+#: includes/admin/views/html-admin-page-importer.php:64
+#: includes/admin/views/html-admin-page-importer.php:71
+#: includes/admin/views/html-admin-page-importer.php:116
+#: includes/admin/views/html-admin-page-importer.php:118
+#: includes/admin/views/html-admin-page-importer.php:125
+#: includes/admin/views/html-admin-page-importer.php:261
+#: includes/admin/views/html-admin-page-installer-uploads.php:45
+#: includes/admin/views/html-admin-page-installer-uploads.php:47
+#: includes/admin/views/html-admin-page-installer-uploads.php:54
+#: includes/admin/views/html-admin-page-installer.php:132
+#: includes/admin/views/html-admin-page-installer.php:134
+#: includes/admin/views/html-admin-page-installer.php:141
+#: includes/admin/views/html-admin-page-installer.php:277
+msgid "Import"
+msgstr "匯入"
+
+#: includes/admin/views/html-admin-page-importer.php:82
+#: includes/admin/views/html-admin-page-installer.php:97
+#: includes/class-demo-importer.php:229
+msgid "No demos found. Try a different search."
+msgstr "找不到示範內容。請嘗試不同的關鍵字。"
+
+#: includes/admin/views/html-admin-page-importer.php:133
+#: includes/admin/views/html-admin-page-installer.php:149
+msgctxt "demo"
+msgid "Imported"
+msgstr "已匯入"
+
+#: includes/admin/views/html-admin-page-importer.php:141
+#: includes/admin/views/html-admin-page-installer.php:157
+msgid "Show previous demo"
+msgstr "顯示前一項示範內容"
+
+#: includes/admin/views/html-admin-page-importer.php:142
+#: includes/admin/views/html-admin-page-installer.php:158
+msgid "Show next demo"
+msgstr "顯示下一項示範內容"
+
+#: includes/admin/views/html-admin-page-importer.php:143
+#: includes/admin/views/html-admin-page-installer.php:159
+msgid "Close details dialog"
+msgstr "關閉詳情對話框"
+
+#: includes/admin/views/html-admin-page-importer.php:156
+#: includes/admin/views/html-admin-page-installer.php:172
+msgid "Imported Demo"
+msgstr "已匯入的示範內容"
+
+#: includes/admin/views/html-admin-page-importer.php:158
+#: includes/admin/views/html-admin-page-installer.php:174
+msgid "Version: %s"
+msgstr "版本: %s"
+
+#: includes/admin/views/html-admin-page-importer.php:166
+#: includes/admin/views/html-admin-page-installer.php:182
+msgid "Required Plugin must be activated to import this demo."
+msgstr "請啟用必要的外掛以便匯入這項示範內容。"
+
+#: includes/admin/views/html-admin-page-importer.php:172
+#: includes/admin/views/html-admin-page-installer.php:188
+msgid "Plugins Information"
+msgstr "外掛資訊"
+
+#: includes/admin/views/html-admin-page-importer.php:183
+#: includes/admin/views/html-admin-page-installer.php:199
+msgid "Plugin Name"
+msgstr "外掛名稱"
+
+#: includes/admin/views/html-admin-page-importer.php:184
+#: includes/admin/views/html-admin-page-installer.php:200
+msgid "Type"
+msgstr "類型"
+
+#: includes/admin/views/html-admin-page-importer.php:185
+#: includes/admin/views/html-admin-page-installer.php:201
+msgid "Status"
+msgstr "狀態"
+
+#: includes/admin/views/html-admin-page-importer.php:209
+#: includes/admin/views/html-admin-page-installer.php:225
+msgid "Required"
+msgstr "必要"
+
+#: includes/admin/views/html-admin-page-importer.php:211
+#: includes/admin/views/html-admin-page-installer.php:227
+msgid "Recommended"
+msgstr "推薦"
+
+#: includes/admin/views/html-admin-page-importer.php:220
+#: includes/admin/views/html-admin-page-installer.php:39
+#: includes/admin/views/html-admin-page-installer.php:236
+msgid "Install Now"
+msgstr "立即安裝"
+
+#: includes/admin/views/html-admin-page-importer.php:227
+#: includes/admin/views/html-admin-page-installer.php:243
+msgid "No plugins are needed to import this demo."
+msgstr "不需外掛便能匯入這項示範內容。"
+
+#: includes/admin/views/html-admin-page-importer.php:243
+#: includes/admin/views/html-admin-page-installer.php:259
+msgid "Tags:"
+msgstr "標籤:"
+
+#: includes/admin/views/html-admin-page-importer.php:268
+#: includes/admin/views/html-admin-page-installer.php:284
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/admin/views/html-admin-page-installer-preview.php:23
+#: includes/admin/views/html-admin-page-installer.php:299
+msgid "Demo Preview"
+msgstr "預覽示範內容"
+
+#. translators: %s: Demo name
+#: includes/admin/views/html-admin-page-installer-preview.php:40
+#: includes/admin/views/html-admin-page-installer.php:316
+msgctxt "demo"
+msgid "Download %s"
+msgstr "下載 %s"
+
+#: includes/admin/views/html-admin-page-installer-preview.php:42
+#: includes/admin/views/html-admin-page-installer.php:318
+msgid "Download"
+msgstr "下載"
+
+#: includes/admin/views/html-admin-page-installer-preview.php:55
+msgctxt "theme"
+msgid "Installed"
+msgstr "已安裝"
+
+#: includes/admin/views/html-admin-page-installer.php:14
+msgid "Welcome"
+msgstr "歡迎使用"
+
+#: includes/admin/views/html-admin-page-installer.php:15
+msgid "Installed Demos"
+msgstr "已安裝的示範內容"
+
+#: includes/admin/views/html-admin-page-installer.php:16
+msgid "Theme Demos"
+msgstr "佈景主題示範內容"
+
+#: includes/admin/views/html-admin-page-installer.php:24
+msgid "Upload Demo"
+msgstr "上傳示範內容"
+
+#: includes/admin/views/html-admin-page-installer.php:34
+msgid "If you have a demo pack in a .zip format, you may install it by uploading it here."
+msgstr "如果你有個 .zip 格式的示範內容檔案，你可在這裡透過上傳檔案的方式進行安裝。"
+
+#: includes/admin/views/html-admin-page-installer.php:37
+msgid "Demo zip file"
+msgstr "示範內容 ZIP 檔案"
+
+#: includes/admin/views/html-admin-page-installer.php:43
+msgid "Filter demos list"
+msgstr "篩選示範內容列表"
+
+#: includes/admin/views/html-admin-page-installer.php:67
+msgid "Welcome to ThemeGrill Demo Importer!"
+msgstr "歡迎使用 ThemeGrill Demo Importer！"
+
+#: includes/admin/views/html-admin-page-installer.php:68
+msgid "Get Started"
+msgstr "開始使用"
+
+#: includes/admin/views/html-admin-page-installer.php:72
+msgid "1. Visit <a href=\"%s\" target=\"_blank\"><strong>this page</strong></a> and download the theme demo zip file."
+msgstr "1. 造訪 [<a href=\"%s\" target=\"_blank\"><strong>佈景主題示範內容</strong></a>] 頁面，並下載佈景主題示範內容 ZIP 壓縮檔。"
+
+#: includes/admin/views/html-admin-page-installer.php:73
+msgid "2. Click on the <strong>Upload Demo</strong> button on the top of this page."
+msgstr "2. 按一下本頁上方的 <strong>[上傳示範內容]</strong> 按鈕。"
+
+#: includes/admin/views/html-admin-page-installer.php:75
+msgid "4. Go to <strong>Installed Demos</strong> tab."
+msgstr "4. 前往 <strong>[已安裝的示範內容]</strong> 標籤頁。"
+
+#: includes/admin/views/html-admin-page-installer.php:76
+msgid "5. Click on the <strong>Import</strong> button and wait for few minutes. Done!"
+msgstr "5. 按一下 <strong>[匯入]</strong> 按鈕並稍待片刻。大功告成！"
+
+#: includes/admin/views/html-admin-page-installer.php:90
+msgid "Available demos list"
+msgstr "可用示範內容列表"
+
+#: includes/admin/views/html-admin-page-installer.php:331
+msgctxt "demo"
+msgid "Installed"
+msgstr "已安裝"
+
+#: includes/class-demo-importer.php:161
+msgctxt "Admin menu name"
+msgid "Demo Importer"
+msgstr "示範內容匯入程式"
+
+#: includes/class-demo-importer.php:196
+msgid "Importing..."
+msgstr "示範內容匯入中..."
+
+#: includes/class-demo-importer.php:197
+msgctxt "demo"
+msgid "Importing %s..."
+msgstr "%s 的示範內容匯入中..."
+
+#: includes/class-demo-importer.php:198
+msgid "Importing... please wait."
+msgstr "示範內容匯入中，請稍候！"
+
+#: includes/class-demo-importer.php:199
+msgid "Import completed successfully."
+msgstr "成功匯入示範內容。"
+
+#: includes/class-demo-importer.php:200
+msgid "Import Failed!"
+msgstr "示範內容匯入失敗！。"
+
+#: includes/class-demo-importer.php:201
+msgid "Import failed: %s"
+msgstr "%s 的示範內容匯入失敗！"
+
+#: includes/class-demo-importer.php:202
+msgctxt "demo"
+msgid "%s imported!"
+msgstr "已匯入 %s 的示範內容！"
+
+#: includes/class-demo-importer.php:203
+msgctxt "demo"
+msgid "%s import failed"
+msgstr "%s 匯入失敗！"
+
+#: includes/class-demo-importer.php:205
+msgctxt "demo"
+msgid "Live Preview %s"
+msgstr "即時預覽 %s"
+
+#: includes/class-demo-importer.php:206
+msgid "Imported!"
+msgstr "已匯入！"
+
+#: includes/class-demo-importer.php:207
+msgid "Try this solution!"
+msgstr "請嘗試這項解決方案！"
+
+#: includes/class-demo-importer.php:218
+msgid ""
+"Are you sure you want to delete this demo?\n"
+"\n"
+"Click 'Cancel' to go back, 'OK' to confirm the delete."
+msgstr ""
+"確定要刪除這項示範內容嗎？\n"
+"\n"
+"按一下 [取消] 以返回，按一下 [確定] 以進行刪除。"
+
+#: includes/class-demo-importer.php:219
+msgid "Importing demo content will replicate the live demo and overwrites your current customizer, widgets and other settings. It might take few minutes to complete the demo import. Are you sure you want to import this demo?"
+msgstr "匯入示範內容會取代即時示範內容，並覆寫目前外觀自訂器、小工具的設定及其他相關設定。匯入示範內容的過程可能需要幾分鐘的時間。確定要匯入這項示範內容嗎？"
+
+#: includes/class-demo-importer.php:225
+msgid "Add New Demo"
+msgstr "新增示範內容"
+
+#: includes/class-demo-importer.php:226
+msgid "Search Demos"
+msgstr "搜尋示範內容"
+
+#: includes/class-demo-importer.php:227
+msgid "Search demos..."
+msgstr "搜尋示範內容..."
+
+#: includes/class-demo-importer.php:228
+msgid "Number of Demos found: %d"
+msgstr "找到的示範內容數量: %d"
+
+#. #-#-#-#-#  themegrill-demo-importer-code.pot (ThemeGrill Demo Importer
+#. 1.4.3)  #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/class-demo-importer.php:482
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: includes/class-demo-importer.php:589
+msgid "Sorry, you are not allowed to install demo on this site."
+msgstr "抱歉，你沒有安裝示範內容的權限。"
+
+#: includes/class-demo-importer.php:596
+msgid "Installing Demo from uploaded file: %s"
+msgstr "正在安裝上傳的示範內容: %s"
+
+#: includes/class-demo-importer.php:623
+#: includes/functions-demo-importer.php:108
+msgid "No demo specified."
+msgstr "未指定示範內容。"
+
+#: includes/class-demo-importer.php:639
+msgid "Sorry, you are not allowed to import."
+msgstr "抱歉，你沒有匯入示範內容的權限。"
+
+#: includes/class-demo-importer.php:716
+msgid "The XML file dummy content is missing."
+msgstr "遺失 XML 檔案中的示範內容。"
+
+#: includes/class-demo-importer.php:779
+msgid "The DAT file customizer data is missing."
+msgstr "遺失 DAT 檔案中的外觀自訂器內容。"
+
+#: includes/class-demo-importer.php:803
+msgid "The WIE file widget content is missing."
+msgstr "遺失 WIE 檔案中的小工具內容。"
+
+#: includes/functions-demo-importer.php:119
+msgid "Sorry, you are not allowed to delete demo on this site."
+msgstr "抱歉，你沒有刪除示範內容的權限。"
+
+#: includes/functions-demo-importer.php:132
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "無法連接至檔案系統。請確認你的連線憑證。"
+
+#: includes/functions-demo-importer.php:148
+msgid "Demo could not be deleted."
+msgstr "無法刪除佈景主題示範內容。"
+
+#: includes/functions-demo-importer.php:205
+msgid "Could not access filesystem."
+msgstr "無法存取檔案系統。"
+
+#: includes/functions-demo-importer.php:209
+msgid "Filesystem error."
+msgstr "檔案系統錯誤。"
+
+#: includes/functions-demo-importer.php:215
+msgid "Unable to locate ThemeGrill demo pack directory."
+msgstr "找不到 ThemeGrill 示範內容檔案的目錄。"
+
+#: includes/functions-demo-importer.php:223
+msgid "Could not fully remove the demo %s."
+msgstr "無法完全移除示範內容 %s。"
+
+#: includes/importers/class-customizer-importer.php:42
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "外觀自訂器的匯入檔格式不正確。請使用格式正確的外觀自訂器匯入檔。"
+
+#: includes/importers/class-customizer-importer.php:46
+msgid "The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "外觀自訂器的匯入檔不適用於目前的佈景主題。你只能為同一個佈景主題或其子佈景主題匯入外觀自訂器設定。"
+
+#: includes/importers/class-widget-importer.php:39
+msgid "Widget import data could not be read. Please try a different file."
+msgstr "無法讀取匯入的小工具資料。請改用其他不同檔案。"
+
+#: includes/importers/class-widget-importer.php:76
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "佈景主題中不包含側欄，這會將匯入的小工具移至 [未啟用的小工具]。"
+
+#: includes/importers/class-widget-importer.php:98
+msgid "Site does not support widget"
+msgstr "網站不支援小工具"
+
+#: includes/importers/class-widget-importer.php:133
+msgid "Widget already exists"
+msgstr "小工具已存在"
+
+#: includes/importers/class-widget-importer.php:192
+msgid "Imported"
+msgstr "已匯入"
+
+#: includes/importers/class-widget-importer.php:195
+msgid "Imported to Inactive"
+msgstr "已匯入至 [未啟用的小工具]"
+
+#: includes/importers/class-widget-importer.php:201
+msgid "No Title"
+msgstr "無標題"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:126
+#: includes/importers/wordpress-importer/class-wxr-importer.php:135
+#: includes/importers/wordpress-importer/class-wxr-importer.php:186
+#: includes/importers/wordpress-importer/class-wxr-importer.php:190
+#: includes/importers/wordpress-importer/class-wxr-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr "抱歉，有錯誤發生。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr "檔案不存在，請再試一次。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "All done."
+msgstr "全部完成。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "Have fun!"
+msgstr "使用愉快！"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "請記得為匯入的帳號變更密碼及角色。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:191
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "在 <code>%s</code> 找不到匯出檔，這可能是由權限問題所造成。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:207
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "目前版本的匯入程式不支援這個 %s 版的 WXR 檔案，請考慮更新匯入程式以進行匯入。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:232
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "無法匯入作者「%s」，相關文章會指派給目前進行匯入的帳號。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:258
+msgid "Assign Authors"
+msgstr "指派作者"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:259
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "為確保編輯及儲存匯入的內容更加簡單，你可以將匯入的項目重新指派給網站上的既有帳號。舉例來說，你可以匯入所有項目後都指派給<code>管理員</code>。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:261
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "如果透過 WordPress 建立新帳號，會為該帳號隨機產生一組密碼，並將新帳號的角色設定為 [%s]。手動變更新帳號的詳細資料為之後的必要操作。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:271
+msgid "Import Attachments"
+msgstr "匯入附件"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:274
+msgid "Download and import file attachments"
+msgstr "下載並匯入檔案附件"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:278
+msgid "Submit"
+msgstr "送出"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:291
+msgid "Import author:"
+msgstr "匯入作者:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:302
+msgid "or create new user with login name:"
+msgstr "或以新的登入名稱建立新帳號:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:305
+msgid "as a new user:"
+msgstr "成為新帳號:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr "指派文章給既有帳號:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr "或指派文章給既有帳號:"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:316
+msgid "- Select -"
+msgstr "- 選取 -"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:366
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "無法為「%s」建立新帳號，相關文章會指派給目前進行匯入的帳號。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:418
+msgid "Failed to import category %s"
+msgstr "無法匯入分類「%s」"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:461
+msgid "Failed to import post tag %s"
+msgstr "無法匯入文章標籤「%s」"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:510
+#: includes/importers/wordpress-importer/class-wxr-importer.php:732
+msgid "Failed to import %s %s"
+msgstr "無法匯入%s「%s」"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:599
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "無法匯入「%s」: 不正確的「%s」文章類型"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:636
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s「%s」已存在。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:698
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "無法匯入%s「%s」"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:863
+msgid "Menu item skipped due to missing menu slug"
+msgstr "由於缺漏了選單代稱，選單項目不予匯入"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:870
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "由於不正確的選單代稱 %s，選單項目不予匯入"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:938
+msgid "Fetching attachments is not enabled"
+msgstr "[擷取附件] 未啟用"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:952
+msgid "Invalid file type"
+msgstr "不正確的檔案型態"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1030
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "遠端伺服器傳回的錯誤回應為 %1$d %2$s (網址為 %3$s)"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1043
+msgid "Remote file is incorrect size"
+msgstr "遠端檔案的大小錯誤"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1048
+msgid "Zero size file downloaded"
+msgstr "大小為零的檔案已完成下載"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1054
+msgid "Remote file is too large, limit is %s"
+msgstr "遠端檔案過大，限制為 %s"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1147
+msgid "Import WordPress"
+msgstr "匯入 WordPress 內容"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1154
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "這個匯入程式已有新版本可供更新，請更新至 %s 版以確保與較新版匯出檔格式的相容性。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1169
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "你好，請上傳 WordPress eXtended RSS 格式檔案 (WXR 格式，副檔名為 .xml)，匯入程式會將文章、頁面、迴響、自訂欄位、分類以及標籤匯入這個網站中。"
+
+#: includes/importers/wordpress-importer/class-wxr-importer.php:1170
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "選擇要匯入的 WXR 檔案 (副檔名為 .xml)，然後按一下 [上傳檔案並匯入]。"
+
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:44
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:74
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr "讀取 WXR 檔案時發生錯誤"
+
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "詳細資訊如上所示。匯入程式將以不同的剖析器再次嘗試匯入..."
+
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:86
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:91
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:308
+#: includes/importers/wordpress-importer/class-wxr-parsers.php:497
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "由於遺失或無效的版本號碼，系統判定這不是 WXR 格式的檔案。"
+
+#: themegrill-demo-importer.php:257
+msgid "View Demo Importer"
+msgstr "檢視示範功能匯入程式"
+
+#: themegrill-demo-importer.php:274
+msgid "View Demo Importer Documentation"
+msgstr "檢視示範內容匯入程式線上說明"
+
+#: themegrill-demo-importer.php:274
+msgid "Docs"
+msgstr "線上說明"
+
+#: themegrill-demo-importer.php:275
+msgid "Visit Free Customer Support Forum"
+msgstr "造訪免費版使用者技術支援論壇"
+
+#: themegrill-demo-importer.php:275
+msgid "Free Support"
+msgstr "免費技術支援"
+
+#. #-#-#-#-#  themegrill-demo-importer-code.pot (ThemeGrill Demo Importer
+#. 1.4.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: themegrill-demo-importer.php:289
+msgid "ThemeGrill Demo Importer"
+msgstr "ThemeGrill Demo Importer"
+
+#: themegrill-demo-importer.php:289
+msgid "This plugin requires %s by ThemeGrill to work."
+msgstr "這個外掛必須配合 ThemeGrill 開發的%s才能正確執行。"
+
+#: themegrill-demo-importer.php:289
+msgid "Official Theme"
+msgstr "官方佈景主題"
+
+#. Plugin URI of the plugin/theme
+msgid "https://themegrill.com/demo-importer/"
+msgstr "https://themegrill.com/demo-importer/"
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Description of the plugin/theme
+msgid "Import your demo content, widgets and theme settings with one click for ThemeGrill official themes."
+msgstr "為 ThemeGrill 官方佈景主題一鍵匯入示範內容、小工具及佈景主題設定。"
